@@ -1,0 +1,38 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Maven template
+choco/target/
+choco/pom.xml.tag
+choco/pom.xml.releaseBackup
+choco/pom.xml.versionsBackup
+choco/pom.xml.next
+choco/release.properties
+choco/dependency-reduced-pom.xml
+choco/buildNumber.properties
+choco/.mvn/timing.properties
+
+# Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
+!/.mvn/wrapper/maven-wrapper.jar
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
