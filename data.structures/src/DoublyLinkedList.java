@@ -214,14 +214,18 @@ public class DoublyLinkedList implements Iterable<Inode> {
     }
 
     public String toString() {
-        StringBuilder sb = new StringBuilder("DoublyLinkedList(");
+        if(SIZE > 0) {
+            StringBuilder sb = new StringBuilder("DoublyLinkedList(");
 
-        for(Inode item : this)
-            sb.append(item + ", ");
+            for (Inode item : this)
+                sb.append(item + ", ");
 
-        sb.delete(sb.length()-2, sb.length());
-        sb.append(")");
+            sb.delete(sb.length() - 2, sb.length());
+            sb.append(")");
 
-        return sb.toString();
+            return sb.toString();
+        } else {
+            return "DoublyLinkedList()";
+        }
     }
 }

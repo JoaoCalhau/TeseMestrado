@@ -130,7 +130,7 @@ public class HashTable {
         int hash1 = (int) hash1(key);
         int hash2 = hash2(key);
 
-        while((table[hash1] != null || table[hash1].equals("Removed")) && !table[hash1].equals(key)) {
+        while(table[hash1] != null && !table[hash1].equals(key)) {
             hash1 += hash2;
             hash1 %= SIZE;
         }

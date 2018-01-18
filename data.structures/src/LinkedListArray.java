@@ -3,8 +3,8 @@ public class LinkedListArray {
     private DoublyLinkedList[] table;
     private int SIZE = 7;
     private enum types {
-        ARCHIVE(1,"Archive"), DATA(2,"Data"), DISK(3,"Disk"), EXEC(4,"Exec"),
-        IMAGES(5,"Images"), TEXT(6,"Text"), UNKNOWN(7,"Unknown");
+        ARCHIVE(0,"Archive"), DATA(1,"Data"), DISK(2,"Disk"), EXEC(3,"Exec"),
+        IMAGES(4,"Images"), TEXT(5,"Text"), UNKNOWN(6,"Unknown");
 
         private int value;
         private String type;
@@ -63,33 +63,55 @@ public class LinkedListArray {
         switch(item.getType()) {
             case "Archive":
             {
-
+                table[types.ARCHIVE.getValue()].addLast(item);
+                break;
             }
             case "Data":
             {
-
+                table[types.DATA.getValue()].addLast(item);
+                break;
             }
             case "Disk":
             {
-
+                table[types.DISK.getValue()].addLast(item);
+                break;
             }
-            case "Exec":
+            case "Executable":
             {
-
+                table[types.EXEC.getValue()].addLast(item);
+                break;
             }
             case "Images":
             {
-
+                table[types.IMAGES.getValue()].addLast(item);
+                break;
             }
             case "Text":
             {
-
+                table[types.TEXT.getValue()].addLast(item);
+                break;
             }
             case "Unknown":
             {
-
+                table[types.UNKNOWN.getValue()].addLast(item);
+                break;
             }
         }
+    }
+
+    public String toString() {
+        StringBuilder sb = new StringBuilder("Types(");
+
+        for(int i = 0; i < SIZE; i++) {
+            String s = table[i].toString();
+            sb.append(s + ",\n");
+        }
+
+        sb.delete(sb.length()-2, sb.length());
+
+        sb.append(")");
+
+        return sb.toString();
     }
 
 }
