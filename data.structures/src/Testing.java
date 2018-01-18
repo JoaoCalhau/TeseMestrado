@@ -1,7 +1,9 @@
 public class Testing {
     public static void main(String[] args) {
 
-        HashTable ht = new HashTable(100);
+        HashTable ht = new HashTable(2);
+
+        System.out.println(ht.isEmpty());
 
         Inode inode1 = new Inode("700", "/c/aqui", "text");
         Inode inode2 = new Inode("800", "/c/ali", "archive");
@@ -12,6 +14,8 @@ public class Testing {
         ht.put(inode2);
         ht.put(inode3);
         ht.put(inode4);
+
+        System.out.println(ht.isEmpty());
 
         System.out.println();
         System.out.println(ht.toString());

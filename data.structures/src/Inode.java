@@ -1,8 +1,14 @@
+/*
+ *
+ * This class represents a possible simple
+ * representation of an Inode
+ *
+ */
 public class Inode {
 
-    String id;
-    String path;
-    String type;
+    private String id;
+    private String path;
+    private String type;
 
     public Inode() {
         this.id = null;

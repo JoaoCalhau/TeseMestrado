@@ -1,5 +1,10 @@
 import java.math.BigInteger;
 
+/*
+ *
+ * Implementation of a Double Hashing HashTable
+ *
+ */
 public class HashTable {
 
     private Inode[] table;
@@ -183,6 +188,11 @@ public class HashTable {
         return temp;
     }
 
+    /*
+     *
+     * Simple implementation of a Re-Hash
+     *
+     */
     private void rehash() {
         HashTable newHashTable = new HashTable(this.SIZE * 2);
 
@@ -196,6 +206,11 @@ public class HashTable {
         this.table = newHashTable.getTable();
     }
 
+    /*
+     *
+     * Simple toString for easier viewing while testing the class
+     *
+     */
     public String toString() {
         StringBuilder sb = new StringBuilder();
 
