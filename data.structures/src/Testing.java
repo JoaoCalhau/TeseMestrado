@@ -1,7 +1,12 @@
+import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
+
 public class Testing {
     public static void main(String[] args) {
 
-        HashTable ht = new HashTable(2);
+        System.out.println("HASHTABLE TESTS");
+        System.out.println();
+
+        HashTable ht = new HashTable(100);
 
         System.out.println(ht.isEmpty());
 
@@ -31,5 +36,25 @@ public class Testing {
 
         System.out.println();
         System.out.println(ht.toString());
+
+        System.out.println();
+        System.out.println("DOUBLY LINKED LIST TESTS");
+        System.out.println();
+
+        DoublyLinkedList dll = new DoublyLinkedList();
+
+        dll.addLast(inode1);
+        dll.addLast(inode2);
+        dll.addFirst(inode3);
+        dll.addFirst(inode4);
+
+        System.out.println(dll.toString());
+
+        System.out.println(dll.elementAt(2).toString());
+
+        dll.deleteFirst();
+        dll.deleteLast();
+
+        System.out.println(dll.toString());
     }
 }

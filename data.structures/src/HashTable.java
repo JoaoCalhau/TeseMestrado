@@ -18,9 +18,9 @@ public class HashTable {
      *
      */
     public HashTable() {
-        this.SIZE = 101;
-        this.OCCUPIED = 0;
-        this.table = new Inode[this.SIZE];
+        SIZE = 101;
+        OCCUPIED = 0;
+        table = new Inode[SIZE];
     }
 
     /*
@@ -31,8 +31,8 @@ public class HashTable {
      */
     public HashTable(int SIZE) {
         this.SIZE = (int) nextPrime(SIZE);
-        this.OCCUPIED = 0;
-        this.table = new Inode[this.SIZE];
+        OCCUPIED = 0;
+        table = new Inode[this.SIZE];
     }
 
     /*
@@ -41,27 +41,27 @@ public class HashTable {
      *
      */
     public Inode[] getTable() {
-        return this.table;
+        return table;
     }
 
     public void setTable(Inode[] newtable) {
-        this.table = newtable;
+        table = newtable;
     }
 
     public int getSIZE() {
-        return this.SIZE;
+        return SIZE;
     }
 
     public void setSIZE(int newSIZE) {
-        this.SIZE = newSIZE;
+        SIZE = newSIZE;
     }
 
     public int getOCCUPIED() {
-        return this.OCCUPIED;
+        return OCCUPIED;
     }
 
     public void setOCCUPIED(int newOCCUPIED) {
-        this.OCCUPIED = newOCCUPIED;
+        OCCUPIED = newOCCUPIED;
     }
 
     public boolean isEmpty() {
@@ -118,7 +118,7 @@ public class HashTable {
      *
      */
     private double loadFactor() {
-        return (double) this.OCCUPIED / this.SIZE;
+        return (double) OCCUPIED / SIZE;
     }
 
     /*
@@ -130,12 +130,12 @@ public class HashTable {
         int hash1 = (int) hash1(key);
         int hash2 = hash2(key);
 
-        while((this.table[hash1] != null || this.table[hash1].getId().equals("Removed")) && !this.table[hash1].getId().equals(key)) {
+        while((table[hash1] != null || table[hash1].equals("Removed")) && !table[hash1].equals(key)) {
             hash1 += hash2;
-            hash1 %= this.SIZE;
+            hash1 %= SIZE;
         }
 
-        return this.table[hash1];
+        return table[hash1];
 
     }
 
@@ -154,13 +154,13 @@ public class HashTable {
         int hash1 = (int) hash1(key);
         int hash2 = hash2(key);
 
-        while(this.table[hash1] != null && !this.table[hash1].getId().equals("Removed")) {
+        while(table[hash1] != null && !table[hash1].equals("Removed")) {
             hash1 += hash2;
-            hash1 %= this.SIZE;
+            hash1 %= SIZE;
         }
 
-        this.table[hash1] = inode;
-        this.OCCUPIED++;
+        table[hash1] = inode;
+        OCCUPIED++;
     }
 
 
@@ -173,18 +173,19 @@ public class HashTable {
         int hash1 = (int) hash1(key);
         int hash2 = hash2(key);
 
-        while((this.table[hash1] != null || !this.table[hash1].getId().equals("Removed")) && !this.table[hash1].getId().equals(key)) {
+        while((table[hash1] != null || !table[hash1].equals("Removed")) && !table[hash1].equals(key)) {
             hash1 += hash2;
-            hash1 %= this.SIZE;
+            hash1 %= SIZE;
         }
 
-        Inode temp = this.table[hash1];
+        Inode temp = table[hash1];
 
-        if(this.table[hash1] != null) {
-            this.table[hash1].setId("Removed");
+        if(table[hash1] != null) {
+            Inode item = new Inode("Removed");
+            table[hash1] = item;
         }
 
-        this.OCCUPIED--;
+        OCCUPIED--;
         return temp;
     }
 
@@ -194,16 +195,16 @@ public class HashTable {
      *
      */
     private void rehash() {
-        HashTable newHashTable = new HashTable(this.SIZE * 2);
+        HashTable newHashTable = new HashTable(SIZE * 2);
 
-        for(int i = 0; i < this.SIZE; i++) {
-            if(this.table[i] != null)
-                newHashTable.put(this.table[i]);
+        for(int i = 0; i < SIZE; i++) {
+            if(table[i] != null)
+                newHashTable.put(table[i]);
         }
 
-        this.SIZE = newHashTable.getSIZE();
-        this.OCCUPIED = newHashTable.getOCCUPIED();
-        this.table = newHashTable.getTable();
+        SIZE = newHashTable.getSIZE();
+        OCCUPIED = newHashTable.getOCCUPIED();
+        table = newHashTable.getTable();
     }
 
     /*
@@ -212,12 +213,11 @@ public class HashTable {
      *
      */
     public String toString() {
-        StringBuilder sb = new StringBuilder();
+        StringBuilder sb = new StringBuilder("HashTable(");
 
-        sb.append("HashTable(");
-        for(int i = 0; i < this.SIZE; i++) {
-            if(this.table[i] != null) {
-                sb.append(this.table[i].toString());
+        for(int i = 0; i < SIZE; i++) {
+            if(table[i] != null) {
+                sb.append(table[i].toString());
                 sb.append(", ");
             }
         }

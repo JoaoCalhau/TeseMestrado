@@ -11,21 +11,21 @@ public class Inode {
     private String type;
 
     public Inode() {
-        this.id = null;
-        this.path = null;
-        this.type = null;
+        id = null;
+        path = null;
+        type = null;
     }
 
     public Inode(String id) {
         this.id = id;
-        this.path = null;
-        this.type = null;
+        path = null;
+        type = null;
     }
 
     public Inode(String id, String path) {
         this.id = id;
         this.path = path;
-        this.type = null;
+        type = null;
     }
 
     public Inode(String id, String path, String type) {
@@ -35,7 +35,7 @@ public class Inode {
     }
 
     public String getId() {
-        return this.id;
+        return id;
     }
 
     public void setId(String id) {
@@ -43,7 +43,7 @@ public class Inode {
     }
 
     public String getPath() {
-        return this.path;
+        return path;
     }
 
     public void setPath(String path) {
@@ -51,11 +51,15 @@ public class Inode {
     }
 
     public String getType() {
-        return this.type;
+        return type;
     }
 
     public void setType(String type) {
         this.type = type;
+    }
+
+    public boolean equals(String id) {
+        return this.id.equals(id);
     }
 
     public String toString() {
