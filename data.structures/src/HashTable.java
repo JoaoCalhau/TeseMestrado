@@ -65,7 +65,7 @@ public class HashTable {
     }
 
     public boolean isEmpty() {
-        return OCCUPIED==0;
+        return OCCUPIED == 0;
     }
 
     /*
@@ -88,14 +88,12 @@ public class HashTable {
     private long hash1(String str)
     {
         long hash = 5381;
-        int c;
 
-        for(int i = 0; i < str.length(); i++) {
-            c = str.indexOf(i);
-            hash = ((hash << 5) + hash) + c; /* hash * 33 + c */
-        }
+        for(int i = 0; i < str.length(); i++)
+            hash = ((hash << 5) + hash) + str.charAt(i); /* hash * 33 + c */
 
-        return hash %= SIZE;
+
+        return hash % SIZE;
     }
 
     /*
@@ -105,11 +103,9 @@ public class HashTable {
      */
 
     private int hash2(String str) {
-        int hash = 0;
+        int hash = str.hashCode();
 
-        hash = str.hashCode();
-
-        return hash %= SIZE;
+        return hash % SIZE;
     }
 
     /*

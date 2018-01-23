@@ -8,11 +8,13 @@ public class DoublyLinkedList implements Iterable<Inode> {
     private int SIZE;
     private DoubleNode head;
     private DoubleNode tail;
+    private String path;
 
     public DoublyLinkedList() {
         SIZE = 0;
         head = null;
         tail = null;
+        path = null;
     }
 
     public boolean isEmpty() {
@@ -41,6 +43,14 @@ public class DoublyLinkedList implements Iterable<Inode> {
 
     public void setTail(DoubleNode tail) {
         this.tail = tail;
+    }
+
+    public String getPath() {
+        return path;
+    }
+
+    public void setPath(String path) {
+        this.path = path;
     }
 
     public void addFirst(Inode item) {
