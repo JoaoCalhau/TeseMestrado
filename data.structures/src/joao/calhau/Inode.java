@@ -1,3 +1,5 @@
+package joao.calhau;
+
 /*
  *
  * This class represents a possible simple

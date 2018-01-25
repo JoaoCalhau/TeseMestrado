@@ -1,6 +1,10 @@
-public class LinkedListArray {
+package joao.calhau;
 
-    private DoublyLinkedList[] table;
+import java.util.LinkedList;
+
+public class TypesStructure {
+
+    private LinkedList<Inode>[] table;
     private int SIZE = 7;
     private enum types {
         ARCHIVE(0,"Archive"), DATA(1,"Data"), DISK(2,"Disk"), EXEC(3,"Exec"),
@@ -23,39 +27,38 @@ public class LinkedListArray {
         }
     }
 
-    public LinkedListArray() {
-        table = new DoublyLinkedList[SIZE];
+    public TypesStructure() {
+        table = new LinkedList[SIZE];
 
-        for(int i = 0; i < SIZE; i++) {
-            table[i] = new DoublyLinkedList();
-        }
+        for(int i = 0; i < table.length; i++)
+            table[i] = new LinkedList<>();
     }
 
-    public DoublyLinkedList getArchives() {
+    public LinkedList<Inode> getArchives() {
         return table[types.ARCHIVE.getValue()];
     }
 
-    public DoublyLinkedList getData() {
+    public LinkedList<Inode> getData() {
         return table[types.DATA.getValue()];
     }
 
-    public DoublyLinkedList getDisk() {
+    public LinkedList<Inode> getDisk() {
         return table[types.DISK.getValue()];
     }
 
-    public DoublyLinkedList getExec() {
+    public LinkedList<Inode> getExec() {
         return table[types.EXEC.getValue()];
     }
 
-    public DoublyLinkedList getImages() {
+    public LinkedList<Inode> getImages() {
         return table[types.IMAGES.getValue()];
     }
 
-    public DoublyLinkedList getText() {
+    public LinkedList<Inode> getText() {
         return table[types.TEXT.getValue()];
     }
 
-    public DoublyLinkedList getUnkown() {
+    public LinkedList<Inode> getUnkown() {
         return table[types.UNKNOWN.getValue()];
     }
 
@@ -76,7 +79,7 @@ public class LinkedListArray {
                 table[types.DISK.getValue()].addLast(item);
                 break;
             }
-            case "Executable":
+            case "Exec":
             {
                 table[types.EXEC.getValue()].addLast(item);
                 break;
@@ -100,16 +103,18 @@ public class LinkedListArray {
     }
 
     public String toString() {
-        StringBuilder sb = new StringBuilder("Types(");
+        StringBuilder sb = new StringBuilder("{");
 
         for(int i = 0; i < SIZE; i++) {
-            String s = table[i].toString();
-            sb.append(s + ",\n");
+            if(!table[i].isEmpty()) {
+                String s = table[i].toString();
+                sb.append(s + ", ");
+            }
         }
 
         sb.delete(sb.length()-2, sb.length());
 
-        sb.append(")");
+        sb.append("}");
 
         return sb.toString();
     }

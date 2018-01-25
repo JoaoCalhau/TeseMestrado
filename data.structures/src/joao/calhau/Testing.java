@@ -1,0 +1,41 @@
+package joao.calhau;
+
+public class Testing {
+    public static void main(String[] args) {
+
+        Inode i1 = new Inode("1000", "c/aqui/", "Archive");
+        Inode i2 = new Inode("2000", "c/ali/", "Text");
+        Inode i3 = new Inode("3000", "c/aqui/", "Image");
+        Inode i4 = new Inode("4000", "c/ali/", "Exec");
+
+        InodeStructure is = new InodeStructure();
+
+        is.put(i1);
+        is.put(i2);
+        is.put(i3);
+        is.put(i4);
+
+        System.out.println("Inode Structure Print:");
+        System.out.println(is.toString() + "\n");
+
+        TypesStructure ts = new TypesStructure();
+
+        ts.insert(i1);
+        ts.insert(i2);
+        ts.insert(i3);
+        ts.insert(i4);
+
+        System.out.println("Types Structure Print:");
+        System.out.println(ts.toString() + "\n");
+
+        PathStructure ps = new PathStructure();
+
+        ps.put(i1);
+        ps.put(i2);
+        ps.put(i3);
+        ps.put(i4);
+
+        System.out.println("Path Structure Print:");
+        System.out.println(ps.toString() + "\n");
+    }
+}
