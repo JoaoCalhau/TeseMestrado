@@ -1,0 +1,444 @@
+idle_master/CSteamworks.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 40-128-3
+
+idle_master/HtmlAgilityPack.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 42-128-3
+
+idle_master/IdleMaster.exe:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 43-128-3
+
+idle_master/IdleMaster.exe.config
+  XML 1.0 document, ASCII text, with CRLF, LF line terminators
+  Image: pen_4_dd.dd  Inode: 44-128-3
+
+idle_master/IdleMaster.exe.config:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 44-128-4
+
+idle_master/idle_master.zip:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 45-128-3
+
+idle_master/Languages/cs/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 56-128-3
+
+idle_master/Languages/de/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 60-128-3
+
+idle_master/Languages/el/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 63-128-3
+
+idle_master/Languages/es/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 619-128-3
+
+idle_master/Languages/fi/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 622-128-3
+
+idle_master/Languages/fr/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 625-128-3
+
+idle_master/Languages/hu/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 627-128-3
+
+idle_master/Languages/it/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 629-128-3
+
+idle_master/Languages/ja/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 631-128-3
+
+idle_master/Languages/ko/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 633-128-3
+
+idle_master/Languages/nl/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 635-128-3
+
+idle_master/Languages/no/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 637-128-3
+
+idle_master/Languages/pl/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 639-128-3
+
+idle_master/Languages/pt/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 641-128-3
+
+idle_master/Languages/pt-BR/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 643-128-3
+
+idle_master/Languages/ro/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 645-128-3
+
+idle_master/Languages/ru/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 648-128-3
+
+idle_master/Languages/sv/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 650-128-3
+
+idle_master/Languages/th/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 653-128-3
+
+idle_master/Languages/tr/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 692-128-3
+
+idle_master/Languages/uk/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 711-128-3
+
+idle_master/Languages/zh/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 713-128-3
+
+idle_master/Languages/zh-TW/IdleMaster.resources.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 715-128-3
+
+idle_master/Newtonsoft.Json.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 46-128-3
+
+idle_master/steam-idle.exe:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 47-128-3
+
+idle_master/Steamworks.NET.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 50-128-3
+
+idle_master/steam_api.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 51-128-3
+
+LVOC/LVOC/d3dcompiler_47.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 59-128-3
+
+LVOC/LVOC/icudtl.dat:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 62-128-3
+
+LVOC/LVOC/libEGL.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 621-128-3
+
+LVOC/LVOC/libGLESv2.dll:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 624-128-3
+
+LVOC/LVOC/locales/hr.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 676-128-3
+
+LVOC/LVOC/locales/am.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 656-128-3
+
+LVOC/LVOC/locales/ar.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 657-128-3
+
+LVOC/LVOC/locales/bg.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 658-128-3
+
+LVOC/LVOC/locales/bn.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 659-128-3
+
+LVOC/LVOC/locales/ca.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 660-128-3
+
+LVOC/LVOC/locales/cs.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 661-128-3
+
+LVOC/LVOC/locales/da.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 662-128-3
+
+LVOC/LVOC/locales/de.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 663-128-3
+
+LVOC/LVOC/locales/el.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 664-128-3
+
+LVOC/LVOC/locales/en-GB.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 665-128-3
+
+LVOC/LVOC/locales/en-US.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 666-128-3
+
+LVOC/LVOC/locales/es-419.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 667-128-3
+
+LVOC/LVOC/locales/es.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 668-128-3
+
+LVOC/LVOC/locales/et.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 669-128-3
+
+LVOC/LVOC/locales/fa.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 670-128-3
+
+LVOC/LVOC/locales/fi.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 671-128-3
+
+LVOC/LVOC/locales/fil.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 672-128-3
+
+LVOC/LVOC/locales/fr.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 673-128-3
+
+LVOC/LVOC/locales/gu.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 674-128-3
+
+LVOC/LVOC/locales/hi.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 675-128-3
+
+LVOC/LVOC/locales/hu.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 677-128-3
+
+LVOC/LVOC/locales/id.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 678-128-3
+
+LVOC/LVOC/locales/it.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 679-128-3
+
+LVOC/LVOC/locales/iw.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 680-128-3
+
+LVOC/LVOC/locales/ja.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 681-128-3
+
+LVOC/LVOC/locales/kn.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 682-128-3
+
+LVOC/LVOC/locales/ko.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 683-128-3
+
+LVOC/LVOC/locales/lt.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 684-128-3
+
+LVOC/LVOC/locales/lv.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 685-128-3
+
+LVOC/LVOC/locales/ml.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 686-128-3
+
+LVOC/LVOC/locales/mr.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 687-128-3
+
+LVOC/LVOC/locales/ms.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 688-128-3
+
+LVOC/LVOC/locales/nl.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 689-128-3
+
+LVOC/LVOC/locales/no.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 690-128-3
+
+LVOC/LVOC/locales/pl.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 691-128-3
+
+LVOC/LVOC/locales/pt-BR.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 693-128-3
+
+LVOC/LVOC/locales/pt-PT.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 694-128-3
+
+LVOC/LVOC/locales/ro.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 696-128-3
+
+LVOC/LVOC/locales/ru.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 697-128-3
+
+LVOC/LVOC/locales/sk.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 698-128-3
+
+LVOC/LVOC/locales/sl.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 699-128-3
+
+LVOC/LVOC/locales/sr.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 700-128-3
+
+LVOC/LVOC/locales/sv.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 701-128-3
+
+LVOC/LVOC/locales/sw.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 702-128-3
+
+LVOC/LVOC/locales/ta.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 703-128-3
+
+LVOC/LVOC/locales/te.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 704-128-3
+
+LVOC/LVOC/locales/th.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 705-128-3
+
+LVOC/LVOC/locales/tr.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 706-128-3
+
+LVOC/LVOC/locales/uk.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 707-128-3
+
+LVOC/LVOC/locales/vi.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 708-128-3
+
+LVOC/LVOC/locales/zh-CN.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 709-128-3
+
+LVOC/LVOC/locales/zh-TW.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 710-128-3
+
+LVOC/LVOC/LVOC.exe:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 647-128-3
+
+LVOC/LVOC/nw.pak:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 652-128-3
+
+LVOC/LVOC.zip:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 49-128-3
+
+ubi 30/Exclusive Collection of E3 2016 Cards.zip:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 717-128-3
+
+ubi 30/Exclusive Digital Posters from E3 2016.zip:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 718-128-3
+
+ubi 30/For Honor GIFs.zip:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 719-128-3
+
+ubi 30/Ghost Recon Wildlands GIFs.zip:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 720-128-3
+
+ubi 30/Holiday Wallpaper.zip:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 721-128-3
+
+ubi 30/Just Dance Greeting Card.zip:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 722-128-3
+
+ubi 30/Rabbids Holiday Goodies.zip:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 723-128-3
+
+ubi 30/Rayman GIF.zip:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 724-128-3
+
+ubi 30/Ubi30 360 Image.zip:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 725-128-3
+
+ubi 30/Ubi30 Exclusive GIF.zip:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 726-128-3
+
+ubi 30/Ubisoft Cocktail Recipes.zip:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 727-128-3
+
+ubi 30/Ubisoft Dessert Recipes.zip:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 728-128-3
+
+ubi 30/Ubisoft DIY Advent Calendar.zip:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 729-128-3
+
+ubi 30/Ubisoft Gift Tags.zip:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 730-128-3
+
+ubi 30/Ubisoft Wrapping Paper.zip:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 731-128-3
+
+ubi 30/Wallpaper for Mobile.zip:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 732-128-3
+
+ubi 30/Watch_Dogs 2 Wallpaper.zip:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 733-128-3
+
+ubi 30/Werewolves Within Wallpaper.zip:Zone.Identifier
+  ASCII text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 734-128-3
+

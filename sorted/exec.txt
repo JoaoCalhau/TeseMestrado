@@ -1,0 +1,136 @@
+idle_master/CSteamworks.dll
+  PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+  Image: pen_4_dd.dd  Inode: 40-128-1
+
+idle_master/HtmlAgilityPack.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 42-128-1
+
+idle_master/IdleMaster.exe
+  PE32 executable (GUI) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 43-128-1
+
+idle_master/Languages/cs/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 56-128-1
+
+idle_master/Languages/de/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 60-128-1
+
+idle_master/Languages/el/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 63-128-1
+
+idle_master/Languages/es/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 619-128-1
+
+idle_master/Languages/fi/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 622-128-1
+
+idle_master/Languages/fr/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 625-128-1
+
+idle_master/Languages/hu/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 627-128-1
+
+idle_master/Languages/it/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 629-128-1
+
+idle_master/Languages/ja/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 631-128-1
+
+idle_master/Languages/ko/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 633-128-1
+
+idle_master/Languages/nl/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 635-128-1
+
+idle_master/Languages/no/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 637-128-1
+
+idle_master/Languages/pl/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 639-128-1
+
+idle_master/Languages/pt/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 641-128-1
+
+idle_master/Languages/pt-BR/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 643-128-1
+
+idle_master/Languages/ro/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 645-128-1
+
+idle_master/Languages/ru/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 648-128-1
+
+idle_master/Languages/sv/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 650-128-1
+
+idle_master/Languages/th/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 653-128-1
+
+idle_master/Languages/tr/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 692-128-1
+
+idle_master/Languages/uk/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 711-128-1
+
+idle_master/Languages/zh/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 713-128-1
+
+idle_master/Languages/zh-TW/IdleMaster.resources.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 715-128-1
+
+idle_master/Newtonsoft.Json.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 46-128-1
+
+idle_master/steam-idle.exe
+  PE32 executable (GUI) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 47-128-1
+
+idle_master/Steamworks.NET.dll
+  PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+  Image: pen_4_dd.dd  Inode: 50-128-1
+
+idle_master/steam_api.dll
+  PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+  Image: pen_4_dd.dd  Inode: 51-128-1
+
+LVOC/LVOC/d3dcompiler_47.dll
+  PE32 executable (DLL) (console) Intel 80386, for MS Windows
+  Image: pen_4_dd.dd  Inode: 59-128-1
+
+LVOC/LVOC/libEGL.dll
+  PE32 executable (DLL) (console) Intel 80386, for MS Windows
+  Image: pen_4_dd.dd  Inode: 621-128-1
+
+LVOC/LVOC/libGLESv2.dll
+  PE32 executable (DLL) (console) Intel 80386, for MS Windows
+  Image: pen_4_dd.dd  Inode: 624-128-1
+
+LVOC/LVOC/LVOC.exe
+  PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed
+  Image: pen_4_dd.dd  Inode: 647-128-1
+

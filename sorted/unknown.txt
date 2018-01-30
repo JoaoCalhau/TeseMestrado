@@ -1,0 +1,32 @@
+$BadClus
+  no read permission
+  Image: pen_4_dd.dd  Inode: 8-128-2
+
+$BadClus:$Bad
+  no read permission
+  Image: pen_4_dd.dd  Inode: 8-128-1
+
+$Extend/$Quota:$Q
+  GLS_BINARY_LSB_FIRST
+  Image: pen_4_dd.dd  Inode: 24-144-2
+
+$Extend/$RmMetadata/$Repair
+  no read permission
+  Image: pen_4_dd.dd  Inode: 28-128-4
+
+$Secure:$SII
+  GLS_BINARY_LSB_FIRST
+  Image: pen_4_dd.dd  Inode: 9-144-14
+
+$Volume
+  no read permission
+  Image: pen_4_dd.dd  Inode: 3-128-3
+
+idle_master/error.log
+  UTF-8 Unicode (with BOM) text, with CRLF line terminators
+  Image: pen_4_dd.dd  Inode: 41-128-1
+
+LVOC/LVOC/icudtl.dat
+  lif file
+  Image: pen_4_dd.dd  Inode: 62-128-1
+

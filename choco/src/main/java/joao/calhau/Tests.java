@@ -1,8 +1,7 @@
 package joao.calhau;
 
-public class Testing {
+public class Tests {
     public static void main(String[] args) {
-
         Inode i1 = new Inode("1000", "c/aqui/", "Archive");
         Inode i2 = new Inode("2000", "c/ali/", "Text");
         Inode i3 = new Inode("3000", "c/aqui/", "Image");
@@ -37,5 +36,17 @@ public class Testing {
 
         System.out.println("Path Structure Print:");
         System.out.println(ps.toString() + "\n");
+
+
+        System.out.println("Parser Structures Print:");
+        Parser parser = new Parser();
+
+        parser.parse();
+
+        System.out.println("Inodes: " + parser.is.toString());
+        System.out.println("Paths: " + parser.ps.toString());
+        System.out.println("Types: " + parser.ts.toString());
     }
+
+
 }

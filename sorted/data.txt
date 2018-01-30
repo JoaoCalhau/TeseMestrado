@@ -1,0 +1,296 @@
+$AttrDef
+  data
+  Image: pen_4_dd.dd  Inode: 4-128-5
+
+$Bitmap
+  data
+  Image: pen_4_dd.dd  Inode: 6-128-4
+
+$Extend/$ObjId:$O
+  data
+  Image: pen_4_dd.dd  Inode: 25-144-2
+
+$Extend/$Quota:$O
+  data
+  Image: pen_4_dd.dd  Inode: 24-144-3
+
+$Extend/$Reparse:$R
+  data
+  Image: pen_4_dd.dd  Inode: 26-144-2
+
+$Extend/$RmMetadata/$Repair:$Config
+  data
+  Image: pen_4_dd.dd  Inode: 28-128-2
+
+$Extend/$RmMetadata/$TxfLog/$Tops
+  data
+  Image: pen_4_dd.dd  Inode: 32-128-2
+
+$Extend/$RmMetadata/$TxfLog/$Tops:$T
+  data
+  Image: pen_4_dd.dd  Inode: 32-128-4
+
+$Extend/$RmMetadata/$TxfLog/$TxfLog.blf
+  data
+  Image: pen_4_dd.dd  Inode: 33-128-1
+
+$Extend/$RmMetadata/$TxfLog/$TxfLogContainer00000000000000000001
+  data
+  Image: pen_4_dd.dd  Inode: 34-128-1
+
+$Extend/$RmMetadata/$TxfLog/$TxfLogContainer00000000000000000002
+  data
+  Image: pen_4_dd.dd  Inode: 35-128-1
+
+$LogFile
+  data
+  Image: pen_4_dd.dd  Inode: 2-128-1
+
+$MFT
+  data
+  Image: pen_4_dd.dd  Inode: 0-128-6
+
+$MFTMirr
+  data
+  Image: pen_4_dd.dd  Inode: 1-128-1
+
+$Secure:$SDS
+  data
+  Image: pen_4_dd.dd  Inode: 9-128-8
+
+$Secure:$SDH
+  data
+  Image: pen_4_dd.dd  Inode: 9-144-11
+
+$UpCase:$Info
+  data
+  Image: pen_4_dd.dd  Inode: 10-128-4
+
+LVOC/LVOC/locales/hr.pak
+  data
+  Image: pen_4_dd.dd  Inode: 676-128-1
+
+LVOC/LVOC/locales/am.pak
+  data
+  Image: pen_4_dd.dd  Inode: 656-128-1
+
+LVOC/LVOC/locales/ar.pak
+  data
+  Image: pen_4_dd.dd  Inode: 657-128-1
+
+LVOC/LVOC/locales/bg.pak
+  data
+  Image: pen_4_dd.dd  Inode: 658-128-1
+
+LVOC/LVOC/locales/bn.pak
+  data
+  Image: pen_4_dd.dd  Inode: 659-128-1
+
+LVOC/LVOC/locales/ca.pak
+  data
+  Image: pen_4_dd.dd  Inode: 660-128-1
+
+LVOC/LVOC/locales/cs.pak
+  data
+  Image: pen_4_dd.dd  Inode: 661-128-1
+
+LVOC/LVOC/locales/da.pak
+  data
+  Image: pen_4_dd.dd  Inode: 662-128-1
+
+LVOC/LVOC/locales/de.pak
+  data
+  Image: pen_4_dd.dd  Inode: 663-128-1
+
+LVOC/LVOC/locales/el.pak
+  data
+  Image: pen_4_dd.dd  Inode: 664-128-1
+
+LVOC/LVOC/locales/en-GB.pak
+  data
+  Image: pen_4_dd.dd  Inode: 665-128-1
+
+LVOC/LVOC/locales/en-US.pak
+  data
+  Image: pen_4_dd.dd  Inode: 666-128-1
+
+LVOC/LVOC/locales/es-419.pak
+  data
+  Image: pen_4_dd.dd  Inode: 667-128-1
+
+LVOC/LVOC/locales/es.pak
+  data
+  Image: pen_4_dd.dd  Inode: 668-128-1
+
+LVOC/LVOC/locales/et.pak
+  data
+  Image: pen_4_dd.dd  Inode: 669-128-1
+
+LVOC/LVOC/locales/fa.pak
+  data
+  Image: pen_4_dd.dd  Inode: 670-128-1
+
+LVOC/LVOC/locales/fi.pak
+  data
+  Image: pen_4_dd.dd  Inode: 671-128-1
+
+LVOC/LVOC/locales/fil.pak
+  data
+  Image: pen_4_dd.dd  Inode: 672-128-1
+
+LVOC/LVOC/locales/fr.pak
+  data
+  Image: pen_4_dd.dd  Inode: 673-128-1
+
+LVOC/LVOC/locales/gu.pak
+  data
+  Image: pen_4_dd.dd  Inode: 674-128-1
+
+LVOC/LVOC/locales/hi.pak
+  data
+  Image: pen_4_dd.dd  Inode: 675-128-1
+
+LVOC/LVOC/locales/hr.pak
+  data
+  Image: pen_4_dd.dd  Inode: 0
+
+LVOC/LVOC/locales/hu.pak
+  data
+  Image: pen_4_dd.dd  Inode: 677-128-1
+
+LVOC/LVOC/locales/id.pak
+  data
+  Image: pen_4_dd.dd  Inode: 678-128-1
+
+LVOC/LVOC/locales/it.pak
+  data
+  Image: pen_4_dd.dd  Inode: 679-128-1
+
+LVOC/LVOC/locales/iw.pak
+  data
+  Image: pen_4_dd.dd  Inode: 680-128-1
+
+LVOC/LVOC/locales/ja.pak
+  data
+  Image: pen_4_dd.dd  Inode: 681-128-1
+
+LVOC/LVOC/locales/kn.pak
+  data
+  Image: pen_4_dd.dd  Inode: 682-128-1
+
+LVOC/LVOC/locales/ko.pak
+  data
+  Image: pen_4_dd.dd  Inode: 683-128-1
+
+LVOC/LVOC/locales/lt.pak
+  data
+  Image: pen_4_dd.dd  Inode: 684-128-1
+
+LVOC/LVOC/locales/lv.pak
+  data
+  Image: pen_4_dd.dd  Inode: 685-128-1
+
+LVOC/LVOC/locales/ml.pak
+  data
+  Image: pen_4_dd.dd  Inode: 686-128-1
+
+LVOC/LVOC/locales/mr.pak
+  data
+  Image: pen_4_dd.dd  Inode: 687-128-1
+
+LVOC/LVOC/locales/ms.pak
+  data
+  Image: pen_4_dd.dd  Inode: 688-128-1
+
+LVOC/LVOC/locales/nl.pak
+  data
+  Image: pen_4_dd.dd  Inode: 689-128-1
+
+LVOC/LVOC/locales/no.pak
+  data
+  Image: pen_4_dd.dd  Inode: 690-128-1
+
+LVOC/LVOC/locales/pl.pak
+  data
+  Image: pen_4_dd.dd  Inode: 691-128-1
+
+LVOC/LVOC/locales/pt-BR.pak
+  data
+  Image: pen_4_dd.dd  Inode: 693-128-1
+
+LVOC/LVOC/locales/pt-PT.pak
+  data
+  Image: pen_4_dd.dd  Inode: 694-128-1
+
+LVOC/LVOC/locales/ro.pak
+  data
+  Image: pen_4_dd.dd  Inode: 696-128-1
+
+LVOC/LVOC/locales/ru.pak
+  data
+  Image: pen_4_dd.dd  Inode: 697-128-1
+
+LVOC/LVOC/locales/sk.pak
+  data
+  Image: pen_4_dd.dd  Inode: 698-128-1
+
+LVOC/LVOC/locales/sl.pak
+  data
+  Image: pen_4_dd.dd  Inode: 699-128-1
+
+LVOC/LVOC/locales/sr.pak
+  data
+  Image: pen_4_dd.dd  Inode: 700-128-1
+
+LVOC/LVOC/locales/sv.pak
+  data
+  Image: pen_4_dd.dd  Inode: 701-128-1
+
+LVOC/LVOC/locales/sw.pak
+  data
+  Image: pen_4_dd.dd  Inode: 702-128-1
+
+LVOC/LVOC/locales/ta.pak
+  data
+  Image: pen_4_dd.dd  Inode: 703-128-1
+
+LVOC/LVOC/locales/te.pak
+  data
+  Image: pen_4_dd.dd  Inode: 704-128-1
+
+LVOC/LVOC/locales/th.pak
+  data
+  Image: pen_4_dd.dd  Inode: 705-128-1
+
+LVOC/LVOC/locales/tr.pak
+  data
+  Image: pen_4_dd.dd  Inode: 706-128-1
+
+LVOC/LVOC/locales/uk.pak
+  data
+  Image: pen_4_dd.dd  Inode: 707-128-1
+
+LVOC/LVOC/locales/vi.pak
+  data
+  Image: pen_4_dd.dd  Inode: 708-128-1
+
+LVOC/LVOC/locales/zh-CN.pak
+  data
+  Image: pen_4_dd.dd  Inode: 709-128-1
+
+LVOC/LVOC/locales/zh-TW.pak
+  data
+  Image: pen_4_dd.dd  Inode: 710-128-1
+
+LVOC/LVOC/nw.pak
+  data
+  Image: pen_4_dd.dd  Inode: 652-128-1
+
+System Volume Information/IndexerVolumeGuid
+  data
+  Image: pen_4_dd.dd  Inode: 38-128-1
+
+System Volume Information/WPSettings.dat
+  data
+  Image: pen_4_dd.dd  Inode: 37-128-1
+

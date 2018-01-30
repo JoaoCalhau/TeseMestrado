@@ -1,0 +1,4 @@
+$UpCase
+  MS Windows icon resource - 2 icons, 3x256, 4 colors
+  Image: pen_4_dd.dd  Inode: 10-128-1
+

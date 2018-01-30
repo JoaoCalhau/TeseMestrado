@@ -9,6 +9,8 @@ package joao.calhau;
 public class Inode {
 
     private String id;
+    //Add a file name for easier identification (can include file format at the end)
+    //private String fileName;
     private String path;
     private String type;
 
