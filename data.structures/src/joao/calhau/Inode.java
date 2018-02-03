@@ -10,30 +10,20 @@ public class Inode {
 
     private String id;
     //Add a file name for easier identification (can include file format at the end)
-    //private String fileName;
+    private String fileName;
     private String path;
     private String type;
 
     public Inode() {
         id = null;
+        fileName = null;
         path = null;
         type = null;
     }
 
-    public Inode(String id) {
+    public Inode(String id, String fileName, String path, String type) {
         this.id = id;
-        path = null;
-        type = null;
-    }
-
-    public Inode(String id, String path) {
-        this.id = id;
-        this.path = path;
-        type = null;
-    }
-
-    public Inode(String id, String path, String type) {
-        this.id = id;
+        this.fileName = fileName;
         this.path = path;
         this.type = type;
     }
@@ -44,6 +34,14 @@ public class Inode {
 
     public void setId(String id) {
         this.id = id;
+    }
+
+    public String getFileName() {
+        return fileName;
+    }
+
+    public void setFileName(String fileName) {
+        this.fileName = fileName;
     }
 
     public String getPath() {
@@ -67,6 +65,6 @@ public class Inode {
     }
 
     public String toString() {
-        return "Inode(" + id + ", " + path + ", " + type + ")";
+        return "Inode(" + id + ", " + fileName + ", " + path + ", " + type + ")";
     }
 }

@@ -30,45 +30,57 @@ public class Parser {
     public void parse(String pathToFile, String type) {
 
         String line = "";
+        String line2 = "";
+        String line3 = "";
 
         try {
             FileReader file = new FileReader(pathToFile);
             BufferedReader br = new BufferedReader(file);
 
-            while((line = br.readLine()) != null) {
-                String[] ss = line.split("/");
-                String path = "";
-                String id = "";
+            while((line = br.readLine()) != null && (line2 = br.readLine()) != null && (line3 = br.readLine()) != null) {
+                if (!line.startsWith("$")) {
+                    System.out.println(line);
+                    System.out.println(line2);
+                    System.out.println(line3);
+                    String[] ss = line.split("/");
+                    String path = "";
+                    String id = "";
+                    String fileName = "";
 
-                if(ss.length == 1) {
-                    path = ss[0];
-                } else {
-                    for (int i = 0; i < ss.length - 1; i++) {
-                        path += ss[i] + "/";
+                    if (ss.length == 1) {
+                        path = "/";
+                        fileName = ss[0];
+                    } else {
+                        for (int i = 0; i < ss.length - 1; i++) {
+                            path += ss[i] + "/";
+                        }
+
+                        path = path.substring(0, path.length() - 1);
+
+                        fileName = ss[ss.length - 1];
                     }
 
-                    path = path.substring(0, path.length()-1);
+
+                    ss = line3.split(" ");
+                    System.out.println(ss[ss.length-1]);
+                    String[] sss = ss[ss.length - 1].split("-");
+
+                    if (sss[2].equals("1")) {
+                        id = sss[0];
+
+                        Inode inode = new Inode(id, fileName, path, type);
+
+                        is.put(inode);
+                        ps.put(inode);
+                        ts.insert(inode);
+
+                        line = br.readLine();
+                    }
                 }
-
-                line = br.readLine();
-                line = br.readLine();
-
-                ss = line.split(" ");
-                String[] sss = ss[ss.length-1].split("-");
-
-                id = sss[0];
-
-                Inode inode = new Inode(id, path, type);
-
-                is.put(inode);
-                ps.put(inode);
-                ts.insert(inode);
-
-                line = br.readLine();
             }
 
-
-
+            br.close();
+            file.close();
         } catch(FileNotFoundException fnfe) {
             System.err.println("File Not Found");
             fnfe.printStackTrace();
@@ -78,6 +90,7 @@ public class Parser {
         } catch(IndexOutOfBoundsException iobe) {
             System.err.println("Array Index Out of Bounds");
             iobe.printStackTrace();
+        } finally {
         }
     }
 }
