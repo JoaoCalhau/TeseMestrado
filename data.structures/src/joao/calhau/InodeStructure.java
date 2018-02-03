@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 public class InodeStructure {
 
-    private HashMap<String, Inode> table;
+    public HashMap<String, Inode> table;
 
     public InodeStructure() {
         table = new HashMap<>();
