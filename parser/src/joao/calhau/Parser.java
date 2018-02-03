@@ -10,11 +10,21 @@ public class Parser {
     public InodeStructure is;
     public PathStructure ps;
     public TypesStructure ts;
+    private int biggest;
 
     public Parser() {
+        biggest = 0;
         is = new InodeStructure();
         ps = new PathStructure();
         ts = new TypesStructure();
+    }
+
+    public int getBiggest() {
+        return biggest;
+    }
+
+    public void setBiggest(int biggest) {
+        this.biggest = biggest;
     }
 
     public void parse() {
@@ -38,10 +48,9 @@ public class Parser {
             BufferedReader br = new BufferedReader(file);
 
             while((line = br.readLine()) != null && (line2 = br.readLine()) != null && (line3 = br.readLine()) != null) {
-                if (!line.startsWith("$")) {
-                    System.out.println(line);
-                    System.out.println(line2);
-                    System.out.println(line3);
+                String[] check = line.split("\\$");
+
+                if (check.length == 1) {
                     String[] ss = line.split("/");
                     String path = "";
                     String id = "";
@@ -60,25 +69,31 @@ public class Parser {
                         fileName = ss[ss.length - 1];
                     }
 
-
                     ss = line3.split(" ");
-                    System.out.println(ss[ss.length-1]);
                     String[] sss = ss[ss.length - 1].split("-");
 
-                    if (sss[2].equals("1")) {
+
+                    if (sss.length < 3 || sss[2].equals("1")) {
                         id = sss[0];
 
+                        System.out.println(id);
                         Inode inode = new Inode(id, fileName, path, type);
 
                         is.put(inode);
                         ps.put(inode);
                         ts.insert(inode);
 
-                        line = br.readLine();
+                        if(Integer.parseInt(id) > biggest)
+                            biggest = Integer.parseInt(id);
+
+                        br.readLine();
+                    } else {
+                        br.readLine();
                     }
+                } else {
+                    br.readLine();
                 }
             }
-
             br.close();
             file.close();
         } catch(FileNotFoundException fnfe) {
