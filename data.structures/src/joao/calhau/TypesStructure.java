@@ -108,7 +108,7 @@ public class TypesStructure {
         for(int i = 0; i < SIZE; i++) {
             if(!table[i].isEmpty()) {
                 String s = table[i].toString();
-                sb.append(s + ", ");
+                sb.append(s + ", \n");
             }
         }
 

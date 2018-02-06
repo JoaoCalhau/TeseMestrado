@@ -9,7 +9,6 @@ package joao.calhau;
 public class Inode {
 
     private String id;
-    //Add a file name for easier identification (can include file format at the end)
     private String fileName;
     private String path;
     private String type;
@@ -60,8 +59,13 @@ public class Inode {
         this.type = type;
     }
 
-    public boolean equals(String id) {
-        return this.id.equals(id);
+    public boolean equals(Object obj) {
+        if(obj instanceof Inode) {
+            Inode toCompare = (Inode) obj;
+            return this.id.equals(toCompare.getId());
+        } else {
+            return false;
+        }
     }
 
     public String toString() {

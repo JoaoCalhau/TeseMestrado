@@ -76,7 +76,6 @@ public class Parser {
                     if (sss.length < 3 || sss[2].equals("1")) {
                         id = sss[0];
 
-                        System.out.println(id);
                         Inode inode = new Inode(id, fileName, path, type);
 
                         is.put(inode);

@@ -6,34 +6,29 @@ import org.chocosolver.solver.variables.IntVar;
 import org.chocosolver.solver.variables.SetVar;
 import org.chocosolver.util.ESat;
 
-import java.util.LinkedList;
-
-public class TypePropagator extends Propagator<SetVar> {
+public class ExistPropagator extends Propagator<IntVar> {
 
     private SetVar foundInodes;
     private IntVar possibleInode;
-    private LinkedList<Inode> ll;
+    private InodeStructure is;
     private int max;
 
-    public TypePropagator(SetVar foundInodes, IntVar possibleInode, LinkedList<Inode> ll, int max) {
-        super(foundInodes);
+    public ExistPropagator(SetVar foundInodes, IntVar possibleInode, InodeStructure is, int max) {
+        super(possibleInode);
         this.foundInodes = foundInodes;
         this.possibleInode = possibleInode;
-        this.ll = ll;
+        this.is = is;
         this.max = max;
     }
 
     @Override
     public void propagate(int evtmask) throws ContradictionException {
-        Inode i = new Inode();
-        i.setId(possibleInode.getLB() + "");
-        if(ll.contains(i)) {
-            foundInodes.force(possibleInode.getLB(), this);
-        } else {
-            foundInodes.remove(possibleInode.getLB(), this);
-        }
+        if(!is.exists(possibleInode.getLB() + ""))
+            foundInodes.remove(possibleInode.getValue(), this);
 
         possibleInode.updateLowerBound(possibleInode.getLB()+1, this);
+
+        System.out.println(foundInodes);
     }
 
     @Override

@@ -3,37 +3,43 @@ package joao.calhau;
 import org.chocosolver.solver.Model;
 import org.chocosolver.solver.constraints.Constraint;
 import org.chocosolver.solver.variables.IntVar;
+import org.chocosolver.solver.variables.SetVar;
 
-import java.util.Collection;
+import java.util.Arrays;
 
 public class Main {
 
     private Parser parser;
     private Model model;
-    private IntVar inode;
+    private SetVar foundInodes;
+    private IntVar possibleInode;
 
     public Main() {
         parser = new Parser();
         parser.parse();
         model = new Model("Main Model");
 
-        //Transform all inodes collected into a integer array to be used as IntVar by choco
-        Collection<Inode> values = parser.is.table.values();
-        Inode[] array = values.toArray(new Inode[values.size()]);
-        int[] intVarArray = new int[array.length];
-        for(int i = 0; i < intVarArray.length; i++) {
-            intVarArray[i] = Integer.parseInt(array[i].getId());
-        }
+        int[] array = new int[parser.getBiggest()+1];
+        Arrays.setAll(array, i -> i);
 
-        inode = model.intVar("Inode", intVarArray);
+        foundInodes = model.setVar("Found Inodes", new int[]{}, array);
     }
 
     public void solver() {
-        Constraint typesConstraint = new Constraint("Exists", new TypePropagator(inode));
+        int[] array = new int[parser.getBiggest()+1];
+        Arrays.setAll(array, i -> i);
 
-        model.and(typesConstraint).post();
+        possibleInode = model.intVar("Possible Inode", array);
+        Constraint existsConstraint = new Constraint("Exists", new ExistPropagator(foundInodes, possibleInode, parser.is, parser.getBiggest()));
+        possibleInode = model.intVar("Possible Inode", array);
+        Constraint typesConstraint = new Constraint("Type", new TypePropagator(foundInodes, possibleInode, parser.ts.getUnkown(), parser.getBiggest()));
+
+        model.post(existsConstraint);
+
+        model.post(typesConstraint);
 
         model.getSolver().solve();
+
     }
 
     public static void main(String[] args) {
@@ -41,6 +47,6 @@ public class Main {
 
         main.solver();
 
-        System.out.println(main.inode.toString());
+        System.out.println(main.foundInodes);
     }
 }
