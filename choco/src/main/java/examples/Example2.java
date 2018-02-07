@@ -1,6 +1,7 @@
-package joao.calhau;
+package examples;
 
 import org.chocosolver.solver.Model;
+import org.chocosolver.solver.constraints.Constraint;
 import org.chocosolver.solver.variables.IntVar;
 
 /**
@@ -13,7 +14,7 @@ import org.chocosolver.solver.variables.IntVar;
  * @author Charles Prud'homme, Jean-Guillaume Fages
  * @since 9/02/2016
  */
-public class Example {
+public class Example2 {
 
     public static void main(String[] args) {
         // 1. Create a Model
@@ -22,7 +23,7 @@ public class Example {
         IntVar x = model.intVar("X", 0, 5);                 // x in [0,5]
         IntVar y = model.intVar("Y", new int[]{2, 3, 8});   // y in {2, 3, 8}
         // 3. Post constraints
-        model.arithm(x, "+", y, "<", 5).post(); // x + y < 5
+        model.post(new Constraint("Greater Equal Than", new MySimplePropagator(x, y))); // x >= y
         model.times(x,y,4).post();              // x * y = 4
         // 4. Solve the problem
         model.getSolver().solve();

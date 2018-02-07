@@ -41,6 +41,7 @@ public class TypePropagator extends Propagator<SetVar> {
 
     @Override
     public ESat isEntailed() {
+        //Change the method to work with the SetVar instead of the IntVar
         if(possibleInode.getLB() < 0 || possibleInode.getUB() > max)
             return ESat.FALSE;
         else
