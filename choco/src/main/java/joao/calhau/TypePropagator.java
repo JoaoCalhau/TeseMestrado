@@ -25,8 +25,11 @@ public class TypePropagator extends Propagator<SetVar> {
 
     @Override
     public void propagate(int evtmask) throws ContradictionException {
+        //Utilizar ISet para fazer update ao Upper Bound da SetVar (removendo o uso da IntVar)
+
         Inode i = new Inode();
         i.setId(possibleInode.getLB() + "");
+
         if(ll.contains(i)) {
             foundInodes.force(possibleInode.getLB(), this);
         } else {

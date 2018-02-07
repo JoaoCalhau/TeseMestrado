@@ -19,6 +19,7 @@ public class Main {
         parser.parse();
         model = new Model("Main Model");
 
+        //Re-estruturar a initialização do array, para conter apenas os elementos pertencentes á estrutura dos Inodes
         int[] array = new int[parser.getBiggest()+1];
         Arrays.setAll(array, i -> i);
 
@@ -29,24 +30,21 @@ public class Main {
         int[] array = new int[parser.getBiggest()+1];
         Arrays.setAll(array, i -> i);
 
+       // possibleInode = model.intVar("Possible Inode", array);
+        //Constraint existsConstraint = new Constraint("Exists", new ExistPropagator(foundInodes, possibleInode, parser.is, parser.getBiggest()));
         possibleInode = model.intVar("Possible Inode", array);
-        Constraint existsConstraint = new Constraint("Exists", new ExistPropagator(foundInodes, possibleInode, parser.is, parser.getBiggest()));
-        possibleInode = model.intVar("Possible Inode", array);
-        Constraint typesConstraint = new Constraint("Type", new TypePropagator(foundInodes, possibleInode, parser.ts.getUnkown(), parser.getBiggest()));
+        Constraint typesConstraint = new Constraint("Type Unknown", new TypePropagator(foundInodes, possibleInode, parser.ts.getUnkown(), parser.getBiggest()));
 
-        model.post(existsConstraint);
+        //model.post(existsConstraint);
 
         model.post(typesConstraint);
 
         model.getSolver().solve();
-
     }
 
     public static void main(String[] args) {
         Main main = new Main();
 
         main.solver();
-
-        System.out.println(main.foundInodes);
     }
 }
