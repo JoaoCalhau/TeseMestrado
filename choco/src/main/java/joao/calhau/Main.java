@@ -2,7 +2,6 @@ package joao.calhau;
 
 import org.chocosolver.solver.Model;
 import org.chocosolver.solver.constraints.Constraint;
-import org.chocosolver.solver.variables.IntVar;
 import org.chocosolver.solver.variables.SetVar;
 
 import java.util.Arrays;
@@ -12,34 +11,30 @@ public class Main {
     private Parser parser;
     private Model model;
     private SetVar foundInodes;
-    private IntVar possibleInode;
 
     public Main() {
         parser = new Parser();
         parser.parse();
         model = new Model("Main Model");
 
-        //Re-estruturar a initialização do array, para conter apenas os elementos pertencentes á estrutura dos Inodes
-        int[] array = new int[parser.getBiggest()+1];
-        Arrays.setAll(array, i -> i);
+        Object[] inodeKeys = parser.is.table.keySet().toArray();
+        int array[] = new int[inodeKeys.length];
+        Arrays.setAll(array, i -> Integer.parseInt(inodeKeys[i].toString()));
 
         foundInodes = model.setVar("Found Inodes", new int[]{}, array);
     }
 
     public void solver() {
-        int[] array = new int[parser.getBiggest()+1];
-        Arrays.setAll(array, i -> i);
-
-       // possibleInode = model.intVar("Possible Inode", array);
-        //Constraint existsConstraint = new Constraint("Exists", new ExistPropagator(foundInodes, possibleInode, parser.is, parser.getBiggest()));
-        possibleInode = model.intVar("Possible Inode", array);
-        Constraint typesConstraint = new Constraint("Type Unknown", new TypePropagator(foundInodes, possibleInode, parser.ts.getUnkown(), parser.getBiggest()));
-
-        //model.post(existsConstraint);
+        Constraint typesConstraint = new Constraint("Type Unknown", new TypePropagator(foundInodes, parser.ts.getExec()));
+        Constraint pathConstraint = new Constraint("Path LVOC/LVOC", new PathPropagator(foundInodes, parser.ps,"idle_master"));
 
         model.post(typesConstraint);
+        model.post(pathConstraint);
 
-        model.getSolver().solve();
+        if(model.getSolver().solve())
+            System.out.println("Solution Found: " + foundInodes.toString().substring(15, foundInodes.toString().length()));
+        else
+            System.out.println("No Solution Found.");
     }
 
     public static void main(String[] args) {

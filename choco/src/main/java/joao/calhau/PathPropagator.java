@@ -7,27 +7,35 @@ import org.chocosolver.util.ESat;
 
 import java.util.LinkedList;
 
-public class TypePropagator extends Propagator<SetVar> {
+public class PathPropagator extends Propagator<SetVar> {
 
     private SetVar foundInodes;
-    private LinkedList<Inode> ll;
+    private PathStructure ps;
+    private String path;
 
-    public TypePropagator(SetVar foundInodes, LinkedList<Inode> ll) {
+    public PathPropagator(SetVar foundInodes, PathStructure ps, String path) {
         super(foundInodes);
         this.foundInodes = foundInodes;
-        this.ll = ll;
+        this.ps = ps;
+        this.path = path;
     }
 
     @Override
     public void propagate(int evtmask) throws ContradictionException {
-        for(int inode : foundInodes.getUB()) {
+        LinkedList<Inode> ll = ps.get(path);
+
+        for (int inode : foundInodes.getUB()) {
             Inode i = new Inode();
             i.setId(inode + "");
 
-            if(!ll.contains(i))
+            if(ll != null) {
+                if(!ll.contains(i))
+                    foundInodes.remove(inode, this);
+            } else {
                 foundInodes.remove(inode, this);
-
+            }
         }
+
     }
 
     @Override
