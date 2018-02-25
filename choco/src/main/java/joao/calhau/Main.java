@@ -3,8 +3,10 @@ package joao.calhau;
 import org.chocosolver.solver.Model;
 import org.chocosolver.solver.constraints.Constraint;
 import org.chocosolver.solver.variables.SetVar;
+import org.apache.commons.lang3.time.StopWatch;
 
 import java.util.Arrays;
+import java.util.concurrent.TimeUnit;
 
 public class Main {
 
@@ -25,21 +27,34 @@ public class Main {
     }
 
     public void solver() {
+
+        //Constraint typesConstraint = new Constraint("Type Archive", new TypePropagator(foundInodes, parser.ts.getArchives()));
+
         Constraint typesConstraint = new Constraint("Type Unknown", new TypePropagator(foundInodes, parser.ts.getExec()));
         Constraint pathConstraint = new Constraint("Path LVOC/LVOC", new PathPropagator(foundInodes, parser.ps,"idle_master"));
 
         model.post(typesConstraint);
         model.post(pathConstraint);
 
-        if(model.getSolver().solve())
-            System.out.println("Solution Found: " + foundInodes.toString().substring(15, foundInodes.toString().length()));
-        else
+        if(model.getSolver().solve()) {
+            System.out.println("Inodes found:");
+            for(int i : foundInodes.getUB())
+                System.out.println(parser.is.get(i + ""));
+            //System.out.println("Solution Found: " + foundInodes.toString().substring(15, foundInodes.toString().length()));
+        } else
             System.out.println("No Solution Found.");
     }
 
     public static void main(String[] args) {
+
+        StopWatch stopwatch = new StopWatch();
+        stopwatch.start();
+
         Main main = new Main();
 
         main.solver();
+
+        stopwatch.stop();
+        System.out.println(stopwatch.getTime(TimeUnit.MICROSECONDS));
     }
 }
