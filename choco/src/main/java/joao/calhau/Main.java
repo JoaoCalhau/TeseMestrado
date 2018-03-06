@@ -6,7 +6,7 @@ import org.chocosolver.solver.variables.SetVar;
 import org.apache.commons.lang3.time.StopWatch;
 
 import java.util.Arrays;
-import java.util.concurrent.TimeUnit;
+import java.util.LinkedList;
 
 public class Main {
 
@@ -28,11 +28,12 @@ public class Main {
 
     public void solver() {
 
-        //Constraint typesConstraint = new Constraint("Type Archive", new TypePropagator(foundInodes, parser.ts.getArchives()));
-
-        Constraint typesConstraint = new Constraint("Type Unknown", new TypePropagator(foundInodes, parser.ts.getExec()));
+        //Constraint typeConstraint = new Constraint("Type Archive", new TypePropagator(foundInodes, parser.ts.getArchives()));
+        Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagator(foundInodes,
+                new LinkedList[]{parser.ts.getExec(), parser.ts.getUnkown(), parser.ts.getArchives()}));
         Constraint pathConstraint = new Constraint("Path LVOC/LVOC", new PathPropagator(foundInodes, parser.ps,"idle_master"));
 
+        //model.post(typeConstraint);
         model.post(typesConstraint);
         model.post(pathConstraint);
 
@@ -47,14 +48,14 @@ public class Main {
 
     public static void main(String[] args) {
 
-        StopWatch stopwatch = new StopWatch();
-        stopwatch.start();
+        StopWatch stopWatch = new StopWatch();
+        stopWatch.start();
 
         Main main = new Main();
 
         main.solver();
 
-        stopwatch.stop();
-        System.out.println(stopwatch.getTime(TimeUnit.MICROSECONDS));
+        stopWatch.stop();
+        System.out.println("Constraints took: " + stopWatch.getTime() + " milliseconds to execute.");
     }
 }

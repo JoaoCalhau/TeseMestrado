@@ -20,6 +20,13 @@ public class Inode {
         type = null;
     }
 
+    public Inode(String id) {
+        this.id = id;
+        fileName = null;
+        path = null;
+        type = null;
+    }
+
     public Inode(String id, String fileName, String path, String type) {
         this.id = id;
         this.fileName = fileName;

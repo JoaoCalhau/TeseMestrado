@@ -25,11 +25,9 @@ public class PathPropagator extends Propagator<SetVar> {
         LinkedList<Inode> ll = ps.get(path);
 
         for (int inode : foundInodes.getUB()) {
-            Inode i = new Inode();
-            i.setId(inode + "");
 
             if(ll != null) {
-                if(!ll.contains(i))
+                if(!ll.contains(new Inode(inode + "")))
                     foundInodes.remove(inode, this);
             } else {
                 foundInodes.remove(inode, this);

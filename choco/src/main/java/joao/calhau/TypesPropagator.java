@@ -7,24 +7,31 @@ import org.chocosolver.util.ESat;
 
 import java.util.LinkedList;
 
-public class TypePropagator extends Propagator<SetVar> {
+public class TypesPropagator extends Propagator<SetVar> {
 
     private SetVar foundInodes;
-    private LinkedList<Inode> ll;
+    private LinkedList<Inode>[] types;
 
-    public TypePropagator(SetVar foundInodes, LinkedList<Inode> ll) {
+    public TypesPropagator(SetVar foundInodes, LinkedList<Inode>[] types) {
         super(foundInodes);
         this.foundInodes = foundInodes;
-        this.ll = ll;
+        this.types = types;
     }
 
     @Override
     public void propagate(int evtmask) throws ContradictionException {
+        boolean flag;
         for(int inode : foundInodes.getUB()) {
 
-            if(!ll.contains(new Inode(inode + "")))
-                foundInodes.remove(inode, this);
+            flag = false;
 
+            for(int j = 0; j < types.length; j++) {
+                if(types[j].contains(new Inode(inode + "")))
+                    flag = true;
+            }
+
+            if(!flag)
+                foundInodes.remove(inode, this);
         }
     }
 
