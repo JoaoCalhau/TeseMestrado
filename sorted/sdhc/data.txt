@@ -1,0 +1,160 @@
+System Volume Information/WPSettings.dat
+  data
+  Image: sdhc.dd  Inode: 1031
+
+System Volume Information/IndexerVolumeGuid
+  data
+  Image: sdhc.dd  Inode: 1034
+
+Music/Knife Party/2012 -Antidote (feat. Swedish House Mafia)/00-swedish_house_mafia_and_knife_party-antidote__incl_tommy_trash_remix-web-2012-ukhx.nfo
+  data
+  Image: sdhc.dd  Inode: 62027804
+
+Music/Lamb of God/(2006) Sacrament/00. Lamb Of God - Sacrament.m3u
+  data
+  Image: sdhc.dd  Inode: 83587080
+
+Music/Lamb of God/(2012) Resolution/00._Lamb Of God_-_Resolution.m3u
+  data
+  Image: sdhc.dd  Inode: 91311112
+
+Music/Lamb of God/(2015) Lamb of God VII Sturm Und Drang [DE 2015] 320 CD/320/00 Lamb of God VII Sturm Und Drang [DE 2015] 320.m3u
+  data
+  Image: sdhc.dd  Inode: 99391497
+
+Music/Metallica/Metallica - Hardwired (Lyr
+  data
+  Image: sdhc.dd  Inode: 124823586
+
+Music/Metallica/Metallica Moth into flame lyrics.mp3
+  data
+  Image: sdhc.dd  Inode: 124823590
+
+Music/Monstercat/32. Various Artists - Monstercat Uncaged, Vol. 1 (Continuous Mix).mp3
+  data
+  Image: sdhc.dd  Inode: 174849219
+
+Music/Tenacious D/The Pick Of Destiny/Tenacious D - The Pick of Destiny.m3u
+  data
+  Image: sdhc.dd  Inode: 328645705
+
+Music/Tremonti/All I Was - 2012/EnjoY.gif
+  data
+  Image: sdhc.dd  Inode: 331631658
+
+.android_secure/smdl731087189.tmp.asec
+  data
+  Image: sdhc.dd  Inode: 721625095
+
+.android_secure/com.aniplex.fategrandorder.en-1.asec
+  data
+  Image: sdhc.dd  Inode: 721625099
+
+.android_secure/com.gamevil.w
+  data
+  Image: sdhc.dd  Inode: 721625101
+
+.android_secure/com.wonderplanet.CrashFever-2.asec
+  data
+  Image: sdhc.dd  Inode: 721625105
+
+.android_secure/com.square_enix.android_googleplay.FFBEWW-1.asec
+  data
+  Image: sdhc.dd  Inode: 721625110
+
+GBA/GBA/Pokemon Emerald/1986 - Pokemon Emerald (U)(TrashMan).gba
+  data
+  Image: sdhc.dd  Inode: 788136969
+
+GBA/GBA/Pokemon Emerald/1986 - Pokemon Emerald (U)(TrashMan).sav
+  data
+  Image: sdhc.dd  Inode: 788136974
+
+GBA/GBA/Pokemon FireRed/Pokemon FireRed.gba
+  data
+  Image: sdhc.dd  Inode: 788666375
+
+GBA/GBA/Pokemon FireRed/Pokemon FireRed.sav
+  data
+  Image: sdhc.dd  Inode: 788666378
+
+GBA/GBA/Pokemon Silver/0672 - Pokémon Silver (U)(Oldskool).sav
+  data
+  Image: sdhc.dd  Inode: 789195792
+
+GBA/GBA/Pokemon Lightning Yellow/Pokemon Lightning Yellow v0.12.gba
+  data
+  Image: sdhc.dd  Inode: 793461768
+
+GBA/GBA/Pokemon Lightning Yellow/Pokemon Lightning Yellow v0.12.sav
+  data
+  Image: sdhc.dd  Inode: 793461772
+
+Movies/DS1 Use What You See Randomizer Run TAKE THREE (Pt. 3).mp4
+  data
+  Image: sdhc.dd  Inode: 373144586
+
+_NDROI~1.APK
+  data
+  Image: sdhc.dd  Inode: 43
+
+$OrphanFiles/_ILES
+  data
+  Image: sdhc.dd  Inode: 911836166
+
+$OrphanFiles/_ILES
+  data
+  Image: sdhc.dd  Inode: 911838214
+
+$OrphanFiles/_ACHE
+  data
+  Image: sdhc.dd  Inode: 911838216
+
+$OrphanFiles/_ACHE
+  data
+  Image: sdhc.dd  Inode: 911841286
+
+$OrphanFiles/_ILES
+  data
+  Image: sdhc.dd  Inode: 911841288
+
+$OrphanFiles/_ILES
+  data
+  Image: sdhc.dd  Inode: 911844358
+
+$OrphanFiles/_OLDYO~1
+  data
+  Image: sdhc.dd  Inode: 920137735
+
+$OrphanFiles/_MMERS~1
+  data
+  Image: sdhc.dd  Inode: 920137737
+
+$OrphanFiles/_NSILI~1
+  data
+  Image: sdhc.dd  Inode: 920137739
+
+$OrphanFiles/_4THES~1.MP3
+  data
+  Image: sdhc.dd  Inode: 973370386
+
+$OrphanFiles/_5DISC~1.MP3
+  data
+  Image: sdhc.dd  Inode: 973370389
+
+$OrphanFiles/_6DRAC~1.MP3
+  data
+  Image: sdhc.dd  Inode: 973370392
+
+$OrphanFiles/_8MUSH~1.MP3
+  data
+  Image: sdhc.dd  Inode: 973370398
+
+$OrphanFiles/_9THEM~1.MP3
+  data
+  Image: sdhc.dd  Inode: 973370402
+
+$OrphanFiles/_OVER~1.JPE
+  data
+  Image: sdhc.dd  Inode: 973370404
+

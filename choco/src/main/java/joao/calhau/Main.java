@@ -14,27 +14,28 @@ public class Main {
     private Model model;
     private SetVar foundInodes;
 
-    public Main() {
+    public Main(String folder) {
         parser = new Parser();
-        parser.parse();
+        parser.parse(folder);
         model = new Model("Main Model");
 
         Object[] inodeKeys = parser.is.table.keySet().toArray();
         int array[] = new int[inodeKeys.length];
         Arrays.setAll(array, i -> Integer.parseInt(inodeKeys[i].toString()));
 
+
         foundInodes = model.setVar("Found Inodes", new int[]{}, array);
     }
 
     public void solver() {
 
-        //Constraint typeConstraint = new Constraint("Type Archive", new TypePropagator(foundInodes, parser.ts.getArchives()));
-        Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagator(foundInodes,
-                new LinkedList[]{parser.ts.getExec(), parser.ts.getUnkown(), parser.ts.getArchives()}));
-        Constraint pathConstraint = new Constraint("Path LVOC/LVOC", new PathPropagator(foundInodes, parser.ps,"idle_master"));
+        Constraint typeConstraint = new Constraint("Type Images", new TypePropagator(foundInodes, parser.ts.getImages()));
+        //Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagator(foundInodes,
+        //        new LinkedList[]{parser.ts.getExec(), parser.ts.getUnkown(), parser.ts.getArchives()}));
+        Constraint pathConstraint = new Constraint("Path Music/BabyMetal/Metal Resistance/", new PathPropagator(foundInodes, parser.ps,"Music/BabyMetal/Metal Resistance"));
 
-        //model.post(typeConstraint);
-        model.post(typesConstraint);
+        model.post(typeConstraint);
+        //model.post(typesConstraint);
         model.post(pathConstraint);
 
         if(model.getSolver().solve()) {
@@ -51,7 +52,7 @@ public class Main {
         StopWatch stopWatch = new StopWatch();
         stopWatch.start();
 
-        Main main = new Main();
+        Main main = new Main(args[0]);
 
         main.solver();
 

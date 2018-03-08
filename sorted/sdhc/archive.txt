@@ -1,0 +1,12 @@
+GBA/GBA/Pokemon Silver/0672 - Pokémon Silver (U)(Oldskool).ss0
+  Zip archive data, at least v2.0 to extract
+  Image: sdhc.dd  Inode: 789195796
+
+GBA/GBA/Pokemon Silver/0672 - Pokémon Silver (U)(Oldskool).ss1
+  Zip archive data, at least v2.0 to extract
+  Image: sdhc.dd  Inode: 789195800
+
+CrunchyrollAnimeAndDramaPremium.apk
+  Java archive data (JAR)
+  Image: sdhc.dd  Inode: 42
+

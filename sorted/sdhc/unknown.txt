@@ -1,0 +1,660 @@
+SDHC       
+  no read permission
+  Image: sdhc.dd  Inode: 3
+
+Music/Lamb of God/(2000) New American Gospel/00. Lamb Of God - New American Gospel.m3u
+  VISX image file
+  Image: sdhc.dd  Inode: 70379529
+
+Music/Lamb of God/(2004) Ashes Of The Wake/00. Lamb Of God - Ashes Of The Wake.m3u
+  VISX image file
+  Image: sdhc.dd  Inode: 76079112
+
+Music/Pentakill/Smite and Ignite/Pentakill - Smite and Ignite - 01 Lightbringer.mp3
+  MPEG ADTS, layer III, v1, 192 kbps, 44.1 kHz, JntStereo
+  Image: sdhc.dd  Inode: 312247305
+
+Music/Pentakill/Smite and Ignite/Pentakill - Smite and Ignite - 02 Deathfire Grasp.mp3
+  MPEG ADTS, layer III, v1, 192 kbps, 44.1 kHz, JntStereo
+  Image: sdhc.dd  Inode: 312247311
+
+Music/Pentakill/Smite and Ignite/Pentakill - Smite and Ignite - 03 Ohmwrecker.mp3
+  MPEG ADTS, layer III, v1, 192 kbps, 44.1 kHz, JntStereo
+  Image: sdhc.dd  Inode: 312247316
+
+Music/Pentakill/Smite and Ignite/Pentakill - Smite and Ignite - 04 Last Whisper.mp3
+  MPEG ADTS, layer III, v1, 192 kbps, 44.1 kHz, JntStereo
+  Image: sdhc.dd  Inode: 312247321
+
+Music/Pentakill/Smite and Ignite/Pentakill - Smite and Ignite - 05 The Hex Core.mp3
+  MPEG ADTS, layer III, v1, 192 kbps, 44.1 kHz, JntStereo
+  Image: sdhc.dd  Inode: 312247326
+
+Music/Pentakill/Smite and Ignite/Pentakill - Smite and Ignite - 06 The Prophecy.mp3
+  MPEG ADTS, layer III, v1, 192 kbps, 44.1 kHz, JntStereo
+  Image: sdhc.dd  Inode: 312247331
+
+Music/Pentakill/Smite and Ignite/Pentakill - Smite and Ignite - 07 Thornmail.mp3
+  MPEG ADTS, layer III, v1, 192 kbps, 44.1 kHz, JntStereo
+  Image: sdhc.dd  Inode: 312247336
+
+Music/Pentakill/Smite and Ignite/Pentakill - Smite and Ignite - 08 Orb Of Winter.mp3
+  MPEG ADTS, layer III, v1, 192 kbps, 44.1 kHz, JntStereo
+  Image: sdhc.dd  Inode: 312247341
+
+Music/Tenacious D/The Pick Of Destiny/Tenacious D - The Pick Of Destiny (Covers)/Tenacious D - The Pick Of Destiny (Back).bmp
+  PC bitmap, Windows 3.x format, 1770 x 1377 x 24
+  Image: sdhc.dd  Inode: 331223049
+
+Music/Tenacious D/The Pick Of Destiny/Tenacious D - The Pick Of Destiny (Covers)/Tenacious D - The Pick Of Destiny (CD).bmp
+  PC bitmap, Windows 3.x format, 968 x 992 x 24
+  Image: sdhc.dd  Inode: 331223054
+
+Music/Tenacious D/The Pick Of Destiny/Tenacious D - The Pick Of Destiny (Covers)/Tenacious D - The Pick Of Destiny (Front).bmp
+  PC bitmap, Windows 3.x format, 953 x 953 x 24
+  Image: sdhc.dd  Inode: 331223059
+
+Music/Arch Enemy/_OGARD~1.M3U
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 222104623
+
+Android/data/.nomedia
+  no read permission
+  Image: sdhc.dd  Inode: 721612806
+
+Android/data/com.google.android.music/files/artwork/.nomedia
+  no read permission
+  Image: sdhc.dd  Inode: 620183558
+
+Android/data/com.google.android.music/files/artwork/559921304_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183561
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~1.TMP
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183562
+
+Android/data/com.google.android.music/files/artwork/2606631003_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183568
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~2.TMP
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183569
+
+Android/data/com.google.android.music/files/artwork/3861155494_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183572
+
+Android/data/com.google.android.music/files/artwork/209759120_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183575
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~1.TMP
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183576
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~4.TMP
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183577
+
+Android/data/com.google.android.music/files/artwork/675322528_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183580
+
+Android/data/com.google.android.music/files/artwork/3283385178_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183583
+
+Android/data/com.google.android.music/files/artwork/19755955_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183586
+
+Android/data/com.google.android.music/files/artwork/3179588626_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183589
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~1.TMP
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183590
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~3.TMP
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183591
+
+Android/data/com.google.android.music/files/artwork/594755530_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183594
+
+Android/data/com.google.android.music/files/artwork/709396817_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183597
+
+Android/data/com.google.android.music/files/artwork/1313301023_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183600
+
+Android/data/com.google.android.music/files/artwork/465467595_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183603
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~7.TMP
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183604
+
+Android/data/com.google.android.music/files/artwork/3967350408_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183607
+
+Android/data/com.google.android.music/files/artwork/3502044297_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183610
+
+Android/data/com.google.android.music/files/artwork/3998176736_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183613
+
+Android/data/com.google.android.music/files/artwork/2450217659_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183616
+
+Android/data/com.google.android.music/files/artwork/1820077921_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183619
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~1.TMP
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183620
+
+Android/data/com.google.android.music/files/artwork/2498216925_512.webp
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183623
+
+Android/data/com.google.android.music/files/artwork/3606055146_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183626
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~1.TMP
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183627
+
+Android/data/com.google.android.music/files/artwork/2626808578_512.webp
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183630
+
+Android/data/com.google.android.music/files/artwork/1768187427_512.webp
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183633
+
+Android/data/com.google.android.music/files/artwork/3913802703_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183636
+
+Android/data/com.google.android.music/files/artwork/3560503210_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183639
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~2.TMP
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183640
+
+Android/data/com.google.android.music/files/artwork/3958286525_512.webp
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183643
+
+Android/data/com.google.android.music/files/artwork/1205437816_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183646
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~1.TMP
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183647
+
+Android/data/com.google.android.music/files/artwork/81061331_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183650
+
+Android/data/com.google.android.music/files/artwork/820499883_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183653
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~1.TMP
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183654
+
+Android/data/com.google.android.music/files/artwork/4070413042_512.webp
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183657
+
+Android/data/com.google.android.music/files/artwork/1754933684_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183660
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~1.TMP
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183661
+
+Android/data/com.google.android.music/files/artwork/1276604160_512.webp
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183664
+
+Android/data/com.google.android.music/files/artwork/1311939911_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183667
+
+Android/data/com.google.android.music/files/artwork/1274688509_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183670
+
+Android/data/com.google.android.music/files/artwork/3114122470_512.webp
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183673
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~1.TMP
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183674
+
+Android/data/com.google.android.music/files/artwork/973626373_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183677
+
+Android/data/com.google.android.music/files/artwork/2551633290_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183680
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~1.TMP
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183681
+
+Android/data/com.google.android.music/files/artwork/3935782565_512.webp
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183684
+
+Android/data/com.google.android.music/files/artwork/4081878123_512.webp
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183687
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~1.TMP
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183688
+
+Android/data/com.google.android.music/files/artwork/3082012323_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183691
+
+Android/data/com.google.android.music/files/artwork/3069619934_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183694
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~2.TMP
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183695
+
+Android/data/com.google.android.music/files/artwork/582789525_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183698
+
+Android/data/com.google.android.music/files/artwork/3469181781_512.webp
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183701
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~1.TMP
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183702
+
+Android/data/com.google.android.music/files/artwork/1572834923_512.webp
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183705
+
+Android/data/com.google.android.music/files/artwork/3750606576_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183708
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~1.TMP
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183709
+
+Android/data/com.google.android.music/files/artwork/2483161513_512.webp
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183712
+
+Android/data/com.google.android.music/files/artwork/3874836127_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183715
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~1.TMP
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183716
+
+Android/data/com.google.android.music/files/artwork/570414882_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183719
+
+Android/data/com.google.android.music/files/artwork/1107423130_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183722
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~2.TMP
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183723
+
+Android/data/com.google.android.music/files/artwork/1138483362_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183726
+
+Android/data/com.google.android.music/files/artwork/2037564761_512.webp
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183729
+
+Android/data/com.google.android.music/files/artwork/909922489_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183732
+
+Android/data/com.google.android.music/files/artwork/3184941122_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183735
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~1.TMP
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183736
+
+Android/data/com.google.android.music/files/artwork/1413145877_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183739
+
+Android/data/com.google.android.music/files/artwork/3115527963_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183742
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~1.TMP
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183743
+
+Android/data/com.google.android.music/files/artwork/2927140541_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183746
+
+Android/data/com.google.android.music/files/artwork/3371166051_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183749
+
+Android/data/com.google.android.music/files/artwork/_RT_OW~1.TMP
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183750
+
+Android/data/com.google.android.music/files/artwork/3452887153_512.webp
+  RIFF (little-endian) data, Web/P image, VP8 encoding, 512x512, Scaling: [none]x[none], YUV color, decoders should clamp
+  Image: sdhc.dd  Inode: 620183753
+
+Android/data/com.google.android.music/files/artwork/1693652170_512.webp
+  RIFF (little-endian) data, Web/P image
+  Image: sdhc.dd  Inode: 620183760
+
+Android/data/com.android.launcher3/files/header_image.jpg
+  no read permission
+  Image: sdhc.dd  Inode: 932042759
+
+Android/obb/.nomedia
+  no read permission
+  Image: sdhc.dd  Inode: 721698822
+
+GBA/GBA/Pokemon Black and White/std-pokemonblack.patched.nds
+  Nintendo DS Game ROM Image
+  Image: sdhc.dd  Inode: 733518856
+
+GBA/GBA/Pokemon Black and White/std-pokemonwhite.patched.nds
+  Nintendo DS Game ROM Image
+  Image: sdhc.dd  Inode: 733518860
+
+GBA/GBA/Pokemon Silver/0672 - Pokémon Silver (U)(Oldskool).gbc
+  Gameboy ROM: "POKEMON_SLVAAXE\",[SGB], [ROM+MBC3+TIMER+RAM+BATT], ROM: 16Mbit, RAM: 128Kbit
+  Image: sdhc.dd  Inode: 789195788
+
+GBA/GBA/Pokemon SoulSilver/4749 - Pokemon SoulSilver (U)(Freeze Patched).nds
+  Nintendo DS Game ROM Image
+  Image: sdhc.dd  Inode: 789266441
+
+GBA/GBA/Pokemon SoulSilver/Pokemon Soul Silver NTEVO.NDS
+  Nintendo DS Game ROM Image
+  Image: sdhc.dd  Inode: 789266445
+
+GBA/GBA/Super Mario Advance 2 - Super Mario World (U) [!].gba
+  Nintendo Game Boy Advance ROM Image
+  Image: sdhc.dd  Inode: 733517852
+
+GBA/GBA/Super Mario Advance 2 - Super Mario World/Super Mario Advance 2 - Super Mario World (U) [!].gba
+  Nintendo Game Boy Advance ROM Image
+  Image: sdhc.dd  Inode: 699436042
+
+Tachyiomi/.nomedia
+  no read permission
+  Image: sdhc.dd  Inode: 174865414
+
+Tachyiomi/Mangafox (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 1 - The High School Girl Who Is Like an Assassin_tmp/010.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 857716742
+
+Tachyiomi/Mangafox (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 106 - The Old Tale of the Elder_tmp/021.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 864618502
+
+Tachyiomi/Mangafox (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 121 - The Limiter!_tmp/021.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 866083846
+
+Tachyiomi/Mangafox (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 120 - Haunted Note!!_tmp/020.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 865994758
+
+Tachyiomi/Mangafox (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 122 - Escape from Death!_tmp/021.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 866139142
+
+Tachyiomi/Mangafox (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 134 - Exterminating Evil_tmp/029.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 867357702
+
+Tachyiomi/Mangafox (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 135 - Battle of the Aces!_tmp/025.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 867488774
+
+Tachyiomi/Mangafox (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 139 - Nice Dodge, Kenichi!_tmp/023.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 867892230
+
+Tachyiomi/Mangafox (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 140 - Ryozanpaku's Rhythm_tmp/005.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 867944454
+
+Tachyiomi/Mangafox (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 89 - Path of the Hermit_tmp/023.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 863449094
+
+Tachyiomi/Mangafox (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 93 - My Finishing Move is.....__tmp/018.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 863820806
+
+Tachyiomi/Mangafox (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 100 - Teacher vs. Student_tmp/022.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 864459782
+
+Tachyiomi/Mangafox (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 102 - Two for One!_tmp/002.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 864602118
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 408/023.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 878061574
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 494 - Submission Man_tmp/018.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 892194822
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 556 - Resolute determination/018.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 904334342
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 555/017.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 904135686
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 583_tmp/021.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 911555590
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/_I9BD0~2/017.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 904531974
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 557 - Outbreak of War!/017.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 904531974
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 558/021.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 904754182
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 559/019.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 904982534
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 560/018.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 905228294
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 561/018.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 905435142
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 562/019.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 905657350
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 563/019.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 905863174
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 564/020.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 906093574
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 565/020.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 906301446
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 566/017.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 906531846
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 567/017.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 906736646
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 568/018.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 906949638
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 569/016.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 907140102
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 570/021.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 907352070
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 571/019.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 907578374
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 572/018.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 907807750
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 572.002/018.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 908030982
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 573/021.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 908254214
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 573.002/021.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 908417030
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 574/022.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 908699654
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 575/023.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 908965894
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 575.002/023.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 909142022
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 576/023.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 909381638
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 576.002/023.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 909537286
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 577/018.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 909763590
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 578/021.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 910016518
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 579/019.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 910295046
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 579.002/020.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 910452742
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 580/018.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 910727174
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 581/018.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 910982150
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 582/022.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 911248390
+
+Tachyiomi/Kissmanga (EN)/History's Strongest Disciple Kenichi/History's Strongest Disciple Kenichi 583/021.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 911555590
+
+Tachyiomi/Kissmanga (EN)/Da Zhu Zai/Da Zhu Zai The Great Ruler - 067_tmp/023.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 878061574
+
+Tachyiomi/Kissmanga (EN)/Da Zhu Zai/Da Zhu Zai The Great Ruler - 067/023.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 878061574
+
+Tachyiomi/Kissmanga (EN)/Nidome no Jinsei wo Isekai de/Nidome no Jinsei wo Isekai de Ch.013.001 - It seems to be pretty hateful. #002_tmp/029.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 878314502
+
+Tachyiomi/Kissmanga (EN)/Nidome no Jinsei wo Isekai de/Nidome no Jinsei wo Isekai de Ch.013.001 - It seems to be pretty hateful. #002/029.tmp
+  no read permission
+  Image: sdhc.dd  Inode: 878314502
+
+$OrphanFiles/_1BUST~1.MP3
+  no read permission
+  Image: sdhc.dd  Inode: 973370375
+
+$OrphanFiles/_7NOTH~1.MP3
+  Sendmail frozen configuration  - version \030\375\351\312\347\002\221\306\246P\236\236\036\230\035\0358J?^\244\332N^]\032\032\367V\232\233\256.4d\223\245\253{HHm\356\022\340$\230\230\025S\306|\327\271\342A\373\227\243\377\222\325\035
+  Image: sdhc.dd  Inode: 973370395
+

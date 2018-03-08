@@ -1,0 +1,48 @@
+Music/Infected Mushroom/2009 - Legend Of The Black Shawarma/00-infected_mushroom_-_legend_of_the_black_shawarma-promo-2009-upe.m3u
+  ASCII text
+  Image: sdhc.dd  Inode: 810094603
+
+Music/Infected Mushroom/2009 - Legend Of The Black Shawarma/00-infected_mushroom_-_legend_of_the_black_shawarma-promo-2009-upe.nfo
+  ISO-8859 text
+  Image: sdhc.dd  Inode: 810094610
+
+Music/Infected Mushroom/2009 - Legend Of The Black Shawarma/00-infected_mushroom_-_legend_of_the_black_shawarma-promo-2009-upe.sfv
+  ASCII text, with CRLF line terminators
+  Image: sdhc.dd  Inode: 810094617
+
+Music/Infected Mushroom/2015 - Friends On Mushrooms (Deluxe Edition)/00. Infected Mushroom - Friends On Mushrooms (Deluxe Edition) 2015.m3u
+  M3U playlist, ASCII text, with CRLF line terminators
+  Image: sdhc.dd  Inode: 827605003
+
+Music/Knife Party/2012 - Rage Valley/00-knife_party-rage_valley_ep-web-2012.nfo
+  ASCII text, with CRLF line terminators
+  Image: sdhc.dd  Inode: 60650510
+
+Music/Knife Party/2012 - Rage Valley/00-knife_party-rage_valley_ep-web-2012.sfv
+  ASCII text, with CRLF line terminators
+  Image: sdhc.dd  Inode: 60650515
+
+Music/Knife Party/2012 -Antidote (feat. Swedish House Mafia)/00-swedish_house_mafia_and_knife_party-antidote__incl_tommy_trash_remix-web-2012-ukhx.m3u
+  ASCII text
+  Image: sdhc.dd  Inode: 62027796
+
+Music/Knife Party/2012 -Antidote (feat. Swedish House Mafia)/00-swedish_house_mafia_and_knife_party-antidote__incl_tommy_trash_remix-web-2012-ukhx.sfv
+  ASCII text, with CRLF line terminators
+  Image: sdhc.dd  Inode: 62027812
+
+Music/Pentakill/II - Grasp of the Undying/Pentakill Community Art/Pentakill Community Art.txt
+  ASCII text, with CRLF line terminators
+  Image: sdhc.dd  Inode: 177488912
+
+Android/data/com.google.android.youtube/files/sdcard
+  ASCII text, with no line terminators
+  Image: sdhc.dd  Inode: 721614856
+
+Android/data/com.google.android.music/files/._playmusicid
+  ASCII text, with no line terminators
+  Image: sdhc.dd  Inode: 721616902
+
+Android/data/com.rarlab.rar/files/.settings
+  ASCII text
+  Image: sdhc.dd  Inode: 733514758
+

@@ -1,0 +1,8 @@
+GBA/GBA/Pokemon Silver/0672 - Pokémon Silver (U)(Oldskool).cht
+  XML 1.0 document text
+  Image: sdhc.dd  Inode: 789195784
+
+cake.pdf
+  PDF document, version 1.5
+  Image: sdhc.dd  Inode: 21
+

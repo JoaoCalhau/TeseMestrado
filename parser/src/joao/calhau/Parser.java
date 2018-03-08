@@ -27,14 +27,20 @@ public class Parser {
         this.biggest = biggest;
     }
 
-    public void parse() {
-        parse("sorted/archive.txt", "Archive");
-        parse("sorted/data.txt", "Data");
-        parse("sorted/disk.txt", "Disk");
-        parse("sorted/exec.txt", "Exec");
-        parse("sorted/images.txt", "Images");
-        parse("sorted/text.txt", "Text");
-        parse("sorted/unknown.txt", "Unknown");
+    public void parse(String folder) {
+        parse("sorted/" + folder + "/archive.txt", "Archive");
+        parse("sorted/" + folder + "/audio.txt", "Audio");
+        parse("sorted/" + folder + "/compress.txt", "Compress");
+        parse("sorted/" + folder + "/crypto.txt", "Crypto");
+        parse("sorted/" + folder + "/data.txt", "Data");
+        parse("sorted/" + folder + "/disk.txt", "Disk");
+        parse("sorted/" + folder + "/documents.txt", "Documents");
+        parse("sorted/" + folder + "/exec.txt", "Exec");
+        parse("sorted/" + folder + "/images.txt", "Images");
+        parse("sorted/" + folder + "/system.txt", "System");
+        parse("sorted/" + folder + "/text.txt", "Text");
+        parse("sorted/" + folder + "/unknown.txt", "Unknown");
+        parse("sorted/" + folder + "/video.txt", "Video");
     }
 
     public void parse(String pathToFile, String type) {
@@ -97,7 +103,6 @@ public class Parser {
             file.close();
         } catch(FileNotFoundException fnfe) {
             System.err.println("File Not Found");
-            fnfe.printStackTrace();
         } catch(IOException ioe) {
             System.err.println("Failure On Read");
             ioe.printStackTrace();
