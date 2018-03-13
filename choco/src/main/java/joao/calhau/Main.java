@@ -23,7 +23,6 @@ public class Main {
         int array[] = new int[inodeKeys.length];
         Arrays.setAll(array, i -> Integer.parseInt(inodeKeys[i].toString()));
 
-
         foundInodes = model.setVar("Found Inodes", new int[]{}, array);
     }
 

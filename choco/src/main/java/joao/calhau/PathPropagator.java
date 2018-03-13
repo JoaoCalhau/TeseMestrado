@@ -1,6 +1,7 @@
 package joao.calhau;
 
 import org.chocosolver.solver.constraints.Propagator;
+import org.chocosolver.solver.constraints.PropagatorPriority;
 import org.chocosolver.solver.exception.ContradictionException;
 import org.chocosolver.solver.variables.SetVar;
 import org.chocosolver.util.ESat;
@@ -14,7 +15,7 @@ public class PathPropagator extends Propagator<SetVar> {
     private String path;
 
     public PathPropagator(SetVar foundInodes, PathStructure ps, String path) {
-        super(foundInodes);
+        super(new SetVar[]{foundInodes}, PropagatorPriority.BINARY, false);
         this.foundInodes = foundInodes;
         this.ps = ps;
         this.path = path;

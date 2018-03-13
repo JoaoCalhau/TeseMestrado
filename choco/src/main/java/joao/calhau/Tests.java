@@ -43,11 +43,13 @@ public class Tests {
         //System.out.println("Parser Structures Print:");
         Parser parser = new Parser();
 
-        parser.parse("sdhc");
+        parser.parse("pen_4");
 
-        System.out.println(parser.is.toString());
-        System.out.println(parser.ts.toString());
+        //System.out.println(parser.is.toString());
+        //System.out.println(parser.ts.toString());
         System.out.println(parser.ps.toString());
+
+        System.out.println(parser.ts.getArchives().toString());
 
         //System.out.println("Inodes: " + parser.is.toString());
         //System.out.println("Paths: " + parser.ps.toString());
