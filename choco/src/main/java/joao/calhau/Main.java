@@ -45,36 +45,6 @@ public class Main {
 
         Solver s = model.getSolver();
 
-        s.setSearch(Search.setVarSearch(
-                variables -> {
-                    SetVar var = null;
-                    for(SetVar sv : variables) {
-                        if(!sv.getUB().isEmpty())
-                            var = sv;
-                    }
-                    return var;
-                },
-                variable -> {
-                    int inode = 0;
-                    for(int i : variable.getUB()) {
-                        if(parser.ts.getImages().contains(new Inode("" + i)) && parser.ps.get("Music/BabyMetal/Metal Resistance").contains(new Inode(""+ i))) {
-                            inode = i;
-                            break;
-                        }
-                    }
-                    return inode;
-                }
-                , true, foundInodes)
-        );
-
-        s.limitSearch(() -> {
-            for(int i : foundInodes.getUB()) {
-                if(!parser.ts.getImages().contains(new Inode("" + i)) && !parser.ps.get("Music/BabyMetal/Metal Resistance").contains(new Inode(""+ i)))
-                    return false;
-            }
-            return true;
-        });
-
         if(s.solve()) {
             System.out.println("Inodes found:");
             for(int i : foundInodes.getUB())
