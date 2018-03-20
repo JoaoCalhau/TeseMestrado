@@ -14,7 +14,7 @@ public class TypesPropagator extends Propagator<SetVar> {
     private LinkedList<Inode>[] types;
 
     public TypesPropagator(SetVar foundInodes, LinkedList<Inode>[] types) {
-        super(new SetVar[]{foundInodes}, PropagatorPriority.UNARY, false);
+        super(new SetVar[]{foundInodes}, PropagatorPriority.BINARY, false);
         this.foundInodes = foundInodes;
         this.types = types;
     }
@@ -33,6 +33,8 @@ public class TypesPropagator extends Propagator<SetVar> {
 
             if(!flag)
                 foundInodes.remove(inode, this);
+            else
+                foundInodes.force(inode, this);
         }
     }
 

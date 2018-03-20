@@ -35,7 +35,7 @@ public class Main {
 
         Constraint typeConstraint = new Constraint("Type Images", new TypePropagator(foundInodes, parser.ts.getImages()));
         //Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagator(foundInodes,
-        //        new LinkedList[]{parser.ts.getExec(), parser.ts.getUnkown(), parser.ts.getArchives()}));
+        //        new LinkedList[]{parser.ts.getImages(), parser.ts.getAudio()}));
         Constraint pathConstraint = new Constraint("Path Music/BabyMetal/Metal Resistance/", new PathPropagator(foundInodes, parser.ps,"Music/BabyMetal/Metal Resistance"));
 
 
