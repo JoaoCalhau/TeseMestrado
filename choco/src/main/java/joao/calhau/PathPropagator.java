@@ -15,7 +15,7 @@ public class PathPropagator extends Propagator<SetVar> {
     private String path;
 
     public PathPropagator(SetVar foundInodes, PathStructure ps, String path) {
-        super(new SetVar[]{foundInodes}, PropagatorPriority.BINARY, false);
+        super(new SetVar[]{foundInodes}, PropagatorPriority.UNARY, false);
         this.foundInodes = foundInodes;
         this.ps = ps;
         this.path = path;

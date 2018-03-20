@@ -1,6 +1,7 @@
 package joao.calhau;
 
 import org.chocosolver.solver.constraints.Propagator;
+import org.chocosolver.solver.constraints.PropagatorPriority;
 import org.chocosolver.solver.exception.ContradictionException;
 import org.chocosolver.solver.variables.SetVar;
 import org.chocosolver.util.ESat;
@@ -13,7 +14,7 @@ public class TypePropagator extends Propagator<SetVar> {
     private LinkedList<Inode> ll;
 
     public TypePropagator(SetVar foundInodes, LinkedList<Inode> ll) {
-        super(foundInodes);
+        super(new SetVar[]{foundInodes}, PropagatorPriority.BINARY, false);
         this.foundInodes = foundInodes;
         this.ll = ll;
     }
