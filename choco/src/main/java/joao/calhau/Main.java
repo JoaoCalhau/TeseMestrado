@@ -4,12 +4,10 @@ import org.chocosolver.solver.ICause;
 import org.chocosolver.solver.Model;
 import org.chocosolver.solver.Solver;
 import org.chocosolver.solver.constraints.Constraint;
-import org.chocosolver.solver.search.strategy.Search;
-import org.chocosolver.solver.search.strategy.strategy.AbstractStrategy;
 import org.chocosolver.solver.variables.SetVar;
 import org.apache.commons.lang3.time.StopWatch;
-import org.chocosolver.util.criteria.Criterion;
 
+import java.sql.Connection;
 import java.util.Arrays;
 import java.util.LinkedList;
 
@@ -20,6 +18,7 @@ public class Main {
     private SetVar foundInodes;
 
     public Main(String folder) {
+
         parser = new Parser();
         parser.parse(folder);
         model = new Model("Main Model");
@@ -37,7 +36,7 @@ public class Main {
         //Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagator(foundInodes,
         //        new LinkedList[]{parser.ts.getImages(), parser.ts.getAudio()}));
         Constraint pathConstraint = new Constraint("Path Music/BabyMetal/Metal Resistance/", new PathPropagator(foundInodes, parser.ps,"Music/BabyMetal/Metal Resistance"));
-
+        Constraint searchConstraint = new Constraint("ubisoft", new WordSearchPropagator(foundInodes, "ubisoft", parser.is));
 
         model.post(typeConstraint);
         //model.post(typesConstraint);
