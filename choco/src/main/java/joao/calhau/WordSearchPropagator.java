@@ -21,7 +21,16 @@ public class WordSearchPropagator extends Propagator<SetVar> {
 
     @Override
     public void propagate(int evtmask) throws ContradictionException {
-        //do the word search
+        for(int i : var.getUB()) {
+            Inode inode = is.get("" + i);
+
+            if(inode.getFileName().toLowerCase().matches("(?i).* " + word.toLowerCase() + ".*"))
+                var.force(i, this);
+            else {
+                //Do the word search
+            }
+
+        }
     }
 
     @Override

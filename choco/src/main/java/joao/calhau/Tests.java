@@ -41,13 +41,13 @@ public class Tests {
 
         */
         //System.out.println("Parser Structures Print:");
-        Parser parser = new Parser();
+        //Parser parser = new Parser();
 
-        parser.parse("sdhc");
+        //parser.parse("sdhc");
 
         //System.out.println(parser.is.toString());
         //System.out.println(parser.ts.toString());
-        System.out.println(parser.ps.toString());
+        //System.out.println(parser.ps.toString());
 
         //System.out.println(parser.ts.getArchives().toString());
 
@@ -55,6 +55,13 @@ public class Tests {
         //System.out.println("Inodes: " + parser.is.toString());
         //System.out.println("Paths: " + parser.ps.toString());
         //System.out.println("Types: " + parser.ts.toString());
+
+        /* String match tests */
+        String toCheck = "I love programming";
+
+        System.out.println(toCheck.matches("(?i).*pro.*"));
+        System.out.println(toCheck.matches("(?i).*gram.*"));
+        System.out.println(toCheck.matches("(?i).*ve pro.*"));
 
     }
 

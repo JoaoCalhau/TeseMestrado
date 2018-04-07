@@ -33,8 +33,8 @@ public class TypesPropagator extends Propagator<SetVar> {
 
             if(!flag)
                 foundInodes.remove(inode, this);
-            else
-                foundInodes.force(inode, this);
+            //else
+            //    foundInodes.force(inode, this);
         }
     }
 
