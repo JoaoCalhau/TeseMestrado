@@ -1,13 +1,12 @@
 package joao.calhau;
 
-import org.chocosolver.solver.ICause;
+
 import org.chocosolver.solver.Model;
 import org.chocosolver.solver.Solver;
 import org.chocosolver.solver.constraints.Constraint;
 import org.chocosolver.solver.variables.SetVar;
 import org.apache.commons.lang3.time.StopWatch;
 
-import java.sql.Connection;
 import java.util.Arrays;
 import java.util.LinkedList;
 
@@ -18,7 +17,6 @@ public class Main {
     private SetVar foundInodes;
 
     public Main(String folder) {
-
         parser = new Parser();
         parser.parse(folder);
         model = new Model("Main Model");
@@ -32,15 +30,20 @@ public class Main {
 
     public void solver() {
 
-        Constraint typeConstraint = new Constraint("Type Images", new TypePropagator(foundInodes, parser.ts.getImages()));
+        //Constraint typeConstraint = new Constraint("Type Archive", new TypePropagator(foundInodes, parser.ts.getArchives()));
         //Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagator(foundInodes,
-        //        new LinkedList[]{parser.ts.getImages(), parser.ts.getAudio()}));
-        Constraint pathConstraint = new Constraint("Path Music/BabyMetal/Metal Resistance/", new PathPropagator(foundInodes, parser.ps,"Music/BabyMetal/Metal Resistance"));
-        Constraint searchConstraint = new Constraint("ubisoft", new WordSearchPropagator(foundInodes, "ubisoft", parser.is));
+        //        new LinkedList[]{parser.ts.getExec(), parser.ts.getUnkown(), parser.ts.getArchives()}));
+        //Constraint pathConstraint = new Constraint("Path LVOC/", new PathPropagator(foundInodes, parser.ps,"LVOC"));
+        //Constraint searchConstraint = new Constraint("Name LVOC", new WordSearchPropagator(foundInodes, "LVOC", parser.is));
+
+        Constraint typeConstraint = new Constraint("Type Audio", new TypePropagator(foundInodes, parser.ts.getAudio()));
+        Constraint pathConstraint = new Constraint("Path Music/BabyMetal", new PathPropagator(foundInodes, parser.ps, "Music/BabyMetal"));
+        //Constraint searchConstraint = new Constraint("Name baby", new WordSearchPropagator(foundInodes, "baby", parser.is));
 
         model.post(typeConstraint);
         //model.post(typesConstraint);
         model.post(pathConstraint);
+        //model.post(searchConstraint);
 
         Solver s = model.getSolver();
 

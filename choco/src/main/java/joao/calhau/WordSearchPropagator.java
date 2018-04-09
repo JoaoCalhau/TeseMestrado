@@ -27,7 +27,7 @@ public class WordSearchPropagator extends Propagator<SetVar> {
             if(inode.getFileName().toLowerCase().matches("(?i).* " + word.toLowerCase() + ".*"))
                 var.force(i, this);
             else {
-                //Do the word search
+                //var.remove(i, this);
             }
 
         }

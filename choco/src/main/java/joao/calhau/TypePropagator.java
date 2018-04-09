@@ -24,8 +24,8 @@ public class TypePropagator extends Propagator<SetVar> {
         for(int inode : foundInodes.getUB()) {
             if(!ll.contains(new Inode(inode + "")))
                 foundInodes.remove(inode, this);
-            //else
-             //   foundInodes.force(inode, this);
+            else
+                foundInodes.force(inode, this);
         }
     }
 
