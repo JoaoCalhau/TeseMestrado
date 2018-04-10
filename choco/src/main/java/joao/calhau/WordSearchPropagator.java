@@ -24,10 +24,10 @@ public class WordSearchPropagator extends Propagator<SetVar> {
         for(int i : var.getUB()) {
             Inode inode = is.get("" + i);
 
-            if(inode.getFileName().toLowerCase().matches("(?i).* " + word.toLowerCase() + ".*"))
+            if(inode.getFileName().contains(word))
                 var.force(i, this);
             else {
-                //var.remove(i, this);
+                var.remove(i, this);
             }
 
         }
