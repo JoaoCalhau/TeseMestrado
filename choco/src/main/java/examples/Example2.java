@@ -24,7 +24,7 @@ public class Example2 {
         IntVar y = model.intVar("Y", new int[]{2, 3, 8});   // y in {2, 3, 8}
         // 3. Post constraints
         model.post(new Constraint("Greater Equal Than", new MySimplePropagator(x, y))); // x >= y
-        model.times(x,y,4).post();              // x * y = 4
+        model.times(x, y, 4).post();              // x * y = 4
         // 4. Solve the problem
         model.getSolver().solve();
         // 5. Print the solution

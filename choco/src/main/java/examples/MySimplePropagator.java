@@ -11,7 +11,7 @@ public class MySimplePropagator extends Propagator<IntVar> {
     IntVar x, y;
 
     public MySimplePropagator(IntVar x, IntVar y) {
-        super(new IntVar[]{x,y});
+        super(x, y);
         this.x = x;
         this.y = y;
     }

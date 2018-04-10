@@ -67,7 +67,7 @@ public class Inode {
     }
 
     public boolean equals(Object obj) {
-        if(obj instanceof Inode) {
+        if (obj instanceof Inode) {
             Inode toCompare = (Inode) obj;
             return this.id.equals(toCompare.getId());
         } else {

@@ -4,22 +4,20 @@ import java.util.LinkedList;
 
 public class TypesStructure {
 
-    private LinkedList<Inode>[] table;
-    private int SIZE = 13;
     private enum types {
-        ARCHIVE(0,"Archive"),
-        DATA(1,"Data"),
-        DISK(2,"Disk"),
-        EXEC(3,"Exec"),
-        IMAGES(4,"Images"),
-        TEXT(5,"Text"),
-        UNKNOWN(6,"Unknown"),
-        AUDIO(7,"Audio"),
-        COMPRESS(8,"Compress"),
-        CRYPTO(9,"Crypto"),
-        DOCUMENTS(10,"Documents"),
-        SYSTEM(11,"System"),
-        VIDEO(12,"Video");
+        ARCHIVE(0, "Archive"),
+        DATA(1, "Data"),
+        DISK(2, "Disk"),
+        EXEC(3, "Exec"),
+        IMAGES(4, "Images"),
+        TEXT(5, "Text"),
+        UNKNOWN(6, "Unknown"),
+        AUDIO(7, "Audio"),
+        COMPRESS(8, "Compress"),
+        CRYPTO(9, "Crypto"),
+        DOCUMENTS(10, "Documents"),
+        SYSTEM(11, "System"),
+        VIDEO(12, "Video");
 
         private int value;
         private String type;
@@ -38,10 +36,13 @@ public class TypesStructure {
         }
     }
 
+    private LinkedList<Inode>[] table;
+    private int SIZE = 13;
+
     public TypesStructure() {
         table = new LinkedList[SIZE];
 
-        for(int i = 0; i < table.length; i++)
+        for (int i = 0; i < table.length; i++)
             table[i] = new LinkedList<>();
     }
 
@@ -98,69 +99,56 @@ public class TypesStructure {
     }
 
     public void insert(Inode item) {
-        switch(item.getType()) {
-            case "Archive":
-            {
+        switch (item.getType()) {
+            case "Archive": {
                 table[types.ARCHIVE.getValue()].addLast(item);
                 break;
             }
-            case "Audio":
-            {
+            case "Audio": {
                 table[types.AUDIO.getValue()].addLast(item);
                 break;
             }
-            case "Compress":
-            {
+            case "Compress": {
                 table[types.COMPRESS.getValue()].addLast(item);
                 break;
             }
-            case "Crypto":
-            {
+            case "Crypto": {
                 table[types.CRYPTO.getValue()].addLast(item);
                 break;
             }
-            case "Data":
-            {
+            case "Data": {
                 table[types.DATA.getValue()].addLast(item);
                 break;
             }
-            case "Disk":
-            {
+            case "Disk": {
                 table[types.DISK.getValue()].addLast(item);
                 break;
             }
-            case "Documents":
-            {
+            case "Documents": {
                 table[types.DOCUMENTS.getValue()].addLast(item);
                 break;
             }
-            case "Exec":
-            {
+            case "Exec": {
                 table[types.EXEC.getValue()].addLast(item);
                 break;
             }
-            case "Images":
-            {
+            case "Images": {
                 table[types.IMAGES.getValue()].addLast(item);
                 break;
             }
-            case "System":
-            {
+            case "System": {
                 table[types.SYSTEM.getValue()].addLast(item);
                 break;
             }
-            case "Text":
-            {
+            case "Text": {
                 table[types.TEXT.getValue()].addLast(item);
                 break;
             }
-            case "Unknown":
-            {
+            case "Unknown": {
                 table[types.UNKNOWN.getValue()].addLast(item);
                 break;
             }
-            case "Video":
-            {
+            case "Video": {
                 table[types.VIDEO.getValue()].addLast(item);
                 break;
             }
@@ -170,18 +158,17 @@ public class TypesStructure {
     public String toString() {
         StringBuilder sb = new StringBuilder("{");
 
-        for(int i = 0; i < SIZE; i++) {
-            if(!table[i].isEmpty()) {
+        for (int i = 0; i < SIZE; i++) {
+            if (!table[i].isEmpty()) {
                 String s = table[i].toString();
                 sb.append(s + ", \n");
             }
         }
 
-        sb.delete(sb.length()-2, sb.length());
+        sb.delete(sb.length() - 2, sb.length());
 
         sb.append("}");
 
         return sb.toString();
     }
-
 }

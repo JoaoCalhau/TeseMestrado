@@ -22,16 +22,16 @@ public class TypesPropagator extends Propagator<SetVar> {
     @Override
     public void propagate(int evtmask) throws ContradictionException {
         boolean flag;
-        for(int inode : foundInodes.getUB()) {
+        for (int inode : foundInodes.getUB()) {
 
             flag = false;
 
-            for(int j = 0; j < types.length; j++) {
-                if(types[j].contains(new Inode(inode + "")))
+            for (int j = 0; j < types.length; j++) {
+                if (types[j].contains(new Inode(inode + "")))
                     flag = true;
             }
 
-            if(!flag)
+            if (!flag)
                 foundInodes.remove(inode, this);
             //else
             //    foundInodes.force(inode, this);
@@ -40,7 +40,7 @@ public class TypesPropagator extends Propagator<SetVar> {
 
     @Override
     public ESat isEntailed() {
-        if(foundInodes.getUB().isEmpty())
+        if (foundInodes.getUB().isEmpty())
             return ESat.FALSE;
         else
             return ESat.TRUE;

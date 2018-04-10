@@ -23,7 +23,7 @@ public class Example {
         IntVar y = model.intVar("Y", new int[]{2, 3, 8});   // y in {2, 3, 8}
         // 3. Post constraints
         model.arithm(x, "+", y, "<", 5).post(); // x + y < 5
-        model.times(x,y,4).post();              // x * y = 4
+        model.times(x, y, 4).post();              // x * y = 4
         // 4. Solve the problem
         model.getSolver().solve();
         // 5. Print the solution

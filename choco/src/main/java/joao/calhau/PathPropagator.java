@@ -27,8 +27,8 @@ public class PathPropagator extends Propagator<SetVar> {
 
         for (int inode : foundInodes.getUB()) {
 
-            if(ll != null) {
-                if(!ll.contains(new Inode(inode + "")))
+            if (ll != null) {
+                if (!ll.contains(new Inode(inode + "")))
                     foundInodes.remove(inode, this);
             } else {
                 foundInodes.remove(inode, this);
@@ -39,7 +39,7 @@ public class PathPropagator extends Propagator<SetVar> {
 
     @Override
     public ESat isEntailed() {
-        if(foundInodes.getUB().isEmpty())
+        if (foundInodes.getUB().isEmpty())
             return ESat.FALSE;
         else
             return ESat.TRUE;

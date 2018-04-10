@@ -33,7 +33,7 @@ public class Main {
         Constraint typeConstraint = new Constraint("Type Data", new TypePropagator(foundInodes, parser.ts.getData()));
         //Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagator(foundInodes,
         //        new LinkedList[]{parser.ts.getExec(), parser.ts.getUnkown(), parser.ts.getArchives()}));
-        Constraint pathConstraint = new Constraint("Path LVOC/LVOC/locales", new PathPropagator(foundInodes, parser.ps,"LVOC/LVOC/locales"));
+        Constraint pathConstraint = new Constraint("Path LVOC/LVOC/locales", new PathPropagator(foundInodes, parser.ps, "LVOC/LVOC/locales"));
         Constraint searchConstraint = new Constraint("Name en", new WordSearchPropagator(foundInodes, "en", parser.is));
 
         //Constraint typeConstraint = new Constraint("Type Audio", new TypePropagator(foundInodes, parser.ts.getAudio()));
@@ -56,13 +56,12 @@ public class Main {
             } else
                 System.out.println("No Solution Found.");
 
-        } catch(SolverException se) {
+        } catch (SolverException se) {
             System.err.println("Failure!");
             System.err.println("No more Inodes to process...");
             System.err.println("Terminating program.");
         }
     }
-
 
     public static void main(String[] args) {
 

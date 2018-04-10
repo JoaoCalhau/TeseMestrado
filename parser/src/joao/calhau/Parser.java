@@ -53,7 +53,7 @@ public class Parser {
             FileReader file = new FileReader(pathToFile);
             BufferedReader br = new BufferedReader(file);
 
-            while((line = br.readLine()) != null && (line2 = br.readLine()) != null && (line3 = br.readLine()) != null) {
+            while ((line = br.readLine()) != null && (line2 = br.readLine()) != null && (line3 = br.readLine()) != null) {
                 String[] check = line.split("\\$");
 
                 if (check.length == 1) {
@@ -88,7 +88,7 @@ public class Parser {
                         ps.put(inode);
                         ts.insert(inode);
 
-                        if(Integer.parseInt(id) > biggest)
+                        if (Integer.parseInt(id) > biggest)
                             biggest = Integer.parseInt(id);
 
                         br.readLine();
@@ -101,12 +101,12 @@ public class Parser {
             }
             br.close();
             file.close();
-        } catch(FileNotFoundException fnfe) {
+        } catch (FileNotFoundException fnfe) {
             System.err.println("File Not Found");
-        } catch(IOException ioe) {
+        } catch (IOException ioe) {
             System.err.println("Failure On Read");
             ioe.printStackTrace();
-        } catch(IndexOutOfBoundsException iobe) {
+        } catch (IndexOutOfBoundsException iobe) {
             System.err.println("Array Index Out of Bounds");
             iobe.printStackTrace();
         } finally {

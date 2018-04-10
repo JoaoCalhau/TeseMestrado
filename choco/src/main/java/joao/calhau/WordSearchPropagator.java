@@ -21,10 +21,10 @@ public class WordSearchPropagator extends Propagator<SetVar> {
 
     @Override
     public void propagate(int evtmask) throws ContradictionException {
-        for(int i : var.getUB()) {
+        for (int i : var.getUB()) {
             Inode inode = is.get("" + i);
 
-            if(inode.getFileName().contains(word))
+            if (inode.getFileName().contains(word))
                 var.force(i, this);
             else {
                 var.remove(i, this);
@@ -35,7 +35,7 @@ public class WordSearchPropagator extends Propagator<SetVar> {
 
     @Override
     public ESat isEntailed() {
-        if(var.getUB().isEmpty())
+        if (var.getUB().isEmpty())
             return ESat.FALSE;
         else
             return ESat.TRUE;
