@@ -5,18 +5,25 @@ import org.chocosolver.solver.constraints.PropagatorPriority;
 import org.chocosolver.solver.exception.ContradictionException;
 import org.chocosolver.solver.variables.SetVar;
 import org.chocosolver.util.ESat;
+import org.omg.SendingContext.RunTime;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
 public class WordSearchPropagator extends Propagator<SetVar> {
 
     private SetVar var;
     private String word;
     private InodeStructure is;
+    private String folder;
 
-    public WordSearchPropagator(SetVar var, String word, InodeStructure is) {
+    public WordSearchPropagator(SetVar var, String word, InodeStructure is, String folder) {
         super(new SetVar[]{var}, PropagatorPriority.TERNARY, false);
         this.var = var;
         this.word = word;
         this.is = is;
+        this.folder = folder;
     }
 
     @Override
@@ -27,7 +34,25 @@ public class WordSearchPropagator extends Propagator<SetVar> {
             if (inode.getFileName().contains(word))
                 var.force(i, this);
             else {
-                var.remove(i, this);
+                try {
+
+                    Runtime rt = Runtime.getRuntime();
+                    String[] cmd = {"/bin/sh", "-c", "grep -c '" + word + "' /mnt/" + folder + "/" + inode.getPath()};
+                    Process proc = rt.exec(cmd);
+
+                    BufferedReader br = new BufferedReader(new InputStreamReader(proc.getInputStream()));
+
+                    String line = br.readLine();
+
+                    if(line == null)
+                        var.remove(i, this);
+                    else
+                        var.force(i, this);
+
+                } catch(IOException ioe) {
+                    System.err.println("Could not execute command");
+                }
+
             }
 
         }

@@ -28,17 +28,17 @@ public class Main {
         foundInodes = model.setVar("Found Inodes", new int[]{}, array);
     }
 
-    public void solver() {
+    public void solver(String folder) {
 
         Constraint typeConstraint = new Constraint("Type Data", new TypePropagator(foundInodes, parser.ts.getData()));
         //Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagator(foundInodes,
         //        new LinkedList[]{parser.ts.getExec(), parser.ts.getUnkown(), parser.ts.getArchives()}));
         Constraint pathConstraint = new Constraint("Path LVOC/LVOC/locales", new PathPropagator(foundInodes, parser.ps, "LVOC/LVOC/locales"));
-        Constraint searchConstraint = new Constraint("Name en", new WordSearchPropagator(foundInodes, "en", parser.is));
+        Constraint searchConstraint = new Constraint("Name en", new WordSearchPropagator(foundInodes, "en", parser.is, folder));
 
         //Constraint typeConstraint = new Constraint("Type Audio", new TypePropagator(foundInodes, parser.ts.getAudio()));
         //Constraint pathConstraint = new Constraint("Path Music/BabyMetal", new PathPropagator(foundInodes, parser.ps, "Music/BabyMetal"));
-        //Constraint searchConstraint = new Constraint("Name Akatsuki", new WordSearchPropagator(foundInodes, "Akatsuki", parser.is));
+        //Constraint searchConstraint = new Constraint("Name Akatsuki", new WordSearchPropagator(foundInodes, "Akatsuki", parser.is, folder));
 
         model.post(typeConstraint);
         //model.post(typesConstraint);
@@ -70,7 +70,7 @@ public class Main {
 
         Main main = new Main(args[0]);
 
-        main.solver();
+        main.solver(args[0]);
 
         stopWatch.stop();
         System.out.println("Constraints took: " + stopWatch.getTime() + " milliseconds to execute.");
