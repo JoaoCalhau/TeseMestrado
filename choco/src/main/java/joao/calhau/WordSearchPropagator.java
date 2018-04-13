@@ -31,26 +31,28 @@ public class WordSearchPropagator extends Propagator<SetVar> {
         for (int i : var.getUB()) {
             Inode inode = is.get("" + i);
 
-            if (inode.getFileName().contains(word))
+            if (inode.getFileName().contains(word)) {
                 var.force(i, this);
-            else {
+            } else {
                 try {
 
                     Runtime rt = Runtime.getRuntime();
-                    String[] cmd = {"/bin/sh", "-c", "grep -c '" + word + "' /mnt/" + folder + "/" + inode.getPath()};
+                    String[] cmd = {"/bin/sh", "-c", "grep -c '" + word + "' /mnt/" + folder + "/" + inode.getPath() + "/" + inode.getFileName()};
                     Process proc = rt.exec(cmd);
 
                     BufferedReader br = new BufferedReader(new InputStreamReader(proc.getInputStream()));
 
                     String line = br.readLine();
 
-                    if(line == null)
+                    if(line.equals("0"))
                         var.remove(i, this);
                     else
                         var.force(i, this);
 
                 } catch(IOException ioe) {
                     System.err.println("Could not execute command");
+                } finally {
+
                 }
 
             }

@@ -30,11 +30,11 @@ public class Main {
 
     public void solver(String folder) {
 
-        Constraint typeConstraint = new Constraint("Type Data", new TypePropagator(foundInodes, parser.ts.getData()));
+        Constraint typeConstraint = new Constraint("Type Unknown", new TypePropagator(foundInodes, parser.ts.getUnkown()));
         //Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagator(foundInodes,
         //        new LinkedList[]{parser.ts.getExec(), parser.ts.getUnkown(), parser.ts.getArchives()}));
-        Constraint pathConstraint = new Constraint("Path LVOC/LVOC/locales", new PathPropagator(foundInodes, parser.ps, "LVOC/LVOC/locales"));
-        Constraint searchConstraint = new Constraint("Name en", new WordSearchPropagator(foundInodes, "en", parser.is, folder));
+        Constraint pathConstraint = new Constraint("Path LVOC/LVOC", new PathPropagator(foundInodes, parser.ps, "LVOC/LVOC"));
+        Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagator(foundInodes, "Copyright", parser.is, folder));
 
         //Constraint typeConstraint = new Constraint("Type Audio", new TypePropagator(foundInodes, parser.ts.getAudio()));
         //Constraint pathConstraint = new Constraint("Path Music/BabyMetal", new PathPropagator(foundInodes, parser.ps, "Music/BabyMetal"));
