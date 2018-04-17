@@ -8,6 +8,7 @@ import org.chocosolver.solver.constraints.Constraint;
 import org.chocosolver.solver.exception.SolverException;
 import org.chocosolver.solver.variables.SetVar;
 
+import java.sql.*;
 import java.util.Arrays;
 
 public class Main {
@@ -17,8 +18,8 @@ public class Main {
     private SetVar foundInodes;
 
     public Main(String folder) {
-        parser = new Parser();
-        parser.parse(folder);
+        parser = new Parser(folder);
+        parser.parse();
         model = new Model("Main Model");
 
         Object[] inodeKeys = parser.is.table.keySet().toArray();
@@ -34,16 +35,38 @@ public class Main {
         //Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagator(foundInodes,
         //        new LinkedList[]{parser.ts.getExec(), parser.ts.getUnkown(), parser.ts.getArchives()}));
         Constraint pathConstraint = new Constraint("Path LVOC/LVOC", new PathPropagator(foundInodes, parser.ps, "LVOC/LVOC"));
-        Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagator(foundInodes, "Copyright", parser.is, folder));
+        //Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagator(foundInodes, "Copyright", parser.is, folder));
 
         //Constraint typeConstraint = new Constraint("Type Audio", new TypePropagator(foundInodes, parser.ts.getAudio()));
         //Constraint pathConstraint = new Constraint("Path Music/BabyMetal", new PathPropagator(foundInodes, parser.ps, "Music/BabyMetal"));
         //Constraint searchConstraint = new Constraint("Name Akatsuki", new WordSearchPropagator(foundInodes, "Akatsuki", parser.is, folder));
 
+
+        try {
+
+            Class.forName("org.h2.Driver");
+
+            Connection con = DriverManager.getConnection("jdbc:h2:file:./db/" + folder + ";MVCC=FALSE;MV_STORE=FALSE;IFEXISTS=TRUE", "sa", "sa");
+            Statement stmt = con.createStatement();
+
+            ResultSet rs = stmt.executeQuery("SELECT * FROM INODE");
+
+            while(rs.next())
+                System.out.println("Inode(" + rs.getString("ID") + ", " + rs.getString("FILENAME") + ", " + rs.getString("PATH") + ", " + rs.getString("TYPE") + ")");
+
+
+
+        } catch (ClassNotFoundException cnfe) {
+            cnfe.printStackTrace();
+        } catch (SQLException sqle) {
+            sqle.printStackTrace();
+        }
+
+
         model.post(typeConstraint);
         //model.post(typesConstraint);
         model.post(pathConstraint);
-        model.post(searchConstraint);
+        //model.post(searchConstraint);
 
         Solver s = model.getSolver();
 

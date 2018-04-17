@@ -4,15 +4,46 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.sql.*;
 
 public class Parser {
 
     public InodeStructure is;
     public PathStructure ps;
     public TypesStructure ts;
+    private String folder;
     private int biggest;
+    private Connection con = null;
+    private Statement stmt = null;
+    private PreparedStatement pstmt = null;
 
-    public Parser() {
+    public Parser(String folder) {
+
+        this.folder = folder;
+
+        try {
+            Class.forName("org.h2.Driver");
+
+            this.con = DriverManager.getConnection("jdbc:h2:file:./db/" + folder + ";MVCC=FALSE;MV_STORE=FALSE;IFEXISTS=TRUE", "sa", "sa");
+            this.stmt = con.createStatement();
+
+            //stmt.executeUpdate("DROP TABLE IF EXISTS INODE");
+
+            //stmt.executeUpdate("CREATE TABLE INODE(ID TEXT, FILENAME TEXT, PATH TEXT, TYPE TEXT)");
+
+            //stmt.close();
+
+            //this.pstmt = con.prepareStatement("INSERT INTO INODE VALUES(?, ?, ?, ?)");
+
+        } catch (SQLException sqle) {
+            System.err.println("Error while processing queries");
+            sqle.printStackTrace();
+        } catch (ClassNotFoundException cnfe) {
+            System.err.println("Class not found");
+            cnfe.printStackTrace();
+        }
+
+
         biggest = 0;
         is = new InodeStructure();
         ps = new PathStructure();
@@ -27,7 +58,7 @@ public class Parser {
         this.biggest = biggest;
     }
 
-    public void parse(String folder) {
+    public void parse() {
         parse("sorted/" + folder + "/archive.txt", "Archive");
         parse("sorted/" + folder + "/audio.txt", "Audio");
         parse("sorted/" + folder + "/compress.txt", "Compress");
@@ -41,6 +72,7 @@ public class Parser {
         parse("sorted/" + folder + "/text.txt", "Text");
         parse("sorted/" + folder + "/unknown.txt", "Unknown");
         parse("sorted/" + folder + "/video.txt", "Video");
+        close();
     }
 
     public void parse(String pathToFile, String type) {
@@ -84,6 +116,14 @@ public class Parser {
 
                         Inode inode = new Inode(id, fileName, path, type);
 
+                        //pstmt.setString(1, id);
+                        //pstmt.setString(2, fileName);
+                        //pstmt.setString(3, path);
+                        //pstmt.setString(4, type);
+                        //pstmt.executeUpdate();
+
+                        //stmt.executeUpdate("INSERT INTO inode VALUES(\"" + id + "\", \"" + fileName + "\", \"" + path + "\", \"" + type + "\")");
+
                         is.put(inode);
                         ps.put(inode);
                         ts.insert(inode);
@@ -102,14 +142,22 @@ public class Parser {
             br.close();
             file.close();
         } catch (FileNotFoundException fnfe) {
-            System.err.println("File Not Found");
+            System.err.println("No file found, skipping " + type.toLowerCase() + " files...");
         } catch (IOException ioe) {
-            System.err.println("Failure On Read");
             ioe.printStackTrace();
-        } catch (IndexOutOfBoundsException iobe) {
-            System.err.println("Array Index Out of Bounds");
+        /*} catch (IndexOutOfBoundsException iobe) {
             iobe.printStackTrace();
-        } finally {
+        } catch (SQLException sqle) {
+            sqle.printStackTrace();*/
+        }
+    }
+
+    public void close() {
+        try {
+            stmt.close();
+            con.close();
+        } catch (SQLException sqle) {
+            sqle.printStackTrace();
         }
     }
 }

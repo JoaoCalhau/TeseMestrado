@@ -41,9 +41,9 @@ public class Tests {
 
         */
         //System.out.println("Parser Structures Print:");
-        Parser parser = new Parser();
+        Parser parser = new Parser("pen_4");
 
-        parser.parse("pen_4");
+        parser.parse();
 
         //System.out.println(parser.is.toString());
         //System.out.println(parser.ts.toString());
