@@ -1,5 +1,7 @@
 package joao.calhau;
 
+import java.sql.*;
+
 public class Tests {
     public static void main(String[] args) {
 
@@ -41,20 +43,20 @@ public class Tests {
 
         */
         //System.out.println("Parser Structures Print:");
-        Parser parser = new Parser("pen_4");
+        //Parser parser = new Parser("pen_4");
 
-        parser.parse();
+        //parser.parse();
 
         //System.out.println(parser.is.toString());
         //System.out.println(parser.ts.toString());
         //System.out.println(parser.ps.toString());
 
-        System.out.println(parser.ts.getArchives().toString());
+        //System.out.println(parser.ts.getArchives().toString());
 
 
-        System.out.println("Inodes: " + parser.is.toString());
-        System.out.println("Paths: " + parser.ps.toString());
-        System.out.println("Types: " + parser.ts.toString());
+        //System.out.println("Inodes: " + parser.is.toString());
+        //System.out.println("Paths: " + parser.ps.toString());
+        //System.out.println("Types: " + parser.ts.toString());
 
         /* String match tests */
         //String toCheck = "I love programming";
@@ -62,6 +64,41 @@ public class Tests {
         //System.out.println(toCheck.matches("(?i).*pro.*"));
         //System.out.println(toCheck.matches("(?i).*gram.*"));
         //System.out.println(toCheck.matches("(?i).*ve pro.*"));
+
+        try {
+
+            Class.forName("org.h2.Driver");
+
+            Connection con = DriverManager.getConnection("jdbc:h2:file:./db/pen_4;MVCC=FALSE;MV_STORE=FALSE;IFEXISTS=TRUE", "sa", "sa");
+            Statement stmt = con.createStatement();
+
+            ResultSet rs = stmt.executeQuery("SELECT * FROM INODE");
+
+            while(rs.next())
+                System.out.println("Inode(" + rs.getString("ID") + ", " + rs.getString("FILENAME") + ", " + rs.getString("PATH") + ", " + rs.getString("TYPE") + ")");
+
+            con.close();
+            stmt.close();
+
+            System.out.println();
+            System.out.println("-------------------------------------------------------");
+            System.out.println();
+
+            con = DriverManager.getConnection("jdbc:h2:file:./db/sdhc;MVCC=FALSE;MV_STORE=FALSE;IFEXISTS=TRUE", "sa", "sa");
+            stmt = con.createStatement();
+
+            rs = stmt.executeQuery("SELECT * FROM INODE");
+
+            while(rs.next())
+                System.out.println("Inode(" + rs.getString("ID") + ", " + rs.getString("FILENAME") + ", " + rs.getString("PATH") + ", " + rs.getString("TYPE") + ")");
+
+
+
+        } catch (ClassNotFoundException cnfe) {
+            cnfe.printStackTrace();
+        } catch (SQLException sqle) {
+            sqle.printStackTrace();
+        }
 
     }
 
