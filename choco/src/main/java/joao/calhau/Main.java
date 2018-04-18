@@ -80,9 +80,9 @@ public class Main {
         }
         */
 
-        //model.post(typeConstraint);
+        model.post(typeConstraint);
         //model.post(typesConstraint);
-        //model.post(pathConstraint);
+        model.post(pathConstraint);
         model.post(searchConstraint);
 
         Solver s = model.getSolver();

@@ -37,12 +37,8 @@ public class WordSearchPropagatorUnix4j extends Propagator<SetVar> {
             } else {
                 int out = 0;
 
-                Unix4j.grep(GrepOption.count, word, "/mnt/" + folder + "/" + inode.getPath() + "/" + inode.getFileName()).toStdOut();
+                String outS = Unix4j.grep(GrepOption.count, word, "/mnt/" + folder + "/" + inode.getPath() + "/" + inode.getFileName()).toStringResult();
 
-                ByteArrayOutputStream baos = new ByteArrayOutputStream();
-                System.setOut(new PrintStream(baos));
-
-                String outS = baos.toString();
                 String[] outSA = outS.split(":");
                 out = Integer.parseInt(outSA[0]);
 
