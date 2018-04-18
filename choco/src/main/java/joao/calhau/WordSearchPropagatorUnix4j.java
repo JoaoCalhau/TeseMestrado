@@ -7,7 +7,6 @@ import org.chocosolver.solver.variables.SetVar;
 import org.chocosolver.util.ESat;
 import org.unix4j.Unix4j;
 import org.unix4j.unix.grep.GrepOption;
-import org.unix4j.unix.grep.GrepOptions;
 
 
 public class WordSearchPropagatorUnix4j extends Propagator<SetVar> {
@@ -33,7 +32,9 @@ public class WordSearchPropagatorUnix4j extends Propagator<SetVar> {
             if(inode.getFileName().contains(word)) {
                 var.force(i, this);
             } else {
-                int out = Unix4j.grep(GrepOption.count, word, "/mnt/" + folder + "/" + inode.getPath() + "/" + inode.getFileName()).toExitValue();
+                int out = 0;
+
+                Unix4j.grep(GrepOption.count, word, "/mnt/" + folder + "/" + inode.getPath() + "/" + inode.getFileName()).toStdOut();
 
                 if(out == 0)
                     var.remove(i, this);
