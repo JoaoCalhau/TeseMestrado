@@ -43,10 +43,14 @@ public class WordSearchPropagator extends Propagator<SetVar> {
 
                     String line = br.readLine();
 
-                    if(line.equals("0"))
+                    if(line != null) {
+                        if (line.equals("0"))
+                            var.remove(i, this);
+                        else
+                            var.force(i, this);
+                    } else {
                         var.remove(i, this);
-                    else
-                        var.force(i, this);
+                    }
 
                 } catch(IOException ioe) {
                     System.err.println("Could not execute command");
