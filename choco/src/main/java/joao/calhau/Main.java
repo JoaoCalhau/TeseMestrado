@@ -48,7 +48,7 @@ public class Main {
         //Constraint searchConstraint = new Constraint("Name Akatsuki", new WordSearchPropagator(foundInodes, "Akatsuki", parser.is, folder));
 
         /*
-         * Database
+         * Databases
          */
 
         //4GB Pen Constraints

@@ -6,5 +6,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="com.h2database:h2:1.4.197" level="project" />
+    <orderEntry type="library" name="org.unix4j:unix4j-command:0.5" level="project" />
   </component>
 </module>
