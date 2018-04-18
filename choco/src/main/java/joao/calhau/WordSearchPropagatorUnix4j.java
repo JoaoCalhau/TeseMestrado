@@ -8,6 +8,9 @@ import org.chocosolver.util.ESat;
 import org.unix4j.Unix4j;
 import org.unix4j.unix.grep.GrepOption;
 
+import java.io.ByteArrayOutputStream;
+import java.io.PrintStream;
+
 
 public class WordSearchPropagatorUnix4j extends Propagator<SetVar> {
 
@@ -35,6 +38,13 @@ public class WordSearchPropagatorUnix4j extends Propagator<SetVar> {
                 int out = 0;
 
                 Unix4j.grep(GrepOption.count, word, "/mnt/" + folder + "/" + inode.getPath() + "/" + inode.getFileName()).toStdOut();
+
+                ByteArrayOutputStream baos = new ByteArrayOutputStream();
+                System.setOut(new PrintStream(baos));
+
+                String outS = baos.toString();
+                String[] outSA = outS.split(":");
+                out = Integer.parseInt(outSA[0]);
 
                 if(out == 0)
                     var.remove(i, this);
