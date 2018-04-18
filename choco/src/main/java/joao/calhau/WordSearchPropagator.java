@@ -5,7 +5,6 @@ import org.chocosolver.solver.constraints.PropagatorPriority;
 import org.chocosolver.solver.exception.ContradictionException;
 import org.chocosolver.solver.variables.SetVar;
 import org.chocosolver.util.ESat;
-import org.omg.SendingContext.RunTime;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -44,10 +43,14 @@ public class WordSearchPropagator extends Propagator<SetVar> {
 
                     String line = br.readLine();
 
-                    if(line.equals("0"))
+                    if(line != null) {
+                        if (line.equals("0"))
+                            var.remove(i, this);
+                        else
+                            var.force(i, this);
+                    } else {
                         var.remove(i, this);
-                    else
-                        var.force(i, this);
+                    }
 
                 } catch(IOException ioe) {
                     System.err.println("Could not execute command");

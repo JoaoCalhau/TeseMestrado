@@ -40,19 +40,19 @@ public class Main {
         //Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagator(foundInodes,
         //        new LinkedList[]{parser.ts.getExec(), parser.ts.getUnkown(), parser.ts.getArchives()}));
         //Constraint pathConstraint = new Constraint("Path LVOC/LVOC", new PathPropagator(foundInodes, parser.ps, "LVOC/LVOC"));
-        //Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagator(foundInodes, "Copyright", parser.is, folder));
+        Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagator(foundInodes, "Copyright", parser.is, folder));
 
         //32GB SDHC Constraints
         //Constraint typeConstraint = new Constraint("Type Audio", new TypePropagator(foundInodes, parser.ts.getAudio()));
         //Constraint pathConstraint = new Constraint("Path Music/BabyMetal", new PathPropagator(foundInodes, parser.ps, "Music/BabyMetal"));
-        //Constraint searchConstraint = new Constraint("Name Akatsuki", new WordSearchPropagator(foundInodes, "Akatsuki", parser.is, folder));
+        //Constraint searchConstraint = new Constraint("Name metal", new WordSearchPropagator(foundInodes, "Metal", parser.is, folder));
 
         /*
          * Database
          */
 
         //4GB Pen Constraints
-        Constraint typeConstraint = new Constraint("Type Unknown", new TypePropagatorDB(foundInodes, "Unknown", folder));
+        //Constraint typeConstraint = new Constraint("Type Unknown", new TypePropagatorDB(foundInodes, "Unknown", folder));
 
         //32GB SDHC Constraints
         //Constraint typeConstraint = new Constraint("Type Audio", new TypePropagatorDB(foundInodes, "Audio", folder));
@@ -79,10 +79,10 @@ public class Main {
         }
         */
 
-        model.post(typeConstraint);
+        //model.post(typeConstraint);
         //model.post(typesConstraint);
         //model.post(pathConstraint);
-        //model.post(searchConstraint);
+        model.post(searchConstraint);
 
         Solver s = model.getSolver();
 
