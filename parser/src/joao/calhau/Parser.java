@@ -21,19 +21,20 @@ public class Parser {
 
         this.folder = folder;
 
+        /*
         try {
             Class.forName("org.h2.Driver");
 
             this.con = DriverManager.getConnection("jdbc:h2:file:./db/" + folder + ";MVCC=FALSE;MV_STORE=FALSE;IFEXISTS=TRUE", "sa", "sa");
             this.stmt = con.createStatement();
 
-            //stmt.executeUpdate("DROP TABLE IF EXISTS INODE");
+            stmt.executeUpdate("DROP TABLE IF EXISTS INODE");
 
-            //stmt.executeUpdate("CREATE TABLE INODE(ID TEXT, FILENAME TEXT, PATH TEXT, TYPE TEXT)");
+            stmt.executeUpdate("CREATE TABLE INODE(ID TEXT, FILENAME TEXT, PATH TEXT, TYPE TEXT)");
 
-            //stmt.close();
+            stmt.close();
 
-            //this.pstmt = con.prepareStatement("INSERT INTO INODE VALUES(?, ?, ?, ?)");
+            this.pstmt = con.prepareStatement("INSERT INTO INODE VALUES(?, ?, ?, ?)");
 
         } catch (SQLException sqle) {
             System.err.println("Error while processing queries");
@@ -42,7 +43,7 @@ public class Parser {
             System.err.println("Class not found");
             cnfe.printStackTrace();
         }
-
+        */
 
         biggest = 0;
         is = new InodeStructure();
@@ -72,7 +73,7 @@ public class Parser {
         parse("sorted/" + folder + "/text.txt", "Text");
         parse("sorted/" + folder + "/unknown.txt", "Unknown");
         parse("sorted/" + folder + "/video.txt", "Video");
-        close();
+        //close();
     }
 
     public void parse(String pathToFile, String type) {
@@ -116,13 +117,15 @@ public class Parser {
 
                         Inode inode = new Inode(id, fileName, path, type);
 
-                        //pstmt.setString(1, id);
-                        //pstmt.setString(2, fileName);
-                        //pstmt.setString(3, path);
-                        //pstmt.setString(4, type);
-                        //pstmt.executeUpdate();
+                        /*
+                        pstmt.setString(1, id);
+                        pstmt.setString(2, fileName);
+                        pstmt.setString(3, path);
+                        pstmt.setString(4, type);
+                        pstmt.executeUpdate();
 
-                        //stmt.executeUpdate("INSERT INTO inode VALUES(\"" + id + "\", \"" + fileName + "\", \"" + path + "\", \"" + type + "\")");
+                        stmt.executeUpdate("INSERT INTO inode VALUES(\"" + id + "\", \"" + fileName + "\", \"" + path + "\", \"" + type + "\")");
+                        */
 
                         is.put(inode);
                         ps.put(inode);
