@@ -47,6 +47,7 @@ public class Main {
         //Constraint typeConstraint = new Constraint("Type Audio", new TypePropagator(foundInodes, parser.ts.getAudio()));
         //Constraint pathConstraint = new Constraint("Path Music/BabyMetal", new PathPropagator(foundInodes, parser.ps, "Music/BabyMetal"));
         //Constraint searchConstraint = new Constraint("Name metal", new WordSearchPropagator(foundInodes, "Metal", parser.is, folder));
+        //Constraint searchConstraint = new Constraint("Name metal", new WordSearchPropagatorUnix4j(foundInodes, "Metal", parser.is, folder));
 
         /*
          * Databases
