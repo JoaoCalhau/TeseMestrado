@@ -65,17 +65,24 @@ public class Tests {
         //System.out.println(toCheck.matches("(?i).*gram.*"));
         //System.out.println(toCheck.matches("(?i).*ve pro.*"));
 
+
+
+        /* DB TESTING */
+
+        ParserDB parser_4 = new ParserDB("pen_4");
+        ParserDB parser_32 = new ParserDB("sdhc");
+
         try {
 
             Class.forName("org.h2.Driver");
 
-            Connection con = DriverManager.getConnection("jdbc:h2:file:./db/pen_4;MVCC=FALSE;MV_STORE=FALSE;IFEXISTS=TRUE", "sa", "sa");
+            Connection con = DriverManager.getConnection("jdbc:h2:file:./db/pen_4;MVCC=FALSE;MV_STORE=FALSE;", "sa", "sa");
             Statement stmt = con.createStatement();
 
             ResultSet rs = stmt.executeQuery("SELECT * FROM INODE");
 
             while(rs.next())
-                System.out.println("Inode(" + rs.getString("ID") + ", " + rs.getString("FILENAME") + ", " + rs.getString("PATH") + ", " + rs.getString("TYPE") + ")");
+                System.out.println("Inode(" + rs.getInt("ID") + ", " + rs.getString("FILENAME") + ", " + rs.getString("PATH") + ", " + rs.getString("TYPE") + ")");
 
             con.close();
             stmt.close();
@@ -90,7 +97,7 @@ public class Tests {
             rs = stmt.executeQuery("SELECT * FROM INODE");
 
             while(rs.next())
-                System.out.println("Inode(" + rs.getString("ID") + ", " + rs.getString("FILENAME") + ", " + rs.getString("PATH") + ", " + rs.getString("TYPE") + ")");
+                System.out.println("Inode(" + rs.getInt("ID") + ", " + rs.getString("FILENAME") + ", " + rs.getString("PATH") + ", " + rs.getString("TYPE") + ")");
 
 
 
@@ -99,8 +106,5 @@ public class Tests {
         } catch (SQLException sqle) {
             sqle.printStackTrace();
         }
-
     }
-
-
 }

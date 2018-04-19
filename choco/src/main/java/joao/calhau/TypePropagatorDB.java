@@ -37,8 +37,10 @@ public class TypePropagatorDB extends Propagator<SetVar> {
 
                 if(!rs.next())
                     var.remove(i, this);
-                //else
-                //    var.force(i, this);
+                else
+                    var.force(i, this);
+
+                rs.close();
             }
 
             stmt.close();

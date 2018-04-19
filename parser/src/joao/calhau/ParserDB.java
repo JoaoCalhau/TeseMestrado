@@ -6,57 +6,41 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.sql.*;
 
-public class Parser {
+public class ParserDB {
 
-    public InodeStructure is;
-    public PathStructure ps;
-    public TypesStructure ts;
+    private Connection con;
+    private Statement stmt;
+    private PreparedStatement pstmt;
     private String folder;
-    private int biggest;
-    private Connection con = null;
-    private Statement stmt = null;
-    private PreparedStatement pstmt = null;
 
-    public Parser(String folder) {
-
+    public ParserDB(String folder) {
         this.folder = folder;
 
-        /*
         try {
+
             Class.forName("org.h2.Driver");
+            con = DriverManager.getConnection("jdbc:h2:file:./db/" + folder + ";MVCC=FALSE;MV_STORE=FALSE;", "sa", "sa");
+            stmt = con.createStatement();
 
-            this.con = DriverManager.getConnection("jdbc:h2:file:./db/" + folder + ";MVCC=FALSE;MV_STORE=FALSE;IFEXISTS=TRUE", "sa", "sa");
-            this.stmt = con.createStatement();
+            stmt.executeUpdate("CREATE TABLE IF NOT EXISTS INODE(ID INTEGER, FILENAME TEXT, PATH TEXT, TYPE TEXT)");
 
-            stmt.executeUpdate("DROP TABLE IF EXISTS INODE");
+            pstmt = con.prepareStatement("INSERT INTO INODE VALUES(?, ?, ?, ?)");
 
-            stmt.executeUpdate("CREATE TABLE INODE(ID TEXT, FILENAME TEXT, PATH TEXT, TYPE TEXT)");
+            ResultSet rs = stmt.executeQuery("SELECT COUNT(*) AS ROWCOUNT FROM INODE");
 
-            stmt.close();
-
-            this.pstmt = con.prepareStatement("INSERT INTO INODE VALUES(?, ?, ?, ?)");
-
-        } catch (SQLException sqle) {
-            System.err.println("Error while processing queries");
-            sqle.printStackTrace();
+            if(rs.next()) {
+                if(rs.getInt("ROWCOUNT") == 0)
+                    parse();
+                else {
+                    System.err.println("Table already exists and is populated.");
+                    System.err.println("Skipping database population.");
+                }
+            }
         } catch (ClassNotFoundException cnfe) {
-            System.err.println("Class not found");
-            cnfe.printStackTrace();
+            System.err.println("Class not found check lib jars");
+        } catch (SQLException sqle) {
+            sqle.printStackTrace();
         }
-        */
-
-        biggest = 0;
-        is = new InodeStructure();
-        ps = new PathStructure();
-        ts = new TypesStructure();
-    }
-
-    public int getBiggest() {
-        return biggest;
-    }
-
-    public void setBiggest(int biggest) {
-        this.biggest = biggest;
     }
 
     public void parse() {
@@ -73,17 +57,17 @@ public class Parser {
         parse("sorted/" + folder + "/text.txt", "Text");
         parse("sorted/" + folder + "/unknown.txt", "Unknown");
         parse("sorted/" + folder + "/video.txt", "Video");
+        close();
     }
 
-    public void parse(String pathToFile, String type) {
-
+    private void parse(String pathToFile, String type) {
         String line = "";
         String line2 = "";
         String line3 = "";
 
         try {
-            FileReader file = new FileReader(pathToFile);
-            BufferedReader br = new BufferedReader(file);
+            FileReader fr = new FileReader(pathToFile);
+            BufferedReader br = new BufferedReader(fr);
 
             while ((line = br.readLine()) != null && (line2 = br.readLine()) != null && (line3 = br.readLine()) != null) {
                 String[] check = line.split("\\$");
@@ -114,14 +98,11 @@ public class Parser {
                     if (sss.length < 3 || sss[2].equals("1")) {
                         id = sss[0];
 
-                        Inode inode = new Inode(id, fileName, path, type);
-
-                        is.put(inode);
-                        ps.put(inode);
-                        ts.insert(inode);
-
-                        if (Integer.parseInt(id) > biggest)
-                            biggest = Integer.parseInt(id);
+                        pstmt.setInt(1, Integer.parseInt(id));
+                        pstmt.setString(2, fileName);
+                        pstmt.setString(3, path);
+                        pstmt.setString(4, type);
+                        pstmt.executeUpdate();
 
                         br.readLine();
                     } else {
@@ -132,15 +113,24 @@ public class Parser {
                 }
             }
             br.close();
-            file.close();
+            fr.close();
+
         } catch (FileNotFoundException fnfe) {
             System.err.println("No file found, skipping " + type.toLowerCase() + " files...");
         } catch (IOException ioe) {
             ioe.printStackTrace();
-        /*} catch (IndexOutOfBoundsException iobe) {
-            iobe.printStackTrace();
         } catch (SQLException sqle) {
-            sqle.printStackTrace();*/
+            sqle.printStackTrace();
+        }
+    }
+
+    public void close() {
+        try {
+            pstmt.close();
+            stmt.close();
+            con.close();
+        } catch (SQLException sqle) {
+            sqle.printStackTrace();
         }
     }
 }

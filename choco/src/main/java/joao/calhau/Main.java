@@ -9,24 +9,54 @@ import org.chocosolver.solver.exception.SolverException;
 import org.chocosolver.solver.variables.SetVar;
 
 import java.sql.*;
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Main {
 
-    private Parser parser;
+    //private Parser parser;
+    private ParserDB parserDB;
     private Model model;
     private SetVar foundInodes;
+    private Connection con;
+    private Statement stmt;
 
     public Main(String folder) {
-        parser = new Parser(folder);
-        parser.parse();
+        parserDB = new ParserDB(folder);
+
+        //parser = new Parser(folder);
+        //parser.parse();
         model = new Model("Main Model");
 
-        Object[] inodeKeys = parser.is.table.keySet().toArray();
-        int array[] = new int[inodeKeys.length];
-        Arrays.setAll(array, i -> Integer.parseInt(inodeKeys[i].toString()));
+        //Object[] inodeKeys = parser.is.table.keySet().toArray();
 
-        foundInodes = model.setVar("Found Inodes", new int[]{}, array);
+        ArrayList<Integer> array = new ArrayList<>();
+
+        try {
+
+            Class.forName("org.h2.Driver");
+
+            con = DriverManager.getConnection("jdbc:h2:file:./db/" + folder + ";MVCC=FALSE;MV_STORE=FALSE", "sa", "sa");
+            stmt = con.createStatement();
+
+            ResultSet rs = stmt.executeQuery("SELECT ID FROM INODE");
+
+            while(rs.next())
+                array.add(rs.getInt("ID"));
+
+        } catch (SQLException sqle) {
+            sqle.printStackTrace();
+        } catch (ClassNotFoundException cnfe) {
+            cnfe.printStackTrace();
+        }
+
+        int[] domain = new int[array.size()];
+        Arrays.setAll(domain, i -> array.get(i));
+
+        //int array[] = new int[inodeKeys.length];
+        //Arrays.setAll(array, i -> Integer.parseInt(inodeKeys[i].toString()));
+
+        foundInodes = model.setVar("Found Inodes", new int[]{}, domain);
     }
 
     public void solver(String folder) {
@@ -36,12 +66,12 @@ public class Main {
          */
 
         //4GB Pen Constraints
-        Constraint typeConstraint = new Constraint("Type Unknown", new TypePropagator(foundInodes, parser.ts.getUnkown()));
+        //Constraint typeConstraint = new Constraint("Type Unknown", new TypePropagator(foundInodes, parser.ts.getUnkown()));
         //Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagator(foundInodes,
         //        new LinkedList[]{parser.ts.getExec(), parser.ts.getUnkown(), parser.ts.getArchives()}));
-        Constraint pathConstraint = new Constraint("Path LVOC/LVOC", new PathPropagator(foundInodes, parser.ps, "LVOC/LVOC"));
+        //Constraint pathConstraint = new Constraint("Path LVOC/LVOC", new PathPropagator(foundInodes, parser.ps, "LVOC/LVOC"));
         //Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagator(foundInodes, "Copyright", parser.is, folder));
-        Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagatorUnix4j(foundInodes, "Copyright", parser.is, folder));
+        //Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagatorUnix4j(foundInodes, "Copyright", parser.is, folder));
 
         //32GB SDHC Constraints
         //Constraint typeConstraint = new Constraint("Type Audio", new TypePropagator(foundInodes, parser.ts.getAudio()));
@@ -54,37 +84,19 @@ public class Main {
          */
 
         //4GB Pen Constraints
-        //Constraint typeConstraint = new Constraint("Type Unknown", new TypePropagatorDB(foundInodes, "Unknown", folder));
+        Constraint typeConstraint = new Constraint("Type Unknown", new TypePropagatorDB(foundInodes, "Unknown", folder));
 
         //32GB SDHC Constraints
         //Constraint typeConstraint = new Constraint("Type Audio", new TypePropagatorDB(foundInodes, "Audio", folder));
 
         /*
-        try {
 
-            Class.forName("org.h2.Driver");
-
-            Connection con = DriverManager.getConnection("jdbc:h2:file:./db/" + folder + ";MVCC=FALSE;MV_STORE=FALSE;IFEXISTS=TRUE", "sa", "sa");
-            Statement stmt = con.createStatement();
-
-            ResultSet rs = stmt.executeQuery("SELECT * FROM INODE");
-
-            while(rs.next())
-                System.out.println("Inode(" + rs.getString("ID") + ", " + rs.getString("FILENAME") + ", " + rs.getString("PATH") + ", " + rs.getString("TYPE") + ")");
-
-
-
-        } catch (ClassNotFoundException cnfe) {
-            cnfe.printStackTrace();
-        } catch (SQLException sqle) {
-            sqle.printStackTrace();
-        }
         */
 
         model.post(typeConstraint);
         //model.post(typesConstraint);
-        model.post(pathConstraint);
-        model.post(searchConstraint);
+        //model.post(pathConstraint);
+        //model.post(searchConstraint);
 
         Solver s = model.getSolver();
 
@@ -92,8 +104,18 @@ public class Main {
 
             if (s.solve()) {
                 System.out.println("Inodes found:");
-                for (int i : foundInodes.getUB())
-                    System.out.println(parser.is.get(i + ""));
+                for (int i : foundInodes.getUB()) {
+                    try {
+                        ResultSet rs = stmt.executeQuery("SELECT * FROM INODE WHERE ID = " + i);
+
+                        while(rs.next())
+                            System.out.println("Inode(" + rs.getString("ID") + ", " + rs.getString("FILENAME") + ", " + rs.getString("PATH") + ", " + rs.getString("TYPE") + ")");
+
+                    } catch (SQLException sqle) {
+                        sqle.printStackTrace();
+                    }
+                }
+
             } else
                 System.out.println("No Solution Found.");
 
