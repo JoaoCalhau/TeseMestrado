@@ -10,13 +10,13 @@ import java.util.LinkedList;
 
 public class PathPropagator extends Propagator<SetVar> {
 
-    private SetVar foundInodes;
+    private SetVar var;
     private PathStructure ps;
     private String path;
 
-    public PathPropagator(SetVar foundInodes, PathStructure ps, String path) {
-        super(new SetVar[]{foundInodes}, PropagatorPriority.UNARY, false);
-        this.foundInodes = foundInodes;
+    public PathPropagator(SetVar var, PathStructure ps, String path) {
+        super(new SetVar[]{var}, PropagatorPriority.UNARY, false);
+        this.var = var;
         this.ps = ps;
         this.path = path;
     }
@@ -25,13 +25,13 @@ public class PathPropagator extends Propagator<SetVar> {
     public void propagate(int evtmask) throws ContradictionException {
         LinkedList<Inode> ll = ps.get(path);
 
-        for (int inode : foundInodes.getUB()) {
+        for (int inode : var.getUB()) {
 
             if (ll != null) {
                 if (!ll.contains(new Inode(inode + "")))
-                    foundInodes.remove(inode, this);
+                    var.remove(inode, this);
             } else {
-                foundInodes.remove(inode, this);
+                var.remove(inode, this);
             }
         }
 
@@ -39,7 +39,7 @@ public class PathPropagator extends Propagator<SetVar> {
 
     @Override
     public ESat isEntailed() {
-        if (foundInodes.getUB().isEmpty())
+        if (var.getUB().isEmpty())
             return ESat.FALSE;
         else
             return ESat.TRUE;

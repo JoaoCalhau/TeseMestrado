@@ -16,7 +16,7 @@ public class Main {
     //private Parser parser;
     private ParserDB parserDB;
     private Model model;
-    private SetVar foundInodes;
+    private SetVar var;
     private Connection con;
     private Statement stmt;
 
@@ -55,7 +55,16 @@ public class Main {
         //int array[] = new int[inodeKeys.length];
         //Arrays.setAll(array, i -> Integer.parseInt(inodeKeys[i].toString()));
 
-        foundInodes = model.setVar("Found Inodes", new int[]{}, domain);
+        var = model.setVar("Found Inodes", new int[]{}, domain);
+    }
+
+    public void close() {
+        try {
+            stmt.close();
+            con.close();
+        } catch (SQLException sqle) {
+            sqle.printStackTrace();
+        }
     }
 
     public void solver(String folder) {
@@ -65,36 +74,36 @@ public class Main {
          */
 
         //4GB Pen Constraints
-        //Constraint typeConstraint = new Constraint("Type Unknown", new TypePropagator(foundInodes, parser.ts.getUnkown()));
-        //Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagator(foundInodes,
+        //Constraint typeConstraint = new Constraint("Type Unknown", new TypePropagator(var, parser.ts.getUnkown()));
+        //Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagator(var,
         //        new LinkedList[]{parser.ts.getExec(), parser.ts.getUnkown(), parser.ts.getArchives()}));
-        //Constraint pathConstraint = new Constraint("Path LVOC/LVOC", new PathPropagator(foundInodes, parser.ps, "LVOC/LVOC"));
-        //Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagator(foundInodes, "Copyright", parser.is, folder));
-        //Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagatorUnix4j(foundInodes, "Copyright", parser.is, folder));
+        //Constraint pathConstraint = new Constraint("Path LVOC/LVOC", new PathPropagator(var, parser.ps, "LVOC/LVOC"));
+        //Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagator(var, "Copyright", parser.is, folder));
+        //Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagatorUnix4j(var, "Copyright", parser.is, folder));
 
         //32GB SDHC Constraints
-        //Constraint typeConstraint = new Constraint("Type Audio", new TypePropagator(foundInodes, parser.ts.getAudio()));
-        //Constraint pathConstraint = new Constraint("Path Music/BabyMetal", new PathPropagator(foundInodes, parser.ps, "Music/BabyMetal"));
-        //Constraint searchConstraint = new Constraint("Name metal", new WordSearchPropagator(foundInodes, "Metal", parser.is, folder));
-        //Constraint searchConstraint = new Constraint("Name metal", new WordSearchPropagatorUnix4j(foundInodes, "Metal", parser.is, folder));
+        //Constraint typeConstraint = new Constraint("Type Audio", new TypePropagator(var, parser.ts.getAudio()));
+        //Constraint pathConstraint = new Constraint("Path Music/BabyMetal", new PathPropagator(var, parser.ps, "Music/BabyMetal"));
+        //Constraint searchConstraint = new Constraint("Name metal", new WordSearchPropagator(var, "Metal", parser.is, folder));
+        //Constraint searchConstraint = new Constraint("Name metal", new WordSearchPropagatorUnix4j(var, "Metal", parser.is, folder));
 
         /*
          * Databases
          */
 
         //4GB Pen Constraints
-        Constraint typeConstraint = new Constraint("Type Unknown", new TypePropagatorDB(foundInodes, "Unknown", folder));
-        //Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagatorDB(foundInodes, new String[]{"Unknown", "Exec"}, folder));
-        Constraint pathConstraint = new Constraint("Path LVOC/LVOC", new PathPropagatorDB(foundInodes, "LVOC/LVOC", folder));
-        //Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagatorDB(foundInodes, "Copyright", folder));
-        Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagatorUnix4jDB(foundInodes, "Copyright", folder));
+        Constraint typeConstraint = new Constraint("Type Unknown", new TypePropagatorDB(var, "Unknown", folder));
+        //Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagatorDB(var, new String[]{"Unknown", "Exec"}, folder));
+        Constraint pathConstraint = new Constraint("Path LVOC/LVOC", new PathPropagatorDB(var, "LVOC/LVOC", folder));
+        //Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagatorDB(var, "Copyright", folder));
+        Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagatorUnix4jDB(var, "Copyright", folder));
 
         //32GB SDHC Constraints
-        //Constraint typeConstraint = new Constraint("Type Audio", new TypePropagatorDB(foundInodes, "Audio", folder));
-        //Constraint typesConstraint = new Constraint("Types Audio and Data", new TypesPropagatorDB(foundInodes, new String[]{"Audio", "Data"}, folder));
-        //Constraint pathConstraint = new Constraint("Path Music/BabyMetal", new PathPropagatorDB(foundInodes, "Music/BabyMetal", folder));
-        //Constraint searchConstraint = new Constraint("Name metal", new WordSearchPropagatorDB(foundInodes, "Metal",, folder));
-        //Constraint searchConstraint = new Constraint("Name metal", new WordSearchPropagatorUnix4jDB(foundInodes, "Metal", folder));
+        //Constraint typeConstraint = new Constraint("Type Audio", new TypePropagatorDB(var, "Audio", folder));
+        //Constraint typesConstraint = new Constraint("Types Audio and Data", new TypesPropagatorDB(var, new String[]{"Audio", "Data"}, folder));
+        //Constraint pathConstraint = new Constraint("Path Music/BabyMetal", new PathPropagatorDB(var, "Music/BabyMetal", folder));
+        //Constraint searchConstraint = new Constraint("Name metal", new WordSearchPropagatorDB(var, "Metal",, folder));
+        //Constraint searchConstraint = new Constraint("Name metal", new WordSearchPropagatorUnix4jDB(var, "Metal", folder));
         /*
 
         */
@@ -110,7 +119,7 @@ public class Main {
 
             if (s.solve()) {
                 System.out.println("Inodes found:");
-                for (int i : foundInodes.getUB()) {
+                for (int i : var.getUB()) {
                     try {
                         ResultSet rs = stmt.executeQuery("SELECT * FROM INODE WHERE ID = " + i);
 

@@ -10,19 +10,19 @@ import java.util.LinkedList;
 
 public class TypesPropagator extends Propagator<SetVar> {
 
-    private SetVar foundInodes;
+    private SetVar var;
     private LinkedList<Inode>[] types;
 
-    public TypesPropagator(SetVar foundInodes, LinkedList<Inode>[] types) {
-        super(new SetVar[]{foundInodes}, PropagatorPriority.BINARY, false);
-        this.foundInodes = foundInodes;
+    public TypesPropagator(SetVar var, LinkedList<Inode>[] types) {
+        super(new SetVar[]{var}, PropagatorPriority.BINARY, false);
+        this.var = var;
         this.types = types;
     }
 
     @Override
     public void propagate(int evtmask) throws ContradictionException {
         boolean flag;
-        for (int inode : foundInodes.getUB()) {
+        for (int inode : var.getUB()) {
 
             flag = false;
 
@@ -32,15 +32,15 @@ public class TypesPropagator extends Propagator<SetVar> {
             }
 
             if (!flag)
-                foundInodes.remove(inode, this);
+                var.remove(inode, this);
             //else
-            //    foundInodes.force(inode, this);
+            //    var.force(inode, this);
         }
     }
 
     @Override
     public ESat isEntailed() {
-        if (foundInodes.getUB().isEmpty())
+        if (var.getUB().isEmpty())
             return ESat.FALSE;
         else
             return ESat.TRUE;
