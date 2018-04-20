@@ -7,19 +7,20 @@ import org.chocosolver.solver.variables.SetVar;
 import org.chocosolver.util.ESat;
 
 import java.sql.*;
+import java.util.LinkedList;
 
-public class TypePropagatorDB extends Propagator<SetVar> {
+public class TypesPropagatorDB extends Propagator<SetVar> {
 
     private SetVar var;
+    private String[] types;
     private String folder;
-    private String type;
     private Connection con;
     private Statement stmt;
 
-    public TypePropagatorDB(SetVar var, String type, String folder) {
+    public TypesPropagatorDB(SetVar var, String[] types, String folder) {
         super(new SetVar[]{var}, PropagatorPriority.BINARY, false);
         this.var = var;
-        this.type = type;
+        this.types = types;
         this.folder = folder;
     }
 
@@ -31,16 +32,24 @@ public class TypePropagatorDB extends Propagator<SetVar> {
             con = DriverManager.getConnection("jdbc:h2:file:./db/" + folder + ";MVCC=FALSE;MV_STORE=FALSE;", "sa", "sa");
             stmt = con.createStatement();
 
-
+            boolean flag;
+            ResultSet rs;
             for(int i : var.getUB()) {
-                ResultSet rs = stmt.executeQuery("SELECT * FROM INODE WHERE TYPE = '" + type + "' AND ID = " + i);
+                flag = false;
 
-                if(!rs.next())
+                for(int j = 0; j < types.length; j++) {
+                    rs = stmt.executeQuery("SELECT * FROM INODE WHERE TYPE = '" + types[j] + "' AND ID = " + i);
+
+                    if(rs.next()) {
+                        flag = true;
+                        break;
+                    }
+                }
+
+                if(!flag)
                     var.remove(i, this);
                 //else
                 //    var.force(i, this);
-
-                rs.close();
             }
 
             stmt.close();
@@ -49,13 +58,13 @@ public class TypePropagatorDB extends Propagator<SetVar> {
         } catch (ClassNotFoundException cnfe) {
             System.err.println("Class not found... Check jar files");
         } catch (SQLException sqle) {
-            System.out.println("SQL problems in type propagator");
+            sqle.printStackTrace();
         }
     }
 
     @Override
     public ESat isEntailed() {
-        if(var.getUB().isEmpty())
+        if (var.getUB().isEmpty())
             return ESat.FALSE;
         else
             return ESat.TRUE;

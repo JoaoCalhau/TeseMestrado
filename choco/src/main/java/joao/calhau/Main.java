@@ -1,6 +1,5 @@
 package joao.calhau;
 
-
 import org.apache.commons.lang3.time.StopWatch;
 import org.chocosolver.solver.Model;
 import org.chocosolver.solver.Solver;
@@ -47,7 +46,7 @@ public class Main {
         } catch (SQLException sqle) {
             sqle.printStackTrace();
         } catch (ClassNotFoundException cnfe) {
-            cnfe.printStackTrace();
+            System.err.println("Class not found... Check jar files");
         }
 
         int[] domain = new int[array.size()];
@@ -85,18 +84,25 @@ public class Main {
 
         //4GB Pen Constraints
         Constraint typeConstraint = new Constraint("Type Unknown", new TypePropagatorDB(foundInodes, "Unknown", folder));
+        //Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagatorDB(foundInodes, new String[]{"Unknown", "Exec"}, folder));
+        Constraint pathConstraint = new Constraint("Path LVOC/LVOC", new PathPropagatorDB(foundInodes, "LVOC/LVOC", folder));
+        //Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagatorDB(foundInodes, "Copyright", folder));
+        Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagatorUnix4jDB(foundInodes, "Copyright", folder));
 
         //32GB SDHC Constraints
         //Constraint typeConstraint = new Constraint("Type Audio", new TypePropagatorDB(foundInodes, "Audio", folder));
-
+        //Constraint typesConstraint = new Constraint("Types Audio and Data", new TypesPropagatorDB(foundInodes, new String[]{"Audio", "Data"}, folder));
+        //Constraint pathConstraint = new Constraint("Path Music/BabyMetal", new PathPropagatorDB(foundInodes, "Music/BabyMetal", folder));
+        //Constraint searchConstraint = new Constraint("Name metal", new WordSearchPropagatorDB(foundInodes, "Metal",, folder));
+        //Constraint searchConstraint = new Constraint("Name metal", new WordSearchPropagatorUnix4jDB(foundInodes, "Metal", folder));
         /*
 
         */
 
         model.post(typeConstraint);
         //model.post(typesConstraint);
-        //model.post(pathConstraint);
-        //model.post(searchConstraint);
+        model.post(pathConstraint);
+        model.post(searchConstraint);
 
         Solver s = model.getSolver();
 
