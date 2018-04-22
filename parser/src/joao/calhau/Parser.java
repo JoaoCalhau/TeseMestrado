@@ -12,7 +12,6 @@ public class Parser {
     public PathStructure ps;
     public TypesStructure ts;
     private String folder;
-    private int biggest;
     private Connection con = null;
     private Statement stmt = null;
     private PreparedStatement pstmt = null;
@@ -20,43 +19,9 @@ public class Parser {
     public Parser(String folder) {
 
         this.folder = folder;
-
-        /*
-        try {
-            Class.forName("org.h2.Driver");
-
-            this.con = DriverManager.getConnection("jdbc:h2:file:./db/" + folder + ";MVCC=FALSE;MV_STORE=FALSE;IFEXISTS=TRUE", "sa", "sa");
-            this.stmt = con.createStatement();
-
-            stmt.executeUpdate("DROP TABLE IF EXISTS INODE");
-
-            stmt.executeUpdate("CREATE TABLE INODE(ID TEXT, FILENAME TEXT, PATH TEXT, TYPE TEXT)");
-
-            stmt.close();
-
-            this.pstmt = con.prepareStatement("INSERT INTO INODE VALUES(?, ?, ?, ?)");
-
-        } catch (SQLException sqle) {
-            System.err.println("Error while processing queries");
-            sqle.printStackTrace();
-        } catch (ClassNotFoundException cnfe) {
-            System.err.println("Class not found");
-            cnfe.printStackTrace();
-        }
-        */
-
-        biggest = 0;
         is = new InodeStructure();
         ps = new PathStructure();
         ts = new TypesStructure();
-    }
-
-    public int getBiggest() {
-        return biggest;
-    }
-
-    public void setBiggest(int biggest) {
-        this.biggest = biggest;
     }
 
     public void parse() {
@@ -119,9 +84,6 @@ public class Parser {
                         is.put(inode);
                         ps.put(inode);
                         ts.insert(inode);
-
-                        if (Integer.parseInt(id) > biggest)
-                            biggest = Integer.parseInt(id);
 
                         br.readLine();
                     } else {

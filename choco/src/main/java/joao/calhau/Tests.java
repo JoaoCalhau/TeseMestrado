@@ -78,7 +78,7 @@ public class Tests {
 
             Connection con = DriverManager.getConnection("jdbc:h2:file:./db/pen_4;MVCC=FALSE;MV_STORE=FALSE;", "sa", "sa");
             Statement stmt = con.createStatement();
-
+            /*
             ResultSet rs = stmt.executeQuery("SELECT * FROM INODE");
 
             while(rs.next())
@@ -98,7 +98,9 @@ public class Tests {
 
             while(rs.next())
                 System.out.println("Inode(" + rs.getInt("ID") + ", " + rs.getString("FILENAME") + ", " + rs.getString("PATH") + ", " + rs.getString("TYPE") + ")");
+            */
 
+            ResultSet rs = stmt.executeQuery("SELECT * FROM INODE WHERE PATH = 'LVOC/LVOC' AND ID = ");
 
 
         } catch (ClassNotFoundException cnfe) {

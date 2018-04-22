@@ -27,8 +27,10 @@ public class TypesPropagator extends Propagator<SetVar> {
             flag = false;
 
             for (int j = 0; j < types.length; j++) {
-                if (types[j].contains(new Inode(inode + "")))
+                if (types[j].contains(new Inode(inode + ""))) {
                     flag = true;
+                    break;
+                }
             }
 
             if (!flag)

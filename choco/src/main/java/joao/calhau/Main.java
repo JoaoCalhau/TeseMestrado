@@ -1,5 +1,6 @@
 package joao.calhau;
 
+
 import org.apache.commons.lang3.time.StopWatch;
 import org.chocosolver.solver.Model;
 import org.chocosolver.solver.Solver;
@@ -7,111 +8,50 @@ import org.chocosolver.solver.constraints.Constraint;
 import org.chocosolver.solver.exception.SolverException;
 import org.chocosolver.solver.variables.SetVar;
 
-import java.sql.*;
-import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.LinkedList;
 
 public class Main {
 
-    //private Parser parser;
-    private ParserDB parserDB;
+    private Parser parser;
     private Model model;
     private SetVar var;
-    private Connection con;
-    private Statement stmt;
 
     public Main(String folder) {
-        parserDB = new ParserDB(folder);
-
-        //parser = new Parser(folder);
-        //parser.parse();
+        parser = new Parser(folder);
+        parser.parse();
         model = new Model("Main Model");
 
-        //Object[] inodeKeys = parser.is.table.keySet().toArray();
+        Object[] inodeKeys = parser.is.table.keySet().toArray();
+        int array[] = new int[inodeKeys.length];
+        Arrays.setAll(array, i -> Integer.parseInt(inodeKeys[i].toString()));
 
-        ArrayList<Integer> array = new ArrayList<>();
-
-        try {
-
-            Class.forName("org.h2.Driver");
-
-            con = DriverManager.getConnection("jdbc:h2:file:./db/" + folder + ";MVCC=FALSE;MV_STORE=FALSE", "sa", "sa");
-            stmt = con.createStatement();
-
-            ResultSet rs = stmt.executeQuery("SELECT ID FROM INODE");
-
-            while(rs.next())
-                array.add(rs.getInt("ID"));
-
-        } catch (SQLException sqle) {
-            sqle.printStackTrace();
-        } catch (ClassNotFoundException cnfe) {
-            System.err.println("Class not found... Check jar files");
-        }
-
-        int[] domain = new int[array.size()];
-        Arrays.setAll(domain, i -> array.get(i));
-
-        //int array[] = new int[inodeKeys.length];
-        //Arrays.setAll(array, i -> Integer.parseInt(inodeKeys[i].toString()));
-
-        var = model.setVar("Found Inodes", new int[]{}, domain);
-    }
-
-    public void close() {
-        try {
-            stmt.close();
-            con.close();
-        } catch (SQLException sqle) {
-            sqle.printStackTrace();
-        }
+        var = model.setVar("Found Inodes", new int[]{}, array);
     }
 
     public void solver(String folder) {
 
-        /*
-         * Data Structures
-         */
-
-        //4GB Pen Constraints
-        //Constraint typeConstraint = new Constraint("Type Unknown", new TypePropagator(var, parser.ts.getUnkown()));
+        Constraint typeConstraint = new Constraint("Type Unknown", new TypePropagator(var, parser.ts.getUnkown()));
         //Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagator(var,
         //        new LinkedList[]{parser.ts.getExec(), parser.ts.getUnkown(), parser.ts.getArchives()}));
         //Constraint pathConstraint = new Constraint("Path LVOC/LVOC", new PathPropagator(var, parser.ps, "LVOC/LVOC"));
-        //Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagator(var, "Copyright", parser.is, folder));
+        Constraint pathsConstraint = new Constraint("Paths LVOC/LVOC and idle_master", new PathsPropagator(var,
+                parser.ps, new String[]{"LVOC/LVOC", "idle_master"}));
         //Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagatorUnix4j(var, "Copyright", parser.is, folder));
 
-        //32GB SDHC Constraints
         //Constraint typeConstraint = new Constraint("Type Audio", new TypePropagator(var, parser.ts.getAudio()));
+        //Constraint typesConstraint = new Constraint("Type Audio and Data", new TypesPropagator(var,
+        //        new LinkedList[]{parser.ts.getAudio(), parser.ts.getData()}));
         //Constraint pathConstraint = new Constraint("Path Music/BabyMetal", new PathPropagator(var, parser.ps, "Music/BabyMetal"));
-        //Constraint searchConstraint = new Constraint("Name metal", new WordSearchPropagator(var, "Metal", parser.is, folder));
-        //Constraint searchConstraint = new Constraint("Name metal", new WordSearchPropagatorUnix4j(var, "Metal", parser.is, folder));
-
-        /*
-         * Databases
-         */
-
-        //4GB Pen Constraints
-        Constraint typeConstraint = new Constraint("Type Unknown", new TypePropagatorDB(var, "Unknown", folder));
-        //Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagatorDB(var, new String[]{"Unknown", "Exec"}, folder));
-        Constraint pathConstraint = new Constraint("Path LVOC/LVOC", new PathPropagatorDB(var, "LVOC/LVOC", folder));
-        //Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagatorDB(var, "Copyright", folder));
-        Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagatorUnix4jDB(var, "Copyright", folder));
-
-        //32GB SDHC Constraints
-        //Constraint typeConstraint = new Constraint("Type Audio", new TypePropagatorDB(var, "Audio", folder));
-        //Constraint typesConstraint = new Constraint("Types Audio and Data", new TypesPropagatorDB(var, new String[]{"Audio", "Data"}, folder));
-        //Constraint pathConstraint = new Constraint("Path Music/BabyMetal", new PathPropagatorDB(var, "Music/BabyMetal", folder));
-        //Constraint searchConstraint = new Constraint("Name metal", new WordSearchPropagatorDB(var, "Metal",, folder));
-        //Constraint searchConstraint = new Constraint("Name metal", new WordSearchPropagatorUnix4jDB(var, "Metal", folder));
-        /*
-
-        */
+        //Constraint pathsConstraint = new Constraint("Paths Music/BabyMetal and Music/Amon Amarth/Deceiver of The Gods", new PathsPropagator(var, parser.ps,
+        //        new String[]{"Music/BabyMetal", "Music/Amon Amarth/Deceiver of The Gods"}));
+        //Constraint searchConstraint = new Constraint("Name Akatsuki", new WordSearchPropagatorUnix4j(var, "Akatsuki", parser.is, folder));
 
         model.post(typeConstraint);
         //model.post(typesConstraint);
-        model.post(pathConstraint);
-        model.post(searchConstraint);
+        //model.post(pathConstraint);
+        model.post(pathsConstraint);
+        //model.post(searchConstraint);
 
         Solver s = model.getSolver();
 
@@ -119,18 +59,8 @@ public class Main {
 
             if (s.solve()) {
                 System.out.println("Inodes found:");
-                for (int i : var.getUB()) {
-                    try {
-                        ResultSet rs = stmt.executeQuery("SELECT * FROM INODE WHERE ID = " + i);
-
-                        while(rs.next())
-                            System.out.println("Inode(" + rs.getString("ID") + ", " + rs.getString("FILENAME") + ", " + rs.getString("PATH") + ", " + rs.getString("TYPE") + ")");
-
-                    } catch (SQLException sqle) {
-                        sqle.printStackTrace();
-                    }
-                }
-
+                for (int i : var.getUB())
+                    System.out.println(parser.is.get(i + "").toString());
             } else
                 System.out.println("No Solution Found.");
 
