@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9167e391-f0db-4062-bcce-a4bddb05e435" name="Default" comment="Adding a different version of Main so we can do processing speed comparisons.&#10;Also added a new Propagator to propagate more than one path.">
-      <change afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/TimeComparisons.java" afterDir="false" />
+    <list default="true" id="9167e391-f0db-4062-bcce-a4bddb05e435" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/structures/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/MainDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/MainDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/PathPropagator.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/structures/PathPropagator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/PathPropagatorDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/PathPropagatorDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/PathsPropagator.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/structures/PathsPropagator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/PathsPropagatorDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/PathsPropagatorDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/TypePropagator.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/structures/TypePropagator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/TypePropagatorDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/TypePropagatorDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/TypesPropagator.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/structures/TypesPropagator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/TypesPropagatorDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/TypesPropagatorDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/WordSearchPropagator.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/structures/WordSearchPropagator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/WordSearchPropagatorDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/WordSearchPropagatorDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/WordSearchPropagatorUnix4j.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/structures/WordSearchPropagatorUnix4j.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/WordSearchPropagatorUnix4jDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/WordSearchPropagatorUnix4jDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/pen_4.h2.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/sdhc.h2.db" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/choco/target/" />
@@ -50,38 +33,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="TimeComparisons.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/TimeComparisons.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainDB.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/MainDB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="90" column="37" selection-start-line="90" selection-start-column="37" selection-end-line="90" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/structures/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -240,59 +192,6 @@
             <path>
               <item name="TeseMestrado" type="b2602c69:ProjectViewProjectNode" />
               <item name="TeseMestrado" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TeseMestrado" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TeseMestrado" type="462c0819:PsiDirectoryNode" />
-              <item name="choco" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TeseMestrado" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TeseMestrado" type="462c0819:PsiDirectoryNode" />
-              <item name="choco" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TeseMestrado" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TeseMestrado" type="462c0819:PsiDirectoryNode" />
-              <item name="choco" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TeseMestrado" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TeseMestrado" type="462c0819:PsiDirectoryNode" />
-              <item name="choco" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TeseMestrado" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TeseMestrado" type="462c0819:PsiDirectoryNode" />
-              <item name="choco" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="calhau" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TeseMestrado" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TeseMestrado" type="462c0819:PsiDirectoryNode" />
-              <item name="data.structures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TeseMestrado" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TeseMestrado" type="462c0819:PsiDirectoryNode" />
-              <item name="data.structures" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TeseMestrado" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TeseMestrado" type="462c0819:PsiDirectoryNode" />
-              <item name="data.structures" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="calhau" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -574,7 +473,7 @@
       <workItem from="1524403221503" duration="2363000" />
       <workItem from="1524405866604" duration="379000" />
       <workItem from="1524406610304" duration="23000" />
-      <workItem from="1524479330863" duration="1675000" />
+      <workItem from="1524479330863" duration="1835000" />
     </task>
     <task id="LOCAL-00001" summary="Added basic project layout">
       <created>1516224248334</created>
@@ -884,15 +783,21 @@
       <option name="project" value="LOCAL" />
       <updated>1524405465090</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Adding time comparisons to include in the thesis later on.&#10;Altered project structure slightly.">
+      <created>1524481121514</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1524481121515</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134463000" />
+    <option name="totallyTimeSpent" value="134623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -904,11 +809,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.3295302" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.56551725" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785176" weight="0.81793106" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785176" weight="0.22482759" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20507812" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20507812" />
       <window_info anchor="bottom" id="Statistic" order="11" weight="0.38068965" />
       <window_info anchor="right" id="Database" order="6" weight="0.1920573" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -944,7 +849,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fixed the problems in Type propagator and created a new propagator for paths.&#10;At the same time fixed the initialization problem to only have the set resulting from the Inode Structure." />
     <MESSAGE value="Added a stopwatch to find the amount of time it takes to execute the program." />
     <MESSAGE value="Added TypesPropagator, to be able to propagate more than one type." />
     <MESSAGE value="Working (I think) but taking too long" />
@@ -969,7 +873,8 @@
     <MESSAGE value="All propagator database counterparts are now created and fully functional." />
     <MESSAGE value="Changing the name of the main set variable from foundInodes to var" />
     <MESSAGE value="Adding a different version of Main so we can do processing speed comparisons.&#10;Also added a new Propagator to propagate more than one path." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding a different version of Main so we can do processing speed comparisons.&#10;Also added a new Propagator to propagate more than one path." />
+    <MESSAGE value="Adding time comparisons to include in the thesis later on.&#10;Altered project structure slightly." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding time comparisons to include in the thesis later on.&#10;Altered project structure slightly." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1285,10 +1190,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/structures/Main.java">
+    <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/TimeComparisons.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1299,13 +1207,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/TimeComparisons.java">
+    <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/structures/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
         </state>
       </provider>
     </entry>
