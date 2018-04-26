@@ -23,6 +23,7 @@ public class ParserDB {
             stmt = con.createStatement();
 
             stmt.executeUpdate("CREATE TABLE IF NOT EXISTS INODE(ID INTEGER, FILENAME TEXT, PATH TEXT, TYPE TEXT)");
+            stmt.executeUpdate("CREATE TABLE IF NOT EXISTS RESULTS(ID INTEGER, FILENAME TEXT, TYPE TEXT, PATH TEXT, WORD TEXT)");
 
             pstmt = con.prepareStatement("INSERT INTO INODE VALUES(?, ?, ?, ?)");
 
