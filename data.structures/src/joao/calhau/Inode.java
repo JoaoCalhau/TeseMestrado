@@ -1,12 +1,14 @@
 package joao.calhau;
 
+import java.io.Serializable;
+
 /*
  *
  * This class represents a possible simple
  * representation of an Inode
  *
  */
-public class Inode {
+public class Inode implements Serializable {
 
     private String id;
     private String fileName;

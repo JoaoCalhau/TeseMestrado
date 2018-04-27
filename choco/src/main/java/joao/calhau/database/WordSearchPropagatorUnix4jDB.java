@@ -45,8 +45,7 @@ public class WordSearchPropagatorUnix4jDB extends Propagator<SetVar> {
                     path = rs.getString("PATH");
                     fileName = rs.getString("FILENAME");
 
-
-                    if (fileName.contains(word)) {
+                    if (fileName.toUpperCase().contains(word.toUpperCase())) {
                         var.force(i, this);
                     } else {
                         int out;

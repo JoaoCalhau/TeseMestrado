@@ -1,5 +1,7 @@
 package joao.calhau.database;
 
+import joao.calhau.CacheStructure;
+import joao.calhau.Inode;
 import joao.calhau.ParserDB;
 import org.apache.commons.lang3.time.StopWatch;
 import org.chocosolver.solver.Model;
@@ -11,6 +13,7 @@ import org.chocosolver.solver.variables.SetVar;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.LinkedList;
 
 public class MainDB {
 
@@ -20,7 +23,6 @@ public class MainDB {
     private SetVar var;
     private Connection con;
     private Statement stmt;
-    private PreparedStatement pstmt;
 
     public MainDB(String folder) {
 
@@ -38,7 +40,6 @@ public class MainDB {
 
             con = DriverManager.getConnection("jdbc:h2:file:./db/" + folder + ";MVCC=FALSE;MV_STORE=FALSE", "sa", "sa");
             stmt = con.createStatement();
-            pstmt = con.prepareStatement("INSERT INTO RESULTS VALUES(?, ?, ?, ?, ?)");
 
             ResultSet rs = stmt.executeQuery("SELECT ID FROM INODE");
 
@@ -68,21 +69,19 @@ public class MainDB {
 
     public void solver(String CType, String CPath, String CWord) {
         try {
-            //ResultSet rs = stmt.executeQuery("SELECT ID, FILENAME FROM RESULTS WHERE PATH = '" + CPath + "' AND TYPE = '" + CType + "' AND WORD = '" + CWord + "'");
-            ResultSet rs = stmt.executeQuery("SELECT * FROM RESULTS");
 
-            while(rs.next())
-                System.out.println(rs.getInt("ID"));
+            CacheStructure cs = new CacheStructure();
+            String key = CType + "&" + CPath + "&" + CWord;
 
-            if(rs.next()) {
-                System.out.println("The following inodes where found in our cache");
-                while(rs.next())
-                    System.out.println("Inode(" + rs.getInt("ID") + ", " + rs.getString("FILENAME") + ", " + CPath + ", " + CType + ")");
+            if(cs.existsInCache(key)) {
+                LinkedList<Inode> ll = cs.getListFromCache(key);
+
+                System.out.println();
+                System.out.println("Inodes found:");
+                for(Inode i : ll)
+                    System.out.println(i.toString());
 
             } else {
-                System.out.println();
-                System.out.println("Nothing found on cache, running Constraint Solver");
-                System.out.println();
 
                 //4GB Pen Constraints
                 Constraint typeConstraint = new Constraint("Type " + CType, new TypePropagatorDB(var, CType, folder));
@@ -100,10 +99,8 @@ public class MainDB {
                 //Constraint pathConstraint = new Constraint("Path " + CPath, new PathPropagatorDB(var, CPath, folder));
                 //Constraint searchConstraint = new Constraint("Name metal", new WordSearchPropagatorDB(var, "Metal",, folder));
                 //Constraint searchConstraint = new Constraint("Name " + CWord, new WordSearchPropagatorUnix4jDB(var, CWord, folder));
-                /*
 
-                 */
-
+                //Constraint posting
                 model.post(typeConstraint);
                 //model.post(typesConstraint);
                 model.post(pathConstraint);
@@ -112,35 +109,31 @@ public class MainDB {
 
                 Solver s = model.getSolver();
 
+                //Constraint solving
                 if (s.solve()) {
+                    System.out.println();
                     System.out.println("Inodes found:");
+                    int id;
+                    String fileName, path, type;
+                    LinkedList<Inode> ll = new LinkedList<>();
                     for (int i : var.getUB()) {
-                        try {
-                            rs = stmt.executeQuery("SELECT * FROM INODE WHERE ID = " + i);
 
-                            int id;
-                            String fileName, path, type;
-                            while(rs.next()) {
-                                id = rs.getInt("ID");
-                                fileName = rs.getString("FILENAME");
-                                path = rs.getString("PATH");
-                                type = rs.getString("TYPE");
+                        ResultSet rs = stmt.executeQuery("SELECT * FROM INODE WHERE ID = " + i);
 
-                                pstmt.setInt(1, id);
-                                pstmt.setString(2, fileName);
-                                pstmt.setString(3, CType);
-                                pstmt.setString(4, CPath);
-                                pstmt.setString(5, CWord);
+                        while(rs.next()) {
+                            id = rs.getInt("ID");
+                            fileName = rs.getString("FILENAME");
+                            path = rs.getString("PATH");
+                            type = rs.getString("TYPE");
 
-                                System.out.println("Inode(" + id + ", " + fileName + ", " + path + ", " + type + ")");
-                            }
+                            ll.add(new Inode("" + id, fileName, path, type));
 
-                            System.out.println("Solutions are now cached...");
-
-                        } catch (SQLException sqle) {
-                            sqle.printStackTrace();
+                            System.out.println("Inode(" + id + ", " + fileName + ", " + path + ", " + type + ")");
                         }
                     }
+
+                    cs.addToCache(key, ll);
+                    cs.saveToFile();
 
                 } else
                     System.out.println("No Solution Found.");
@@ -148,9 +141,8 @@ public class MainDB {
 
 
         } catch (SQLException sqle) {
-
+            sqle.printStackTrace();
         } catch (SolverException se) {
-            se.printStackTrace();
             System.err.println("Failure!");
             System.err.println("No more Inodes to process...");
             System.err.println("Terminating program.");
@@ -167,6 +159,7 @@ public class MainDB {
         main.solver("Unknown", "LVOC/LVOC", "Copyright");
 
         stopWatch.stop();
+
         System.out.println();
         System.out.println("Constraints took: " + stopWatch.getTime() + " milliseconds to execute.");
 
