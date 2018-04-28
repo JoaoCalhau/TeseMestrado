@@ -75,34 +75,19 @@ public class MainDB {
                 }
             } else {
 
+                //Domain creation
                 ArrayList<Integer> array = new ArrayList<>();
-
                 ResultSet rs = stmt.executeQuery("SELECT ID FROM INODE");
-
                 while(rs.next())
                     array.add(rs.getInt("ID"));
-
                 int[] domain = new int[array.size()];
                 Arrays.setAll(domain, i -> array.get(i));
-
                 var = model.setVar("Var", new int[]{}, domain);
 
-                //4GB Pen Constraints
+                //Constraint creation
                 Constraint typeConstraint = new Constraint("Type " + CType, new TypePropagatorDB(var, CType, folder));
-                //Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagatorDB(var,
-                //        new String[]{"Unknown", "Exec"}, folder));
                 Constraint pathConstraint = new Constraint("Path " + CPath, new PathPropagatorDB(var, CPath, folder));
-                //Constraint pathsConstraint = new Constraint("Paths LVOC/LVOC and idle_master", new PathsPropagatorDB(var,
-                //        new String[]{"LVOC/LVOC", "idle_master"}, folder));
-                //Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagatorDB(var, "Copyright", folder));
                 Constraint searchConstraint = new Constraint("Name " + CWord, new WordSearchPropagatorUnix4jDB(var, CWord, folder));
-
-                //32GB SDHC Constraints
-                //Constraint typeConstraint = new Constraint("Type " + CType, new TypePropagatorDB(var, CType, folder));
-                //Constraint typesConstraint = new Constraint("Types Audio and Data", new TypesPropagatorDB(var, new String[]{"Audio", "Data"}, folder));
-                //Constraint pathConstraint = new Constraint("Path " + CPath, new PathPropagatorDB(var, CPath, folder));
-                //Constraint searchConstraint = new Constraint("Name metal", new WordSearchPropagatorDB(var, "Metal",, folder));
-                //Constraint searchConstraint = new Constraint("Name " + CWord, new WordSearchPropagatorUnix4jDB(var, CWord, folder));
 
                 //Constraint posting
                 model.post(typeConstraint);
