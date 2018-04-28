@@ -44,7 +44,7 @@ public class ParserDB {
         }
     }
 
-    public void parse() {
+    private void parse() {
         parse("sorted/" + folder + "/archive.txt", "Archive");
         parse("sorted/" + folder + "/audio.txt", "Audio");
         parse("sorted/" + folder + "/compress.txt", "Compress");
@@ -125,7 +125,7 @@ public class ParserDB {
         }
     }
 
-    public void close() {
+    private void close() {
         try {
             pstmt.close();
             stmt.close();

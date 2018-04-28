@@ -32,8 +32,6 @@ public class MainDB {
 
         model = new Model("Main Model");
 
-        ArrayList<Integer> array = new ArrayList<>();
-
         try {
 
             Class.forName("org.h2.Driver");
@@ -41,21 +39,11 @@ public class MainDB {
             con = DriverManager.getConnection("jdbc:h2:file:./db/" + folder + ";MVCC=FALSE;MV_STORE=FALSE", "sa", "sa");
             stmt = con.createStatement();
 
-            ResultSet rs = stmt.executeQuery("SELECT ID FROM INODE");
-
-            while(rs.next())
-                array.add(rs.getInt("ID"));
-
         } catch (SQLException sqle) {
             sqle.printStackTrace();
         } catch (ClassNotFoundException cnfe) {
             System.err.println("Class not found... Check jar files");
         }
-
-        int[] domain = new int[array.size()];
-        Arrays.setAll(domain, i -> array.get(i));
-
-        var = model.setVar("Var", new int[]{}, domain);
     }
 
     public void close() {
@@ -68,20 +56,36 @@ public class MainDB {
     }
 
     public void solver(String CType, String CPath, String CWord) {
+        CacheStructure cs = new CacheStructure();
+        String key = CType + "&" + CPath + "&" + CWord;
+
         try {
-
-            CacheStructure cs = new CacheStructure();
-            String key = CType + "&" + CPath + "&" + CWord;
-
             if(cs.existsInCache(key)) {
                 LinkedList<Inode> ll = cs.getListFromCache(key);
 
-                System.out.println();
-                System.out.println("Inodes found:");
-                for(Inode i : ll)
-                    System.out.println(i.toString());
-
+                if(!ll.isEmpty()) {
+                    System.out.println();
+                    System.out.println("Inodes found:");
+                    for (Inode i : ll)
+                        System.out.println(i.toString());
+                } else {
+                    System.out.println();
+                    System.out.println("No Solution Found.");
+                    System.err.println("No more Inodes to process...");;
+                }
             } else {
+
+                ArrayList<Integer> array = new ArrayList<>();
+
+                ResultSet rs = stmt.executeQuery("SELECT ID FROM INODE");
+
+                while(rs.next())
+                    array.add(rs.getInt("ID"));
+
+                int[] domain = new int[array.size()];
+                Arrays.setAll(domain, i -> array.get(i));
+
+                var = model.setVar("Var", new int[]{}, domain);
 
                 //4GB Pen Constraints
                 Constraint typeConstraint = new Constraint("Type " + CType, new TypePropagatorDB(var, CType, folder));
@@ -118,7 +122,7 @@ public class MainDB {
                     LinkedList<Inode> ll = new LinkedList<>();
                     for (int i : var.getUB()) {
 
-                        ResultSet rs = stmt.executeQuery("SELECT * FROM INODE WHERE ID = " + i);
+                        rs = stmt.executeQuery("SELECT * FROM INODE WHERE ID = " + i);
 
                         while(rs.next()) {
                             id = rs.getInt("ID");
@@ -143,9 +147,13 @@ public class MainDB {
         } catch (SQLException sqle) {
             sqle.printStackTrace();
         } catch (SolverException se) {
-            System.err.println("Failure!");
+
+            cs.addToCache(key, new LinkedList<>());
+            cs.saveToFile();
+
+            System.out.println();
+            System.out.println("No Solution Found.");
             System.err.println("No more Inodes to process...");
-            System.err.println("Terminating program.");
         }
     }
 
@@ -157,6 +165,7 @@ public class MainDB {
         MainDB main = new MainDB(args[0]);
 
         main.solver("Unknown", "LVOC/LVOC", "Copyright");
+        //main.solver("Audio", "Music/BabyMetal", "Metal");
 
         stopWatch.stop();
 
