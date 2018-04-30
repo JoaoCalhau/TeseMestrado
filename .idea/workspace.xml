@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9167e391-f0db-4062-bcce-a4bddb05e435" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/NISTPropagatorDB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/MainDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/MainDB.java" afterDir="false" />
     </list>
@@ -34,16 +35,36 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="MainDB.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/MainDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="77" column="33" lean-forward="true" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
+            <state relative-caret-position="388">
+              <caret line="139" column="53" lean-forward="true" selection-start-line="139" selection-start-column="53" selection-end-line="139" selection-end-column="53" />
               <folding>
-                <element signature="method#MainDB#0;class#MainDB#0" />
-                <element signature="method#close#0;class#MainDB#0" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NISTPropagatorDB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/NISTPropagatorDB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordSearchPropagatorDB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/WordSearchPropagatorDB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="47" column="50" lean-forward="true" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -118,8 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sorted/data.txt" />
-        <option value="$PROJECT_DIR$/sorted/archive.txt" />
         <option value="$PROJECT_DIR$/sorted/disk.txt" />
         <option value="$PROJECT_DIR$/sorted/exec.txt" />
         <option value="$PROJECT_DIR$/sorted/images.txt" />
@@ -168,6 +187,8 @@
         <option value="$PROJECT_DIR$/data.structures/src/joao/calhau/Inode.java" />
         <option value="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/WordSearchPropagatorUnix4jDB.java" />
         <option value="$PROJECT_DIR$/parser/src/joao/calhau/ParserDB.java" />
+        <option value="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/NISTPropagator.java" />
+        <option value="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/NISTPropagatorDB.java" />
         <option value="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/MainDB.java" />
       </list>
     </option>
@@ -193,7 +214,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
-    <option name="width" value="979" />
+    <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -202,8 +223,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,18 +233,55 @@
             <path>
               <item name="TeseMestrado" type="b2602c69:ProjectViewProjectNode" />
               <item name="TeseMestrado" type="462c0819:PsiDirectoryNode" />
-              <item name="cache" type="462c0819:PsiDirectoryNode" />
+              <item name="choco" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TeseMestrado" type="b2602c69:ProjectViewProjectNode" />
               <item name="TeseMestrado" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="choco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeseMestrado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeseMestrado" type="462c0819:PsiDirectoryNode" />
+              <item name="choco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeseMestrado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeseMestrado" type="462c0819:PsiDirectoryNode" />
+              <item name="choco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeseMestrado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeseMestrado" type="462c0819:PsiDirectoryNode" />
+              <item name="choco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="calhau" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeseMestrado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeseMestrado" type="462c0819:PsiDirectoryNode" />
+              <item name="choco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="calhau" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -503,7 +559,8 @@
       <workItem from="1524749942413" duration="4108000" />
       <workItem from="1524841241743" duration="5540000" />
       <workItem from="1524847163837" duration="34000" />
-      <workItem from="1524943266246" duration="1067000" />
+      <workItem from="1524943266246" duration="1136000" />
+      <workItem from="1525076301216" duration="2392000" />
     </task>
     <task id="LOCAL-00001" summary="Added basic project layout">
       <created>1516224248334</created>
@@ -841,11 +898,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524944197464</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Minor code cleaning">
+      <created>1524944367665</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1524944367665</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145372000" />
+    <option name="totallyTimeSpent" value="147833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -853,7 +917,6 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49677765" weight="0.32827586" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -865,7 +928,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1640625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21940105" />
       <window_info anchor="bottom" id="Statistic" order="11" weight="0.38068965" />
       <window_info anchor="right" id="Database" order="6" weight="0.1920573" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -874,14 +937,15 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988604" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49677765" weight="0.32827586" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.32413793" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49785176" weight="0.32827586" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32975295" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49785176" weight="0.32827586" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -901,8 +965,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Working for 4gb pen drive, but not for 32gb sdhc" />
-    <MESSAGE value="Playing around with Search techniques, not giving the intended result yet.&#10;No more loop, exits when it should, but doesn't find the solution." />
     <MESSAGE value="Finally works, was forgetting to force the right inodes into LB..." />
     <MESSAGE value="Uploading changes to the last propagator (forgot earlier)" />
     <MESSAGE value="Beggining work on Word Search Propagator" />
@@ -926,7 +988,9 @@
     <MESSAGE value="First try at creating a successful cache system.&#10;Doesn't work quite right." />
     <MESSAGE value="Cache system semi-done. Still needs to cache models that have no solution." />
     <MESSAGE value="Cache is fully done and working.&#10;Program now looks for solutions in cache before creating SetVar domain, speeding up the whole program." />
-    <option name="LAST_COMMIT_MESSAGE" value="Cache is fully done and working.&#10;Program now looks for solutions in cache before creating SetVar domain, speeding up the whole program." />
+    <MESSAGE value="Minor code cleaning" />
+    <MESSAGE value="Adding NISTPropagator (only works on UNIX systems)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding NISTPropagator (only works on UNIX systems)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -941,6 +1005,16 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/MainDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2754">
+          <caret line="162" lean-forward="true" selection-start-line="162" selection-end-line="162" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://D:/Java/jdk-8/src.zip!/java/security/AccessController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -1173,31 +1247,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/WordSearchPropagatorDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-646">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sorted/sdhc/audio.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/TypePropagatorDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-289">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/PathPropagatorDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-442">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1215,13 +1268,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/TypePropagatorDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/PathPropagatorDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/WordSearchPropagatorDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="47" column="50" lean-forward="true" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/NISTPropagatorDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/MainDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="77" column="33" lean-forward="true" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
+        <state relative-caret-position="388">
+          <caret line="139" column="53" lean-forward="true" selection-start-line="139" selection-start-column="53" selection-end-line="139" selection-end-column="53" />
           <folding>
-            <element signature="method#MainDB#0;class#MainDB#0" />
-            <element signature="method#close#0;class#MainDB#0" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
