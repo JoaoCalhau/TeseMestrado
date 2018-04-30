@@ -88,13 +88,13 @@ public class MainDB {
                 Constraint typeConstraint = new Constraint("Type " + CType, new TypePropagatorDB(var, CType, folder));
                 Constraint pathConstraint = new Constraint("Path " + CPath, new PathPropagatorDB(var, CPath, folder));
                 Constraint searchConstraint = new Constraint("Name " + CWord, new WordSearchPropagatorUnix4jDB(var, CWord, folder));
-                Constraint NISTConstraint = new Constraint("NIST", new NISTPropagatorDB(var, folder));
+                //Constraint NISTConstraint = new Constraint("NIST", new NISTPropagatorDB(var, folder)); //ONLY WORKS ON UNIX SYSTEMS
 
                 //Constraint posting
                 model.post(typeConstraint);
-                //model.post(pathConstraint);
-                //model.post(searchConstraint);
-                model.post(NISTConstraint);
+                model.post(pathConstraint);
+                model.post(searchConstraint);
+                //model.post(NISTConstraint);
 
                 Solver s = model.getSolver();
 

@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9167e391-f0db-4062-bcce-a4bddb05e435" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/file.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/MainDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/MainDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/NISTPropagatorDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/NISTPropagatorDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/PathPropagatorDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/PathPropagatorDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/PathsPropagatorDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/PathsPropagatorDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/TypePropagatorDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/TypePropagatorDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/TypesPropagatorDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/TypesPropagatorDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/WordSearchPropagatorDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/WordSearchPropagatorDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/WordSearchPropagatorUnix4jDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/WordSearchPropagatorUnix4jDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/pen_4.h2.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/sdhc.h2.db" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/choco/target/" />
@@ -42,14 +37,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NISTPropagatorDB.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/NISTPropagatorDB.java">
+      <file leaf-file-name="MainDB.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/MainDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="27" column="69" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
+            <state relative-caret-position="-241">
+              <caret line="72" column="61" lean-forward="true" selection-start-line="72" selection-start-column="61" selection-end-line="72" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#propagate#0;class#NISTPropagatorDB#0" />
               </folding>
             </state>
           </provider>
@@ -168,7 +162,6 @@
         <option value="$PROJECT_DIR$/data.structures/src/joao/calhau/Inode.java" />
         <option value="$PROJECT_DIR$/parser/src/joao/calhau/ParserDB.java" />
         <option value="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/NISTPropagator.java" />
-        <option value="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/MainDB.java" />
         <option value="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/PathPropagatorDB.java" />
         <option value="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/PathsPropagatorDB.java" />
         <option value="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/TypePropagatorDB.java" />
@@ -176,6 +169,7 @@
         <option value="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/WordSearchPropagatorDB.java" />
         <option value="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/WordSearchPropagatorUnix4jDB.java" />
         <option value="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/NISTPropagatorDB.java" />
+        <option value="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/MainDB.java" />
       </list>
     </option>
   </component>
@@ -547,14 +541,7 @@
       <workItem from="1524847163837" duration="34000" />
       <workItem from="1524943266246" duration="1136000" />
       <workItem from="1525076301216" duration="3336000" />
-      <workItem from="1525105743669" duration="527000" />
-    </task>
-    <task id="LOCAL-00002" summary="Added basic parser folder and started development of first structure: &quot;HashTable&quot;">
-      <created>1516225916874</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1516225916874</updated>
+      <workItem from="1525105743669" duration="931000" />
     </task>
     <task id="LOCAL-00003" summary="Added basic parser folder and started development of first structure: &quot;HashTable&quot;">
       <created>1516226009736</created>
@@ -892,11 +879,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525082506253</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Fixed NISTPropagator, it is now properly working. (on unix systems)">
+      <created>1525106334184</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1525106334185</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149304000" />
+    <option name="totallyTimeSpent" value="149708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -952,7 +946,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Finally works, was forgetting to force the right inodes into LB..." />
     <MESSAGE value="Uploading changes to the last propagator (forgot earlier)" />
     <MESSAGE value="Beggining work on Word Search Propagator" />
     <MESSAGE value="Added regex to search for required word" />
@@ -977,7 +970,8 @@
     <MESSAGE value="Cache is fully done and working.&#10;Program now looks for solutions in cache before creating SetVar domain, speeding up the whole program." />
     <MESSAGE value="Minor code cleaning" />
     <MESSAGE value="Adding NISTPropagator (only works on UNIX systems)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding NISTPropagator (only works on UNIX systems)" />
+    <MESSAGE value="Fixed NISTPropagator, it is now properly working. (on unix systems)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed NISTPropagator, it is now properly working. (on unix systems)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1234,16 +1228,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/MainDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1349">
-          <caret line="162" lean-forward="true" selection-start-line="162" selection-end-line="162" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/WordSearchPropagatorUnix4jDB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1288,11 +1272,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/NISTPropagatorDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="27" column="69" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
+        <state relative-caret-position="235">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#propagate#0;class#NISTPropagatorDB#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/MainDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-241">
+          <caret line="72" column="61" lean-forward="true" selection-start-line="72" selection-start-column="61" selection-end-line="72" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
