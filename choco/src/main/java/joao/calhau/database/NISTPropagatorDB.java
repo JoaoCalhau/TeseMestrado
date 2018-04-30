@@ -39,31 +39,39 @@ public class NISTPropagatorDB extends Propagator<SetVar> {
                 String path, fileName;
                 rs = stmt.executeQuery("SELECT PATH, FILENAME FROM INODE WHERE ID = " + i);
 
-                path = rs.getString("PATH");
-                fileName = rs.getString("FILENAME");
+                if(rs.next()) {
+                    path = rs.getString("PATH");
+                    fileName = rs.getString("FILENAME");
 
-                Runtime rt = Runtime.getRuntime();
-                String[] cmd = {"/bin/sh", "", "sha1sum /mnt/" + folder + "/" + path + "/" + fileName};
-                Process proc = rt.exec(cmd);
+                    Runtime rt = Runtime.getRuntime();
+                    Process proc = rt.exec("sha1sum /mnt/" + folder + "/" + path + "/" + fileName);
 
-                BufferedReader br = new BufferedReader(new InputStreamReader(proc.getInputStream()));
+                    BufferedReader br = new BufferedReader(new InputStreamReader(proc.getInputStream()));
 
-                String output = br.readLine();
+                    String output = br.readLine();
 
-                String[] split = output.split("\\s+");
+                    if(output != null) {
+                        String[] split = output.split("\\s+");
 
-                cmd[0] = "/bin/sh";
-                cmd[1] = "";
-                cmd[2] = "hfind NSRLFile.txt " + split[0];
+                        rt = Runtime.getRuntime();
+                        proc = rt.exec("hfind ../NSRLFile.txt " + split[0]);
 
-                br = new BufferedReader(new InputStreamReader(proc.getInputStream()));
+                        br = new BufferedReader(new InputStreamReader(proc.getInputStream()));
 
-                output = br.readLine();
+                        output = br.readLine();
 
-                if(output.contains("Hash Not Found"))
+                        System.out.println(output);
+
+                        if (!output.contains("Hash Not Found"))
+                            var.remove(i, this);
+                        //else
+                        //    var.force(i, this);
+                    } else {
+                        var.remove(i, this);
+                    }
+                } else {
                     var.remove(i, this);
-                //else
-                //    var.force(i, this);
+                }
             }
         } catch (IOException ioe) {
             ioe.printStackTrace();

@@ -92,8 +92,8 @@ public class MainDB {
 
                 //Constraint posting
                 model.post(typeConstraint);
-                model.post(pathConstraint);
-                model.post(searchConstraint);
+                //model.post(pathConstraint);
+                //model.post(searchConstraint);
                 model.post(NISTConstraint);
 
                 Solver s = model.getSolver();

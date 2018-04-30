@@ -20,7 +20,7 @@ public class WordSearchPropagatorDB extends Propagator<SetVar> {
     private Statement stmt;
 
     public WordSearchPropagatorDB(SetVar var, String word, String folder) {
-        super(new SetVar[]{var}, PropagatorPriority.TERNARY, false);
+        super(new SetVar[]{var}, PropagatorPriority.QUADRATIC, false);
         this.var = var;
         this.word = word;
         this.folder = folder;
