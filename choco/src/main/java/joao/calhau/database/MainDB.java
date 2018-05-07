@@ -67,11 +67,11 @@ public class MainDB {
         }
     }
 
-    public void solver(String CType, String CPath, String CWord) {
+    public void solver(String CType, String CPath, String CWord, String CDate) {
         try {
 
             CacheStructure cs = new CacheStructure();
-            String key = CType + "&" + CPath + "&" + CWord;
+            String key = CType + "&" + CPath + "&" + CWord + "&" + CDate;
 
             if(cs.existsInCache(key)) {
                 LinkedList<Inode> ll = cs.getListFromCache(key);
@@ -83,7 +83,7 @@ public class MainDB {
 
             } else {
 
-                //4GB Pen Constraints
+                //Constraint creation
                 Constraint typeConstraint = new Constraint("Type " + CType, new TypePropagatorDB(var, CType, folder));
                 //Constraint typesConstraint = new Constraint("Types Unknown and Exec", new TypesPropagatorDB(var,
                 //        new String[]{"Unknown", "Exec"}, folder));
@@ -92,13 +92,8 @@ public class MainDB {
                 //        new String[]{"LVOC/LVOC", "idle_master"}, folder));
                 //Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagatorDB(var, "Copyright", folder));
                 Constraint searchConstraint = new Constraint("Name " + CWord, new WordSearchPropagatorUnix4jDB(var, CWord, folder));
+                //Constraint dateConstraint = new Constraint("Date " + CDate, new DatePropagator(var, CDate, folder));
 
-                //32GB SDHC Constraints
-                //Constraint typeConstraint = new Constraint("Type " + CType, new TypePropagatorDB(var, CType, folder));
-                //Constraint typesConstraint = new Constraint("Types Audio and Data", new TypesPropagatorDB(var, new String[]{"Audio", "Data"}, folder));
-                //Constraint pathConstraint = new Constraint("Path " + CPath, new PathPropagatorDB(var, CPath, folder));
-                //Constraint searchConstraint = new Constraint("Name metal", new WordSearchPropagatorDB(var, "Metal",, folder));
-                //Constraint searchConstraint = new Constraint("Name " + CWord, new WordSearchPropagatorUnix4jDB(var, CWord, folder));
 
                 //Constraint posting
                 model.post(typeConstraint);
@@ -114,7 +109,7 @@ public class MainDB {
                     System.out.println();
                     System.out.println("Inodes found:");
                     int id;
-                    String fileName, path, type;
+                    String fileName, path, type, dateTime;
                     LinkedList<Inode> ll = new LinkedList<>();
                     for (int i : var.getUB()) {
 
@@ -125,10 +120,13 @@ public class MainDB {
                             fileName = rs.getString("FILENAME");
                             path = rs.getString("PATH");
                             type = rs.getString("TYPE");
+                            dateTime = rs.getString("DT");
 
-                            ll.add(new Inode("" + id, fileName, path, type));
+                            Inode inode = new Inode("" + id, fileName, path, type, dateTime);
 
-                            System.out.println("Inode(" + id + ", " + fileName + ", " + path + ", " + type + ")");
+                            ll.add(inode);
+
+                            System.out.println(inode.toString());
                         }
                     }
 
@@ -156,7 +154,7 @@ public class MainDB {
 
         MainDB main = new MainDB(args[0]);
 
-        main.solver("Unknown", "LVOC/LVOC", "Copyright");
+        main.solver("Unknown", "LVOC/LVOC", "Copyright", "");
 
         stopWatch.stop();
 

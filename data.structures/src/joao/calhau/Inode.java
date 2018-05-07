@@ -14,12 +14,14 @@ public class Inode implements Serializable {
     private String fileName;
     private String path;
     private String type;
+    private String dateTime;
 
     public Inode() {
         id = null;
         fileName = null;
         path = null;
         type = null;
+        dateTime = null;
     }
 
     public Inode(String id) {
@@ -27,6 +29,7 @@ public class Inode implements Serializable {
         fileName = null;
         path = null;
         type = null;
+        dateTime = null;
     }
 
     public Inode(String id, String fileName, String path, String type) {
@@ -34,6 +37,15 @@ public class Inode implements Serializable {
         this.fileName = fileName;
         this.path = path;
         this.type = type;
+        this.dateTime = null;
+    }
+
+    public Inode(String id, String fileName, String path, String type, String dateTime) {
+        this.id = id;
+        this.fileName = fileName;
+        this.path = path;
+        this.type = type;
+        this.dateTime = dateTime;
     }
 
     public String getId() {
@@ -68,6 +80,14 @@ public class Inode implements Serializable {
         this.type = type;
     }
 
+    public String getDateTime() {
+        return dateTime;
+    }
+
+    public void setDateTime(String dateTime) {
+        this.dateTime = dateTime;
+    }
+
     public boolean equals(Object obj) {
         if (obj instanceof Inode) {
             Inode toCompare = (Inode) obj;
@@ -78,6 +98,6 @@ public class Inode implements Serializable {
     }
 
     public String toString() {
-        return "Inode(" + id + ", " + fileName + ", " + path + ", " + type + ")";
+        return "Inode(" + id + ", " + fileName + ", " + path + ", " + type + ", " + dateTime + ")";
     }
 }
