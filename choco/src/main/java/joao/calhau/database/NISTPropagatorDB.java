@@ -11,18 +11,16 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.sql.*;
 
-public class WordSearchPropagatorDB extends Propagator<SetVar> {
+public class NISTPropagatorDB extends Propagator<SetVar> {
 
     private SetVar var;
-    private String word;
     private String folder;
     private Connection con;
     private Statement stmt;
 
-    public WordSearchPropagatorDB(SetVar var, String word, String folder) {
-        super(new SetVar[]{var}, PropagatorPriority.QUADRATIC, false);
+    public NISTPropagatorDB(SetVar var, String folder) {
+        super(new SetVar[]{var}, PropagatorPriority.UNARY, false);
         this.var = var;
-        this.word = word;
         this.folder = folder;
     }
 
@@ -36,7 +34,7 @@ public class WordSearchPropagatorDB extends Propagator<SetVar> {
             stmt = con.createStatement();
 
             ResultSet rs;
-            for (int i : var.getUB()) {
+            for(int i : var.getUB()) {
 
                 String path, fileName;
                 rs = stmt.executeQuery("SELECT PATH, FILENAME FROM INODE WHERE ID = " + i);
@@ -45,47 +43,48 @@ public class WordSearchPropagatorDB extends Propagator<SetVar> {
                     path = rs.getString("PATH");
                     fileName = rs.getString("FILENAME");
 
-                    if (fileName.contains(word)) {
-                        var.force(i, this);
-                    } else {
-                        Runtime rt = Runtime.getRuntime();
-                        String[] cmd = {"/bin/sh", "-c", "grep -c '" + word + "' /mnt/" + folder + "/" + path + "/" + fileName};
-                        Process proc = rt.exec(cmd);
+                    Runtime rt = Runtime.getRuntime();
+                    Process proc = rt.exec("sha1sum /mnt/" + folder + "/" + path + "/" + fileName);
 
-                        BufferedReader br = new BufferedReader(new InputStreamReader(proc.getInputStream()));
+                    BufferedReader br = new BufferedReader(new InputStreamReader(proc.getInputStream()));
 
-                        String output = br.readLine();
+                    String output = br.readLine();
 
-                        if (output != null) {
-                            if (output.equals("0"))
-                                var.remove(i, this);
-                            else
-                                var.force(i, this);
-                        } else {
+                    if(output != null) {
+                        String[] split = output.split("\\s+");
+
+                        rt = Runtime.getRuntime();
+                        proc = rt.exec("hfind ../NSRLFile.txt " + split[0]);
+
+                        br = new BufferedReader(new InputStreamReader(proc.getInputStream()));
+
+                        output = br.readLine();
+
+                        System.out.println(output);
+
+                        if (!output.contains("Hash Not Found"))
                             var.remove(i, this);
-                        }
+                        //else
+                        //    var.force(i, this);
+                    } else {
+                        var.remove(i, this);
                     }
                 } else {
                     var.remove(i, this);
                 }
             }
-
-            stmt.close();
-            con.close();
-
-        } catch (ClassNotFoundException cnfe) {
-            System.err.println("Class not found... Check jar files");
-        } catch ( SQLException sqle) {
-            sqle.printStackTrace();
         } catch (IOException ioe) {
-            System.err.println("Is this running on unix system?");
-            System.exit(1);
+            ioe.printStackTrace();
+        } catch (ClassNotFoundException cnfe) {
+            System.err.println("Class not found, check jars");
+        } catch (SQLException sqle) {
+            sqle.printStackTrace();
         }
     }
 
     @Override
     public ESat isEntailed() {
-        if (var.getUB().isEmpty())
+        if(var.getUB().isEmpty())
             return ESat.FALSE;
         else
             return ESat.TRUE;

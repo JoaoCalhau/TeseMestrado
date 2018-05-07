@@ -17,7 +17,7 @@ public class TypePropagatorDB extends Propagator<SetVar> {
     private Statement stmt;
 
     public TypePropagatorDB(SetVar var, String type, String folder) {
-        super(new SetVar[]{var}, PropagatorPriority.BINARY, false);
+        super(new SetVar[]{var}, PropagatorPriority.TERNARY, false);
         this.var = var;
         this.type = type;
         this.folder = folder;
