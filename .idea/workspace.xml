@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9167e391-f0db-4062-bcce-a4bddb05e435" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/sorted/pen_4/out.mactime" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorted/sdhc/out.mactime" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/file.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/MainDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/MainDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.structures/src/joao/calhau/Inode.java" beforeDir="false" afterPath="$PROJECT_DIR$/data.structures/src/joao/calhau/Inode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/pen_4.h2.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/sdhc.h2.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/parser/src/joao/calhau/ParserDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/parser/src/joao/calhau/ParserDB.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/choco/target/" />
@@ -42,23 +34,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ParserDB.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ParserDB.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/parser/src/joao/calhau/ParserDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="214" column="17" selection-start-line="214" selection-start-column="17" selection-end-line="214" selection-end-column="17" />
+            <state relative-caret-position="357">
+              <caret line="248" lean-forward="true" selection-start-line="248" selection-end-line="248" />
               <folding>
+                <element signature="method#ParserDB#0;class#ParserDB#0" />
                 <element signature="method#parse#0;class#ParserDB#0" />
+                <element signature="method#parse#1;class#ParserDB#0" />
+                <element signature="method#parse#2;class#ParserDB#0" />
+                <element signature="method#close#0;class#ParserDB#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainDB.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/MainDB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="159" column="42" lean-forward="true" selection-start-line="159" selection-start-column="42" selection-end-line="159" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -177,12 +164,12 @@
         <option value="$PROJECT_DIR$/choco/src/main/java/joao/calhau/structures/TypesPropagator.java" />
         <option value="$PROJECT_DIR$/choco/src/main/java/joao/calhau/structures/WordSearchPropagator.java" />
         <option value="$PROJECT_DIR$/choco/src/main/java/joao/calhau/structures/Main.java" />
-        <option value="$PROJECT_DIR$/choco/src/main/java/joao/calhau/TimeComparisons.java" />
         <option value="$PROJECT_DIR$/data.structures/src/joao/calhau/CacheStructure.java" />
         <option value="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/WordSearchPropagatorUnix4jDB.java" />
         <option value="$PROJECT_DIR$/sorted/sdhc/out.mactime" />
         <option value="$PROJECT_DIR$/data.structures/src/joao/calhau/Inode.java" />
         <option value="$PROJECT_DIR$/parser/src/joao/calhau/ParserDB.java" />
+        <option value="$PROJECT_DIR$/choco/src/main/java/joao/calhau/TimeComparisons.java" />
         <option value="$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/MainDB.java" />
       </list>
     </option>
@@ -512,7 +499,7 @@
       <workItem from="1524749942413" duration="4108000" />
       <workItem from="1524841241743" duration="5540000" />
       <workItem from="1525263581311" duration="425000" />
-      <workItem from="1525704139398" duration="4408000" />
+      <workItem from="1525704139398" duration="4729000" />
     </task>
     <task id="LOCAL-00001" summary="Added basic project layout">
       <created>1516224248334</created>
@@ -843,11 +830,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524846746326</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Adding file time stamps to database.">
+      <created>1525709557519</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1525709557520</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149104000" />
+    <option name="totallyTimeSpent" value="149425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -863,11 +857,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.3295302" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.56551725" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785176" visible="true" weight="0.36413792" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785176" weight="0.36413792" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1640625" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1640625" />
       <window_info anchor="bottom" id="Statistic" order="11" weight="0.38068965" />
       <window_info anchor="right" id="Database" order="6" weight="0.1920573" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -903,7 +897,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Working (I think) but taking too long" />
     <MESSAGE value="Working for 4gb pen drive, but not for 32gb sdhc" />
     <MESSAGE value="Playing around with Search techniques, not giving the intended result yet.&#10;No more loop, exits when it should, but doesn't find the solution." />
     <MESSAGE value="Finally works, was forgetting to force the right inodes into LB..." />
@@ -928,7 +921,8 @@
     <MESSAGE value="Adding time comparisons to include in the thesis later on.&#10;Altered project structure slightly." />
     <MESSAGE value="First try at creating a successful cache system.&#10;Doesn't work quite right." />
     <MESSAGE value="Cache system semi-done. Still needs to cache models that have no solution." />
-    <option name="LAST_COMMIT_MESSAGE" value="Cache system semi-done. Still needs to cache models that have no solution." />
+    <MESSAGE value="Adding file time stamps to database." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding file time stamps to database." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1139,13 +1133,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/TimeComparisons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/pen_4.trace.db" />
     <entry file="file://$PROJECT_DIR$/db/pen_4.h2.db" />
     <entry file="jar://D:/Java/jdk-8/src.zip!/java/io/ObjectInputStream.java">
@@ -1197,13 +1184,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sorted/pen_4/out.mactime">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4471">
-          <caret line="1" column="61" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data.structures/src/joao/calhau/CacheStructure.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-442">
@@ -1240,20 +1220,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/parser/src/joao/calhau/ParserDB.java">
+    <entry file="file://$PROJECT_DIR$/sorted/pen_4/out.mactime">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="214" column="17" selection-start-line="214" selection-start-column="17" selection-end-line="214" selection-end-column="17" />
-          <folding>
-            <element signature="method#parse#0;class#ParserDB#0" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" column="61" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/TimeComparisons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/choco/src/main/java/joao/calhau/database/MainDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="159" column="42" lean-forward="true" selection-start-line="159" selection-start-column="42" selection-end-line="159" selection-end-column="42" />
+        <state relative-caret-position="1365">
+          <caret line="142" column="38" lean-forward="true" selection-start-line="142" selection-start-column="38" selection-end-line="142" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/src/joao/calhau/ParserDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="248" lean-forward="true" selection-start-line="248" selection-end-line="248" />
+          <folding>
+            <element signature="method#ParserDB#0;class#ParserDB#0" />
+            <element signature="method#parse#0;class#ParserDB#0" />
+            <element signature="method#parse#1;class#ParserDB#0" />
+            <element signature="method#parse#2;class#ParserDB#0" />
+            <element signature="method#close#0;class#ParserDB#0" />
+          </folding>
         </state>
       </provider>
     </entry>
