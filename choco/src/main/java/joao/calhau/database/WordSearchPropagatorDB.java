@@ -28,58 +28,62 @@ public class WordSearchPropagatorDB extends Propagator<SetVar> {
 
     @Override
     public void propagate(int evtmask) throws ContradictionException {
-        try {
+        if(word.equals("")) {
+            System.err.println("No word to propagate...");
+        } else {
+            try {
 
-            Class.forName("org.h2.Driver");
+                Class.forName("org.h2.Driver");
 
-            con = DriverManager.getConnection("jdbc:h2:file:./db/" + folder + ";MVCC=FALSE;MV_STORE=FALSE;", "sa", "sa");
-            stmt = con.createStatement();
+                con = DriverManager.getConnection("jdbc:h2:file:./db/" + folder + ";MVCC=FALSE;MV_STORE=FALSE;", "sa", "sa");
+                stmt = con.createStatement();
 
-            ResultSet rs;
-            for (int i : var.getUB()) {
+                ResultSet rs;
+                for (int i : var.getUB()) {
 
-                String path, fileName;
-                rs = stmt.executeQuery("SELECT PATH, FILENAME FROM INODE WHERE ID = " + i);
+                    String path, fileName;
+                    rs = stmt.executeQuery("SELECT PATH, FILENAME FROM INODE WHERE ID = " + i);
 
-                if(rs.next()) {
-                    path = rs.getString("PATH");
-                    fileName = rs.getString("FILENAME");
+                    if (rs.next()) {
+                        path = rs.getString("PATH");
+                        fileName = rs.getString("FILENAME");
 
-                    if (fileName.contains(word)) {
-                        var.force(i, this);
-                    } else {
-                        Runtime rt = Runtime.getRuntime();
-                        String[] cmd = {"/bin/sh", "-c", "grep -c '" + word + "' /mnt/" + folder + "/" + path + "/" + fileName};
-                        Process proc = rt.exec(cmd);
-
-                        BufferedReader br = new BufferedReader(new InputStreamReader(proc.getInputStream()));
-
-                        String output = br.readLine();
-
-                        if (output != null) {
-                            if (output.equals("0"))
-                                var.remove(i, this);
-                            else
-                                var.force(i, this);
+                        if (fileName.contains(word)) {
+                            var.force(i, this);
                         } else {
-                            var.remove(i, this);
+                            Runtime rt = Runtime.getRuntime();
+                            String[] cmd = {"/bin/sh", "-c", "grep -c '" + word + "' /mnt/" + folder + "/" + path + "/" + fileName};
+                            Process proc = rt.exec(cmd);
+
+                            BufferedReader br = new BufferedReader(new InputStreamReader(proc.getInputStream()));
+
+                            String output = br.readLine();
+
+                            if (output != null) {
+                                if (output.equals("0"))
+                                    var.remove(i, this);
+                                else
+                                    var.force(i, this);
+                            } else {
+                                var.remove(i, this);
+                            }
                         }
+                    } else {
+                        var.remove(i, this);
                     }
-                } else {
-                    var.remove(i, this);
                 }
+
+                stmt.close();
+                con.close();
+
+            } catch (ClassNotFoundException cnfe) {
+                System.err.println("Class not found... Check jar files");
+            } catch (SQLException sqle) {
+                sqle.printStackTrace();
+            } catch (IOException ioe) {
+                System.err.println("Is this running on unix system?");
+                System.exit(1);
             }
-
-            stmt.close();
-            con.close();
-
-        } catch (ClassNotFoundException cnfe) {
-            System.err.println("Class not found... Check jar files");
-        } catch ( SQLException sqle) {
-            sqle.printStackTrace();
-        } catch (IOException ioe) {
-            System.err.println("Is this running on unix system?");
-            System.exit(1);
         }
     }
 

@@ -17,7 +17,7 @@ public class PathPropagatorDB extends Propagator<SetVar> {
     private Statement stmt;
 
     public PathPropagatorDB(SetVar var, String path, String folder) {
-        super(new SetVar[]{var}, PropagatorPriority.BINARY, false);
+        super(new SetVar[]{var}, PropagatorPriority.UNARY, false);
         this.var = var;
         this.path = path;
         this.folder = folder;
@@ -25,30 +25,34 @@ public class PathPropagatorDB extends Propagator<SetVar> {
 
     @Override
     public void propagate(int evtmask) throws ContradictionException {
-        try {
+        if(path.equals("")) {
+            System.err.println("No path to propagate...");
+        } else {
+            try {
 
-            Class.forName("org.h2.Driver");
+                Class.forName("org.h2.Driver");
 
-            con = DriverManager.getConnection("jdbc:h2:file:./db/" + folder + ";MVCC=FALSE;MV_STORE=FALSE;", "sa", "sa");
-            stmt = con.createStatement();
+                con = DriverManager.getConnection("jdbc:h2:file:./db/" + folder + ";MVCC=FALSE;MV_STORE=FALSE;", "sa", "sa");
+                stmt = con.createStatement();
 
-            ResultSet rs;
-            for (int i : var.getUB()) {
+                ResultSet rs;
+                for (int i : var.getUB()) {
 
-                rs = stmt.executeQuery("SELECT * FROM INODE WHERE PATH ='" + path + "' AND ID = " + i);
+                    rs = stmt.executeQuery("SELECT * FROM INODE WHERE PATH ='" + path + "' AND ID = " + i);
 
-                if(!rs.next())
-                    var.remove(i, this);
-                //else
-                //    var.force(i, this);
+                    if (!rs.next())
+                        var.remove(i, this);
+                    //else
+                    //    var.force(i, this);
+                }
+
+                stmt.close();
+                con.close();
+            } catch (ClassNotFoundException cnfe) {
+                System.err.println("Class not found... Check jar files");
+            } catch (SQLException sqle) {
+                sqle.printStackTrace();
             }
-
-            stmt.close();
-            con.close();
-        } catch (ClassNotFoundException cnfe) {
-            System.err.println("Class not found... Check jar files");
-        } catch (SQLException sqle) {
-            sqle.printStackTrace();
         }
 
     }

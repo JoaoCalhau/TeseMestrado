@@ -17,7 +17,7 @@ public class TypePropagatorDB extends Propagator<SetVar> {
     private Statement stmt;
 
     public TypePropagatorDB(SetVar var, String type, String folder) {
-        super(new SetVar[]{var}, PropagatorPriority.TERNARY, false);
+        super(new SetVar[]{var}, PropagatorPriority.BINARY, false);
         this.var = var;
         this.type = type;
         this.folder = folder;
@@ -25,31 +25,35 @@ public class TypePropagatorDB extends Propagator<SetVar> {
 
     @Override
     public void propagate(int evtmask) throws ContradictionException {
-        try {
-            Class.forName("org.h2.Driver");
+        if(type.equals("")) {
+            System.err.println("No type to propagate...");
+        } else {
+            try {
+                Class.forName("org.h2.Driver");
 
-            con = DriverManager.getConnection("jdbc:h2:file:./db/" + folder + ";MVCC=FALSE;MV_STORE=FALSE;", "sa", "sa");
-            stmt = con.createStatement();
+                con = DriverManager.getConnection("jdbc:h2:file:./db/" + folder + ";MVCC=FALSE;MV_STORE=FALSE;", "sa", "sa");
+                stmt = con.createStatement();
 
 
-            for(int i : var.getUB()) {
-                ResultSet rs = stmt.executeQuery("SELECT * FROM INODE WHERE TYPE = '" + type + "' AND ID = " + i);
+                for (int i : var.getUB()) {
+                    ResultSet rs = stmt.executeQuery("SELECT * FROM INODE WHERE TYPE = '" + type + "' AND ID = " + i);
 
-                if(!rs.next())
-                    var.remove(i, this);
-                //else
-                //    var.force(i, this);
+                    if (!rs.next())
+                        var.remove(i, this);
+                    //else
+                    //    var.force(i, this);
 
-                rs.close();
+                    rs.close();
+                }
+
+                stmt.close();
+                con.close();
+
+            } catch (ClassNotFoundException cnfe) {
+                System.err.println("Class not found... Check jar files");
+            } catch (SQLException sqle) {
+                System.out.println("SQL problems in type propagator");
             }
-
-            stmt.close();
-            con.close();
-
-        } catch (ClassNotFoundException cnfe) {
-            System.err.println("Class not found... Check jar files");
-        } catch (SQLException sqle) {
-            System.out.println("SQL problems in type propagator");
         }
     }
 

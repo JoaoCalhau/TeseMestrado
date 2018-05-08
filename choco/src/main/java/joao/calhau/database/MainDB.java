@@ -67,11 +67,11 @@ public class MainDB {
         }
     }
 
-    public void solver(String CType, String CPath, String CWord, String CDate) {
+    public void solver(String CType, String CPath, String CWord, String CSDate, String CEDate) {
         try {
 
             CacheStructure cs = new CacheStructure();
-            String key = CType + "&" + CPath + "&" + CWord + "&" + CDate;
+            String key = CType + "&" + CPath + "&" + CWord + "&" + CSDate + "&" + CEDate;
 
             if(cs.existsInCache(key)) {
                 LinkedList<Inode> ll = cs.getListFromCache(key);
@@ -92,7 +92,7 @@ public class MainDB {
                 //        new String[]{"LVOC/LVOC", "idle_master"}, folder));
                 //Constraint searchConstraint = new Constraint("Name Copyright", new WordSearchPropagatorDB(var, "Copyright", folder));
                 Constraint searchConstraint = new Constraint("Name " + CWord, new WordSearchPropagatorUnix4jDB(var, CWord, folder));
-                //Constraint dateConstraint = new Constraint("Date " + CDate, new DatePropagator(var, CDate, folder));
+                Constraint dateConstraint = new Constraint(CSDate + " - " + CEDate, new DatePropagatorDB(var, CSDate, CEDate, folder));
 
 
                 //Constraint posting
@@ -101,6 +101,7 @@ public class MainDB {
                 model.post(pathConstraint);
                 //model.post(pathsConstraint);
                 model.post(searchConstraint);
+                model.post(dateConstraint);
 
                 Solver s = model.getSolver();
 
@@ -154,7 +155,7 @@ public class MainDB {
 
         MainDB main = new MainDB(args[0]);
 
-        main.solver("Unknown", "LVOC/LVOC", "Copyright", "");
+        main.solver("Unknown", "LVOC/LVOC", "Copyright", "", "");
 
         stopWatch.stop();
 

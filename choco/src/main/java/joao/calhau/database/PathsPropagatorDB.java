@@ -17,7 +17,7 @@ public class PathsPropagatorDB extends Propagator<SetVar> {
     private Statement stmt;
 
     public PathsPropagatorDB(SetVar var, String[] paths, String folder) {
-        super(new SetVar[]{var}, PropagatorPriority.BINARY, false);
+        super(new SetVar[]{var}, PropagatorPriority.UNARY, false);
         this.var = var;
         this.paths = paths;
         this.folder = folder;

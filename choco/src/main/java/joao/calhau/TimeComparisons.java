@@ -25,7 +25,7 @@ public class TimeComparisons {
 
         MainDB mainDb = new MainDB("pen_4");
 
-        mainDb.solver("Unknown", "LVOC/LVOC", "Copyright", "2015-01-01");
+        //mainDb.solver("Unknown", "LVOC/LVOC", "Copyright", "2015-01-01");
 
         stopWatch.stop();
 
@@ -38,7 +38,7 @@ public class TimeComparisons {
 
         mainDb = new MainDB("pen_4");
 
-        mainDb.solver("Unknown", "LVOC/LVOC", "Copyright", "2015-01-01");
+        //mainDb.solver("Unknown", "LVOC/LVOC", "Copyright", "2015-01-01");
 
         stopWatch.stop();
 
