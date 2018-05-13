@@ -8,27 +8,25 @@ import org.chocosolver.util.ESat;
 
 import java.sql.*;
 
-public class DatePropagatorDB extends Propagator<SetVar> {
+public class PathPropagator extends Propagator<SetVar> {
 
     private SetVar var;
-    private String startDate;
-    private String endDate;
+    private String path;
     private String folder;
     private Connection con;
     private Statement stmt;
 
-    public DatePropagatorDB(SetVar var, String startDate, String endDate, String folder) {
-        super(new SetVar[]{var}, PropagatorPriority.TERNARY, false);
+    public PathPropagator(SetVar var, String path, String folder) {
+        super(new SetVar[]{var}, PropagatorPriority.UNARY, false);
         this.var = var;
-        this.startDate = startDate;
-        this.endDate = endDate;
+        this.path = path;
         this.folder = folder;
     }
 
     @Override
     public void propagate(int evtmask) throws ContradictionException {
-        if(startDate.equals("") && endDate.equals("")) {
-            System.err.println("No dates to propagate...");
+        if(path.equals("")) {
+            System.err.println("No path to propagate...");
         } else {
             try {
 
@@ -39,12 +37,8 @@ public class DatePropagatorDB extends Propagator<SetVar> {
 
                 ResultSet rs;
                 for (int i : var.getUB()) {
-                    if (!startDate.equals("") && !endDate.equals(""))
-                        rs = stmt.executeQuery("SELECT * FROM INODE WHERE ID = " + i + " AND DT >= '" + startDate + "' AND DT <= '" + endDate + "'");
-                    else if (startDate.equals("") && !endDate.equals(""))
-                        rs = stmt.executeQuery("SELECT * FROM INODE WHERE ID = " + i + " AND DT <= '" + endDate + "'");
-                    else
-                        rs = stmt.executeQuery("SELECT * FROM INODE WHERE ID = " + i + " AND DT >= '" + startDate + "'");
+
+                    rs = stmt.executeQuery("SELECT * FROM INODE WHERE PATH ='" + path + "' AND ID = " + i);
 
                     if (!rs.next())
                         var.remove(i, this);
@@ -54,18 +48,18 @@ public class DatePropagatorDB extends Propagator<SetVar> {
 
                 stmt.close();
                 con.close();
-
             } catch (ClassNotFoundException cnfe) {
                 System.err.println("Class not found... Check jar files");
             } catch (SQLException sqle) {
                 sqle.printStackTrace();
             }
         }
+
     }
 
     @Override
     public ESat isEntailed() {
-        if(var.getUB().isEmpty())
+        if (var.getUB().isEmpty())
             return ESat.FALSE;
         else
             return ESat.TRUE;

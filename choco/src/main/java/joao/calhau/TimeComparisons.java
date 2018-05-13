@@ -1,7 +1,6 @@
 package joao.calhau;
 
-import joao.calhau.database.MainDB;
-import joao.calhau.structures.Main;
+import joao.calhau.database.Main;
 import org.apache.commons.lang3.time.StopWatch;
 
 public class TimeComparisons {
@@ -10,7 +9,7 @@ public class TimeComparisons {
         StopWatch stopWatch = new StopWatch();
         stopWatch.start();
 
-        Main main = new Main("pen_4");
+        joao.calhau.structures.Main main = new joao.calhau.structures.Main("pen_4");
 
         main.solver();
 
@@ -23,7 +22,7 @@ public class TimeComparisons {
 
         stopWatch.start();
 
-        MainDB mainDb = new MainDB("pen_4");
+        Main mainDb = new Main("pen_4");
 
         //mainDb.solver("Unknown", "LVOC/LVOC", "Copyright", "2015-01-01");
 
@@ -36,7 +35,7 @@ public class TimeComparisons {
 
         stopWatch.start();
 
-        mainDb = new MainDB("pen_4");
+        mainDb = new Main("pen_4");
 
         //mainDb.solver("Unknown", "LVOC/LVOC", "Copyright", "2015-01-01");
 
