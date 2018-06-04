@@ -8,8 +8,10 @@ import java.util.Map;
 public class CacheStructure {
 
     private Map<String, LinkedList<Inode>> cache;
+    private String folder;
 
-    public CacheStructure() {
+    public CacheStructure(String folder) {
+        this.folder = folder;
         readFromFile();
     }
 
@@ -28,7 +30,7 @@ public class CacheStructure {
     private void readFromFile() {
         try {
 
-            File cacheFile = new File("./cache/file.cache");
+            File cacheFile = new File("./cache/" + this.folder + ".cache");
 
             if(cacheFile.exists()) {
                 FileInputStream fin = new FileInputStream(cacheFile);
@@ -53,7 +55,7 @@ public class CacheStructure {
 
     public void saveToFile() {
         try {
-            File cacheFile = new File("./cache/file.cache");
+            File cacheFile = new File("./cache/" + this.folder + ".cache");
 
             if(!cacheFile.exists())
                 cacheFile.createNewFile();

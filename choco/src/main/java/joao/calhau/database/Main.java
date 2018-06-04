@@ -70,7 +70,7 @@ public class Main {
     public void solver(String CType, String CPath, String CWord, String CSDate, String CEDate) {
         try {
 
-            CacheStructure cs = new CacheStructure();
+            CacheStructure cs = new CacheStructure(folder);
             String key = CType + "&" + CPath + "&" + CWord + "&" + CSDate + "&" + CEDate;
 
             if(cs.existsInCache(key)) {
@@ -155,7 +155,9 @@ public class Main {
 
         Main main = new Main(args[0]);
 
-        main.solver("Unknown", "LVOC/LVOC", "Copyright", "", "");
+        //main.solver("Archive", "var/lib/rpm", "", "", "");
+        //main.solver("Unknown", "LVOC/LVOC", "", "", "");
+        main.solver("Audio", "Music/BabyMetal", "", "", "");
 
         stopWatch.stop();
 

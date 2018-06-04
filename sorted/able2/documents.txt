@@ -1,0 +1,236 @@
+doc/gawk-3.0.4/awkcard.ps
+  PostScript document text conforming DSC level 3.0
+  Image: able2.dd  Inode: 32229
+
+doc/gawk-3.0.4/gawk.ps
+  PostScript document text conforming DSC level 2.0
+  Image: able2.dd  Inode: 32230
+
+doc/ipchains-1.3.9/ipchains-quickref.ps
+  PostScript document text conforming DSC level 3.0
+  Image: able2.dd  Inode: 48395
+
+doc/lilo-0.21/doc/Technical_Guide.ps
+  PostScript document text conforming DSC level 2.0
+  Image: able2.dd  Inode: 4214
+
+doc/lilo-0.21/doc/User_Guide.ps
+  PostScript document text conforming DSC level 2.0
+  Image: able2.dd  Inode: 4215
+
+doc/pam-0.72/ps/pam.ps
+  PostScript document text conforming DSC level 2.0
+  Image: able2.dd  Inode: 46385
+
+doc/pam-0.72/ps/pam_appl.ps
+  PostScript document text conforming DSC level 2.0
+  Image: able2.dd  Inode: 46386
+
+doc/pam-0.72/ps/pam_modules.ps
+  PostScript document text conforming DSC level 2.0
+  Image: able2.dd  Inode: 46387
+
+doc/nfs-utils-0.1.6/nfs.ps
+  PostScript document text conforming DSC level 2.0
+  Image: able2.dd  Inode: 18332
+
+lib/groff/font/devps/prologue
+  PostScript document text conforming DSC level 3.0
+  Image: able2.dd  Inode: 22261
+
+lib/rhs/rhs-printfilters/testpage-a4.ps
+  PostScript document text conforming DSC level 2.0
+  Image: able2.dd  Inode: 16736
+
+lib/rhs/rhs-printfilters/testpage.ps
+  PostScript document text conforming DSC level 2.0
+  Image: able2.dd  Inode: 16738
+
+share/ghostscript/5.50/acctest.ps
+  PostScript document text
+  Image: able2.dd  Inode: 50364
+
+share/ghostscript/5.50/caption.ps
+  PostScript document text
+  Image: able2.dd  Inode: 50383
+
+share/ghostscript/5.50/examples/chess.ps
+  PostScript document text conforming DSC level 2.1
+  Image: able2.dd  Inode: 16114
+
+share/ghostscript/5.50/examples/colorcir.ps
+  PostScript document text
+  Image: able2.dd  Inode: 16115
+
+share/ghostscript/5.50/examples/escher.ps
+  PostScript document text
+  Image: able2.dd  Inode: 16116
+
+share/ghostscript/5.50/examples/golfer.ps
+  PostScript document text conforming DSC level 2.0, type EPS
+  Image: able2.dd  Inode: 16117
+
+share/ghostscript/5.50/examples/grayalph.ps
+  PostScript document text
+  Image: able2.dd  Inode: 16118
+
+share/ghostscript/5.50/examples/ridt91.eps
+  PostScript document text conforming DSC level 3.0, type EPS
+  Image: able2.dd  Inode: 16119
+
+share/ghostscript/5.50/examples/snowflak.ps
+  PostScript document text
+  Image: able2.dd  Inode: 16120
+
+share/ghostscript/5.50/examples/tiger.ps
+  PostScript document text conforming DSC level 2.0, type EPS
+  Image: able2.dd  Inode: 16121
+
+share/ghostscript/5.50/examples/vasarely.ps
+  PostScript document text
+  Image: able2.dd  Inode: 16122
+
+share/ghostscript/5.50/landscap.ps
+  PostScript document text
+  Image: able2.dd  Inode: 50427
+
+share/ghostscript/5.50/level1.ps
+  PostScript document text
+  Image: able2.dd  Inode: 50428
+
+share/ghostscript/5.50/lines.ps
+  PostScript document text
+  Image: able2.dd  Inode: 50429
+
+share/ghostscript/5.50/pf2afm.ps
+  PostScript document text
+  Image: able2.dd  Inode: 50443
+
+share/ghostscript/5.50/prfont.ps
+  PostScript document text
+  Image: able2.dd  Inode: 50445
+
+share/ghostscript/5.50/printafm.ps
+  PostScript document text
+  Image: able2.dd  Inode: 50446
+
+share/ghostscript/5.50/ps2ai.ps
+  PostScript document text
+  Image: able2.dd  Inode: 50447
+
+share/ghostscript/5.50/uninfo.ps
+  PostScript document text
+  Image: able2.dd  Inode: 50484
+
+share/ghostscript/5.50/viewjpeg.ps
+  PostScript document text
+  Image: able2.dd  Inode: 50488
+
+share/ghostscript/5.50/zeroline.ps
+  PostScript document text
+  Image: able2.dd  Inode: 50495
+
+share/fonts/default/ghostscript/hrgerb.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6209
+
+share/fonts/default/ghostscript/hrgerd.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6210
+
+share/fonts/default/ghostscript/hrgero.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6211
+
+share/fonts/default/ghostscript/hrgkc.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6212
+
+share/fonts/default/ghostscript/hrgks.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6213
+
+share/fonts/default/ghostscript/hrgrrb.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6215
+
+share/fonts/default/ghostscript/hrgrro.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6216
+
+share/fonts/default/ghostscript/hritrb.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6218
+
+share/fonts/default/ghostscript/hritro.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6219
+
+share/fonts/default/ghostscript/hrpldb.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6221
+
+share/fonts/default/ghostscript/hrpldbi.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6222
+
+share/fonts/default/ghostscript/hrplr.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6224
+
+share/fonts/default/ghostscript/hrplrb.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6225
+
+share/fonts/default/ghostscript/hrplrbo.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6226
+
+share/fonts/default/ghostscript/hrplro.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6227
+
+share/fonts/default/ghostscript/hrpls.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6228
+
+share/fonts/default/ghostscript/hrplsb.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6229
+
+share/fonts/default/ghostscript/hrplsbo.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6230
+
+share/fonts/default/ghostscript/hrplso.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6231
+
+share/fonts/default/ghostscript/hrpltb.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6233
+
+share/fonts/default/ghostscript/hrpltbi.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6234
+
+share/fonts/default/ghostscript/hrsccb.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6237
+
+share/fonts/default/ghostscript/hrscco.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6238
+
+share/fonts/default/ghostscript/hrscsb.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6240
+
+share/fonts/default/ghostscript/hrscso.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6241
+
+share/fonts/default/ghostscript/hrsyr.gsf
+  PostScript document text
+  Image: able2.dd  Inode: 6242
+

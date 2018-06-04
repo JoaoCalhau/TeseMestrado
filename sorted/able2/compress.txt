@@ -1,0 +1,1068 @@
+dev/ttYZ0/lrkn.tgz
+  POSIX tar archive (gzip compressed data, was "lrkn.tar", last modified: Sat Oct  3 09:04:08 1998, from Unix)
+  Image: able2.dd  Inode: 2139
+
+root/lrkn.tgz
+  POSIX tar archive (gzip compressed data, was "lrkn.tar", last modified: Sat Oct  3 09:04:08 1998, from Unix)
+  Image: able2.dd  Inode: 2139
+
+.001/lolit_pics.tar.gz
+  POSIX tar archive (GNU) (gzip compressed data, last modified: Sun Aug  3 23:37:12 2003, from Unix)
+  Image: able2.dd  Inode: 2138
+
+info/termcap.info-1.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36219
+
+info/termcap.info-2.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36220
+
+info/termcap.info-3.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36221
+
+info/termcap.info-4.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36222
+
+info/termcap.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36223
+
+info/bash.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36224
+
+info/info-stnd.info-1.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36226
+
+info/info-stnd.info-2.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36227
+
+info/info-stnd.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36228
+
+info/info.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36229
+
+info/grep.info.gz
+  data (gzip compressed data, was "grep.info", last modified: Thu Feb  3 16:26:00 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36230
+
+info/fileutils.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36231
+
+info/dc.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36232
+
+info/as.info-1.gz
+  data (gzip compressed data, was "as.info-1", last modified: Fri Feb  4 17:54:38 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36233
+
+info/as.info-2.gz
+  data (gzip compressed data, was "as.info-2", last modified: Fri Feb  4 17:54:38 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36234
+
+info/as.info-3.gz
+  data (gzip compressed data, was "as.info-3", last modified: Fri Feb  4 17:54:38 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36235
+
+info/as.info-4.gz
+  data (gzip compressed data, was "as.info-4", last modified: Fri Feb  4 17:54:38 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36236
+
+info/as.info-5.gz
+  data (gzip compressed data, was "as.info-5", last modified: Fri Feb  4 17:54:38 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36237
+
+info/as.info-6.gz
+  data (gzip compressed data, was "as.info-6", last modified: Fri Feb  4 17:54:38 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36238
+
+info/as.info-7.gz
+  data (gzip compressed data, was "as.info-7", last modified: Fri Feb  4 17:54:38 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36239
+
+info/as.info-8.gz
+  data (gzip compressed data, was "as.info-8", last modified: Fri Feb  4 17:54:38 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36240
+
+info/as.info.gz
+  data (gzip compressed data, was "as.info", last modified: Fri Feb  4 17:54:38 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36241
+
+info/bfd.info-1.gz
+  data (gzip compressed data, was "bfd.info-1", last modified: Fri Feb  4 17:54:36 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36242
+
+info/bfd.info-2.gz
+  data (gzip compressed data, was "bfd.info-2", last modified: Fri Feb  4 17:54:36 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36243
+
+info/bfd.info-3.gz
+  data (gzip compressed data, was "bfd.info-3", last modified: Fri Feb  4 17:54:36 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36244
+
+info/bfd.info-4.gz
+  data (gzip compressed data, was "bfd.info-4", last modified: Fri Feb  4 17:54:36 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36245
+
+info/bfd.info-5.gz
+  data (gzip compressed data, was "bfd.info-5", last modified: Fri Feb  4 17:54:36 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36246
+
+info/bfd.info-6.gz
+  data (gzip compressed data, was "bfd.info-6", last modified: Fri Feb  4 17:54:36 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36247
+
+info/bfd.info-7.gz
+  data (gzip compressed data, was "bfd.info-7", last modified: Fri Feb  4 17:54:36 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36248
+
+info/bfd.info.gz
+  data (gzip compressed data, was "bfd.info", last modified: Fri Feb  4 17:54:36 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36249
+
+info/binutils.info-1.gz
+  data (gzip compressed data, was "binutils.info-1", last modified: Fri Feb  4 17:54:37 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36250
+
+info/binutils.info-2.gz
+  data (gzip compressed data, was "binutils.info-2", last modified: Fri Feb  4 17:54:37 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36251
+
+info/binutils.info-3.gz
+  data (gzip compressed data, was "binutils.info-3", last modified: Fri Feb  4 17:54:37 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36252
+
+info/binutils.info.gz
+  data (gzip compressed data, was "binutils.info", last modified: Fri Feb  4 17:54:37 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36253
+
+info/configure.info-1.gz
+  data (gzip compressed data, was "configure.info-1", last modified: Fri Feb  4 17:54:39 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36254
+
+info/configure.info-2.gz
+  data (gzip compressed data, was "configure.info-2", last modified: Fri Feb  4 17:54:40 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36255
+
+info/configure.info-3.gz
+  data (gzip compressed data, was "configure.info-3", last modified: Fri Feb  4 17:54:40 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36256
+
+info/configure.info.gz
+  data (gzip compressed data, was "configure.info", last modified: Fri Feb  4 17:54:39 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36257
+
+info/gasp.info.gz
+  data (gzip compressed data, was "gasp.info", last modified: Fri Feb  4 17:54:39 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36258
+
+info/gprof.info-1.gz
+  data (gzip compressed data, was "gprof.info-1", last modified: Fri Feb  4 17:54:39 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36259
+
+info/gprof.info-2.gz
+  data (gzip compressed data, was "gprof.info-2", last modified: Fri Feb  4 17:54:39 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36260
+
+info/gprof.info.gz
+  data (gzip compressed data, was "gprof.info", last modified: Fri Feb  4 17:54:39 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36261
+
+info/ld.info-1.gz
+  data (gzip compressed data, was "ld.info-1", last modified: Fri Feb  4 17:54:37 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36262
+
+info/ld.info-2.gz
+  data (gzip compressed data, was "ld.info-2", last modified: Fri Feb  4 17:54:37 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36263
+
+info/ld.info-3.gz
+  data (gzip compressed data, was "ld.info-3", last modified: Fri Feb  4 17:54:38 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36264
+
+info/ld.info-4.gz
+  data (gzip compressed data, was "ld.info-4", last modified: Fri Feb  4 17:54:38 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36265
+
+info/ld.info.gz
+  data (gzip compressed data, was "ld.info", last modified: Fri Feb  4 17:54:37 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36266
+
+info/standards.info.gz
+  data (gzip compressed data, was "standards.info", last modified: Fri Feb  4 17:54:39 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 36267
+
+info/sed.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36268
+
+info/cpio.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36269
+
+info/textutils.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36270
+
+info/diff.info-1.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36271
+
+info/diff.info-2.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36272
+
+info/diff.info-3.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36273
+
+info/diff.info-4.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36274
+
+info/diff.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36275
+
+info/ed.info.gz
+  data (gzip compressed data, from Unix)
+  Image: able2.dd  Inode: 36276
+
+info/find.info-1.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36277
+
+info/find.info-2.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36278
+
+info/find.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36279
+
+info/gawk.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36280
+
+info/gpm.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36281
+
+info/gzip.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36282
+
+info/ispell.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36285
+
+info/iostream.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36295
+
+info/sh-utils.info.gz
+  data (gzip compressed data, from Unix)
+  Image: able2.dd  Inode: 36296
+
+info/history.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36297
+
+info/readline.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36298
+
+info/remsync.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36299
+
+info/sharutils.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36300
+
+info/tar.info-1.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36301
+
+info/tar.info-2.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36302
+
+info/tar.info-3.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36303
+
+info/tar.info-4.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36304
+
+info/tar.info-5.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36305
+
+info/tar.info-6.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36306
+
+info/tar.info-7.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36307
+
+info/tar.info-8.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36308
+
+info/tar.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36309
+
+info/time.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36310
+
+info/ipc.info.gz
+  data (gzip compressed data, max compression, from Unix)
+  Image: able2.dd  Inode: 36311
+
+lib/kbd/consolefonts/Agafari-12.psf.gz
+  Linux/i386 PC Screen Font v1 data, 512 characters, Unicode directory, 8x12 (gzip compressed data, last modified: Sat Jan  4 16:33:24 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26218
+
+lib/kbd/consolefonts/Agafari-14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 512 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Sat Jan  4 16:39:35 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26219
+
+lib/kbd/consolefonts/Agafari-16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 512 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Sat Jan  4 16:18:10 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26220
+
+lib/kbd/consolefonts/Cyr_a8x14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x14 (gzip compressed data, last modified: Fri Oct 31 20:29:17 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26221
+
+lib/kbd/consolefonts/Cyr_a8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 20:29:27 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26222
+
+lib/kbd/consolefonts/Cyr_a8x8.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x8 (gzip compressed data, last modified: Fri Oct 31 20:29:03 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26223
+
+lib/kbd/consolefonts/Goha-12.psf.gz
+  Linux/i386 PC Screen Font v1 data, 512 characters, Unicode directory, 8x12 (gzip compressed data, last modified: Sat Jan  4 13:48:42 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26224
+
+lib/kbd/consolefonts/Goha-14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 512 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Sat Jan  4 13:48:35 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26225
+
+lib/kbd/consolefonts/Goha-16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 512 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Sat Jan  4 07:54:18 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26226
+
+lib/kbd/consolefonts/GohaClassic-12.psf.gz
+  Linux/i386 PC Screen Font v1 data, 512 characters, Unicode directory, 8x12 (gzip compressed data, last modified: Sat Jan  4 14:17:36 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26227
+
+lib/kbd/consolefonts/GohaClassic-14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 512 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Sat Jan  4 13:58:02 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26228
+
+lib/kbd/consolefonts/GohaClassic-16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 512 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Sat Jan  4 13:36:19 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26229
+
+lib/kbd/consolefonts/LatArCyrHeb-08.psf.gz
+  Linux/i386 PC Screen Font v1 data, 512 characters, Unicode directory, 8x8 (gzip compressed data, last modified: Tue Aug 26 18:33:22 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26230
+
+lib/kbd/consolefonts/LatArCyrHeb-14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 512 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Tue Aug 26 18:33:26 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26231
+
+lib/kbd/consolefonts/LatArCyrHeb-16+.psf.gz
+  Linux/i386 PC Screen Font v1 data, 512 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Tue Aug 26 18:18:46 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26232
+
+lib/kbd/consolefonts/LatArCyrHeb-16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 512 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Tue Aug 26 18:18:38 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26233
+
+lib/kbd/consolefonts/LatArCyrHeb-19.psf.gz
+  Linux/i386 PC Screen Font v1 data, 512 characters, Unicode directory, 8x19 (gzip compressed data, last modified: Tue Aug 26 18:18:42 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26234
+
+lib/kbd/consolefonts/Mik_8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 20:29:59 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26235
+
+lib/kbd/consolefonts/UniCyr-lenta-8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Thu Jan  6 13:42:06 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 26236
+
+lib/kbd/consolefonts/UniCyr-sans-8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Thu Jan  6 13:41:59 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 26237
+
+lib/kbd/consolefonts/UniCyr_8x14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Thu Jan  6 13:41:48 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 26238
+
+lib/kbd/consolefonts/UniCyr_8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Thu Jan  6 13:41:38 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 26239
+
+lib/kbd/consolefonts/UniCyr_8x8.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x8 (gzip compressed data, last modified: Thu Jan  6 13:41:54 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 26240
+
+lib/kbd/consolefonts/alt-8x14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x14 (gzip compressed data, last modified: Fri Oct 31 20:09:32 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26241
+
+lib/kbd/consolefonts/alt-8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 20:09:45 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26242
+
+lib/kbd/consolefonts/alt-8x8.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x8 (gzip compressed data, last modified: Fri Oct 31 20:09:15 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26243
+
+lib/kbd/consolefonts/altb-8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 20:09:53 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26244
+
+lib/kbd/consolefonts/altc-8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 20:09:58 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26245
+
+lib/kbd/consolefonts/aply16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Thu Dec  7 21:45:08 1995, max compression, from Unix)
+  Image: able2.dd  Inode: 26246
+
+lib/kbd/consolefonts/arm8.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Tue Feb 23 21:32:12 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26247
+
+lib/kbd/consolefonts/cp850-8x14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x14 (gzip compressed data, last modified: Fri Oct 31 20:33:08 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26248
+
+lib/kbd/consolefonts/cp850-8x8.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x8 (gzip compressed data, last modified: Fri Oct 31 20:32:59 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26250
+
+lib/kbd/consolefonts/cp850-8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 20:33:16 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26249
+
+lib/kbd/consolefonts/cp865-8x14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x14 (gzip compressed data, last modified: Fri Oct 31 20:33:30 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26251
+
+lib/kbd/consolefonts/cp865-8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 20:33:36 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26252
+
+lib/kbd/consolefonts/cp865-8x8.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x8 (gzip compressed data, last modified: Fri Oct 31 20:33:24 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26253
+
+lib/kbd/consolefonts/cp866-8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Tue Aug 24 22:49:32 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26254
+
+lib/kbd/consolefonts/cyr-sun16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Mon Mar  6 13:14:17 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 26255
+
+lib/kbd/consolefonts/def2_8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 20:30:15 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26256
+
+lib/kbd/consolefonts/default8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 20:43:28 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26257
+
+lib/kbd/consolefonts/default8x9.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x9 (gzip compressed data, last modified: Fri Oct 31 20:43:39 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26258
+
+lib/kbd/consolefonts/gr.f14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x14 (gzip compressed data, last modified: Fri Oct 31 20:25:06 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26259
+
+lib/kbd/consolefonts/gr.f16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 20:24:55 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26260
+
+lib/kbd/consolefonts/gr737-8x8-2.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x8 (gzip compressed data, last modified: Tue Feb 23 21:32:12 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26261
+
+lib/kbd/consolefonts/gr737-8x8.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x8 (gzip compressed data, last modified: Tue Feb 23 21:32:12 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26262
+
+lib/kbd/consolefonts/gr737-9x14-2.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x14 (gzip compressed data, last modified: Tue Feb 23 21:32:12 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26263
+
+lib/kbd/consolefonts/gr737-9x14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x14 (gzip compressed data, last modified: Tue Feb 23 21:32:12 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26264
+
+lib/kbd/consolefonts/gr737-9x16-2.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Tue Feb 23 21:32:12 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26265
+
+lib/kbd/consolefonts/gr737-9x16-medieval.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Tue Feb 23 21:32:13 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26266
+
+lib/kbd/consolefonts/gr737-9x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Tue Feb 23 21:32:12 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26267
+
+lib/kbd/consolefonts/gr8x14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x14 (gzip compressed data, last modified: Fri Oct 31 20:25:30 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26268
+
+lib/kbd/consolefonts/gr8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 20:25:35 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26269
+
+lib/kbd/consolefonts/gr8x6.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x6 (gzip compressed data, last modified: Fri Oct 31 20:26:40 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26270
+
+lib/kbd/consolefonts/gr8x7.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x7 (gzip compressed data, last modified: Fri Oct 31 20:26:10 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26271
+
+lib/kbd/consolefonts/gr8x8.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x8 (gzip compressed data, last modified: Fri Oct 31 20:25:46 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26272
+
+lib/kbd/consolefonts/grcourier.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Tue Feb 23 21:32:13 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26273
+
+lib/kbd/consolefonts/greek.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 20:24:39 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26274
+
+lib/kbd/consolefonts/grfixed.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Tue Feb 23 21:32:13 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26275
+
+lib/kbd/consolefonts/iso01.f08.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x8 (gzip compressed data, last modified: Fri Oct 31 14:54:17 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26276
+
+lib/kbd/consolefonts/iso01.f14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Fri Oct 31 14:54:24 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26277
+
+lib/kbd/consolefonts/iso01.f16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 14:54:30 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26278
+
+lib/kbd/consolefonts/iso01a-8x14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x14 (gzip compressed data, last modified: Fri Oct 31 20:30:57 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26279
+
+lib/kbd/consolefonts/iso01a-8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 20:30:50 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26280
+
+lib/kbd/consolefonts/iso01a-8x8.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x8 (gzip compressed data, last modified: Fri Oct 31 20:31:11 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26281
+
+lib/kbd/consolefonts/iso02.f08.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x8 (gzip compressed data, last modified: Fri Oct 31 14:54:18 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26282
+
+lib/kbd/consolefonts/iso02.f14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Fri Oct 31 14:54:24 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26283
+
+lib/kbd/consolefonts/iso02.f16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 14:54:30 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26284
+
+lib/kbd/consolefonts/iso03.f08.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x8 (gzip compressed data, last modified: Fri Oct 31 14:54:19 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26285
+
+lib/kbd/consolefonts/iso03.f14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Fri Oct 31 14:54:25 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26286
+
+lib/kbd/consolefonts/iso03.f16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 14:54:31 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26287
+
+lib/kbd/consolefonts/iso04.f08.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x8 (gzip compressed data, last modified: Fri Oct 31 14:54:19 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26288
+
+lib/kbd/consolefonts/iso04.f14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Fri Oct 31 14:54:25 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26289
+
+lib/kbd/consolefonts/iso04.f16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 14:54:31 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26290
+
+lib/kbd/consolefonts/iso05.f08.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x8 (gzip compressed data, last modified: Fri Oct 31 14:54:20 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26291
+
+lib/kbd/consolefonts/iso05.f14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Fri Oct 31 14:54:26 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26292
+
+lib/kbd/consolefonts/iso05.f16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 14:54:32 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26293
+
+lib/kbd/consolefonts/iso06.f08.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x8 (gzip compressed data, last modified: Fri Oct 31 14:54:21 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26294
+
+lib/kbd/consolefonts/iso06.f14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Fri Oct 31 14:54:27 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26295
+
+lib/kbd/consolefonts/iso06.f16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 14:54:33 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26296
+
+lib/kbd/consolefonts/iso07.f08.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x8 (gzip compressed data, last modified: Fri Oct 31 14:54:21 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26297
+
+lib/kbd/consolefonts/iso07.f14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Fri Oct 31 14:54:27 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26298
+
+lib/kbd/consolefonts/iso07.f16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 14:54:33 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26299
+
+lib/kbd/consolefonts/iso08.f08.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x8 (gzip compressed data, last modified: Fri Oct 31 14:54:22 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26300
+
+lib/kbd/consolefonts/iso08.f14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Fri Oct 31 14:54:28 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26301
+
+lib/kbd/consolefonts/iso08.f16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 14:54:34 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26302
+
+lib/kbd/consolefonts/iso09.f08.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x8 (gzip compressed data, last modified: Fri Oct 31 14:54:22 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26303
+
+lib/kbd/consolefonts/iso09.f14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Fri Oct 31 14:54:28 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26304
+
+lib/kbd/consolefonts/iso09.f16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 14:54:34 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26305
+
+lib/kbd/consolefonts/iso10.f08.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x8 (gzip compressed data, last modified: Tue Feb 23 21:41:05 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26306
+
+lib/kbd/consolefonts/iso10.f14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Tue Feb 23 21:41:15 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26307
+
+lib/kbd/consolefonts/iso10.f16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Tue Feb 23 21:41:22 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26308
+
+lib/kbd/consolefonts/iso14.f16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Thu Feb 18 23:43:35 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26309
+
+lib/kbd/consolefonts/koi8-14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x14 (gzip compressed data, last modified: Thu Dec  7 21:45:07 1995, max compression, from Unix)
+  Image: able2.dd  Inode: 26310
+
+lib/kbd/consolefonts/koi8-8x14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x14 (gzip compressed data, last modified: Fri Oct 31 20:32:10 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26311
+
+lib/kbd/consolefonts/koi8-8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 20:32:18 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26312
+
+lib/kbd/consolefonts/koi8-8x8.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x8 (gzip compressed data, last modified: Fri Oct 31 20:32:00 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26313
+
+lib/kbd/consolefonts/koi8b-8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 20:32:26 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26314
+
+lib/kbd/consolefonts/koi8c-8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Fri Oct 31 20:32:32 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26315
+
+lib/kbd/consolefonts/koi8r-8x8.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x8 (gzip compressed data, last modified: Wed Apr 14 23:46:21 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26316
+
+lib/kbd/consolefonts/koi8u_8x14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Wed Apr 14 23:45:05 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26317
+
+lib/kbd/consolefonts/koi8u_8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Wed Apr 14 23:45:05 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26318
+
+lib/kbd/consolefonts/koi8u_8x8.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x8 (gzip compressed data, last modified: Wed Apr 14 23:45:05 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26319
+
+lib/kbd/consolefonts/lat0-08.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x8 (gzip compressed data, last modified: Tue Feb 23 21:21:41 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26320
+
+lib/kbd/consolefonts/lat0-10.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x10 (gzip compressed data, last modified: Tue Feb 23 21:21:41 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26321
+
+lib/kbd/consolefonts/lat0-12.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x12 (gzip compressed data, last modified: Tue Feb 23 21:21:41 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26322
+
+lib/kbd/consolefonts/lat0-14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Tue Feb 23 21:21:41 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26323
+
+lib/kbd/consolefonts/lat0-16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Tue Feb 23 21:21:41 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26324
+
+lib/kbd/consolefonts/lat0-sun16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Mon Mar  6 14:22:29 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 26325
+
+lib/kbd/consolefonts/lat1-08.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x8 (gzip compressed data, last modified: Tue Feb 23 21:23:13 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26326
+
+lib/kbd/consolefonts/lat1-10.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x10 (gzip compressed data, last modified: Tue Feb 23 21:23:13 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26327
+
+lib/kbd/consolefonts/lat1-12.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x12 (gzip compressed data, last modified: Tue Feb 23 21:23:13 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26328
+
+lib/kbd/consolefonts/lat1-14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Tue Feb 23 21:23:13 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26329
+
+lib/kbd/consolefonts/lat1-16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Tue Feb 23 21:23:13 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26330
+
+lib/kbd/consolefonts/t.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Tue Feb 23 21:32:13 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26370
+
+lib/kbd/consolefonts/lat1u-08.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x8 (gzip compressed data, last modified: Thu Dec  7 22:39:03 1995, max compression, from Unix)
+  Image: able2.dd  Inode: 26332
+
+lib/kbd/consolefonts/lat1u-10.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x10 (gzip compressed data, last modified: Thu Dec  7 22:39:03 1995, max compression, from Unix)
+  Image: able2.dd  Inode: 26333
+
+lib/kbd/consolefonts/lat1u-12.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x12 (gzip compressed data, last modified: Thu Dec  7 22:39:04 1995, max compression, from Unix)
+  Image: able2.dd  Inode: 26334
+
+lib/kbd/consolefonts/lat1u-14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Thu Dec  7 22:39:05 1995, max compression, from Unix)
+  Image: able2.dd  Inode: 26335
+
+lib/kbd/consolefonts/lat1u-16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Thu Dec  7 22:39:05 1995, max compression, from Unix)
+  Image: able2.dd  Inode: 26336
+
+lib/kbd/consolefonts/lat2-08.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x8 (gzip compressed data, last modified: Mon May 27 14:24:56 1996, max compression, from Unix)
+  Image: able2.dd  Inode: 26337
+
+lib/kbd/consolefonts/lat2-10.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x10 (gzip compressed data, last modified: Mon May 27 14:25:02 1996, max compression, from Unix)
+  Image: able2.dd  Inode: 26338
+
+lib/kbd/consolefonts/lat2-12.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x12 (gzip compressed data, last modified: Mon May 27 14:25:04 1996, max compression, from Unix)
+  Image: able2.dd  Inode: 26339
+
+lib/kbd/consolefonts/lat2-14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x14 (gzip compressed data, last modified: Mon May 27 14:25:08 1996, max compression, from Unix)
+  Image: able2.dd  Inode: 26340
+
+lib/kbd/consolefonts/lat2-16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Mon May 27 14:25:14 1996, max compression, from Unix)
+  Image: able2.dd  Inode: 26341
+
+lib/kbd/consolefonts/lat2-sun16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Mon Mar  6 14:36:19 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 26342
+
+lib/kbd/consolefonts/lat2u-16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Thu Apr  1 21:09:44 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26343
+
+lib/kbd/consolefonts/lat4-08.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x8 (gzip compressed data, last modified: Tue Feb 23 21:23:50 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26344
+
+lib/kbd/consolefonts/lat4-10.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x10 (gzip compressed data, last modified: Tue Feb 23 21:23:50 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26345
+
+lib/kbd/consolefonts/lat4-12.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x12 (gzip compressed data, last modified: Tue Feb 23 21:23:50 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26346
+
+lib/kbd/consolefonts/lat4-14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Tue Feb 23 21:23:50 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26347
+
+lib/kbd/consolefonts/lat4-16+.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Tue Feb 23 21:23:50 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26348
+
+lib/kbd/consolefonts/lat4-16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Tue Feb 23 21:23:50 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26349
+
+lib/kbd/consolefonts/lat4-19.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x19 (gzip compressed data, last modified: Tue Feb 23 21:23:50 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26350
+
+lib/kbd/consolefonts/lat4a-08.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x8 (gzip compressed data, last modified: Tue Feb 23 21:23:50 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26351
+
+lib/kbd/consolefonts/lat4a-10.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x10 (gzip compressed data, last modified: Tue Feb 23 21:23:50 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26352
+
+lib/kbd/consolefonts/lat4a-12.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x12 (gzip compressed data, last modified: Tue Feb 23 21:23:50 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26353
+
+lib/kbd/consolefonts/lat4a-14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Tue Feb 23 21:23:50 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26354
+
+lib/kbd/consolefonts/lat4a-16+.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Tue Feb 23 21:23:50 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26355
+
+lib/kbd/consolefonts/lat4a-16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Tue Feb 23 21:23:50 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26356
+
+lib/kbd/consolefonts/lat4a-19.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x19 (gzip compressed data, last modified: Tue Feb 23 21:23:50 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26357
+
+lib/kbd/consolefonts/lat4u-08.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x8 (gzip compressed data, last modified: Tue Aug 26 18:33:25 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26358
+
+lib/kbd/consolefonts/lat4u-10.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x10 (gzip compressed data, last modified: Sun Aug 24 08:42:01 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26359
+
+lib/kbd/consolefonts/lat4u-12.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x12 (gzip compressed data, last modified: Sun Aug 24 08:42:02 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26360
+
+lib/kbd/consolefonts/lat4u-14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Tue Aug 26 18:39:30 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26361
+
+lib/kbd/consolefonts/lat4u-16+.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Tue Aug 26 18:18:49 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26362
+
+lib/kbd/consolefonts/lat4u-16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Tue Aug 26 18:18:41 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26363
+
+lib/kbd/consolefonts/lat4u-19.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x19 (gzip compressed data, last modified: Tue Aug 26 18:18:45 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 26364
+
+lib/kbd/consolefonts/lat7-14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x14 (gzip compressed data, last modified: Mon Aug 23 21:11:25 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26366
+
+lib/kbd/consolefonts/ruscii_8x14.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x14 (gzip compressed data, last modified: Wed Apr 14 23:45:15 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26367
+
+lib/kbd/consolefonts/ruscii_8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Wed Apr 14 23:45:15 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26368
+
+lib/kbd/consolefonts/ruscii_8x8.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x8 (gzip compressed data, last modified: Wed Apr 14 23:45:15 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26369
+
+lib/kbd/consolefonts/t850b.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Tue Feb 23 21:32:13 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26371
+
+lib/kbd/consolefonts/tcvn8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, no directory, 8x16 (gzip compressed data, last modified: Tue Feb 23 21:24:30 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26372
+
+lib/kbd/consolefonts/viscii10-8x16.psf.gz
+  Linux/i386 PC Screen Font v1 data, 256 characters, Unicode directory, 8x16 (gzip compressed data, last modified: Tue Feb 23 21:24:36 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 26373
+
+lib/kbd/consoletrans/MacCyrillic.acm.gz
+  data (gzip compressed data, last modified: Tue Jun 22 09:27:00 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 40301
+
+lib/kbd/consoletrans/bulgarian-mic.acm.gz
+  UTF-8 Unicode text (gzip compressed data, last modified: Wed Dec  1 10:32:31 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 40307
+
+lib/kbd/consoletrans/cp1251.acm.gz
+  data (gzip compressed data, last modified: Tue Jun 22 09:27:29 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 40308
+
+lib/kbd/consoletrans/cp437.acm.gz
+  UTF-8 Unicode text (gzip compressed data, last modified: Fri Oct  3 10:18:13 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 40309
+
+lib/kbd/consoletrans/cp866.acm.gz
+  data (gzip compressed data, last modified: Tue Jun 22 09:27:58 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 40315
+
+lib/kbd/consoletrans/graph.fallback.gz
+  UTF-8 Unicode text (gzip compressed data, last modified: Thu May 28 15:57:58 1998, max compression, from Unix)
+  Image: able2.dd  Inode: 40319
+
+lib/kbd/consoletrans/iso01.acm.gz
+  UTF-8 Unicode text, with LF, NEL line terminators (gzip compressed data, last modified: Fri Oct  3 09:29:04 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 40320
+
+lib/kbd/consoletrans/iso02+euro.acm.gz
+  UTF-8 Unicode text, with LF, NEL line terminators (gzip compressed data, last modified: Fri Dec  4 15:42:25 1998, max compression, from Unix)
+  Image: able2.dd  Inode: 40322
+
+lib/kbd/consoletrans/iso02.acm.gz
+  UTF-8 Unicode text, with LF, NEL line terminators (gzip compressed data, last modified: Fri Oct  3 09:40:26 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 40323
+
+lib/kbd/consoletrans/iso03.acm.gz
+  UTF-8 Unicode text, with LF, NEL line terminators (gzip compressed data, last modified: Fri Oct  3 09:45:34 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 40325
+
+lib/kbd/consoletrans/iso04.acm.gz
+  UTF-8 Unicode text, with LF, NEL line terminators (gzip compressed data, last modified: Fri Oct  3 09:46:00 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 40327
+
+lib/kbd/consoletrans/iso05.acm.gz
+  UTF-8 Unicode text, with LF, NEL line terminators (gzip compressed data, last modified: Fri Oct  3 09:46:01 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 40329
+
+lib/kbd/consoletrans/iso06.acm.gz
+  UTF-8 Unicode text, with LF, NEL line terminators (gzip compressed data, last modified: Fri Oct  3 09:46:02 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 40331
+
+lib/kbd/consoletrans/iso07.acm.gz
+  UTF-8 Unicode text, with LF, NEL line terminators (gzip compressed data, last modified: Fri Oct  3 09:46:03 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 40333
+
+lib/kbd/consoletrans/iso08.acm.gz
+  UTF-8 Unicode text, with LF, NEL line terminators (gzip compressed data, last modified: Fri Oct  3 09:46:05 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 40335
+
+lib/kbd/consoletrans/iso09.acm.gz
+  UTF-8 Unicode text, with LF, NEL line terminators (gzip compressed data, last modified: Fri Oct  3 09:46:06 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 40337
+
+lib/kbd/consoletrans/iso10.acm.gz
+  UTF-8 Unicode text, with LF, NEL line terminators (gzip compressed data, last modified: Fri Oct  3 09:46:07 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 40339
+
+lib/kbd/consoletrans/iso15.acm.gz
+  UTF-8 Unicode text, with LF, NEL line terminators (gzip compressed data, last modified: Fri Dec  4 16:32:07 1998, max compression, from Unix)
+  Image: able2.dd  Inode: 40342
+
+lib/kbd/consoletrans/iso8859-5.acm.gz
+  UTF-8 Unicode text (gzip compressed data, last modified: Mon Aug 23 09:32:25 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 40344
+
+lib/kbd/consoletrans/koi8-r.acm.gz
+  UTF-8 Unicode text (gzip compressed data, last modified: Mon Mar  6 09:40:01 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 40346
+
+lib/kbd/consoletrans/koi8-r.sfm.gz
+  UTF-8 Unicode text (gzip compressed data, last modified: Tue Jun  3 03:38:32 1997, max compression, from Unix)
+  Image: able2.dd  Inode: 40347
+
+lib/kbd/consoletrans/koi8-u.acm.gz
+  UTF-8 Unicode text (gzip compressed data, last modified: Mon Mar  6 09:40:01 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 40348
+
+lib/kbd/consoletrans/math.fallback.gz
+  UTF-8 Unicode text (gzip compressed data, last modified: Thu May 28 15:57:58 1998, max compression, from Unix)
+  Image: able2.dd  Inode: 40359
+
+lib/kbd/consoletrans/misc.fallback.gz
+  UTF-8 Unicode text (gzip compressed data, last modified: Thu May 28 15:57:58 1998, max compression, from Unix)
+  Image: able2.dd  Inode: 40360
+
+lib/kbd/consoletrans/typo.fallback.gz
+  UTF-8 Unicode text (gzip compressed data, last modified: Thu May 28 15:57:58 1998, max compression, from Unix)
+  Image: able2.dd  Inode: 40369
+
+lib/kbd/keymaps/i386/qwerty/lt.l4.kmap.gz
+  UTF-8 Unicode text (gzip compressed data, last modified: Mon Mar  6 23:28:01 2000, max compression, from Unix)
+  Image: able2.dd  Inode: 14232
+
+lib/kbd/keymaps/i386/qwerty/uaw_uni.kmap.gz
+  UTF-8 Unicode text (gzip compressed data, last modified: Sun Aug 29 19:15:29 1999, max compression, from Unix)
+  Image: able2.dd  Inode: 14267
+
+lib/linuxconf/descriptions/ko/apache
+  POSIX tar archive (GNU) (gzip compressed data, last modified: Tue Aug 10 01:26:54 1999, from Unix)
+  Image: able2.dd  Inode: 46389
+
+share/pixmaps/redhat/rpm.tif
+  TIFF image data, little-endian, direntries=19, height=512, bps=242, compression=LZW, PhotometricIntepretation=RGB, width=801
+  Image: able2.dd  Inode: 32427
+

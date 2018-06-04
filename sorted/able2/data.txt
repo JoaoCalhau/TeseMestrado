@@ -1,0 +1,1756 @@
+boot.b
+  data
+  Image: able2.dd  Inode: 19
+
+chain.b
+  data
+  Image: able2.dd  Inode: 20
+
+os2_d.b
+  data
+  Image: able2.dd  Inode: 21
+
+var/lib/rpm/packages.rpm
+  data
+  Image: able2.dd  Inode: 3684
+
+var/lib/nfs/state
+  data
+  Image: able2.dd  Inode: 11100
+
+var/lib/slocate/slocate.db
+  data
+  Image: able2.dd  Inode: 11120
+
+var/log/lastlog
+  data
+  Image: able2.dd  Inode: 7366
+
+var/log/wtmp
+  data
+  Image: able2.dd  Inode: 9961
+
+var/run/utmp
+  data
+  Image: able2.dd  Inode: 5522
+
+var/run/random-seed
+  data
+  Image: able2.dd  Inode: 6599
+
+var/run/ftp.pids-all
+  data
+  Image: able2.dd  Inode: 6609
+
+var/run/shutdown.pid
+  data
+  Image: able2.dd  Inode: 6613
+
+var/catman/cat1/rdate.1.gz
+  data
+  Image: able2.dd  Inode: 6613
+
+tmp/logrot2V6Q1J
+  data
+  Image: able2.dd  Inode: 6616
+
+etc/ld.so.cache
+  data
+  Image: able2.dd  Inode: 10012
+
+etc/info-dir
+  data
+  Image: able2.dd  Inode: 9224
+
+etc/pcmcia/cis/3CCFEM556.dat
+  data
+  Image: able2.dd  Inode: 6222
+
+etc/pcmcia/cis/3CXEM556.dat
+  data
+  Image: able2.dd  Inode: 6223
+
+etc/pcmcia/cis/COMpad.dat
+  data
+  Image: able2.dd  Inode: 6224
+
+etc/pcmcia/cis/DP83903.dat
+  data
+  Image: able2.dd  Inode: 6225
+
+etc/pcmcia/cis/E-CARD.dat
+  data
+  Image: able2.dd  Inode: 6226
+
+etc/pcmcia/cis/NE2K.dat
+  data
+  Image: able2.dd  Inode: 6228
+
+etc/pcmcia/cis/PCMLM28.dat
+  data
+  Image: able2.dd  Inode: 6229
+
+etc/pcmcia/cis/PE-200.dat
+  data
+  Image: able2.dd  Inode: 6230
+
+etc/pcmcia/cis/PE520.dat
+  data
+  Image: able2.dd  Inode: 6231
+
+etc/pcmcia/cis/RS-COM-2P.dat
+  data
+  Image: able2.dd  Inode: 6232
+
+etc/ioctl.save
+  data
+  Image: able2.dd  Inode: 10029
+
+$OrphanFiles/OrphanFile-2393
+  data
+  Image: able2.dd  Inode: 2393
+
+$OrphanFiles/OrphanFile-10074
+  data
+  Image: able2.dd  Inode: 10074
+
+$OrphanFiles/OrphanFile-10081
+  data
+  Image: able2.dd  Inode: 10081
+
+$OrphanFiles/OrphanFile-11106
+  data
+  Image: able2.dd  Inode: 11106
+
+doc/lilo-0.21/doc/bootloader.fig
+  data
+  Image: able2.dd  Inode: 4216
+
+doc/lilo-0.21/doc/image.fig
+  data
+  Image: able2.dd  Inode: 4219
+
+doc/lilo-0.21/doc/other.fig
+  data
+  Image: able2.dd  Inode: 4223
+
+doc/lilo-0.21/doc/parameter.fig
+  data
+  Image: able2.dd  Inode: 4225
+
+doc/lynx-2.8.3/test/raw8bit.html
+  data
+  Image: able2.dd  Inode: 30257
+
+doc/vim-common-5.6/doc/visual.txt
+  data
+  Image: able2.dd  Inode: 14469
+
+doc/vim-common-5.6/syntax/vim.vim
+  data
+  Image: able2.dd  Inode: 56746
+
+doc/vim-common-5.6/syntax/vim.vim.pl2
+  data
+  Image: able2.dd  Inode: 56747
+
+lib/cracklib_dict.hwm
+  data
+  Image: able2.dd  Inode: 38292
+
+lib/cracklib_dict.pwd
+  data
+  Image: able2.dd  Inode: 38293
+
+lib/linuxconf/help.eng/apache-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16263
+
+lib/linuxconf/help.eng/dhcpd-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16285
+
+lib/linuxconf/help.eng/dialout-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16286
+
+lib/linuxconf/help.eng/dnsconf-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16287
+
+lib/linuxconf/help.eng/fetchmailconf-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16288
+
+lib/linuxconf/help.eng/firewall-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16289
+
+lib/linuxconf/help.eng/inetdconf-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16290
+
+lib/linuxconf/help.eng/inittab-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16291
+
+lib/linuxconf/help.eng/linuxconf-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16292
+
+lib/linuxconf/help.eng/mailconf-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16293
+
+lib/linuxconf/help.eng/managerpm-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16294
+
+lib/linuxconf/help.eng/modemconf-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16295
+
+lib/linuxconf/help.eng/motd-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16296
+
+lib/linuxconf/help.eng/mrtg-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16297
+
+lib/linuxconf/help.eng/netadm-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16298
+
+lib/linuxconf/help.eng/pppdialin-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16299
+
+lib/linuxconf/help.eng/rarp-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16300
+
+lib/linuxconf/help.eng/redhat-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16301
+
+lib/linuxconf/help.eng/redhatppp-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16302
+
+lib/linuxconf/help.eng/samba-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16303
+
+lib/linuxconf/help.eng/squid-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16304
+
+lib/linuxconf/help.eng/status-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16305
+
+lib/linuxconf/help.eng/treemenu-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16306
+
+lib/linuxconf/help.eng/usermenu-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16307
+
+lib/linuxconf/help.eng/uucp-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16308
+
+lib/linuxconf/help.eng/wuftpd-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16309
+
+lib/linuxconf/help.eng/xterminals-msg-1.17r2.eng
+  data
+  Image: able2.dd  Inode: 16310
+
+lib/linuxconf/images/fetchmailconf.xpm
+  data
+  Image: able2.dd  Inode: 44459
+
+share/i18n/locales/en_CA,2.5
+  data
+  Image: able2.dd  Inode: 30139
+
+share/i18n/locales/fr_CA,2.13
+  data
+  Image: able2.dd  Inode: 30172
+
+share/locale/af_ZA/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 36148
+
+share/locale/af_ZA/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 36149
+
+share/locale/af_ZA/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 38157
+
+share/locale/af_ZA/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 36150
+
+share/locale/af_ZA/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 36151
+
+share/locale/af_ZA/LC_TIME
+  data
+  Image: able2.dd  Inode: 36152
+
+share/locale/ar_SA/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 40164
+
+share/locale/ar_SA/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 40165
+
+share/locale/ar_SA/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 42172
+
+share/locale/ar_SA/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 40166
+
+share/locale/ar_SA/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 40167
+
+share/locale/ar_SA/LC_TIME
+  data
+  Image: able2.dd  Inode: 40168
+
+share/locale/ca_ES/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 44180
+
+share/locale/ca_ES/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 44181
+
+share/locale/ca_ES/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 46188
+
+share/locale/ca_ES/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 44182
+
+share/locale/ca_ES/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 44183
+
+share/locale/ca_ES/LC_TIME
+  data
+  Image: able2.dd  Inode: 44184
+
+share/locale/cs_CZ/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 52212
+
+share/locale/cs_CZ/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 52213
+
+share/locale/cs_CZ/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 54218
+
+share/locale/cs_CZ/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 52214
+
+share/locale/cs_CZ/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 52215
+
+share/locale/cs_CZ/LC_TIME
+  data
+  Image: able2.dd  Inode: 52216
+
+share/locale/da_DK/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 56228
+
+share/locale/da_DK/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 56229
+
+share/locale/da_DK/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 58236
+
+share/locale/da_DK/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 56230
+
+share/locale/da_DK/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 56231
+
+share/locale/da_DK/LC_TIME
+  data
+  Image: able2.dd  Inode: 56232
+
+share/locale/de_AT/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 6027
+
+share/locale/de_AT/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 6028
+
+share/locale/de_AT/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 10043
+
+share/locale/de_AT/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 6029
+
+share/locale/de_AT/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 6030
+
+share/locale/de_AT/LC_TIME
+  data
+  Image: able2.dd  Inode: 6031
+
+share/locale/de_BE/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 12053
+
+share/locale/de_BE/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 12054
+
+share/locale/de_BE/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 26109
+
+share/locale/de_BE/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 12055
+
+share/locale/de_BE/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 12056
+
+share/locale/de_BE/LC_TIME
+  data
+  Image: able2.dd  Inode: 12057
+
+share/locale/de_CH/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 34141
+
+share/locale/de_CH/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 34142
+
+share/locale/de_CH/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 48197
+
+share/locale/de_CH/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 34143
+
+share/locale/de_CH/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 34144
+
+share/locale/de_CH/LC_TIME
+  data
+  Image: able2.dd  Inode: 34145
+
+share/locale/de_DE/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 2012
+
+share/locale/de_DE/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 2013
+
+share/locale/de_DE/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 14060
+
+share/locale/de_DE/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 2014
+
+share/locale/de_DE/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 2015
+
+share/locale/de_DE/LC_TIME
+  data
+  Image: able2.dd  Inode: 2016
+
+share/locale/de_LU/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 38159
+
+share/locale/de_LU/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 38160
+
+share/locale/de_LU/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 42174
+
+share/locale/de_LU/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 38161
+
+share/locale/de_LU/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 38162
+
+share/locale/de_LU/LC_TIME
+  data
+  Image: able2.dd  Inode: 38163
+
+share/locale/el_GR/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 58238
+
+share/locale/el_GR/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 58239
+
+share/locale/el_GR/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 10045
+
+share/locale/el_GR/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 58240
+
+share/locale/el_GR/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 58241
+
+share/locale/el_GR/LC_TIME
+  data
+  Image: able2.dd  Inode: 58242
+
+share/locale/en_AU/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 26111
+
+share/locale/en_AU/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 26112
+
+share/locale/en_AU/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 46191
+
+share/locale/en_AU/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 26113
+
+share/locale/en_AU/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 26114
+
+share/locale/en_AU/LC_TIME
+  data
+  Image: able2.dd  Inode: 26115
+
+share/locale/en_BW/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 48199
+
+share/locale/en_BW/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 48200
+
+share/locale/en_BW/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 14062
+
+share/locale/en_BW/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 48201
+
+share/locale/en_BW/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 48202
+
+share/locale/en_BW/LC_TIME
+  data
+  Image: able2.dd  Inode: 48203
+
+share/locale/en_CA/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 42176
+
+share/locale/en_CA/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 42177
+
+share/locale/en_CA/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 10047
+
+share/locale/en_CA/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 42178
+
+share/locale/en_CA/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 42179
+
+share/locale/en_CA/LC_TIME
+  data
+  Image: able2.dd  Inode: 42180
+
+share/locale/en_DK/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 46193
+
+share/locale/en_DK/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 46194
+
+share/locale/en_DK/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 14064
+
+share/locale/en_DK/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 46195
+
+share/locale/en_DK/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 46196
+
+share/locale/en_DK/LC_TIME
+  data
+  Image: able2.dd  Inode: 46197
+
+share/locale/en_GB/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 10049
+
+share/locale/en_GB/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 10050
+
+share/locale/en_GB/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 14066
+
+share/locale/en_GB/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 10051
+
+share/locale/en_GB/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 10052
+
+share/locale/en_GB/LC_TIME
+  data
+  Image: able2.dd  Inode: 10053
+
+share/locale/en_IE/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 14068
+
+share/locale/en_IE/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 14069
+
+share/locale/en_IE/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 14
+
+share/locale/en_IE/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 14070
+
+share/locale/en_IE/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 14071
+
+share/locale/en_IE/LC_TIME
+  data
+  Image: able2.dd  Inode: 14072
+
+share/locale/en_US/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 16
+
+share/locale/en_US/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 17
+
+share/locale/en_US/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 18082
+
+share/locale/en_US/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 18
+
+share/locale/en_US/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 19
+
+share/locale/en_US/LC_TIME
+  data
+  Image: able2.dd  Inode: 20
+
+share/locale/en_ZW/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 18084
+
+share/locale/en_ZW/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 18085
+
+share/locale/en_ZW/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 22094
+
+share/locale/en_ZW/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 18086
+
+share/locale/en_ZW/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 18087
+
+share/locale/en_ZW/LC_TIME
+  data
+  Image: able2.dd  Inode: 18088
+
+share/locale/es_ES/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 40170
+
+share/locale/es_ES/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 40171
+
+share/locale/es_ES/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 54222
+
+share/locale/es_ES/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 40172
+
+share/locale/es_ES/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 40173
+
+share/locale/es_ES/LC_TIME
+  data
+  Image: able2.dd  Inode: 40174
+
+share/locale/et_EE/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 54224
+
+share/locale/et_EE/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 54225
+
+share/locale/et_EE/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 8041
+
+share/locale/et_EE/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 54226
+
+share/locale/et_EE/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 54227
+
+share/locale/et_EE/LC_TIME
+  data
+  Image: able2.dd  Inode: 54228
+
+share/locale/eu_ES/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 8043
+
+share/locale/eu_ES/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 8044
+
+share/locale/eu_ES/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 50204
+
+share/locale/eu_ES/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 8045
+
+share/locale/eu_ES/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 8046
+
+share/locale/eu_ES/LC_TIME
+  data
+  Image: able2.dd  Inode: 8047
+
+share/locale/fi_FI/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 50206
+
+share/locale/fi_FI/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 50207
+
+share/locale/fi_FI/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 4023
+
+share/locale/fi_FI/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 50208
+
+share/locale/fi_FI/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 50209
+
+share/locale/fi_FI/LC_TIME
+  data
+  Image: able2.dd  Inode: 50210
+
+share/locale/fo_FO/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 4025
+
+share/locale/fo_FO/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 4026
+
+share/locale/fo_FO/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 36154
+
+share/locale/fo_FO/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 4027
+
+share/locale/fo_FO/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 4028
+
+share/locale/fo_FO/LC_TIME
+  data
+  Image: able2.dd  Inode: 4029
+
+share/locale/fr_BE/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 56234
+
+share/locale/fr_BE/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 56235
+
+share/locale/fr_BE/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 6033
+
+share/locale/fr_BE/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 56236
+
+share/locale/fr_BE/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 56237
+
+share/locale/fr_BE/LC_TIME
+  data
+  Image: able2.dd  Inode: 56238
+
+share/locale/fr_CA/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 12059
+
+share/locale/fr_CA/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 12060
+
+share/locale/fr_CA/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 34147
+
+share/locale/fr_CA/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 12061
+
+share/locale/fr_CA/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 12062
+
+share/locale/fr_CA/LC_TIME
+  data
+  Image: able2.dd  Inode: 12063
+
+share/locale/fr_CH/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 44187
+
+share/locale/fr_CH/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 44188
+
+share/locale/fr_CH/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 58244
+
+share/locale/fr_CH/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 44189
+
+share/locale/fr_CH/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 44190
+
+share/locale/fr_CH/LC_TIME
+  data
+  Image: able2.dd  Inode: 44191
+
+share/locale/fr_FR/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 2018
+
+share/locale/fr_FR/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 2019
+
+share/locale/fr_FR/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 36156
+
+share/locale/fr_FR/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 2020
+
+share/locale/fr_FR/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 2021
+
+share/locale/fr_FR/LC_TIME
+  data
+  Image: able2.dd  Inode: 2022
+
+share/locale/fr_LU/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 38165
+
+share/locale/fr_LU/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 38166
+
+share/locale/fr_LU/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 6035
+
+share/locale/fr_LU/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 38167
+
+share/locale/fr_LU/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 38168
+
+share/locale/fr_LU/LC_TIME
+  data
+  Image: able2.dd  Inode: 38169
+
+share/locale/ga_IE/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 26117
+
+share/locale/ga_IE/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 26118
+
+share/locale/ga_IE/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 34149
+
+share/locale/ga_IE/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 26119
+
+share/locale/ga_IE/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 26120
+
+share/locale/ga_IE/LC_TIME
+  data
+  Image: able2.dd  Inode: 26121
+
+share/locale/gl_ES/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 22099
+
+share/locale/gl_ES/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 22100
+
+share/locale/gl_ES/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 36158
+
+share/locale/gl_ES/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 22101
+
+share/locale/gl_ES/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 22102
+
+share/locale/gl_ES/LC_TIME
+  data
+  Image: able2.dd  Inode: 22103
+
+share/locale/hr_HR/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 42182
+
+share/locale/hr_HR/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 42183
+
+share/locale/hr_HR/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 48206
+
+share/locale/hr_HR/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 42184
+
+share/locale/hr_HR/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 42185
+
+share/locale/hr_HR/LC_TIME
+  data
+  Image: able2.dd  Inode: 42186
+
+share/locale/hu_HU/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 6037
+
+share/locale/hu_HU/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 6038
+
+share/locale/hu_HU/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 34151
+
+share/locale/hu_HU/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 6039
+
+share/locale/hu_HU/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 6040
+
+share/locale/hu_HU/LC_TIME
+  data
+  Image: able2.dd  Inode: 6041
+
+share/locale/in_ID/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 46199
+
+share/locale/in_ID/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 46200
+
+share/locale/in_ID/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 36160
+
+share/locale/in_ID/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 46201
+
+share/locale/in_ID/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 46202
+
+share/locale/in_ID/LC_TIME
+  data
+  Image: able2.dd  Inode: 46203
+
+share/locale/is_IS/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 48208
+
+share/locale/is_IS/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 48209
+
+share/locale/is_IS/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 10055
+
+share/locale/is_IS/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 48210
+
+share/locale/is_IS/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 48211
+
+share/locale/is_IS/LC_TIME
+  data
+  Image: able2.dd  Inode: 48212
+
+share/locale/it_CH/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 36162
+
+share/locale/it_CH/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 36163
+
+share/locale/it_CH/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 10057
+
+share/locale/it_CH/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 36164
+
+share/locale/it_CH/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 36165
+
+share/locale/it_CH/LC_TIME
+  data
+  Image: able2.dd  Inode: 36166
+
+share/locale/it_IT/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 14074
+
+share/locale/it_IT/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 14075
+
+share/locale/it_IT/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 10059
+
+share/locale/it_IT/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 14076
+
+share/locale/it_IT/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 14077
+
+share/locale/it_IT/LC_TIME
+  data
+  Image: able2.dd  Inode: 14078
+
+share/locale/iw_IL/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 10061
+
+share/locale/iw_IL/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 10062
+
+share/locale/iw_IL/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 22
+
+share/locale/iw_IL/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 10063
+
+share/locale/iw_IL/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 10064
+
+share/locale/iw_IL/LC_TIME
+  data
+  Image: able2.dd  Inode: 10065
+
+share/locale/kl_GL/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 24
+
+share/locale/kl_GL/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 25
+
+share/locale/kl_GL/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 18090
+
+share/locale/kl_GL/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 26
+
+share/locale/kl_GL/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 27
+
+share/locale/kl_GL/LC_TIME
+  data
+  Image: able2.dd  Inode: 28
+
+share/locale/lt_LT/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 32135
+
+share/locale/lt_LT/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 32136
+
+share/locale/lt_LT/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 40176
+
+share/locale/lt_LT/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 32137
+
+share/locale/lt_LT/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 32138
+
+share/locale/lt_LT/LC_TIME
+  data
+  Image: able2.dd  Inode: 32139
+
+share/locale/lv_LV/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 40178
+
+share/locale/lv_LV/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 40179
+
+share/locale/lv_LV/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 54230
+
+share/locale/lv_LV/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 40180
+
+share/locale/lv_LV/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 40181
+
+share/locale/lv_LV/LC_TIME
+  data
+  Image: able2.dd  Inode: 40182
+
+share/locale/mk_MK/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 54232
+
+share/locale/mk_MK/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 54233
+
+share/locale/mk_MK/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 22105
+
+share/locale/mk_MK/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 54234
+
+share/locale/mk_MK/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 54235
+
+share/locale/mk_MK/LC_TIME
+  data
+  Image: able2.dd  Inode: 54236
+
+share/locale/nl_BE/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 8049
+
+share/locale/nl_BE/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 8050
+
+share/locale/nl_BE/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 50212
+
+share/locale/nl_BE/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 8051
+
+share/locale/nl_BE/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 8052
+
+share/locale/nl_BE/LC_TIME
+  data
+  Image: able2.dd  Inode: 8053
+
+share/locale/nl_NL/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 50214
+
+share/locale/nl_NL/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 50215
+
+share/locale/nl_NL/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 52220
+
+share/locale/nl_NL/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 50216
+
+share/locale/nl_NL/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 50217
+
+share/locale/nl_NL/LC_TIME
+  data
+  Image: able2.dd  Inode: 50218
+
+share/locale/no_NO/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 58248
+
+share/locale/no_NO/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 58249
+
+share/locale/no_NO/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 4031
+
+share/locale/no_NO/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 58250
+
+share/locale/no_NO/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 58251
+
+share/locale/no_NO/LC_TIME
+  data
+  Image: able2.dd  Inode: 58252
+
+share/locale/pl_PL/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 18095
+
+share/locale/pl_PL/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 18096
+
+share/locale/pl_PL/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 34157
+
+share/locale/pl_PL/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 18097
+
+share/locale/pl_PL/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 18098
+
+share/locale/pl_PL/LC_TIME
+  data
+  Image: able2.dd  Inode: 18099
+
+share/locale/pt_BR/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 34159
+
+share/locale/pt_BR/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 34160
+
+share/locale/pt_BR/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 56240
+
+share/locale/pt_BR/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 34161
+
+share/locale/pt_BR/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 34162
+
+share/locale/pt_BR/LC_TIME
+  data
+  Image: able2.dd  Inode: 34163
+
+share/locale/pt_PT/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 12065
+
+share/locale/pt_PT/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 12066
+
+share/locale/pt_PT/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 44193
+
+share/locale/pt_PT/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 12067
+
+share/locale/pt_PT/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 12068
+
+share/locale/pt_PT/LC_TIME
+  data
+  Image: able2.dd  Inode: 12069
+
+share/locale/ro_RO/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 2024
+
+share/locale/ro_RO/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 2025
+
+share/locale/ro_RO/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 38171
+
+share/locale/ro_RO/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 2026
+
+share/locale/ro_RO/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 2027
+
+share/locale/ro_RO/LC_TIME
+  data
+  Image: able2.dd  Inode: 2028
+
+share/locale/ru_RU/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 26125
+
+share/locale/ru_RU/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 26126
+
+share/locale/ru_RU/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 38173
+
+share/locale/ru_RU/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 26127
+
+share/locale/ru_RU/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 26128
+
+share/locale/ru_RU/LC_TIME
+  data
+  Image: able2.dd  Inode: 26129
+
+share/locale/ru_RU.KOI8-R/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 44195
+
+share/locale/ru_RU.KOI8-R/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 44196
+
+share/locale/ru_RU.KOI8-R/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 26124
+
+share/locale/ru_RU.KOI8-R/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 44197
+
+share/locale/ru_RU.KOI8-R/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 44198
+
+share/locale/ru_RU.KOI8-R/LC_TIME
+  data
+  Image: able2.dd  Inode: 44199
+
+share/locale/ru_UA/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 46205
+
+share/locale/ru_UA/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 46206
+
+share/locale/ru_UA/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 48214
+
+share/locale/ru_UA/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 46207
+
+share/locale/ru_UA/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 46208
+
+share/locale/ru_UA/LC_TIME
+  data
+  Image: able2.dd  Inode: 46209
+
+share/locale/sk_SK/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 38176
+
+share/locale/sk_SK/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 38177
+
+share/locale/sk_SK/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 48216
+
+share/locale/sk_SK/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 38178
+
+share/locale/sk_SK/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 38179
+
+share/locale/sk_SK/LC_TIME
+  data
+  Image: able2.dd  Inode: 38180
+
+share/locale/sl_SI/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 36168
+
+share/locale/sl_SI/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 36169
+
+share/locale/sl_SI/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 22110
+
+share/locale/sl_SI/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 36170
+
+share/locale/sl_SI/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 36171
+
+share/locale/sl_SI/LC_TIME
+  data
+  Image: able2.dd  Inode: 36172
+
+share/locale/sr_YU/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 48218
+
+share/locale/sr_YU/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 48219
+
+share/locale/sr_YU/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 14080
+
+share/locale/sr_YU/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 48220
+
+share/locale/sr_YU/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 48221
+
+share/locale/sr_YU/LC_TIME
+  data
+  Image: able2.dd  Inode: 48222
+
+share/locale/sv_FI/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 10068
+
+share/locale/sv_FI/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 10069
+
+share/locale/sv_FI/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 14082
+
+share/locale/sv_FI/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 10070
+
+share/locale/sv_FI/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 10071
+
+share/locale/sv_FI/LC_TIME
+  data
+  Image: able2.dd  Inode: 10072
+
+share/locale/sv_SE/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 6043
+
+share/locale/sv_SE/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 6044
+
+share/locale/sv_SE/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 14084
+
+share/locale/sv_SE/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 6045
+
+share/locale/sv_SE/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 6046
+
+share/locale/sv_SE/LC_TIME
+  data
+  Image: able2.dd  Inode: 6047
+
+share/locale/th_TH/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 14086
+
+share/locale/th_TH/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 14087
+
+share/locale/th_TH/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 30
+
+share/locale/th_TH/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 14088
+
+share/locale/th_TH/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 14089
+
+share/locale/th_TH/LC_TIME
+  data
+  Image: able2.dd  Inode: 14090
+
+share/locale/tr_TR/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 32
+
+share/locale/tr_TR/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 33
+
+share/locale/tr_TR/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 32141
+
+share/locale/tr_TR/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 34
+
+share/locale/tr_TR/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 35
+
+share/locale/tr_TR/LC_TIME
+  data
+  Image: able2.dd  Inode: 36
+
+share/locale/uk_UA/LC_COLLATE
+  data
+  Image: able2.dd  Inode: 32143
+
+share/locale/uk_UA/LC_CTYPE
+  data
+  Image: able2.dd  Inode: 32144
+
+share/locale/uk_UA/LC_MESSAGES/SYS_LC_MESSAGES
+  data
+  Image: able2.dd  Inode: 52225
+
+share/locale/uk_UA/LC_MONETARY
+  data
+  Image: able2.dd  Inode: 32145
+
+share/locale/uk_UA/LC_NUMERIC
+  data
+  Image: able2.dd  Inode: 32146
+
+share/locale/uk_UA/LC_TIME
+  data
+  Image: able2.dd  Inode: 32147
+
+share/vim/vim56/doc/visual.txt
+  data
+  Image: able2.dd  Inode: 34544
+
+share/vim/vim56/macros/dvorak
+  data
+  Image: able2.dd  Inode: 52562
+
+share/vim/vim56/macros/life/life.vim
+  data
+  Image: able2.dd  Inode: 44524
+
+share/vim/vim56/macros/maze/maze_mac
+  data
+  Image: able2.dd  Inode: 44530
+
+share/vim/vim56/macros/shellmenu.vim
+  data
+  Image: able2.dd  Inode: 52570
+
+share/vim/vim56/macros/urm/urm
+  data
+  Image: able2.dd  Inode: 44536
+
+share/vim/vim56/macros/urm/urm.vim
+  data
+  Image: able2.dd  Inode: 44537
+
+share/vim/vim56/syntax/vim.vim
+  data
+  Image: able2.dd  Inode: 10563
+

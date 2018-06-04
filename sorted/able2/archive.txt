@@ -1,0 +1,132 @@
+map
+  dBase III DBT, version number 0, next free block index 27501, 1st item "\206\310linux"
+  Image: able2.dd  Inode: 22
+
+var/lib/rpm/nameindex.rpm
+  Berkeley DB 1.85 (Hash, version 2, native byte-order)
+  Image: able2.dd  Inode: 3685
+
+var/lib/rpm/fileindex.rpm
+  Berkeley DB 1.85 (Hash, version 2, native byte-order)
+  Image: able2.dd  Inode: 3686
+
+var/lib/rpm/providesindex.rpm
+  Berkeley DB 1.85 (Hash, version 2, native byte-order)
+  Image: able2.dd  Inode: 3687
+
+var/lib/rpm/requiredby.rpm
+  Berkeley DB 1.85 (Hash, version 2, native byte-order)
+  Image: able2.dd  Inode: 3688
+
+var/lib/rpm/conflictsindex.rpm
+  Berkeley DB 1.85 (Hash, version 2, native byte-order)
+  Image: able2.dd  Inode: 3689
+
+var/lib/rpm/groupindex.rpm
+  Berkeley DB 1.85 (Hash, version 2, native byte-order)
+  Image: able2.dd  Inode: 3690
+
+var/lib/rpm/triggerindex.rpm
+  Berkeley DB 1.85 (Hash, version 2, native byte-order)
+  Image: able2.dd  Inode: 3691
+
+etc/mail/virtusertable.db
+  Berkeley DB (Hash, version 5, native byte-order)
+  Image: able2.dd  Inode: 11081
+
+etc/mail/access.db
+  Berkeley DB (Hash, version 5, native byte-order)
+  Image: able2.dd  Inode: 11082
+
+etc/mail/domaintable.db
+  Berkeley DB (Hash, version 5, native byte-order)
+  Image: able2.dd  Inode: 11083
+
+etc/mail/mailertable.db
+  Berkeley DB (Hash, version 5, native byte-order)
+  Image: able2.dd  Inode: 11084
+
+etc/aliases.db
+  Berkeley DB (Hash, version 5, native byte-order)
+  Image: able2.dd  Inode: 9997
+
+home/ftp/etc/ld.so.cache
+  dBase III DBT, next free block index 1932420204, 1st item "\323\005"
+  Image: able2.dd  Inode: 34
+
+lib/libpwdb.a
+  current ar archive
+  Image: able2.dd  Inode: 9947
+
+lib/libpam_misc.a
+  current ar archive
+  Image: able2.dd  Inode: 9953
+
+$OrphanFiles/OrphanFile-2181
+  current ar archive
+  Image: able2.dd  Inode: 2181
+
+$OrphanFiles/OrphanFile-2243
+  current ar archive
+  Image: able2.dd  Inode: 2243
+
+$OrphanFiles/OrphanFile-2370
+  current ar archive
+  Image: able2.dd  Inode: 2370
+
+lib/libapm.a
+  current ar archive
+  Image: able2.dd  Inode: 38253
+
+lib/libbfd.a
+  current ar archive
+  Image: able2.dd  Inode: 38256
+
+lib/libiberty.a
+  current ar archive
+  Image: able2.dd  Inode: 38259
+
+lib/libopcodes.a
+  current ar archive
+  Image: able2.dd  Inode: 38261
+
+lib/libbz2.a
+  current ar archive
+  Image: able2.dd  Inode: 38264
+
+lib/libcfont.a
+  current ar archive
+  Image: able2.dd  Inode: 38269
+
+lib/libconsole.a
+  current ar archive
+  Image: able2.dd  Inode: 38274
+
+lib/libctgeneric.a
+  current ar archive
+  Image: able2.dd  Inode: 38279
+
+lib/libctutils.a
+  current ar archive
+  Image: able2.dd  Inode: 38284
+
+lib/libisapnp.a
+  current ar archive
+  Image: able2.dd  Inode: 38309
+
+lib/perl5/5.00503/i386-linux/CORE/libperl.a
+  current ar archive
+  Image: able2.dd  Inode: 4302
+
+lib/perl5/5.00503/i386-linux/auto/DynaLoader/DynaLoader.a
+  current ar archive
+  Image: able2.dd  Inode: 16329
+
+lib/libpopt.a
+  current ar archive
+  Image: able2.dd  Inode: 38328
+
+lib/libwrap.a
+  current ar archive
+  Image: able2.dd  Inode: 38345
+

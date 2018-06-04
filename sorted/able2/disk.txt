@@ -1,0 +1,4 @@
+boot.0300
+  DOS/MBR boot sector; partition 1 : ID=0x83, start-CHS (0x0,1,1), end-CHS (0xb,14,57), startsector 57, 10203 sectors; partition 2 : ID=0x83, start-CHS (0xc,0,1), end-CHS (0x83,14,57), startsector 10260, 102600 sectors; partition 3 : ID=0x82, start-CHS (0x84,0,1), end-CHS (0xd0,14,57), startsector 112860, 65835 sectors; partition 4 : ID=0x83, start-CHS (0xd1,0,1), end-CHS (0x315,14,57), startsector 178695, 496755 sectors
+  Image: able2.dd  Inode: 23
+
