@@ -26,7 +26,7 @@ public class PathPropagator extends Propagator<SetVar> {
     @Override
     public void propagate(int evtmask) throws ContradictionException {
         if(path.equals("")) {
-            System.err.println("No path to propagate...");
+            //System.err.println("No path to propagate...");
         } else {
             try {
 

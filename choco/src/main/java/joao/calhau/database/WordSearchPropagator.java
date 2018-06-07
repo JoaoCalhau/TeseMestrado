@@ -29,7 +29,7 @@ public class WordSearchPropagator extends Propagator<SetVar> {
     @Override
     public void propagate(int evtmask) throws ContradictionException {
         if(word.equals("")) {
-            System.err.println("No word to propagate...");
+            //System.err.println("No word to propagate...");
         } else {
             try {
 

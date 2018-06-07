@@ -26,7 +26,7 @@ public class TypePropagator extends Propagator<SetVar> {
     @Override
     public void propagate(int evtmask) throws ContradictionException {
         if(type.equals("")) {
-            System.err.println("No type to propagate...");
+            //System.err.println("No type to propagate...");
         } else {
             try {
                 Class.forName("org.h2.Driver");

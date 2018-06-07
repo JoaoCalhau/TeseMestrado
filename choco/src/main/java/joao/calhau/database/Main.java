@@ -153,11 +153,11 @@ public class Main {
         StopWatch stopWatch = new StopWatch();
         stopWatch.start();
 
-        Main main = new Main(args[0]);
+        Main main = new Main("able2");
 
-        //main.solver("Archive", "var/lib/rpm", "", "", "");
-        //main.solver("Unknown", "LVOC/LVOC", "", "", "");
-        main.solver("Audio", "Music/BabyMetal", "", "", "");
+        main.solver("Archive", "var/lib/rpm", "rpm", "1996-01-01", "1998-01-01");
+        //main.solver("Exec", "LVOC/LVOC", "DOS", "2017-01-01", "2018-01-01");
+        //main.solver("Audio", "Music/BabyMetal", "Babymetal", "2017-01-01", "2018-12-12");
 
         stopWatch.stop();
 

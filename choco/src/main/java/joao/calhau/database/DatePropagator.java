@@ -28,7 +28,7 @@ public class DatePropagator extends Propagator<SetVar> {
     @Override
     public void propagate(int evtmask) throws ContradictionException {
         if(startDate.equals("") && endDate.equals("")) {
-            System.err.println("No dates to propagate...");
+            //System.err.println("No dates to propagate...");
         } else {
             try {
 
