@@ -40,8 +40,8 @@ public class TypePropagator extends Propagator<SetVar> {
 
                     if (!rs.next())
                         var.remove(i, this);
-                    //else
-                    //    var.force(i, this);
+                    else
+                        var.force(i, this);
 
                     rs.close();
                 }

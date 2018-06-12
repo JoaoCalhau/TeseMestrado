@@ -1,0 +1,4168 @@
+var/www/htdocs/htdig/button5.png
+  PNG image data, 30 x 30, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41488
+
+var/www/htdocs/htdig/button3.png
+  PNG image data, 30 x 30, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41489
+
+var/www/htdocs/htdig/button6.gif
+  GIF image data, version 89a, 30 x 30
+  Image: able3.000  Inode: 41491
+
+var/www/htdocs/htdig/star_blank.png
+  PNG image data, 15 x 13, 1-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41492
+
+var/www/htdocs/htdig/button10.gif
+  GIF image data, version 89a, 30 x 30
+  Image: able3.000  Inode: 41493
+
+var/www/htdocs/htdig/star.png
+  PNG image data, 15 x 13, 2-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41494
+
+var/www/htdocs/htdig/buttonr.gif
+  GIF image data, version 89a, 30 x 30
+  Image: able3.000  Inode: 41497
+
+var/www/htdocs/htdig/star.gif
+  GIF image data, version 89a, 15 x 13
+  Image: able3.000  Inode: 41498
+
+var/www/htdocs/htdig/buttonr.png
+  PNG image data, 30 x 30, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41500
+
+var/www/htdocs/htdig/button7.gif
+  GIF image data, version 89a, 30 x 30
+  Image: able3.000  Inode: 41501
+
+var/www/htdocs/htdig/button8.png
+  PNG image data, 30 x 30, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41503
+
+var/www/htdocs/htdig/button4.png
+  PNG image data, 30 x 30, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41504
+
+var/www/htdocs/htdig/htdig.png
+  PNG image data, 81 x 54, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41506
+
+var/www/htdocs/htdig/button4.gif
+  GIF image data, version 89a, 30 x 30
+  Image: able3.000  Inode: 41507
+
+var/www/htdocs/htdig/button8.gif
+  GIF image data, version 89a, 30 x 30
+  Image: able3.000  Inode: 41508
+
+var/www/htdocs/htdig/button9.png
+  PNG image data, 30 x 30, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41510
+
+var/www/htdocs/htdig/button7.png
+  PNG image data, 30 x 30, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41511
+
+var/www/htdocs/htdig/button5.gif
+  GIF image data, version 89a, 30 x 30
+  Image: able3.000  Inode: 41512
+
+var/www/htdocs/htdig/star_blank.gif
+  GIF image data, version 89a, 15 x 13
+  Image: able3.000  Inode: 41514
+
+var/www/htdocs/htdig/button2.gif
+  GIF image data, version 89a, 30 x 30
+  Image: able3.000  Inode: 41517
+
+var/www/htdocs/htdig/button10.png
+  PNG image data, 30 x 30, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41518
+
+var/www/htdocs/htdig/buttonl.png
+  PNG image data, 30 x 30, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41519
+
+var/www/htdocs/htdig/button9.gif
+  GIF image data, version 89a, 30 x 30
+  Image: able3.000  Inode: 41520
+
+var/www/htdocs/htdig/buttonl.gif
+  GIF image data, version 89a, 30 x 30
+  Image: able3.000  Inode: 41521
+
+var/www/htdocs/htdig/button1.gif
+  GIF image data, version 89a, 30 x 30
+  Image: able3.000  Inode: 41523
+
+var/www/htdocs/htdig/button1.png
+  PNG image data, 30 x 30, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41524
+
+var/www/htdocs/htdig/htdig.gif
+  GIF image data, version 87a, 81 x 54
+  Image: able3.000  Inode: 41525
+
+var/www/htdocs/htdig/button3.gif
+  GIF image data, version 89a, 30 x 30
+  Image: able3.000  Inode: 41526
+
+var/www/htdocs/htdig/button6.png
+  PNG image data, 30 x 30, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41527
+
+var/www/htdocs/htdig/button2.png
+  PNG image data, 30 x 30, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41528
+
+var/www/htdocs/manual/images/ssl_intro_fig3.png
+  PNG image data, 423 x 323, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41810
+
+var/www/htdocs/manual/images/ssl_intro_fig1.png
+  PNG image data, 423 x 327, 2-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41811
+
+var/www/htdocs/manual/images/bal-man-w.png
+  PNG image data, 1000 x 927, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 41812
+
+var/www/htdocs/manual/images/sub.gif
+  GIF image data, version 89a, 500 x 62
+  Image: able3.000  Inode: 41813
+
+var/www/htdocs/manual/images/mod_rewrite_fig1.gif
+  GIF image data, version 87a, 428 x 385
+  Image: able3.000  Inode: 41814
+
+var/www/htdocs/manual/images/ssl_intro_fig2.png
+  PNG image data, 428 x 217, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41815
+
+var/www/htdocs/manual/images/caching_fig1.gif
+  GIF image data, version 89a, 600 x 406
+  Image: able3.000  Inode: 41816
+
+var/www/htdocs/manual/images/mod_rewrite_fig2.gif
+  GIF image data, version 87a, 381 x 179
+  Image: able3.000  Inode: 41817
+
+var/www/htdocs/manual/images/caching_fig1.tr.png
+  PNG image data, 600 x 406, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41818
+
+var/www/htdocs/manual/images/mod_filter_new.tr.png
+  PNG image data, 423 x 331, 2-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41819
+
+var/www/htdocs/manual/images/pixel.gif
+  GIF image data, version 89a, 1 x 1
+  Image: able3.000  Inode: 41820
+
+var/www/htdocs/manual/images/syntax_rewriterule.png
+  PNG image data, 498 x 318, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 41821
+
+var/www/htdocs/manual/images/mod_filter_new.png
+  PNG image data, 423 x 331, 1-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41822
+
+var/www/htdocs/manual/images/feather.gif
+  GIF image data, version 89a, 248 x 70
+  Image: able3.000  Inode: 41823
+
+var/www/htdocs/manual/images/down.gif
+  GIF image data, version 89a, 11 x 11
+  Image: able3.000  Inode: 41824
+
+var/www/htdocs/manual/images/custom_errordocs.png
+  PNG image data, 686 x 464, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41825
+
+var/www/htdocs/manual/images/bal-man-b.png
+  PNG image data, 1000 x 728, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 41826
+
+var/www/htdocs/manual/images/rewrite_rule_flow.png
+  PNG image data, 391 x 429, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 41827
+
+var/www/htdocs/manual/images/ssl_intro_fig1.gif
+  GIF image data, version 89a, 423 x 327
+  Image: able3.000  Inode: 41828
+
+var/www/htdocs/manual/images/left.gif
+  GIF image data, version 89a, 11 x 11
+  Image: able3.000  Inode: 41829
+
+var/www/htdocs/manual/images/mod_filter_old.gif
+  GIF image data, version 87a, 160 x 310
+  Image: able3.000  Inode: 41830
+
+var/www/htdocs/manual/images/build_a_mod_4.png
+  PNG image data, 730 x 133, 8-bit/color RGB, interlaced
+  Image: able3.000  Inode: 41831
+
+var/www/htdocs/manual/images/up.gif
+  GIF image data, version 89a, 11 x 11
+  Image: able3.000  Inode: 41832
+
+var/www/htdocs/manual/images/index.gif
+  GIF image data, version 87a, 100 x 32
+  Image: able3.000  Inode: 41833
+
+var/www/htdocs/manual/images/mod_rewrite_fig2.png
+  PNG image data, 381 x 179, 2-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41834
+
+var/www/htdocs/manual/images/ssl_intro_fig2.gif
+  GIF image data, version 89a, 428 x 217
+  Image: able3.000  Inode: 41835
+
+var/www/htdocs/manual/images/caching_fig1.png
+  PNG image data, 600 x 406, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41836
+
+var/www/htdocs/manual/images/build_a_mod_3.png
+  PNG image data, 343 x 140, 8-bit/color RGB, interlaced
+  Image: able3.000  Inode: 41837
+
+var/www/htdocs/manual/images/mod_rewrite_fig1.png
+  PNG image data, 428 x 385, 2-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41838
+
+var/www/htdocs/manual/images/ssl_intro_fig3.gif
+  GIF image data, version 89a, 423 x 323
+  Image: able3.000  Inode: 41839
+
+var/www/htdocs/manual/images/rewrite_backreferences.png
+  PNG image data, 700 x 145, 8-bit/color RGB, interlaced
+  Image: able3.000  Inode: 41840
+
+var/www/htdocs/manual/images/right.gif
+  GIF image data, version 89a, 11 x 11
+  Image: able3.000  Inode: 41841
+
+var/www/htdocs/manual/images/mod_filter_new.gif
+  GIF image data, version 87a, 423 x 331
+  Image: able3.000  Inode: 41842
+
+var/www/htdocs/manual/images/build_a_mod_2.png
+  PNG image data, 476 x 300, 8-bit/color RGB, interlaced
+  Image: able3.000  Inode: 41843
+
+var/www/htdocs/manual/images/bal-man.png
+  PNG image data, 1000 x 491, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 41844
+
+var/www/htdocs/manual/images/feather.png
+  PNG image data, 248 x 70, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 41845
+
+var/www/htdocs/manual/images/syntax_rewritecond.png
+  PNG image data, 497 x 297, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 41846
+
+var/www/htdocs/manual/images/rewrite_process_uri.png
+  PNG image data, 472 x 450, 8-bit/color RGB, interlaced
+  Image: able3.000  Inode: 41847
+
+var/www/htdocs/manual/images/filter_arch.png
+  PNG image data, 569 x 392, 1-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41848
+
+var/www/htdocs/manual/images/filter_arch.tr.png
+  PNG image data, 569 x 392, 2-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41850
+
+var/www/htdocs/manual/images/mod_filter_old.png
+  PNG image data, 160 x 310, 1-bit colormap, non-interlaced
+  Image: able3.000  Inode: 41851
+
+var/www/htdocs/manual/images/apache_header.gif
+  GIF image data, version 89a, 600 x 62
+  Image: able3.000  Inode: 41852
+
+var/www/htdocs/manual/images/reverse-proxy-arch.png
+  PNG image data, 297 x 333, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 41853
+
+var/www/htdocs/manual/images/home.gif
+  GIF image data, version 87a, 100 x 32
+  Image: able3.000  Inode: 41854
+
+var/www/icons/image3.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42052
+
+var/www/icons/sphere1.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42053
+
+var/www/icons/pie7.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42054
+
+var/www/icons/odf6odt.png
+  PNG image data, 20 x 22, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42055
+
+var/www/icons/pie5.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42056
+
+var/www/icons/ball.red.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42057
+
+var/www/icons/comp.gray.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42058
+
+var/www/icons/uu.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42059
+
+var/www/icons/hand.right.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42060
+
+var/www/icons/ball.gray.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42061
+
+var/www/icons/box2.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42062
+
+var/www/icons/patch.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42063
+
+var/www/icons/pdf.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42064
+
+var/www/icons/odf6otc.png
+  PNG image data, 20 x 22, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42065
+
+var/www/icons/icon.sheet.png
+  PNG image data, 480 x 524, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42066
+
+var/www/icons/unknown.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42067
+
+var/www/icons/layout.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42068
+
+var/www/icons/odf6otp.png
+  PNG image data, 20 x 22, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42069
+
+var/www/icons/index.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42070
+
+var/www/icons/burst.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42071
+
+var/www/icons/compressed.png
+  PNG image data, 20 x 22, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42072
+
+var/www/icons/folder.open.gif
+  GIF image data, version 89a, 27 x 22
+  Image: able3.000  Inode: 42073
+
+var/www/icons/uuencoded.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42074
+
+var/www/icons/screw2.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42075
+
+var/www/icons/broken.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42076
+
+var/www/icons/screw2.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42077
+
+var/www/icons/tar.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42078
+
+var/www/icons/odf6odm.png
+  PNG image data, 20 x 22, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42079
+
+var/www/icons/comp.blue.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42080
+
+var/www/icons/binary.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42081
+
+var/www/icons/pie1.png
+  PNG image data, 20 x 22, 2-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42082
+
+var/www/icons/left.png
+  PNG image data, 20 x 22, 2-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42083
+
+var/www/icons/bomb.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42084
+
+var/www/icons/apache_pb2.gif
+  GIF image data, version 89a, 261 x 30
+  Image: able3.000  Inode: 42085
+
+var/www/icons/ps.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42086
+
+var/www/icons/odf6odi.png
+  PNG image data, 20 x 22, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42087
+
+var/www/icons/pie4.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42088
+
+var/www/icons/xml.png
+  PNG image data, 20 x 22, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42089
+
+var/www/icons/world1.png
+  PNG image data, 20 x 22, 2-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42090
+
+var/www/icons/up.png
+  PNG image data, 20 x 22, 2-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42091
+
+var/www/icons/dvi.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42092
+
+var/www/icons/quill.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42093
+
+var/www/icons/link.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42094
+
+var/www/icons/pie4.png
+  PNG image data, 20 x 22, 2-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42095
+
+var/www/icons/tex.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42096
+
+var/www/icons/forward.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42097
+
+var/www/icons/pie3.png
+  PNG image data, 20 x 22, 2-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42098
+
+var/www/icons/generic.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42099
+
+var/www/icons/tex.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42100
+
+var/www/icons/comp.blue.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42101
+
+var/www/icons/c.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42102
+
+var/www/icons/p.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42103
+
+var/www/icons/transfer.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42104
+
+var/www/icons/binhex.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42105
+
+var/www/icons/world1.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42106
+
+var/www/icons/back.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42107
+
+var/www/icons/movie.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42108
+
+var/www/icons/screw1.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42109
+
+var/www/icons/pie0.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42110
+
+var/www/icons/box2.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42112
+
+var/www/icons/ball.red.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42113
+
+var/www/icons/unknown.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42114
+
+var/www/icons/down.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42115
+
+var/www/icons/apache_pb2.png
+  PNG image data, 261 x 30, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 42116
+
+var/www/icons/apache_pb.png
+  PNG image data, 260 x 30, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 42117
+
+var/www/icons/uuencoded.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42118
+
+var/www/icons/generic.red.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42119
+
+var/www/icons/box1.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42120
+
+var/www/icons/back.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42121
+
+var/www/icons/pie6.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42122
+
+var/www/icons/portal.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42123
+
+var/www/icons/uu.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42124
+
+var/www/icons/burst.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42125
+
+var/www/icons/hand.up.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42126
+
+var/www/icons/quill.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42127
+
+var/www/icons/f.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42128
+
+var/www/icons/text.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42129
+
+var/www/icons/icon.sheet.gif
+  GIF image data, version 89a, 480 x 524
+  Image: able3.000  Inode: 42130
+
+var/www/icons/odf6oth.png
+  PNG image data, 20 x 22, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42131
+
+var/www/icons/alert.black.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42132
+
+var/www/icons/ball.gray.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42133
+
+var/www/icons/binary.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42135
+
+var/www/icons/pie8.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42136
+
+var/www/icons/pie2.png
+  PNG image data, 20 x 22, 2-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42138
+
+var/www/icons/generic.red.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42139
+
+var/www/icons/left.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42140
+
+var/www/icons/dir.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42141
+
+var/www/icons/odf6odc.png
+  PNG image data, 20 x 22, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42142
+
+var/www/icons/odf6odb.png
+  PNG image data, 20 x 22, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42143
+
+var/www/icons/alert.red.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42144
+
+var/www/icons/transfer.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42145
+
+var/www/icons/sound2.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42146
+
+var/www/icons/pie5.png
+  PNG image data, 20 x 22, 2-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42147
+
+var/www/icons/up.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42148
+
+var/www/icons/pie1.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42149
+
+var/www/icons/box1.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42150
+
+var/www/icons/pie6.png
+  PNG image data, 20 x 22, 2-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42151
+
+var/www/icons/pie2.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42152
+
+var/www/icons/compressed.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42153
+
+var/www/icons/small/image.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42155
+
+var/www/icons/small/uu.png
+  PNG image data, 16 x 16, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 42156
+
+var/www/icons/small/key.png
+  PNG image data, 16 x 16, 8-bit gray+alpha, non-interlaced
+  Image: able3.000  Inode: 42157
+
+var/www/icons/small/comp2.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42158
+
+var/www/icons/small/patch.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42159
+
+var/www/icons/small/unknown.png
+  PNG image data, 16 x 16, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 42160
+
+var/www/icons/small/index.png
+  PNG image data, 16 x 16, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42161
+
+var/www/icons/small/burst.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42162
+
+var/www/icons/small/compressed.png
+  PNG image data, 16 x 16, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42163
+
+var/www/icons/small/broken.png
+  PNG image data, 16 x 16, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 42164
+
+var/www/icons/small/generic3.png
+  PNG image data, 16 x 16, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42165
+
+var/www/icons/small/tar.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42166
+
+var/www/icons/small/binary.png
+  PNG image data, 16 x 16, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 42167
+
+var/www/icons/small/ps.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42168
+
+var/www/icons/small/generic2.png
+  PNG image data, 16 x 16, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42169
+
+var/www/icons/small/forward.png
+  PNG image data, 16 x 16, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 42170
+
+var/www/icons/small/generic.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42171
+
+var/www/icons/small/rainbow.gif
+  GIF image data, version 87a, 559 x 14
+  Image: able3.000  Inode: 42172
+
+var/www/icons/small/transfer.png
+  PNG image data, 16 x 16, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42173
+
+var/www/icons/small/binhex.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42174
+
+var/www/icons/small/back.png
+  PNG image data, 16 x 16, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 42175
+
+var/www/icons/small/movie.png
+  PNG image data, 16 x 16, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 42176
+
+var/www/icons/small/rainbow.png
+  PNG image data, 559 x 14, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42177
+
+var/www/icons/small/folder2.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42178
+
+var/www/icons/small/unknown.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42179
+
+var/www/icons/small/key.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42180
+
+var/www/icons/small/folder2.png
+  PNG image data, 16 x 16, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42181
+
+var/www/icons/small/back.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42182
+
+var/www/icons/small/uu.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42183
+
+var/www/icons/small/burst.png
+  PNG image data, 16 x 16, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42184
+
+var/www/icons/small/comp2.png
+  PNG image data, 16 x 16, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42185
+
+var/www/icons/small/comp1.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42186
+
+var/www/icons/small/text.png
+  PNG image data, 16 x 16, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 42187
+
+var/www/icons/small/binary.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42188
+
+var/www/icons/small/transfer.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42189
+
+var/www/icons/small/sound2.png
+  PNG image data, 16 x 16, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 42190
+
+var/www/icons/small/compressed.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42191
+
+var/www/icons/small/image2.png
+  PNG image data, 16 x 16, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42192
+
+var/www/icons/small/index.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42193
+
+var/www/icons/small/generic2.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42194
+
+var/www/icons/small/image.png
+  PNG image data, 16 x 16, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42195
+
+var/www/icons/small/continued.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42196
+
+var/www/icons/small/text.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42197
+
+var/www/icons/small/sound.png
+  PNG image data, 16 x 16, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42198
+
+var/www/icons/small/image2.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42199
+
+var/www/icons/small/tar.png
+  PNG image data, 16 x 16, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 42200
+
+var/www/icons/small/generic3.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42201
+
+var/www/icons/small/binhex.png
+  PNG image data, 16 x 16, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 42202
+
+var/www/icons/small/doc.png
+  PNG image data, 16 x 16, 8-bit gray+alpha, non-interlaced
+  Image: able3.000  Inode: 42203
+
+var/www/icons/small/movie.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42204
+
+var/www/icons/small/ps.png
+  PNG image data, 16 x 16, 8-bit gray+alpha, non-interlaced
+  Image: able3.000  Inode: 42205
+
+var/www/icons/small/sound2.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42206
+
+var/www/icons/small/continued.png
+  PNG image data, 16 x 16, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 42207
+
+var/www/icons/small/generic.png
+  PNG image data, 16 x 16, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 42208
+
+var/www/icons/small/folder.png
+  PNG image data, 16 x 16, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42209
+
+var/www/icons/small/comp1.png
+  PNG image data, 16 x 16, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42210
+
+var/www/icons/small/folder.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42211
+
+var/www/icons/small/blank.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42212
+
+var/www/icons/small/doc.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42213
+
+var/www/icons/small/broken.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42214
+
+var/www/icons/small/forward.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42215
+
+var/www/icons/small/sound.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 42216
+
+var/www/icons/small/patch.png
+  PNG image data, 16 x 16, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 42217
+
+var/www/icons/small/blank.png
+  PNG image data, 16 x 16, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 42218
+
+var/www/icons/sphere2.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42219
+
+var/www/icons/folder.open.png
+  PNG image data, 27 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42220
+
+var/www/icons/hand.right.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42221
+
+var/www/icons/image3.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42222
+
+var/www/icons/image2.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42223
+
+var/www/icons/index.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42224
+
+var/www/icons/layout.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42225
+
+var/www/icons/continued.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42226
+
+var/www/icons/dvi.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42227
+
+var/www/icons/text.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42228
+
+var/www/icons/image2.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42229
+
+var/www/icons/portal.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42230
+
+var/www/icons/sound1.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42231
+
+var/www/icons/folder.sec.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42232
+
+var/www/icons/pdf.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42233
+
+var/www/icons/odf6ott.png
+  PNG image data, 20 x 22, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42234
+
+var/www/icons/a.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42235
+
+var/www/icons/apache_pb.gif
+  GIF image data, version 89a, 260 x 30
+  Image: able3.000  Inode: 42236
+
+var/www/icons/c.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42237
+
+var/www/icons/odf6ods.png
+  PNG image data, 20 x 22, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42238
+
+var/www/icons/tar.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42239
+
+var/www/icons/image1.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42240
+
+var/www/icons/image1.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42241
+
+var/www/icons/dir.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42242
+
+var/www/icons/right.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42243
+
+var/www/icons/binhex.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42244
+
+var/www/icons/alert.red.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42245
+
+var/www/icons/sound1.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42246
+
+var/www/icons/pie0.png
+  PNG image data, 20 x 22, 2-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42247
+
+var/www/icons/comp.gray.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42248
+
+var/www/icons/odf6oti.png
+  PNG image data, 20 x 22, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42249
+
+var/www/icons/hand.up.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42250
+
+var/www/icons/movie.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42251
+
+var/www/icons/alert.black.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42252
+
+var/www/icons/script.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42253
+
+var/www/icons/sphere2.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42254
+
+var/www/icons/pie3.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42255
+
+var/www/icons/f.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42256
+
+var/www/icons/sphere1.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42257
+
+var/www/icons/right.png
+  PNG image data, 20 x 22, 2-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42258
+
+var/www/icons/folder.sec.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42259
+
+var/www/icons/ps.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42260
+
+var/www/icons/odf6ots.png
+  PNG image data, 20 x 22, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42261
+
+var/www/icons/diskimg.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42262
+
+var/www/icons/link.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42263
+
+var/www/icons/world2.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42264
+
+var/www/icons/sound2.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42265
+
+var/www/icons/continued.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42266
+
+var/www/icons/down.png
+  PNG image data, 20 x 22, 2-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42267
+
+var/www/icons/svg.png
+  PNG image data, 20 x 22, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42268
+
+var/www/icons/generic.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42269
+
+var/www/icons/screw1.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42270
+
+var/www/icons/odf6odp.png
+  PNG image data, 20 x 22, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42271
+
+var/www/icons/script.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42272
+
+var/www/icons/p.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42273
+
+var/www/icons/folder.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42274
+
+var/www/icons/world2.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42275
+
+var/www/icons/a.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42276
+
+var/www/icons/odf6otg.png
+  PNG image data, 20 x 22, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42277
+
+var/www/icons/folder.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42278
+
+var/www/icons/pie7.png
+  PNG image data, 20 x 22, 2-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42279
+
+var/www/icons/blank.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42280
+
+var/www/icons/broken.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42281
+
+var/www/icons/diskimg.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42282
+
+var/www/icons/bomb.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42283
+
+var/www/icons/odf6odf.png
+  PNG image data, 20 x 22, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42284
+
+var/www/icons/odf6odg.png
+  PNG image data, 20 x 22, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42285
+
+var/www/icons/generic.sec.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42286
+
+var/www/icons/forward.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42287
+
+var/www/icons/patch.png
+  PNG image data, 20 x 22, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42288
+
+var/www/icons/odf6otf.png
+  PNG image data, 20 x 22, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42289
+
+var/www/icons/generic.sec.gif
+  GIF image data, version 89a, 20 x 22
+  Image: able3.000  Inode: 42290
+
+var/www/icons/blank.png
+  PNG image data, 20 x 22, 1-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42291
+
+var/www/icons/pie8.png
+  PNG image data, 20 x 22, 2-bit colormap, non-interlaced
+  Image: able3.000  Inode: 42292
+
+usr/info/gnutls-logo.png
+  PNG image data, 313 x 286, 1-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 41376
+
+usr/info/gnutls-handshake-sequence.png
+  PNG image data, 472 x 321, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 41377
+
+usr/info/gnutls-x509.png
+  PNG image data, 331 x 401, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 41378
+
+usr/info/gnutls-client-server-use-case.png
+  PNG image data, 315 x 245, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 41379
+
+usr/info/gnutls-handshake-state.png
+  PNG image data, 501 x 205, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 41381
+
+usr/info/gnutls-layers.png
+  PNG image data, 492 x 242, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 41383
+
+usr/info/pkcs11-vision.png
+  PNG image data, 572 x 334, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 41384
+
+usr/info/gnutls-pgp.png
+  PNG image data, 313 x 255, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 41386
+
+usr/info/gnutls-modauth.png
+  PNG image data, 628 x 346, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 41387
+
+usr/info/gnutls-internals.png
+  PNG image data, 633 x 395, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 41388
+
+usr/share/terminfo/a/ansi+idl
+  Targa image data - Map - RLE 28257 x 26995
+  Image: able3.000  Inode: 34655
+
+usr/share/terminfo/a/ansi+cup
+  Targa image data - Map - RLE 28257 x 26995
+  Image: able3.000  Inode: 34687
+
+usr/share/terminfo/a/ansi+rep
+  Targa image data - Map - RLE 28257 x 26995
+  Image: able3.000  Inode: 34722
+
+usr/share/terminfo/a/ansi+rca
+  Targa image data - Map - RLE 28257 x 26995
+  Image: able3.000  Inode: 34750
+
+usr/share/terminfo/a/ansi+idc
+  Targa image data - Map - RLE 28257 x 26995
+  Image: able3.000  Inode: 34777
+
+usr/share/gtk-doc/html/udisks2/up-insensitive.png
+  PNG image data, 16 x 16, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 132012
+
+usr/share/gtk-doc/html/udisks2/left.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 132013
+
+usr/share/gtk-doc/html/udisks2/up.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 132022
+
+usr/share/gtk-doc/html/udisks2/home.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 132034
+
+usr/share/gtk-doc/html/udisks2/right-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 132072
+
+usr/share/gtk-doc/html/udisks2/right.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 132084
+
+usr/share/gtk-doc/html/udisks2/left-insensitive.png
+  PNG image data, 16 x 16, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 132097
+
+usr/share/gtk-doc/html/gst-plugins-base-libs-0.10/left.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146073
+
+usr/share/gtk-doc/html/gst-plugins-base-libs-0.10/up.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146083
+
+usr/share/gtk-doc/html/gst-plugins-base-libs-0.10/home.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146098
+
+usr/share/gtk-doc/html/gst-plugins-base-libs-0.10/right.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146142
+
+usr/share/gtk-doc/html/gst-plugins-base-plugins-0.10/left.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146179
+
+usr/share/gtk-doc/html/gst-plugins-base-plugins-0.10/up.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146183
+
+usr/share/gtk-doc/html/gst-plugins-base-plugins-0.10/home.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146196
+
+usr/share/gtk-doc/html/gst-plugins-base-plugins-0.10/right.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146244
+
+usr/share/gtk-doc/html/gtk2/file-button.png
+  PNG image data, 256 x 181, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146331
+
+usr/share/gtk-doc/html/gtk2/zoom-original.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146332
+
+usr/share/gtk-doc/html/gtk2/combo-box.png
+  PNG image data, 256 x 91, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146334
+
+usr/share/gtk-doc/html/gtk2/assistant.png
+  PNG image data, 360 x 283, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146347
+
+usr/share/gtk-doc/html/gtk2/media-playback-stop.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146348
+
+usr/share/gtk-doc/html/gtk2/multiline-text.png
+  PNG image data, 256 x 181, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146350
+
+usr/share/gtk-doc/html/gtk2/go-up.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146351
+
+usr/share/gtk-doc/html/gtk2/layout-rltb.png
+  PNG image data, 102 x 141, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 146354
+
+usr/share/gtk-doc/html/gtk2/aboutdialog.png
+  PNG image data, 391 x 266, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146357
+
+usr/share/gtk-doc/html/gtk2/media-seek-forward-rtl.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146358
+
+usr/share/gtk-doc/html/gtk2/edit-find-replace.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146361
+
+usr/share/gtk-doc/html/gtk2/figure-windowed-label.png
+  PNG image data, 446 x 98, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 146366
+
+usr/share/gtk-doc/html/gtk2/gtk-index.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146370
+
+usr/share/gtk-doc/html/gtk2/gtk-undelete-ltr.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146371
+
+usr/share/gtk-doc/html/gtk2/format-indent-more-rtl.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146374
+
+usr/share/gtk-doc/html/gtk2/image-missing.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146375
+
+usr/share/gtk-doc/html/gtk2/edit-find.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146379
+
+usr/share/gtk-doc/html/gtk2/up-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146380
+
+usr/share/gtk-doc/html/gtk2/list-and-tree.png
+  PNG image data, 256 x 181, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146383
+
+usr/share/gtk-doc/html/gtk2/media-seek-backward-rtl.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146384
+
+usr/share/gtk-doc/html/gtk2/go-bottom.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146387
+
+usr/share/gtk-doc/html/gtk2/left.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146388
+
+usr/share/gtk-doc/html/gtk2/system-run.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146390
+
+usr/share/gtk-doc/html/gtk2/media-floppy.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146391
+
+usr/share/gtk-doc/html/gtk2/layout-tblr.png
+  PNG image data, 102 x 141, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 146392
+
+usr/share/gtk-doc/html/gtk2/go-next-rtl.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146394
+
+usr/share/gtk-doc/html/gtk2/application-exit.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146395
+
+usr/share/gtk-doc/html/gtk2/figure-hierarchical-drawing.png
+  PNG image data, 788 x 498, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 146397
+
+usr/share/gtk-doc/html/gtk2/help-contents.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146398
+
+usr/share/gtk-doc/html/gtk2/view-sort-ascending.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146400
+
+usr/share/gtk-doc/html/gtk2/gtk-preferences.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146405
+
+usr/share/gtk-doc/html/gtk2/spinner.png
+  PNG image data, 256 x 91, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146409
+
+usr/share/gtk-doc/html/gtk2/go-last-rtl.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146410
+
+usr/share/gtk-doc/html/gtk2/fontsel.png
+  PNG image data, 484 x 381, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146412
+
+usr/share/gtk-doc/html/gtk2/volumebutton.png
+  PNG image data, 61 x 192, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146413
+
+usr/share/gtk-doc/html/gtk2/go-home.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146417
+
+usr/share/gtk-doc/html/gtk2/media-seek-forward-ltr.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146418
+
+usr/share/gtk-doc/html/gtk2/media-skip-backward-ltr.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146421
+
+usr/share/gtk-doc/html/gtk2/tree-view-coordinates.png
+  PNG image data, 647 x 492, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146422
+
+usr/share/gtk-doc/html/gtk2/toggle-button.png
+  PNG image data, 256 x 91, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146424
+
+usr/share/gtk-doc/html/gtk2/dialog-error.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146428
+
+usr/share/gtk-doc/html/gtk2/link-button.png
+  PNG image data, 256 x 91, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146432
+
+usr/share/gtk-doc/html/gtk2/menubar.png
+  PNG image data, 256 x 91, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146433
+
+usr/share/gtk-doc/html/gtk2/button.png
+  PNG image data, 256 x 91, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146434
+
+usr/share/gtk-doc/html/gtk2/document-properties.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146437
+
+usr/share/gtk-doc/html/gtk2/up.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146438
+
+usr/share/gtk-doc/html/gtk2/format-indent-less-rtl.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146439
+
+usr/share/gtk-doc/html/gtk2/help-about.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146441
+
+usr/share/gtk-doc/html/gtk2/printer-info.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146443
+
+usr/share/gtk-doc/html/gtk2/media-record.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146450
+
+usr/share/gtk-doc/html/gtk2/list-remove.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146452
+
+usr/share/gtk-doc/html/gtk2/format-justify-left.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146453
+
+usr/share/gtk-doc/html/gtk2/list-add.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146454
+
+usr/share/gtk-doc/html/gtk2/dialog-warning.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146455
+
+usr/share/gtk-doc/html/gtk2/edit-redo-ltr.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146456
+
+usr/share/gtk-doc/html/gtk2/printdialog.png
+  PNG image data, 527 x 388, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146462
+
+usr/share/gtk-doc/html/gtk2/filechooser.png
+  PNG image data, 602 x 501, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146463
+
+usr/share/gtk-doc/html/gtk2/label.png
+  PNG image data, 256 x 91, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146496
+
+usr/share/gtk-doc/html/gtk2/format-text-bold.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146502
+
+usr/share/gtk-doc/html/gtk2/notebook.png
+  PNG image data, 256 x 181, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146557
+
+usr/share/gtk-doc/html/gtk2/window-close.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146587
+
+usr/share/gtk-doc/html/gtk2/pagesetupdialog.png
+  PNG image data, 402 x 276, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146589
+
+usr/share/gtk-doc/html/gtk2/image.png
+  PNG image data, 256 x 91, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146630
+
+usr/share/gtk-doc/html/gtk2/media-playback-pause.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146635
+
+usr/share/gtk-doc/html/gtk2/format-text-italic.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146667
+
+usr/share/gtk-doc/html/gtk2/dialog-question.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146684
+
+usr/share/gtk-doc/html/gtk2/entry.png
+  PNG image data, 256 x 91, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146697
+
+usr/share/gtk-doc/html/gtk2/gtk-apply.png
+  PNG image data, 20 x 20, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146698
+
+usr/share/gtk-doc/html/gtk2/gtk-no.png
+  PNG image data, 20 x 20, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146702
+
+usr/share/gtk-doc/html/gtk2/dialog-password.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146719
+
+usr/share/gtk-doc/html/gtk2/format-text-underline.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146728
+
+usr/share/gtk-doc/html/gtk2/right.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146729
+
+usr/share/gtk-doc/html/gtk2/toolbar.png
+  PNG image data, 256 x 91, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146738
+
+usr/share/gtk-doc/html/gtk2/progressbar.png
+  PNG image data, 256 x 91, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146740
+
+usr/share/gtk-doc/html/gtk2/zoom-out.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146768
+
+usr/share/gtk-doc/html/gtk2/statusbar.png
+  PNG image data, 256 x 91, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146476
+
+usr/share/gtk-doc/html/gtk2/printer-warning.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146478
+
+usr/share/gtk-doc/html/gtk2/layout-tbrl.png
+  PNG image data, 101 x 141, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 146485
+
+usr/share/gtk-doc/html/gtk2/home.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146501
+
+usr/share/gtk-doc/html/gtk2/window.png
+  PNG image data, 256 x 181, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146512
+
+usr/share/gtk-doc/html/gtk2/document-revert-rtl.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146515
+
+usr/share/gtk-doc/html/gtk2/gtk-edit.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146519
+
+usr/share/gtk-doc/html/gtk2/edit-cut.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146548
+
+usr/share/gtk-doc/html/gtk2/go-first-rtl.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146579
+
+usr/share/gtk-doc/html/gtk2/document-save-as.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146598
+
+usr/share/gtk-doc/html/gtk2/gtk-color-picker.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146599
+
+usr/share/gtk-doc/html/gtk2/accel-label.png
+  PNG image data, 256 x 91, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146609
+
+usr/share/gtk-doc/html/gtk2/scrolledwindow.png
+  PNG image data, 256 x 181, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146638
+
+usr/share/gtk-doc/html/gtk2/zoom-in.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146662
+
+usr/share/gtk-doc/html/gtk2/view-refresh.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146679
+
+usr/share/gtk-doc/html/gtk2/gtk-font.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146686
+
+usr/share/gtk-doc/html/gtk2/go-next-ltr.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146704
+
+usr/share/gtk-doc/html/gtk2/media-playback-start-rtl.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146710
+
+usr/share/gtk-doc/html/gtk2/format-justify-right.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146717
+
+usr/share/gtk-doc/html/gtk2/colorsel.png
+  PNG image data, 534 x 338, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146732
+
+usr/share/gtk-doc/html/gtk2/gtk-cancel.png
+  PNG image data, 20 x 20, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146737
+
+usr/share/gtk-doc/html/gtk2/panes.png
+  PNG image data, 256 x 181, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146741
+
+usr/share/gtk-doc/html/gtk2/go-top.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146754
+
+usr/share/gtk-doc/html/gtk2/format-justify-center.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146757
+
+usr/share/gtk-doc/html/gtk2/go-jump-rtl.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146767
+
+usr/share/gtk-doc/html/gtk2/format-indent-more-ltr.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146769
+
+usr/share/gtk-doc/html/gtk2/gtk-select-color.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146770
+
+usr/share/gtk-doc/html/gtk2/spinbutton.png
+  PNG image data, 256 x 91, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146778
+
+usr/share/gtk-doc/html/gtk2/media-skip-forward-ltr.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146782
+
+usr/share/gtk-doc/html/gtk2/gtk-orientation-reverse-portrait.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146788
+
+usr/share/gtk-doc/html/gtk2/gtk-orientation-reverse-landscape.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146790
+
+usr/share/gtk-doc/html/gtk2/printer-error.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146794
+
+usr/share/gtk-doc/html/gtk2/media-seek-backward-ltr.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146803
+
+usr/share/gtk-doc/html/gtk2/zoom-fit-best.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146490
+
+usr/share/gtk-doc/html/gtk2/view-fullscreen.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146482
+
+usr/share/gtk-doc/html/gtk2/document-print.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146569
+
+usr/share/gtk-doc/html/gtk2/go-first-ltr.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146563
+
+usr/share/gtk-doc/html/gtk2/network-idle.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146540
+
+usr/share/gtk-doc/html/gtk2/edit-undo-rtl.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146542
+
+usr/share/gtk-doc/html/gtk2/frame.png
+  PNG image data, 256 x 181, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146600
+
+usr/share/gtk-doc/html/gtk2/scales.png
+  PNG image data, 256 x 181, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146584
+
+usr/share/gtk-doc/html/gtk2/format-justify-fill.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146523
+
+usr/share/gtk-doc/html/gtk2/font-button.png
+  PNG image data, 256 x 91, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146510
+
+usr/share/gtk-doc/html/gtk2/dialog-information.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146506
+
+usr/share/gtk-doc/html/gtk2/view-sort-descending.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146531
+
+usr/share/gtk-doc/html/gtk2/messagedialog.png
+  PNG image data, 243 x 187, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146582
+
+usr/share/gtk-doc/html/gtk2/gtk-caps-lock-warning.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146493
+
+usr/share/gtk-doc/html/gtk2/gtk-page-setup.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146477
+
+usr/share/gtk-doc/html/gtk2/gtk-disconnect.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146503
+
+usr/share/gtk-doc/html/gtk2/layout-rlbt.png
+  PNG image data, 102 x 141, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 146622
+
+usr/share/gtk-doc/html/gtk2/gtk-dnd-multiple.png
+  PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146652
+
+usr/share/gtk-doc/html/gtk2/layout-btrl.png
+  PNG image data, 102 x 141, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 146659
+
+usr/share/gtk-doc/html/gtk2/radio-group.png
+  PNG image data, 256 x 181, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146672
+
+usr/share/gtk-doc/html/gtk2/document-print-preview.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146680
+
+usr/share/gtk-doc/html/gtk2/edit-undo-ltr.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146681
+
+usr/share/gtk-doc/html/gtk2/gtk-orientation-portrait.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146683
+
+usr/share/gtk-doc/html/gtk2/gtk-dnd.png
+  PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146696
+
+usr/share/gtk-doc/html/gtk2/right-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146703
+
+usr/share/gtk-doc/html/gtk2/gtk-convert.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146705
+
+usr/share/gtk-doc/html/gtk2/go-last-ltr.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146707
+
+usr/share/gtk-doc/html/gtk2/drive-harddisk.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146747
+
+usr/share/gtk-doc/html/gtk2/document-revert-ltr.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146756
+
+usr/share/gtk-doc/html/gtk2/edit-paste.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146758
+
+usr/share/gtk-doc/html/gtk2/gtk-orientation-landscape.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146761
+
+usr/share/gtk-doc/html/gtk2/folder.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146762
+
+usr/share/gtk-doc/html/gtk2/gtk-undelete-rtl.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146800
+
+usr/share/gtk-doc/html/gtk2/layout-lrbt.png
+  PNG image data, 102 x 141, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 146488
+
+usr/share/gtk-doc/html/gtk2/layout-btlr.png
+  PNG image data, 101 x 141, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 146588
+
+usr/share/gtk-doc/html/gtk2/check-button.png
+  PNG image data, 256 x 91, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146628
+
+usr/share/gtk-doc/html/gtk2/edit-copy.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146616
+
+usr/share/gtk-doc/html/gtk2/text-x-generic.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146498
+
+usr/share/gtk-doc/html/gtk2/gtk-connect.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146499
+
+usr/share/gtk-doc/html/gtk2/edit-delete.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146514
+
+usr/share/gtk-doc/html/gtk2/format-indent-less-ltr.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146577
+
+usr/share/gtk-doc/html/gtk2/tools-check-spelling.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146541
+
+usr/share/gtk-doc/html/gtk2/layout-lrtb.png
+  PNG image data, 102 x 141, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 146553
+
+usr/share/gtk-doc/html/gtk2/go-jump-ltr.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146562
+
+usr/share/gtk-doc/html/gtk2/printer-paused.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146594
+
+usr/share/gtk-doc/html/gtk2/document-new.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146608
+
+usr/share/gtk-doc/html/gtk2/go-previous-ltr.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146545
+
+usr/share/gtk-doc/html/gtk2/color-button.png
+  PNG image data, 256 x 91, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146590
+
+usr/share/gtk-doc/html/gtk2/toolpalette.png
+  PNG image data, 256 x 181, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146556
+
+usr/share/gtk-doc/html/gtk2/separator.png
+  PNG image data, 256 x 181, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146474
+
+usr/share/gtk-doc/html/gtk2/media-skip-backward-rtl.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146649
+
+usr/share/gtk-doc/html/gtk2/edit-clear.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146654
+
+usr/share/gtk-doc/html/gtk2/process-stop.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146656
+
+usr/share/gtk-doc/html/gtk2/media-optical.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146658
+
+usr/share/gtk-doc/html/gtk2/gtk-yes.png
+  PNG image data, 20 x 20, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146668
+
+usr/share/gtk-doc/html/gtk2/media-playback-start-ltr.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146675
+
+usr/share/gtk-doc/html/gtk2/document-save.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146676
+
+usr/share/gtk-doc/html/gtk2/gtk-ok.png
+  PNG image data, 20 x 20, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146700
+
+usr/share/gtk-doc/html/gtk2/combo-box-entry.png
+  PNG image data, 256 x 91, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146723
+
+usr/share/gtk-doc/html/gtk2/document-open.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146724
+
+usr/share/gtk-doc/html/gtk2/recentchooserdialog.png
+  PNG image data, 402 x 376, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146736
+
+usr/share/gtk-doc/html/gtk2/icon-view.png
+  PNG image data, 256 x 181, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146750
+
+usr/share/gtk-doc/html/gtk2/format-text-strikethrough.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146759
+
+usr/share/gtk-doc/html/gtk2/view-restore.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146763
+
+usr/share/gtk-doc/html/gtk2/go-previous-rtl.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146765
+
+usr/share/gtk-doc/html/gtk2/left-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146773
+
+usr/share/gtk-doc/html/gtk2/edit-redo-rtl.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146775
+
+usr/share/gtk-doc/html/gtk2/edit-select-all.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146783
+
+usr/share/gtk-doc/html/gtk2/media-skip-forward-rtl.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146793
+
+usr/share/gtk-doc/html/gtk2/go-down.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146796
+
+usr/share/gtk-doc/html/gail-libgail-util/up-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146805
+
+usr/share/gtk-doc/html/gail-libgail-util/left.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146806
+
+usr/share/gtk-doc/html/gail-libgail-util/up.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146809
+
+usr/share/gtk-doc/html/gail-libgail-util/home.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146810
+
+usr/share/gtk-doc/html/gail-libgail-util/right-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146813
+
+usr/share/gtk-doc/html/gail-libgail-util/right.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146814
+
+usr/share/gtk-doc/html/gail-libgail-util/left-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146816
+
+usr/share/gtk-doc/html/gdk2/bottom_tee.png
+  PNG image data, 16 x 12, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146819
+
+usr/share/gtk-doc/html/gdk2/gumby.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146820
+
+usr/share/gtk-doc/html/gdk2/bottom_left_corner.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146821
+
+usr/share/gtk-doc/html/gdk2/based_arrow_down.png
+  PNG image data, 10 x 12, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146824
+
+usr/share/gtk-doc/html/gdk2/top_left_corner.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146826
+
+usr/share/gtk-doc/html/gdk2/sb_up_arrow.png
+  PNG image data, 9 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146829
+
+usr/share/gtk-doc/html/gdk2/right_side.png
+  PNG image data, 16 x 15, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146830
+
+usr/share/gtk-doc/html/gdk2/dotbox.png
+  PNG image data, 14 x 14, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146831
+
+usr/share/gtk-doc/html/gdk2/up-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146832
+
+usr/share/gtk-doc/html/gdk2/left.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146835
+
+usr/share/gtk-doc/html/gdk2/star.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146836
+
+usr/share/gtk-doc/html/gdk2/watch.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146838
+
+usr/share/gtk-doc/html/gdk2/boat.png
+  PNG image data, 16 x 9, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146840
+
+usr/share/gtk-doc/html/gdk2/circle.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146841
+
+usr/share/gtk-doc/html/gdk2/leftbutton.png
+  PNG image data, 15 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146842
+
+usr/share/gtk-doc/html/gdk2/X_cursor.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146843
+
+usr/share/gtk-doc/html/gdk2/bottom_right_corner.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146844
+
+usr/share/gtk-doc/html/gdk2/center_ptr.png
+  PNG image data, 12 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146845
+
+usr/share/gtk-doc/html/gdk2/top_right_corner.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146846
+
+usr/share/gtk-doc/html/gdk2/xterm.png
+  PNG image data, 9 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146848
+
+usr/share/gtk-doc/html/gdk2/middlebutton.png
+  PNG image data, 15 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146851
+
+usr/share/gtk-doc/html/gdk2/up.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146853
+
+usr/share/gtk-doc/html/gdk2/arrow.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146854
+
+usr/share/gtk-doc/html/gdk2/fleur.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146855
+
+usr/share/gtk-doc/html/gdk2/top_tee.png
+  PNG image data, 16 x 12, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146856
+
+usr/share/gtk-doc/html/gdk2/exchange.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146858
+
+usr/share/gtk-doc/html/gdk2/icon.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146860
+
+usr/share/gtk-doc/html/gdk2/question_arrow.png
+  PNG image data, 11 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146862
+
+usr/share/gtk-doc/html/gdk2/cross_reverse.png
+  PNG image data, 16 x 15, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146864
+
+usr/share/gtk-doc/html/gdk2/draped_box.png
+  PNG image data, 14 x 14, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146865
+
+usr/share/gtk-doc/html/gdk2/ur_angle.png
+  PNG image data, 12 x 12, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146866
+
+usr/share/gtk-doc/html/gdk2/lr_angle.png
+  PNG image data, 12 x 12, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146867
+
+usr/share/gtk-doc/html/gdk2/home.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146868
+
+usr/share/gtk-doc/html/gdk2/left_side.png
+  PNG image data, 16 x 15, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146869
+
+usr/share/gtk-doc/html/gdk2/shuttle.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146872
+
+usr/share/gtk-doc/html/gdk2/sizing.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146874
+
+usr/share/gtk-doc/html/gdk2/spider.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146875
+
+usr/share/gtk-doc/html/gdk2/pencil.png
+  PNG image data, 13 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146876
+
+usr/share/gtk-doc/html/gdk2/man.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146877
+
+usr/share/gtk-doc/html/gdk2/right_tee.png
+  PNG image data, 12 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146878
+
+usr/share/gtk-doc/html/gdk2/coffee_mug.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146883
+
+usr/share/gtk-doc/html/gdk2/sb_h_double_arrow.png
+  PNG image data, 15 x 9, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146887
+
+usr/share/gtk-doc/html/gdk2/sb_right_arrow.png
+  PNG image data, 16 x 9, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146888
+
+usr/share/gtk-doc/html/gdk2/trek.png
+  PNG image data, 9 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146889
+
+usr/share/gtk-doc/html/gdk2/bottom_side.png
+  PNG image data, 15 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146890
+
+usr/share/gtk-doc/html/gdk2/target.png
+  PNG image data, 16 x 14, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146891
+
+usr/share/gtk-doc/html/gdk2/umbrella.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146892
+
+usr/share/gtk-doc/html/gdk2/based_arrow_up.png
+  PNG image data, 10 x 12, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146895
+
+usr/share/gtk-doc/html/gdk2/right_ptr.png
+  PNG image data, 10 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146897
+
+usr/share/gtk-doc/html/gdk2/sb_v_double_arrow.png
+  PNG image data, 9 x 15, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146900
+
+usr/share/gtk-doc/html/gdk2/dot.png
+  PNG image data, 12 x 12, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146901
+
+usr/share/gtk-doc/html/gdk2/top_left_arrow.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146902
+
+usr/share/gtk-doc/html/gdk2/bogosity.png
+  PNG image data, 15 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146903
+
+usr/share/gtk-doc/html/gdk2/diamond_cross.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146904
+
+usr/share/gtk-doc/html/gdk2/cross.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146906
+
+usr/share/gtk-doc/html/gdk2/gobbler.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146907
+
+usr/share/gtk-doc/html/gdk2/pirate.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146908
+
+usr/share/gtk-doc/html/gdk2/hand2.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146910
+
+usr/share/gtk-doc/html/gdk2/left_tee.png
+  PNG image data, 12 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146911
+
+usr/share/gtk-doc/html/gdk2/spraycan.png
+  PNG image data, 12 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146914
+
+usr/share/gtk-doc/html/gdk2/draft_small.png
+  PNG image data, 15 x 15, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146916
+
+usr/share/gtk-doc/html/gdk2/box_spiral.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146918
+
+usr/share/gtk-doc/html/gdk2/right-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146921
+
+usr/share/gtk-doc/html/gdk2/crosshair.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146922
+
+usr/share/gtk-doc/html/gdk2/iron_cross.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146924
+
+usr/share/gtk-doc/html/gdk2/clock.png
+  PNG image data, 15 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146925
+
+usr/share/gtk-doc/html/gdk2/right.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146926
+
+usr/share/gtk-doc/html/gdk2/tcross.png
+  PNG image data, 15 x 15, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146927
+
+usr/share/gtk-doc/html/gdk2/ul_angle.png
+  PNG image data, 12 x 12, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146928
+
+usr/share/gtk-doc/html/gdk2/mouse.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146929
+
+usr/share/gtk-doc/html/gdk2/heart.png
+  PNG image data, 15 x 14, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146930
+
+usr/share/gtk-doc/html/gdk2/left_ptr.png
+  PNG image data, 10 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146932
+
+usr/share/gtk-doc/html/gdk2/sailboat.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146934
+
+usr/share/gtk-doc/html/gdk2/rotated-text.png
+  PNG image data, 253 x 248, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146935
+
+usr/share/gtk-doc/html/gdk2/rtl_logo.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146936
+
+usr/share/gtk-doc/html/gdk2/draft_large.png
+  PNG image data, 15 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146937
+
+usr/share/gtk-doc/html/gdk2/hand1.png
+  PNG image data, 13 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146938
+
+usr/share/gtk-doc/html/gdk2/left-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146941
+
+usr/share/gtk-doc/html/gdk2/rightbutton.png
+  PNG image data, 15 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146942
+
+usr/share/gtk-doc/html/gdk2/top_side.png
+  PNG image data, 15 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146945
+
+usr/share/gtk-doc/html/gdk2/sb_left_arrow.png
+  PNG image data, 16 x 9, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146946
+
+usr/share/gtk-doc/html/gdk2/ll_angle.png
+  PNG image data, 12 x 12, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146947
+
+usr/share/gtk-doc/html/gdk2/double_arrow.png
+  PNG image data, 12 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146948
+
+usr/share/gtk-doc/html/gdk2/plus.png
+  PNG image data, 12 x 12, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146950
+
+usr/share/gtk-doc/html/gdk2/sb_down_arrow.png
+  PNG image data, 9 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146952
+
+usr/share/gtk-doc/html/harfbuzz/up-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147021
+
+usr/share/gtk-doc/html/harfbuzz/left.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147024
+
+usr/share/gtk-doc/html/harfbuzz/up.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147029
+
+usr/share/gtk-doc/html/harfbuzz/home.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147040
+
+usr/share/gtk-doc/html/harfbuzz/right-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147065
+
+usr/share/gtk-doc/html/harfbuzz/right.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147068
+
+usr/share/gtk-doc/html/harfbuzz/left-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147079
+
+usr/share/gtk-doc/html/harfbuzz/HarfBuzz.png
+  PNG image data, 174 x 118, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 147082
+
+usr/share/gtk-doc/html/keybinder/up-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147119
+
+usr/share/gtk-doc/html/keybinder/left.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147120
+
+usr/share/gtk-doc/html/keybinder/up.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147121
+
+usr/share/gtk-doc/html/keybinder/home.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147124
+
+usr/share/gtk-doc/html/keybinder/right-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147128
+
+usr/share/gtk-doc/html/keybinder/right.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147130
+
+usr/share/gtk-doc/html/keybinder/left-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147132
+
+usr/share/gtk-doc/html/keybinder-3.0/up-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147137
+
+usr/share/gtk-doc/html/keybinder-3.0/left.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147138
+
+usr/share/gtk-doc/html/keybinder-3.0/up.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147139
+
+usr/share/gtk-doc/html/keybinder-3.0/home.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147142
+
+usr/share/gtk-doc/html/keybinder-3.0/right-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147147
+
+usr/share/gtk-doc/html/keybinder-3.0/right.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147148
+
+usr/share/gtk-doc/html/keybinder-3.0/left-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147150
+
+usr/share/gtk-doc/html/libglade/up-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147237
+
+usr/share/gtk-doc/html/libglade/left.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147238
+
+usr/share/gtk-doc/html/libglade/up.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147242
+
+usr/share/gtk-doc/html/libglade/home.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147246
+
+usr/share/gtk-doc/html/libglade/right-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147254
+
+usr/share/gtk-doc/html/libglade/right.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147255
+
+usr/share/gtk-doc/html/libglade/left-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147258
+
+usr/share/gtk-doc/html/libnotify/left.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147317
+
+usr/share/gtk-doc/html/libnotify/up.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147320
+
+usr/share/gtk-doc/html/libnotify/home.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147323
+
+usr/share/gtk-doc/html/libnotify/right.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147326
+
+usr/share/gtk-doc/html/libwnck/left.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147410
+
+usr/share/gtk-doc/html/libwnck/up.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147412
+
+usr/share/gtk-doc/html/libwnck/home.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147416
+
+usr/share/gtk-doc/html/libwnck/right.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147433
+
+usr/share/gtk-doc/html/orc/up-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147989
+
+usr/share/gtk-doc/html/orc/left.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147990
+
+usr/share/gtk-doc/html/orc/up.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 147994
+
+usr/share/gtk-doc/html/orc/home.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148000
+
+usr/share/gtk-doc/html/orc/right-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148015
+
+usr/share/gtk-doc/html/orc/right.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148016
+
+usr/share/gtk-doc/html/orc/left-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148020
+
+usr/share/gtk-doc/html/pango/up-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148039
+
+usr/share/gtk-doc/html/pango/left.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148041
+
+usr/share/gtk-doc/html/pango/up.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148047
+
+usr/share/gtk-doc/html/pango/home.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148058
+
+usr/share/gtk-doc/html/pango/layout.gif
+  GIF image data, version 87a, 800 x 296
+  Image: able3.000  Inode: 148071
+
+usr/share/gtk-doc/html/pango/right-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148079
+
+usr/share/gtk-doc/html/pango/right.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148084
+
+usr/share/gtk-doc/html/pango/rotated-text.png
+  PNG image data, 300 x 300, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148089
+
+usr/share/gtk-doc/html/pango/left-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148091
+
+usr/share/gtk-doc/html/libnm/up-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148365
+
+usr/share/gtk-doc/html/libnm/left.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148367
+
+usr/share/gtk-doc/html/libnm/up.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148375
+
+usr/share/gtk-doc/html/libnm/home.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148387
+
+usr/share/gtk-doc/html/libnm/right-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148424
+
+usr/share/gtk-doc/html/libnm/right.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148431
+
+usr/share/gtk-doc/html/libnm/libnm.png
+  PNG image data, 735 x 385, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148436
+
+usr/share/gtk-doc/html/libnm/left-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148441
+
+usr/share/gtk-doc/html/NetworkManager/up-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148456
+
+usr/share/gtk-doc/html/NetworkManager/left.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148457
+
+usr/share/gtk-doc/html/NetworkManager/up.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148461
+
+usr/share/gtk-doc/html/NetworkManager/home.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148470
+
+usr/share/gtk-doc/html/NetworkManager/right-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148497
+
+usr/share/gtk-doc/html/NetworkManager/right.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148500
+
+usr/share/gtk-doc/html/NetworkManager/left-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148506
+
+usr/share/gtk-doc/html/libnm-glib/up-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148514
+
+usr/share/gtk-doc/html/libnm-glib/left.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148515
+
+usr/share/gtk-doc/html/libnm-glib/up.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148517
+
+usr/share/gtk-doc/html/libnm-glib/home.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148524
+
+usr/share/gtk-doc/html/libnm-glib/right-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148542
+
+usr/share/gtk-doc/html/libnm-glib/right.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148545
+
+usr/share/gtk-doc/html/libnm-glib/libnm-glib.png
+  PNG image data, 735 x 385, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148549
+
+usr/share/gtk-doc/html/libnm-glib/left-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148555
+
+usr/share/gtk-doc/html/libnm-util/up-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148564
+
+usr/share/gtk-doc/html/libnm-util/left.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148565
+
+usr/share/gtk-doc/html/libnm-util/up.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148570
+
+usr/share/gtk-doc/html/libnm-util/home.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148579
+
+usr/share/gtk-doc/html/libnm-util/right-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148598
+
+usr/share/gtk-doc/html/libnm-util/right.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148601
+
+usr/share/gtk-doc/html/libnm-util/left-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148603
+
+usr/share/gtk-doc/html/p11-kit/up-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 151588
+
+usr/share/gtk-doc/html/p11-kit/left.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 151589
+
+usr/share/gtk-doc/html/p11-kit/up.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 151592
+
+usr/share/gtk-doc/html/p11-kit/home.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 151597
+
+usr/share/gtk-doc/html/p11-kit/right-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 151614
+
+usr/share/gtk-doc/html/p11-kit/right.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 151616
+
+usr/share/gtk-doc/html/p11-kit/left-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 151621
+
+usr/share/gtk-doc/data/up-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 136604
+
+usr/share/gtk-doc/data/left.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 136605
+
+usr/share/gtk-doc/data/up.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 136607
+
+usr/share/gtk-doc/data/home.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 136609
+
+usr/share/gtk-doc/data/right-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 136616
+
+usr/share/gtk-doc/data/right.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 136618
+
+usr/share/gtk-doc/data/left-insensitive.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 136619
+
+usr/share/ogonkify/afm/phvr-o.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132721
+
+usr/share/ogonkify/afm/phvb-o.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132722
+
+usr/share/ogonkify/afm/ptmri-o.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132723
+
+usr/share/ogonkify/afm/ptmb-o.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132724
+
+usr/share/ogonkify/afm/phvro-o.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132725
+
+usr/share/ogonkify/afm/phvbo-o.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132726
+
+usr/share/ogonkify/afm/pcrro-o.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132727
+
+usr/share/ogonkify/afm/ptmr-o.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132728
+
+usr/share/ogonkify/afm/pcrbo-o.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132729
+
+usr/share/ogonkify/afm/pcrr-o.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132730
+
+usr/share/ogonkify/afm/ptmbi-o.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132731
+
+usr/share/ogonkify/afm/pcrb-o.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132732
+
+usr/share/a2ps/fonts/pcfont.pfa
+  PostScript Type 1 font text (-*- PostScript -*-)
+  Image: able3.000  Inode: 132775
+
+usr/share/a2ps/afm/pplb.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132892
+
+usr/share/a2ps/afm/ptmi.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132893
+
+usr/share/a2ps/afm/phvbon.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132894
+
+usr/share/a2ps/afm/phvbrn.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132896
+
+usr/share/a2ps/afm/pplr.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132897
+
+usr/share/a2ps/afm/pagd.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132898
+
+usr/share/a2ps/afm/pncb.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132899
+
+usr/share/a2ps/afm/pcrb.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132900
+
+usr/share/a2ps/afm/pcrr.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132901
+
+usr/share/a2ps/afm/pagb.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132902
+
+usr/share/a2ps/afm/phvro.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132903
+
+usr/share/a2ps/afm/pbkdi.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132904
+
+usr/share/a2ps/afm/phvrrn.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132905
+
+usr/share/a2ps/afm/pncr.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132906
+
+usr/share/a2ps/afm/pcrbo.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132907
+
+usr/share/a2ps/afm/pbkli.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132908
+
+usr/share/a2ps/afm/pbkl.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132909
+
+usr/share/a2ps/afm/phvbo.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132911
+
+usr/share/a2ps/afm/pplbi.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132912
+
+usr/share/a2ps/afm/ptmb.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132913
+
+usr/share/a2ps/afm/psyr.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132914
+
+usr/share/a2ps/afm/phvb.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132915
+
+usr/share/a2ps/afm/pagbo.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132916
+
+usr/share/a2ps/afm/pzcmi.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132917
+
+usr/share/a2ps/afm/pncri.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132918
+
+usr/share/a2ps/afm/pcrro.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132919
+
+usr/share/a2ps/afm/pbkd.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132920
+
+usr/share/a2ps/afm/ptmr.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132921
+
+usr/share/a2ps/afm/pcfont.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132922
+
+usr/share/a2ps/afm/ptmbi.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132923
+
+usr/share/a2ps/afm/pplri.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132924
+
+usr/share/a2ps/afm/phvron.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132925
+
+usr/share/a2ps/afm/phvr.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132926
+
+usr/share/a2ps/afm/pzdr.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132927
+
+usr/share/a2ps/afm/pagdo.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132928
+
+usr/share/a2ps/afm/pncbi.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 132929
+
+usr/share/enscript/afm/hvbo.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133151
+
+usr/share/enscript/afm/hvcbo.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133152
+
+usr/share/enscript/afm/zcmi.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133154
+
+usr/share/enscript/afm/tibi.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133155
+
+usr/share/enscript/afm/nci.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133156
+
+usr/share/enscript/afm/hvc.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133157
+
+usr/share/enscript/afm/ncbi.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133158
+
+usr/share/enscript/afm/bkdi.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133159
+
+usr/share/enscript/afm/com.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133160
+
+usr/share/enscript/afm/hvnbo.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133161
+
+usr/share/enscript/afm/ncb.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133162
+
+usr/share/enscript/afm/hvno.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133163
+
+usr/share/enscript/afm/hvcb.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133164
+
+usr/share/enscript/afm/agw.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133165
+
+usr/share/enscript/afm/hvcdo.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133166
+
+usr/share/enscript/afm/hv.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133167
+
+usr/share/enscript/afm/por.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133168
+
+usr/share/enscript/afm/cob.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133169
+
+usr/share/enscript/afm/agd.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133170
+
+usr/share/enscript/afm/poi.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133171
+
+usr/share/enscript/afm/hvb.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133172
+
+usr/share/enscript/afm/bkli.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133173
+
+usr/share/enscript/afm/bkl.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133174
+
+usr/share/enscript/afm/pob.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133175
+
+usr/share/enscript/afm/tir.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133176
+
+usr/share/enscript/afm/tib.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133178
+
+usr/share/enscript/afm/agdo.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133179
+
+usr/share/enscript/afm/zd.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133180
+
+usr/share/enscript/afm/sy.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133181
+
+usr/share/enscript/afm/matrix.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133182
+
+usr/share/enscript/afm/hvn.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133183
+
+usr/share/enscript/afm/tii.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133185
+
+usr/share/enscript/afm/ncr.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133186
+
+usr/share/enscript/afm/hvo.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133187
+
+usr/share/enscript/afm/agwo.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133188
+
+usr/share/enscript/afm/coo.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133189
+
+usr/share/enscript/afm/cobo.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133190
+
+usr/share/enscript/afm/hvnb.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133191
+
+usr/share/enscript/afm/pobi.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133192
+
+usr/share/enscript/afm/bkd.afm
+  ASCII font metrics
+  Image: able3.000  Inode: 133193
+
+usr/share/pixmaps/htop.png
+  PNG image data, 128 x 128, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 133271
+
+usr/share/pixmaps/gpa.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, interlaced
+  Image: able3.000  Inode: 148860
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/warning.gif
+  GIF image data, version 87a, 24 x 24
+  Image: able3.000  Inode: 133995
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/tip.gif
+  GIF image data, version 87a, 25 x 24
+  Image: able3.000  Inode: 133998
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/prev.gif
+  GIF image data, version 87a, 35 x 15
+  Image: able3.000  Inode: 133999
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/next.gif
+  GIF image data, version 87a, 35 x 15
+  Image: able3.000  Inode: 134006
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/caution.gif
+  GIF image data, version 87a, 24 x 24
+  Image: able3.000  Inode: 134008
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/important.gif
+  GIF image data, version 87a, 24 x 24
+  Image: able3.000  Inode: 134010
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/callouts/5.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 134012
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/callouts/2.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 134014
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/callouts/3.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 134015
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/callouts/6.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 134016
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/callouts/1.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 134024
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/callouts/7.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 134032
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/callouts/4.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 134033
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/callouts/8.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 134034
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/callouts/9.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 134035
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/callouts/10.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 134042
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/up.gif
+  GIF image data, version 87a, 35 x 15
+  Image: able3.000  Inode: 134049
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/toc-minus.gif
+  GIF image data, version 89a, 15 x 9
+  Image: able3.000  Inode: 134050
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/note.gif
+  GIF image data, version 87a, 24 x 24
+  Image: able3.000  Inode: 134054
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/toc-plus.gif
+  GIF image data, version 89a, 15 x 9
+  Image: able3.000  Inode: 134057
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/toc-blank.gif
+  GIF image data, version 89a, 15 x 9
+  Image: able3.000  Inode: 134059
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/images/home.gif
+  GIF image data, version 87a, 35 x 15
+  Image: able3.000  Inode: 134063
+
+usr/share/sgml/docbook/dsssl-stylesheets-1.79/contrib/imagemap/testimg.jpg
+  JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 300x100, frames 3
+  Image: able3.000  Inode: 134110
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/w3c-logo-white.gif
+  GIF image data, version 89a, 89 x 36
+  Image: able3.000  Inode: 134870
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/face2.gif
+  GIF image data, version 89a, 205 x 249
+  Image: able3.000  Inode: 134871
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/bullet-unfold.png
+  PNG image data, 40 x 20, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134872
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/w3c-logo-slanted.jpg
+  JPEG image data, JFIF standard 1.01, resolution (DPI), density 96x96, segment length 16, baseline, precision 8, 800x387, frames 3
+  Image: able3.000  Inode: 134873
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/icon-blue.png
+  PNG image data, 50 x 50, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 134874
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/unfold.gif
+  GIF image data, version 87a, 9 x 9
+  Image: able3.000  Inode: 134875
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/unfold-bright.gif
+  GIF image data, version 89a, 33 x 33
+  Image: able3.000  Inode: 134876
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/bullet-unfold.gif
+  GIF image data, version 89a, 40 x 20
+  Image: able3.000  Inode: 134877
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/bullet-unfold-dim.gif
+  GIF image data, version 89a, 40 x 20
+  Image: able3.000  Inode: 134878
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/keys2.jpg
+  JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, Exif Standard: [TIFF image data, big-endian, direntries=0], baseline, precision 8, 665x506, frames 3
+  Image: able3.000  Inode: 134879
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/w3c-logo-blue.gif
+  GIF image data, version 89a, 122 x 80
+  Image: able3.000  Inode: 134880
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/fold.gif
+  GIF image data, version 87a, 9 x 9
+  Image: able3.000  Inode: 134881
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/bullet-nofold.gif
+  GIF image data, version 89a, 40 x 20
+  Image: able3.000  Inode: 134883
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/face1.gif
+  GIF image data, version 89a, 205 x 249
+  Image: able3.000  Inode: 134885
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/bullet-fold-dim.png
+  PNG image data, 40 x 20, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134886
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/bullet-fold.gif
+  GIF image data, version 89a, 40 x 20
+  Image: able3.000  Inode: 134887
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/bullet-fold.png
+  PNG image data, 40 x 20, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134889
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/face4.gif
+  GIF image data, version 89a, 205 x 249
+  Image: able3.000  Inode: 134890
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/fold-dim.gif
+  GIF image data, version 87a, 9 x 9
+  Image: able3.000  Inode: 134892
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/bullet-fold-dim.gif
+  GIF image data, version 89a, 40 x 20
+  Image: able3.000  Inode: 134893
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/face3.gif
+  GIF image data, version 89a, 205 x 249
+  Image: able3.000  Inode: 134894
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/unfold-dim.gif
+  GIF image data, version 87a, 9 x 9
+  Image: able3.000  Inode: 134896
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/fold-bright.gif
+  GIF image data, version 89a, 33 x 33
+  Image: able3.000  Inode: 134897
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/bullet.png
+  PNG image data, 20 x 20, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 134898
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/bullet-nofold.png
+  PNG image data, 40 x 20, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134899
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/bullet-unfold-dim.png
+  PNG image data, 40 x 20, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134900
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/example.png
+  PNG image data, 279 x 52, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 134902
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/nofold-dim.gif
+  GIF image data, version 87a, 9 x 9
+  Image: able3.000  Inode: 134904
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/bullet-nofold-dim.gif
+  GIF image data, version 89a, 40 x 20
+  Image: able3.000  Inode: 134905
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/slidy/graphics/bullet-nofold-dim.png
+  PNG image data, 40 x 20, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134908
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/s5/ui/bg-shade.png
+  PNG image data, 200 x 200, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134925
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/s5/ui/default/bodybg.gif
+  GIF image data, version 89a, 230 x 334
+  Image: able3.000  Inode: 134929
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/s5/ui/default/blank.gif
+  GIF image data, version 89a, 1 x 1
+  Image: able3.000  Inode: 134938
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/s5/pix/mememe03.png
+  PNG image data, 212 x 261, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134942
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/s5/pix/s5filemap.png
+  PNG image data, 760 x 381, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134943
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/s5/pix/mememe05.png
+  PNG image data, 199 x 182, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134944
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/s5/pix/S504.jpg
+  JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 256x187, frames 3
+  Image: able3.000  Inode: 134945
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/s5/pix/mememe04.png
+  PNG image data, 204 x 278, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134946
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/s5/pix/mememe02.png
+  PNG image data, 246 x 244, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134947
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/s5/pix/mememe01.png
+  PNG image data, 269 x 253, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134948
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/s5/pix/S503.jpg
+  JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 256x187, frames 3
+  Image: able3.000  Inode: 134949
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/s5/pix/S502.jpg
+  JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 256x187, frames 3
+  Image: able3.000  Inode: 134950
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/s5/pix/S501.jpg
+  JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 256x187, frames 3
+  Image: able3.000  Inode: 134951
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/face2.gif
+  GIF image data, version 89a, 205 x 249
+  Image: able3.000  Inode: 134954
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/15.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134956
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/10.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134958
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/17.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134960
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/16.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134961
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/23.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134963
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/18.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134964
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/30.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134965
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/25.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134966
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/4.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134974
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/22.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134975
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/12.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134977
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/28.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134978
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/2.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134981
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/5.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134982
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/21.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134983
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/24.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134984
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/29.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134985
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/6.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134986
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/9.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134987
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/8.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134988
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/3.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134989
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/19.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134991
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/11.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134993
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/13.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 134996
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/20.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 135000
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/7.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 135003
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/26.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 135005
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/14.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 135008
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/1.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 135011
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/callouts/27.png
+  PNG image data, 24 x 24, 16-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 135013
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/face1.gif
+  GIF image data, version 89a, 205 x 249
+  Image: able3.000  Inode: 135017
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/face4.gif
+  GIF image data, version 89a, 205 x 249
+  Image: able3.000  Inode: 135018
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/slides/images/face3.gif
+  GIF image data, version 89a, 205 x 249
+  Image: able3.000  Inode: 135019
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/draft.png
+  PNG image data, 652 x 694, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 136068
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/warning.gif
+  GIF image data, version 89a, 24 x 24
+  Image: able3.000  Inode: 136069
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/tip.gif
+  GIF image data, version 89a, 25 x 24
+  Image: able3.000  Inode: 136070
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/prev.gif
+  GIF image data, version 87a, 38 x 39
+  Image: able3.000  Inode: 136071
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/tip.png
+  PNG image data, 25 x 24, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 136072
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/toc-blank.png
+  PNG image data, 15 x 9, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 136073
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/annot-open.png
+  PNG image data, 11 x 10, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 136077
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/next.gif
+  GIF image data, version 87a, 38 x 37
+  Image: able3.000  Inode: 136078
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/important.png
+  PNG image data, 24 x 24, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 136079
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/toc-plus.png
+  PNG image data, 15 x 9, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 136081
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/up.png
+  PNG image data, 35 x 15, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 136082
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/caution.gif
+  GIF image data, version 89a, 24 x 24
+  Image: able3.000  Inode: 136084
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/home.png
+  PNG image data, 35 x 15, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 136087
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/important.gif
+  GIF image data, version 89a, 24 x 24
+  Image: able3.000  Inode: 136088
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/warning.png
+  PNG image data, 24 x 24, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 136089
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/15.png
+  PNG image data, 12 x 12, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 136092
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/10.png
+  PNG image data, 12 x 12, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 136094
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/14.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 136097
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/5.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 136098
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/15.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 136099
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/2.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 136102
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/3.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 136104
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/6.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 136106
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/4.png
+  PNG image data, 12 x 12, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 136109
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/12.png
+  PNG image data, 12 x 12, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 136111
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/2.png
+  PNG image data, 12 x 12, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 136114
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/5.png
+  PNG image data, 12 x 12, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 136115
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/6.png
+  PNG image data, 12 x 12, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 136116
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/13.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 136117
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/1.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 136118
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/9.png
+  PNG image data, 12 x 12, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 136119
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/8.png
+  PNG image data, 12 x 12, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 136120
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/3.png
+  PNG image data, 12 x 12, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 136121
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/11.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 136123
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/12.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 136124
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/11.png
+  PNG image data, 12 x 12, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 136126
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/13.png
+  PNG image data, 12 x 12, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 136129
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/7.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 136133
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/7.png
+  PNG image data, 12 x 12, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 136136
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/4.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 136138
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/8.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 136141
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/14.png
+  PNG image data, 12 x 12, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 136142
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/9.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 136144
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/1.png
+  PNG image data, 12 x 12, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 136146
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/callouts/10.gif
+  GIF image data, version 89a, 12 x 12
+  Image: able3.000  Inode: 136149
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/next.png
+  PNG image data, 35 x 15, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 136152
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/caution.png
+  PNG image data, 24 x 24, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 136153
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/up.gif
+  GIF image data, version 87a, 39 x 39
+  Image: able3.000  Inode: 136166
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/note.png
+  PNG image data, 24 x 24, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 136167
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/note.gif
+  GIF image data, version 89a, 24 x 24
+  Image: able3.000  Inode: 136169
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/annot-close.png
+  PNG image data, 9 x 9, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 136171
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/prev.png
+  PNG image data, 35 x 15, 8-bit colormap, non-interlaced
+  Image: able3.000  Inode: 136175
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/toc-minus.png
+  PNG image data, 15 x 9, 8-bit grayscale, non-interlaced
+  Image: able3.000  Inode: 136176
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/blank.png
+  PNG image data, 128 x 128, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 136177
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/images/home.gif
+  GIF image data, version 87a, 40 x 40
+  Image: able3.000  Inode: 136178
+
+usr/share/gnome-doc-utils/watermarks/watermark-blockquote-201D.png
+  PNG image data, 72 x 72, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 136519
+
+usr/share/gnome-doc-utils/watermarks/watermark-blockquote-201C.png
+  PNG image data, 72 x 72, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 136520
+
+usr/share/gnome-doc-utils/watermarks/watermark-code.png
+  PNG image data, 276 x 305, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 136521
+
+usr/share/gnome-doc-utils/watermarks/watermark-blockquote-00AB.png
+  PNG image data, 72 x 72, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 136522
+
+usr/share/gnome-doc-utils/watermarks/watermark-code-python.png
+  PNG image data, 284 x 285, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 136523
+
+usr/share/gnome-doc-utils/watermarks/watermark-blockquote-201E.png
+  PNG image data, 72 x 72, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 136524
+
+usr/share/gnome-doc-utils/watermarks/watermark-blockquote-00BB.png
+  PNG image data, 72 x 72, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 136525
+
+usr/share/gnome-doc-utils/icons/hicolor/48x48/status/admon-caution.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 136530
+
+usr/share/gnome-doc-utils/icons/hicolor/48x48/status/admon-warning.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 136531
+
+usr/share/gnome-doc-utils/icons/hicolor/48x48/status/admon-important.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 136532
+
+usr/share/gnome-doc-utils/icons/hicolor/48x48/status/admon-note.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 136533
+
+usr/share/gnome-doc-utils/icons/hicolor/48x48/status/admon-bug.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 136534
+
+usr/share/gnome-doc-utils/icons/hicolor/48x48/status/admon-tip.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 136535
+
+usr/share/linuxdoc-tools/icons/prev.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 136566
+
+usr/share/linuxdoc-tools/icons/next.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 136567
+
+usr/share/linuxdoc-tools/icons/toc.gif
+  GIF image data, version 89a, 16 x 16
+  Image: able3.000  Inode: 136568
+
+usr/share/gtk-2.0/demo/gnome-gsame.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146274
+
+usr/share/gtk-2.0/demo/floppybuddy.gif
+  GIF image data, version 89a, 80 x 70
+  Image: able3.000  Inode: 146278
+
+usr/share/gtk-2.0/demo/gnome-gimp.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146280
+
+usr/share/gtk-2.0/demo/gnome-foot.png
+  PNG image data, 47 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146282
+
+usr/share/gtk-2.0/demo/gnome-fs-directory.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146285
+
+usr/share/gtk-2.0/demo/gnome-fs-regular.png
+  PNG image data, 48 x 52, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146287
+
+usr/share/gtk-2.0/demo/gnome-gmush.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146289
+
+usr/share/gtk-2.0/demo/background.jpg
+  JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, comment: "Created with The GIMP", baseline, precision 8, 400x400, frames 3
+  Image: able3.000  Inode: 146292
+
+usr/share/gtk-2.0/demo/gnome-applets.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146302
+
+usr/share/gtk-2.0/demo/gtk-logo-rgb.gif
+  GIF image data, version 89a, 107 x 140
+  Image: able3.000  Inode: 146306
+
+usr/share/gtk-2.0/demo/alphatest.png
+  PNG image data, 380 x 287, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146307
+
+usr/share/gtk-2.0/demo/gnome-calendar.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146312
+
+usr/share/gtk-2.0/demo/apple-red.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146314
+
+usr/share/gtk-2.0/demo/gnu-keys.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 146318
+
+usr/share/icons/hicolor/128x128/apps/phonon-gstreamer.png
+  PNG image data, 128 x 128, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148214
+
+usr/share/icons/hicolor/48x48/apps/phonon-gstreamer.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148217
+
+usr/share/icons/hicolor/22x22/apps/phonon-gstreamer.png
+  PNG image data, 22 x 22, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148220
+
+usr/share/icons/hicolor/16x16/apps/phonon-gstreamer.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148223
+
+usr/share/icons/hicolor/16x16/apps/qv4l2.png
+  PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148336
+
+usr/share/icons/hicolor/64x64/apps/phonon-gstreamer.png
+  PNG image data, 64 x 64, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148229
+
+usr/share/icons/hicolor/64x64/apps/qv4l2.png
+  PNG image data, 64 x 64, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148338
+
+usr/share/icons/hicolor/24x24/apps/qv4l2.png
+  PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148335
+
+usr/share/icons/hicolor/32x32/apps/qv4l2.png
+  PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 148341
+
+usr/share/gpa/gpa-logo.ppm
+  Netpbm image data, size = 230 x 110, rawbits, pixmap
+  Image: able3.000  Inode: 148858
+
+usr/share/gpa/gpa.png
+  PNG image data, 48 x 48, 8-bit/color RGBA, interlaced
+  Image: able3.000  Inode: 148859
+
+usr/share/lynx/lynx_doc/test/image.jpg
+  JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 48x48, frames 3
+  Image: able3.000  Inode: 149274
+
+usr/share/metamail/fonts/heb8x13.pcf
+  X11 Portable Compiled Font data
+  Image: able3.000  Inode: 149741
+
+usr/share/metamail/fonts/heb6x13.pcf
+  X11 Portable Compiled Font data
+  Image: able3.000  Inode: 149742
+
+usr/share/metamail/fonts/heb8x13B.pcf
+  X11 Portable Compiled Font data
+  Image: able3.000  Inode: 149744
+
+usr/share/zenmap/pixmaps/redhat_32.png
+  PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150176
+
+usr/share/zenmap/pixmaps/vl_3_75.png
+  PNG image data, 75 x 75, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150177
+
+usr/share/zenmap/pixmaps/zenmap.png
+  PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150178
+
+usr/share/zenmap/pixmaps/solaris_75.png
+  PNG image data, 75 x 75, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150179
+
+usr/share/zenmap/pixmaps/vl_4_32.png
+  PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150180
+
+usr/share/zenmap/pixmaps/ubuntu_75.png
+  PNG image data, 75 x 75, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150181
+
+usr/share/zenmap/pixmaps/irix_75.png
+  PNG image data, 75 x 75, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150182
+
+usr/share/zenmap/pixmaps/vl_1_75.png
+  PNG image data, 75 x 75, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150183
+
+usr/share/zenmap/pixmaps/freebsd_32.png
+  PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150184
+
+usr/share/zenmap/pixmaps/openbsd_75.png
+  PNG image data, 75 x 75, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150185
+
+usr/share/zenmap/pixmaps/vl_2_75.png
+  PNG image data, 75 x 75, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150186
+
+usr/share/zenmap/pixmaps/macosx_32.png
+  PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150187
+
+usr/share/zenmap/pixmaps/vl_5_32.png
+  PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150188
+
+usr/share/zenmap/pixmaps/win_32.png
+  PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150189
+
+usr/share/zenmap/pixmaps/macosx_75.png
+  PNG image data, 75 x 75, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150190
+
+usr/share/zenmap/pixmaps/default_75.png
+  PNG image data, 75 x 75, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150191
+
+usr/share/zenmap/pixmaps/throbber.gif
+  GIF image data, version 89a, 8 x 16
+  Image: able3.000  Inode: 150192
+
+usr/share/zenmap/pixmaps/vl_2_32.png
+  PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150193
+
+usr/share/zenmap/pixmaps/radialnet/logo.png
+  PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150195
+
+usr/share/zenmap/pixmaps/radialnet/firewall.png
+  PNG image data, 12 x 12, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 150196
+
+usr/share/zenmap/pixmaps/radialnet/border.png
+  PNG image data, 15 x 15, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150197
+
+usr/share/zenmap/pixmaps/radialnet/wireless.png
+  PNG image data, 12 x 12, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 150198
+
+usr/share/zenmap/pixmaps/radialnet/router.png
+  PNG image data, 12 x 12, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 150199
+
+usr/share/zenmap/pixmaps/radialnet/padlock.png
+  PNG image data, 12 x 12, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150200
+
+usr/share/zenmap/pixmaps/radialnet/switch.png
+  PNG image data, 12 x 12, 8-bit/color RGB, non-interlaced
+  Image: able3.000  Inode: 150201
+
+usr/share/zenmap/pixmaps/freebsd_75.png
+  PNG image data, 75 x 75, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150202
+
+usr/share/zenmap/pixmaps/unknown_32.png
+  PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150203
+
+usr/share/zenmap/pixmaps/linux_32.png
+  PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150204
+
+usr/share/zenmap/pixmaps/unknown_75.png
+  PNG image data, 75 x 75, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150205
+
+usr/share/zenmap/pixmaps/ubuntu_32.png
+  PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150206
+
+usr/share/zenmap/pixmaps/redhat_75.png
+  PNG image data, 75 x 75, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150207
+
+usr/share/zenmap/pixmaps/irix_32.png
+  PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150208
+
+usr/share/zenmap/pixmaps/win_75.png
+  PNG image data, 75 x 75, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150209
+
+usr/share/zenmap/pixmaps/linux_75.png
+  PNG image data, 75 x 75, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150210
+
+usr/share/zenmap/pixmaps/vl_1_32.png
+  PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150211
+
+usr/share/zenmap/pixmaps/default_32.png
+  PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150212
+
+usr/share/zenmap/pixmaps/vl_5_75.png
+  PNG image data, 75 x 75, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150213
+
+usr/share/zenmap/pixmaps/vl_4_75.png
+  PNG image data, 75 x 75, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150214
+
+usr/share/zenmap/pixmaps/solaris_32.png
+  PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150215
+
+usr/share/zenmap/pixmaps/openbsd_32.png
+  PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150216
+
+usr/share/zenmap/pixmaps/vl_3_32.png
+  PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
+  Image: able3.000  Inode: 150217
+
+usr/share/zenmap/pixmaps/throbber.png
+  PNG image data, 8 x 16, 4-bit colormap, non-interlaced
+  Image: able3.000  Inode: 150218
+
+usr/share/nmap/nselib/data/pixel.gif
+  GIF image data, version 89a, 1 x 1
+  Image: able3.000  Inode: 150370
+

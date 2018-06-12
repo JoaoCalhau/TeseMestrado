@@ -1,0 +1,1412 @@
+.wh..wh.plnk/1162.7709
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7709
+
+.wh..wh.plnk/7402.7740
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7740
+
+etc/passwd-
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23047
+
+etc/gshadow-
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23048
+
+etc/passwd
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23049
+
+etc/shadow
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23105
+
+etc/gdm/gdm.conf
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23055
+
+etc/group-
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23050
+
+etc/gshadow
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23346
+
+etc/shadow-
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23054
+
+etc/group
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23278
+
+etc/sudoers
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23088
+
+etc/environment
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23045
+
+etc/fstab
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23057
+
+etc/default/locale
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23060
+
+etc/default/apport
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23077
+
+etc/locale.gen
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23061
+
+etc/hostname
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23064
+
+etc/hosts
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23065
+
+etc/init.d/usplash
+  POSIX shell script, ASCII text executable
+  Image: ubnist1.casper-rw.E01  Inode: 23052
+
+etc/X11/xorg.conf
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23070
+
+etc/X11/xorg.conf.20081228210639
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23063
+
+etc/X11/xorg.conf.20081229213137
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23056
+
+etc/X11/xorg.conf.20081230202043
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23053
+
+etc/X11/xorg.conf.20090106185952
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23051
+
+etc/network/interfaces
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23072
+
+etc/event.d/tty1
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23104
+
+etc/event.d/tty2
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23101
+
+etc/event.d/tty3
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23089
+
+etc/event.d/tty4
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23067
+
+etc/event.d/tty5
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23074
+
+etc/event.d/tty6
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23075
+
+etc/pam.d/login
+  BSD makefile script, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23076
+
+etc/apt/sources.list~
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23079
+
+etc/apt/sources.list
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23078
+
+etc/PolicyKit/PolicyKit.conf
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23091
+
+etc/mtab
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23344
+
+etc/udev/rules.d/70-persistent-net.rules
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23096
+
+etc/udev/rules.d/70-persistent-cd.rules
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23097
+
+etc/resolv.conf
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23238
+
+var/cache/debconf/config.dat
+  ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7713
+
+var/cache/debconf/passwords.dat
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7687
+
+var/cache/cups/remote.cache
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7792
+
+var/cache/cups/job.cache
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7793
+
+var/log/dpkg.log
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7842
+
+var/log/casper.log
+  ASCII text, with CRLF, CR, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 7731
+
+var/log/fsck/checkfs
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7737
+
+var/log/udev
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7721
+
+var/log/dmesg.0
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7796
+
+var/log/user.log
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7746
+
+var/log/dmesg
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7738
+
+var/log/daemon.log
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7747
+
+var/log/messages
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7748
+
+var/log/debug
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7749
+
+var/log/auth.log
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7750
+
+var/log/syslog
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7752
+
+var/log/kern.log
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7754
+
+var/log/ConsoleKit/history
+  ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7770
+
+var/log/gdm/:0.log
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7957
+
+var/log/gdm/:0.log.1
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7955
+
+var/log/gdm/:0.log.2
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7803
+
+var/log/gdm/:0.log.3
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7800
+
+var/log/gdm/:0.log.4
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7779
+
+var/log/Xorg.0.log
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7780
+
+var/log/cups/access_log.1.gz
+  ASCII text (gzip compressed data, last modified: Wed Jan  7 03:01:00 2009, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 7817
+
+var/log/cups/access_log.2.gz
+  ASCII text (gzip compressed data, last modified: Wed Dec 31 04:21:46 2008, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 7959
+
+var/log/dmesg.2.gz
+  ASCII text (gzip compressed data, was "dmesg.0", last modified: Sun Dec 28 21:07:10 2008, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 7723
+
+var/log/apt/term.log.1.gz
+  ASCII text (gzip compressed data, last modified: Tue Dec 30 05:44:51 2008, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 7962
+
+var/log/Xorg.0.log.old
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7801
+
+var/log/syslog.2.gz
+  ASCII text (gzip compressed data, was "syslog.0", last modified: Wed Dec 31 06:30:57 2008, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 7961
+
+var/log/dmesg.3.gz
+  ASCII text (gzip compressed data, was "dmesg.0", last modified: Sun Dec 28 13:11:37 2008, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 7726
+
+var/log/syslog.0
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7954
+
+var/log/syslog.3.gz
+  ASCII text (gzip compressed data, was "syslog.0", last modified: Tue Dec 30 06:52:16 2008, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 7790
+
+var/log/dmesg.4.gz
+  ASCII text (gzip compressed data, was "dmesg.0", last modified: Wed Oct 29 22:54:00 2008, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 7795
+
+var/log/dpkg.log.1
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7729
+
+var/log/syslog.1.gz
+  ASCII text (gzip compressed data, was "syslog.0", last modified: Thu Jan  1 06:41:27 2009, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 7831
+
+var/log/dmesg.1.gz
+  ASCII text (gzip compressed data, was "dmesg.0", last modified: Mon Dec 29 21:32:06 2008, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 7722
+
+var/lib/dpkg/alternatives/xulrunner-addons-flashplugin
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7918
+
+var/lib/dpkg/alternatives/libgksu-gconf-defaults
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7695
+
+var/lib/dpkg/alternatives/iceape-flashplugin
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7882
+
+var/lib/dpkg/alternatives/iceweasel-flashplugin
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7884
+
+var/lib/dpkg/alternatives/mozilla-flashplugin
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7885
+
+var/lib/dpkg/alternatives/firefox-flashplugin
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7914
+
+var/lib/dpkg/alternatives/xulrunner-flashplugin
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7916
+
+var/lib/dpkg/alternatives/midbrowser-flashplugin
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7917
+
+var/lib/dpkg/info/gnash-common.postrm
+  POSIX shell script, ASCII text executable
+  Image: ubnist1.casper-rw.E01  Inode: 7863
+
+var/lib/dpkg/info/libboost-date-time1.34.1.postrm
+  POSIX shell script, ASCII text executable
+  Image: ubnist1.casper-rw.E01  Inode: 7847
+
+var/lib/dpkg/info/libboost-date-time1.34.1.list
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7851
+
+var/lib/dpkg/info/libboost-date-time1.34.1.postinst
+  POSIX shell script, ASCII text executable
+  Image: ubnist1.casper-rw.E01  Inode: 7846
+
+var/lib/dpkg/info/libboost-date-time1.34.1.shlibs
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7845
+
+var/lib/dpkg/info/libboost-date-time1.34.1.md5sums
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7848
+
+var/lib/dpkg/info/libboost-thread1.34.1.postrm
+  POSIX shell script, ASCII text executable
+  Image: ubnist1.casper-rw.E01  Inode: 7855
+
+var/lib/dpkg/info/libboost-thread1.34.1.list
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7859
+
+var/lib/dpkg/info/libboost-thread1.34.1.postinst
+  POSIX shell script, ASCII text executable
+  Image: ubnist1.casper-rw.E01  Inode: 7854
+
+var/lib/dpkg/info/libboost-thread1.34.1.shlibs
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7849
+
+var/lib/dpkg/info/libboost-thread1.34.1.md5sums
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7856
+
+var/lib/dpkg/info/gnash-common.list
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7869
+
+var/lib/dpkg/info/gnash-common.postinst
+  POSIX shell script, ASCII text executable
+  Image: ubnist1.casper-rw.E01  Inode: 7862
+
+var/lib/dpkg/info/gnash-common.shlibs
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7857
+
+var/lib/dpkg/info/gnash-common.md5sums
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7864
+
+var/lib/dpkg/info/gnash.md5sums
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7865
+
+var/lib/dpkg/info/gnash.list
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7874
+
+var/lib/dpkg/info/mozilla-plugin-gnash.postrm
+  POSIX shell script, ASCII text executable
+  Image: ubnist1.casper-rw.E01  Inode: 7879
+
+var/lib/dpkg/info/mozilla-plugin-gnash.list
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7883
+
+var/lib/dpkg/info/mozilla-plugin-gnash.postinst
+  POSIX shell script, ASCII text executable
+  Image: ubnist1.casper-rw.E01  Inode: 7877
+
+var/lib/dpkg/info/mozilla-plugin-gnash.prerm
+  POSIX shell script, ASCII text executable
+  Image: ubnist1.casper-rw.E01  Inode: 7878
+
+var/lib/dpkg/info/mozilla-plugin-gnash.shlibs
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7872
+
+var/lib/dpkg/info/mozilla-plugin-gnash.md5sums
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7880
+
+var/lib/dpkg/diversions
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7724
+
+var/lib/dpkg/diversions-old
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7715
+
+var/lib/gconf/debian.defaults/%gconf-tree.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7698
+
+var/lib/locales/supported.d/local
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7701
+
+var/lib/belocs/locales.dep
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7703
+
+var/lib/belocs/hashfile.old
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7704
+
+var/lib/belocs/hashfile.new
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7705
+
+var/lib/belocs/list
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7706
+
+var/lib/belocs/magic
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7707
+
+var/lib/belocs/hashfile
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7708
+
+var/lib/x11/xorg.conf.md5sum
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7710
+
+var/lib/apt/lists/Ubuntu%208.10%20%5fIntrepid%20Ibex%5f%20-%20Release%20i386%20(20081029.5)_dists_intrepid_Release
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7718
+
+var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid_Release
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7818
+
+var/lib/apt/lists/Ubuntu%208.10%20%5fIntrepid%20Ibex%5f%20-%20Release%20i386%20(20081029.5)_dists_intrepid_main_binary-i386_Packages
+  ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7744
+
+var/lib/apt/lists/Ubuntu%208.10%20%5fIntrepid%20Ibex%5f%20-%20Release%20i386%20(20081029.5)_dists_intrepid_restricted_binary-i386_Packages
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7775
+
+var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_intrepid-security_Release
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7972
+
+var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid-updates_Release
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7973
+
+var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_intrepid-security_main_binary-i386_Packages
+  ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7974
+
+var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_intrepid-security_restricted_binary-i386_Packages
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7975
+
+var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_intrepid-security_universe_binary-i386_Packages
+  ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7824
+
+var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_intrepid-security_restricted_source_Sources
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7816
+
+var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid_restricted_binary-i386_Packages
+  ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7822
+
+var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid_restricted_source_Sources
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7823
+
+var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid-updates_main_binary-i386_Packages
+  ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7826
+
+var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid-updates_restricted_binary-i386_Packages
+  ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7819
+
+var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid-updates_restricted_source_Sources
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7830
+
+var/lib/apt/cdroms.list
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7794
+
+var/lib/apt/cdroms.list~
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7711
+
+var/lib/apt/extended_states
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7844
+
+var/lib/dbus/machine-id
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7763
+
+var/lib/gdm/.cookie
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7776
+
+var/lib/acpi-support/powerstate
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7784
+
+var/lib/acpi-support/system-manufacturer
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7785
+
+var/lib/acpi-support/system-product-name
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7786
+
+var/lib/acpi-support/system-version
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7787
+
+var/lib/acpi-support/bios-version
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7788
+
+var/lib/alsa/asound.state
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7782
+
+var/lib/logrotate/status
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7850
+
+var/backups/passwd.bak
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7949
+
+var/backups/group.bak
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7950
+
+var/backups/shadow.bak
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7951
+
+var/backups/gshadow.bak
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 7952
+
+home/ubuntu/.bash_logout
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15363
+
+home/ubuntu/.bashrc
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15364
+
+home/ubuntu/.profile
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15365
+
+home/ubuntu/.gconf/apps/panel/global/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15375
+
+home/ubuntu/.gconf/apps/panel/applets/clock_screen0/prefs/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15391
+
+home/ubuntu/.gconf/apps/panel/applets/clock_screen0/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15473
+
+home/ubuntu/.gconf/apps/panel/applets/fast_user_switch_screen0/prefs/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15517
+
+home/ubuntu/.gconf/apps/panel/applets/fast_user_switch_screen0/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15457
+
+home/ubuntu/.gconf/apps/panel/applets/trashapplet_screen0/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15459
+
+home/ubuntu/.gconf/apps/panel/applets/workspace_switcher_screen0/prefs/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15850
+
+home/ubuntu/.gconf/apps/panel/applets/workspace_switcher_screen0/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15461
+
+home/ubuntu/.gconf/apps/panel/applets/window_list_screen0/prefs/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15853
+
+home/ubuntu/.gconf/apps/panel/applets/window_list_screen0/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15465
+
+home/ubuntu/.gconf/apps/panel/applets/show_desktop_button_screen0/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15469
+
+home/ubuntu/.gconf/apps/panel/applets/notification_area_screen0/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15471
+
+home/ubuntu/.gconf/apps/panel/applets/mixer_screen0/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15475
+
+home/ubuntu/.gconf/apps/panel/objects/menu_bar_screen0/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15487
+
+home/ubuntu/.gconf/apps/panel/objects/clock_separator_screen0/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15479
+
+home/ubuntu/.gconf/apps/panel/objects/yelp_launcher_screen0/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15481
+
+home/ubuntu/.gconf/apps/panel/objects/email_launcher_screen0/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15483
+
+home/ubuntu/.gconf/apps/panel/objects/browser_launcher_screen0/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15485
+
+home/ubuntu/.gconf/apps/panel/general/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15675
+
+home/ubuntu/.gconf/apps/panel/toplevels/bottom_panel_screen0/background/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15495
+
+home/ubuntu/.gconf/apps/panel/toplevels/bottom_panel_screen0/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15493
+
+home/ubuntu/.gconf/apps/panel/toplevels/top_panel_screen0/background/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15499
+
+home/ubuntu/.gconf/apps/panel/toplevels/top_panel_screen0/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15497
+
+home/ubuntu/.gconf/apps/gnome-screensaver/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15963
+
+home/ubuntu/.gconf/apps/gnome-power-manager/general/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15388
+
+home/ubuntu/.gconf/apps/evolution/calendar/notify/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15515
+
+home/ubuntu/.gconf/apps/evolution/calendar/%gconf.xml
+  XML 1.0 document, ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 15511
+
+home/ubuntu/.gconf/apps/evolution/calendar/memos/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23271
+
+home/ubuntu/.gconf/apps/evolution/calendar/tasks/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23273
+
+home/ubuntu/.gconf/apps/evolution/calendar/display/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23275
+
+home/ubuntu/.gconf/apps/evolution/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15529
+
+home/ubuntu/.gconf/apps/evolution/mail/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23220
+
+home/ubuntu/.gconf/apps/evolution/addressbook/%gconf.xml
+  XML 1.0 document, ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 23270
+
+home/ubuntu/.gconf/apps/evolution/memos/%gconf.xml
+  XML 1.0 document, ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 23267
+
+home/ubuntu/.gconf/apps/evolution/tasks/%gconf.xml
+  XML 1.0 document, ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 23269
+
+home/ubuntu/.gconf/apps/nautilus/preferences/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15604
+
+home/ubuntu/.gconf/apps/gnome-terminal/profiles/Default/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15591
+
+home/ubuntu/.gconf/apps/totem/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15699
+
+home/ubuntu/.gconf/desktop/gnome/applications/window_manager/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15852
+
+home/ubuntu/.gconf/desktop/gnome/accessibility/keyboard/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15507
+
+home/ubuntu/.gconf/desktop/gnome/peripherals/keyboard/host-ubuntu/0/%gconf.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15674
+
+home/ubuntu/.xsession-errors
+  ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 15400
+
+home/ubuntu/.dmrc
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15966
+
+home/ubuntu/Documents/ssa.gov/chinese.htm
+  HTML document, ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 30895
+
+home/ubuntu/Documents/ideas for future codes_files/stdLauncher.js
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 23276
+
+home/ubuntu/Documents/ideas for future codes_files/triggerParams.js
+  Non-ISO extended-ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 23285
+
+home/ubuntu/Documents/ideas for future codes_files/urchin.js
+  C source, ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 23288
+
+home/ubuntu/Documents/ideas for future codes.htm
+  HTML document, ISO-8859 text
+  Image: ubnist1.casper-rw.E01  Inode: 15841
+
+home/ubuntu/Documents/jobs 2008-12-31_files/dcsi4u0zt00000g4ea6le2s1o_8k6u_main.js
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 23325
+
+home/ubuntu/Documents/jobs 2008-12-31_files/dcsi4u0zt00000g4ea6le2s1o_8k6u.js
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 23331
+
+home/ubuntu/Documents/jobs 2008-12-31_files/usajobs_styles.html
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 23337
+
+home/ubuntu/.config/user-dirs.locale
+  ASCII text, with no line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15410
+
+home/ubuntu/.config/user-dirs.dirs
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15409
+
+home/ubuntu/.config/tracker/tracker.cfg
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15610
+
+home/ubuntu/.config/gtk-2.0/gtkfilechooser.ini
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15947
+
+home/ubuntu/.dbus/session-bus/1bc81c59fe3e97e25e8a990649577b0c-0
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15413
+
+home/ubuntu/.pulse/volume-restore.table
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15453
+
+home/ubuntu/.gconfd/saved_state
+  ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 16003
+
+home/ubuntu/.gnupg/gpg.conf
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15420
+
+home/ubuntu/.gnome2/share/fonts/fonts.dir
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15441
+
+home/ubuntu/.gnome2/share/cursor-fonts/fonts.dir
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15440
+
+home/ubuntu/.gnome2/evince/ev-metadata.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23214
+
+home/ubuntu/.gnome2/accelsevince
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15584
+
+home/ubuntu/.nautilus/metafiles/file:%2F%2F%2Fhome%2Fubuntu%2FDocuments.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15952
+
+home/ubuntu/.nautilus/metafiles/file:%2F%2F%2Fhome%2Fubuntu%2FDesktop.xml
+  XML 1.0 document, ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 16047
+
+home/ubuntu/.nautilus/metafiles/x-nautilus-desktop:%2F%2F%2F.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15603
+
+home/ubuntu/.nautilus/metafiles/file:%2F%2F%2Fhome%2Fubuntu%2FDesktop%2Ffed%2520privacy.xml
+  XML 1.0 document, ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 15942
+
+home/ubuntu/.nautilus/metafiles/file:%2F%2F%2Fhome%2Fubuntu%2FDesktop%2FMyStuff.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15659
+
+home/ubuntu/.nautilus/metafiles/file:%2F%2F%2Fhome%2Fubuntu%2FDocuments%2Fssa.gov.xml
+  XML 1.0 document, ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 15845
+
+home/ubuntu/.nautilus/metafiles/file:%2F%2F%2Fhome%2Fubuntu%2FDocuments%2Fhacks.xml
+  XML 1.0 document, ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 15960
+
+home/ubuntu/.nautilus/saved-session-LMN4MU
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15565
+
+home/ubuntu/.nautilus/saved-session-NG63MU
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15666
+
+home/ubuntu/.local/share/tracker/tracker.log
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15726
+
+home/ubuntu/.gtk-bookmarks
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15500
+
+home/ubuntu/.mozilla/firefox/profiles.ini
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15522
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/bookmarks.html
+  HTML document, ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 15524
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/chrome/userChrome-example.css
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15526
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/chrome/userContent-example.css
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15527
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/localstore.rdf
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 16026
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/mimeTypes.rdf
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15959
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/prefs.js
+  ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 16036
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/compatibility.ini
+  Windows WIN.INI, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15533
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/xpti.dat
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15532
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/extensions.cache
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15665
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/extensions.ini
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15543
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/compreg.dat
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15534
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/A89F4DBCd01
+  XML 1.0 document, ASCII text, with very long lines, with no line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15564
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/4DCD7AFAd01
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15568
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/F6DB4E3Ad01
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15569
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/CA0A8751d01
+  HTML document, Non-ISO extended-ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15592
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/BAD3D721d01
+  HTML document, Non-ISO extended-ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 15680
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/BDAA65D2d01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15668
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/E434C96Bd01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15702
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/ADFA69A7d01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15712
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/11005031d01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15708
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/079B5FF1d01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15718
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/36A7B7CEd01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15715
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/E0A27CEBd01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15740
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8CC53262d01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15743
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8EB18968d01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15733
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/BB062C82d01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15752
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C12C3073d01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15756
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/63E6B155d01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15759
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/54ED6603d01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15762
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/89319159d01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15766
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8D20A121d01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15747
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/76E130E1d01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15774
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/02182DECd01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15779
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/757480B7d01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15784
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/878F313Ed01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15788
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/88CF087Bd01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15771
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/3203C548d01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15790
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/98EF080Fd01
+  HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15797
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/4D84F890d01
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15799
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/16F830D4d01
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15800
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/430D3F19d01
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15801
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/FEEEE3EAd01
+  HTML document, ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 15817
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8ECEA754d01
+  HTML document, Non-ISO extended-ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 15818
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/52ADA6C3d01
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15819
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/A64C368Cd01
+  ASCII text, with very long lines, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15820
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/ACF3D721d01
+  HTML document, ASCII text, with very long lines, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15463
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8C807E07d01
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15826
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/4172759Fd01
+  ISO-8859 text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 15827
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/2993C5C5d01
+  HTML document, ASCII text, with very long lines, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15834
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5F0C3052d01
+  HTML document, ASCII text, with very long lines, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15828
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C37D932Ad01
+  HTML document, ASCII text, with very long lines, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15837
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5892D3EDd01
+  HTML document, ISO-8859 text, with very long lines, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15542
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/7DD65065d01
+  HTML document, ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15399
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C3057ADDd01
+  HTML document, ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15513
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/A5E50D2Cd01
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15844
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/FFE4B15Bd01
+  HTML document, ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 15856
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/0C33E346d01
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15859
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C2E949A7d01
+  HTML document, ASCII text, with very long lines (gzip compressed data, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 15857
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/92D2BAAFd01
+  C source, ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15877
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/0FC93EACd01
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15891
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/9A8E7AD7d01
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15917
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8ECEBB5Cd01
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15922
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/ECDB8C03d01
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15931
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/49554392d01
+  HTML document, ASCII text, with very long lines, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15930
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/4397FB14d01
+  HTML document, ASCII text, with very long lines, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15932
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/0B11CA34d01
+  HTML document, ASCII text, with very long lines, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15854
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/341E0BD1d01
+  ASCII text, with very long lines (gzip compressed data, from FAT filesystem (MS-DOS, OS/2, NT))
+  Image: ubnist1.casper-rw.E01  Inode: 15858
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/6BCA3B75d01
+  HTML document, ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 15869
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/38A1C25Bd01
+  HTML document, ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 15873
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/99FF32F7d01
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15995
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/760ABBBAd01
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 16004
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/201C4485d01
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 16005
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/65FFE8EEd01
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 16016
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/708F8D63d01
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 16035
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/7FC87151d01
+  assembler source, ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 16032
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/268A75B8d01
+  HTML document, ASCII text, with very long lines, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15434
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8018213Ed01
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 16033
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/93A9D9D6d01
+  HTML document, ASCII text, with very long lines, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15935
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/ED1B158Ad01
+  ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 15875
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/B8FEC5B8d01
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15884
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/E25BB58Ad01
+  ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 15870
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/7EC6A58Ad01
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 16034
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/86CD8D79d01
+  HTML document, ASCII text, with very long lines, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15936
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/signons3.txt
+  ASCII text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15560
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/urlclassifierkey3.txt
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15563
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/bookmarkbackups/bookmarks-2008-12-28.json
+  ASCII text, with very long lines, with no line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15625
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/bookmarkbackups/bookmarks-2008-12-30.json
+  ASCII text, with very long lines, with no line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15503
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/blocklist.xml
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 16046
+
+home/ubuntu/.ssh/known_hosts
+  ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 15676
+
+home/ubuntu/.bash_history
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15677
+
+home/ubuntu/.evolution/mail/local/Inbox
+  HTML document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23235
+
+home/ubuntu/.evolution/categories.xml
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23265
+
+home/ubuntu/.recently-used.xbel
+  XML 1.0 document, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15924
+
+tmp/pulse-ubuntu/pid
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 30843
+
+usr/sbin/update-initramfs.distrib
+  POSIX shell script, ASCII text executable
+  Image: ubnist1.casper-rw.E01  Inode: 15393
+
+usr/sbin/update-initramfs
+  POSIX shell script, ASCII text executable
+  Image: ubnist1.casper-rw.E01  Inode: 15394
+
+usr/lib/update-notifier/apt-check.distrib
+  Python script, ASCII text executable
+  Image: ubnist1.casper-rw.E01  Inode: 15383
+
+usr/share/applications/gnash.desktop
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 15732
+
+usr/share/doc/gnash-common/changelog.Debian.gz
+  ASCII text (gzip compressed data, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 23122
+
+usr/share/doc/gnash-common/changelog.gz
+  ASCII text (gzip compressed data, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 23117
+
+usr/share/doc/gnash-common/NEWS.gz
+  ASCII text (gzip compressed data, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 23118
+
+usr/share/doc/gnash-common/README.gz
+  OS/2 REXX batch file, ASCII text (gzip compressed data, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 23119
+
+usr/share/doc/gnash-common/AUTHORS
+  ISO-8859 text
+  Image: ubnist1.casper-rw.E01  Inode: 23120
+
+usr/share/doc/gnash-common/copyright
+  ISO-8859 text
+  Image: ubnist1.casper-rw.E01  Inode: 23121
+
+usr/share/doc/gnash-common/README.amf.gz
+  diff output, ASCII text (gzip compressed data, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 23123
+
+usr/share/doc/gnash/changelog.Debian.gz
+  ASCII text (gzip compressed data, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 23167
+
+usr/share/doc/gnash/changelog.gz
+  ASCII text (gzip compressed data, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 23165
+
+usr/share/doc/gnash/copyright
+  ISO-8859 text
+  Image: ubnist1.casper-rw.E01  Inode: 23166
+
+usr/share/doc/libboost-date-time1.34.1/README.Debian.gz
+  ASCII text (gzip compressed data, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 23109
+
+usr/share/doc/libboost-date-time1.34.1/copyright
+  ISO-8859 text
+  Image: ubnist1.casper-rw.E01  Inode: 23108
+
+usr/share/doc/libboost-thread1.34.1/README.Debian.gz
+  ASCII text (gzip compressed data, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 23114
+
+usr/share/doc/libboost-thread1.34.1/copyright
+  ISO-8859 text
+  Image: ubnist1.casper-rw.E01  Inode: 23113
+
+usr/share/doc/mozilla-plugin-gnash/changelog.Debian.gz
+  ASCII text (gzip compressed data, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 23186
+
+usr/share/doc/mozilla-plugin-gnash/changelog.gz
+  ASCII text (gzip compressed data, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 23184
+
+usr/share/doc/mozilla-plugin-gnash/copyright
+  ISO-8859 text
+  Image: ubnist1.casper-rw.E01  Inode: 23185
+
+usr/share/lintian/overrides/libboost-date-time1.34.1
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23106
+
+usr/share/lintian/overrides/libboost-thread1.34.1
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23111
+
+usr/share/lintian/overrides/gnash-plugin
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23187
+
+usr/share/man/man1/gnash.1.gz
+  troff or preprocessor input, ASCII text (gzip compressed data, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 23126
+
+usr/share/pixmaps/gnash.xpm
+  X pixmap image, ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23169
+
+usr/bin/gnash
+  POSIX shell script, ASCII text executable
+  Image: ubnist1.casper-rw.E01  Inode: 23162
+
+root/.synaptic/selections.proceed
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 23
+
+root/.synaptic/log/2008-12-30.054435.log
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 34
+
+root/.dbus/session-bus/1bc81c59fe3e97e25e8a990649577b0c-0
+  ASCII text
+  Image: ubnist1.casper-rw.E01  Inode: 29
+
+root/.gconfd/saved_state
+  ASCII text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 33
+

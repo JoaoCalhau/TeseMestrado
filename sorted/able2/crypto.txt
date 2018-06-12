@@ -1,4 +1,0 @@
-doc/gnupg-1.0.1/pubring.asc
-  PGP public key block
-  Image: able2.dd  Inode: 48377
-

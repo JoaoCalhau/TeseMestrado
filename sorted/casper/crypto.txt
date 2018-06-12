@@ -1,0 +1,16 @@
+var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid-updates_Release.gpg
+  PGP signature Signature (old)
+  Image: ubnist1.casper-rw.E01  Inode: 7971
+
+var/lib/apt/lists/Ubuntu%208.10%20%5fIntrepid%20Ibex%5f%20-%20Release%20i386%20(20081029.5)_dists_intrepid_Release.gpg
+  PGP signature Signature (old)
+  Image: ubnist1.casper-rw.E01  Inode: 7719
+
+var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid_Release.gpg
+  PGP signature Signature (old)
+  Image: ubnist1.casper-rw.E01  Inode: 7815
+
+var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_intrepid-security_Release.gpg
+  PGP signature Signature (old)
+  Image: ubnist1.casper-rw.E01  Inode: 7970
+

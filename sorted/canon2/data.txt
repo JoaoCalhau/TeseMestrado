@@ -1,0 +1,16 @@
+DCIM/100CANON/_MG_0025.JPG
+  data
+  Image: nps-2009-canon2.E01  Inode: 1053
+
+DCIM/100CANON/_MG_0030.JPG
+  data
+  Image: nps-2009-canon2.E01  Inode: 1058
+
+DCIM/100CANON/_MG_0035.JPG
+  data
+  Image: nps-2009-canon2.E01  Inode: 1063
+
+DCIM/CANONMSC/M0100.CTG
+  data
+  Image: nps-2009-canon2.E01  Inode: 943621
+

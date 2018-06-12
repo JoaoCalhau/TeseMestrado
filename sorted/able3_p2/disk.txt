@@ -1,0 +1,12 @@
+lib/firmware/amdgpu/tonga_smc.bin
+  DOS/MBR boot sector
+  Image: able3.000  Inode: 17887
+
+lib/firmware/amdgpu/fiji_smc.bin
+  DOS/MBR boot sector
+  Image: able3.000  Inode: 17912
+
+usr/lib64/grub/i386-pc/boot.img
+  DOS/MBR boot sector
+  Image: able3.000  Inode: 14825
+

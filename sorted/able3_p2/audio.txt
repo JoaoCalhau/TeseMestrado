@@ -1,0 +1,36 @@
+usr/share/sounds/alsa/Rear_Center.wav
+  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 48000 Hz
+  Image: able3.000  Inode: 132954
+
+usr/share/sounds/alsa/Side_Left.wav
+  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 48000 Hz
+  Image: able3.000  Inode: 132955
+
+usr/share/sounds/alsa/Side_Right.wav
+  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 48000 Hz
+  Image: able3.000  Inode: 132956
+
+usr/share/sounds/alsa/Front_Left.wav
+  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 48000 Hz
+  Image: able3.000  Inode: 132957
+
+usr/share/sounds/alsa/Rear_Left.wav
+  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 48000 Hz
+  Image: able3.000  Inode: 132958
+
+usr/share/sounds/alsa/Front_Right.wav
+  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 48000 Hz
+  Image: able3.000  Inode: 132959
+
+usr/share/sounds/alsa/Front_Center.wav
+  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 48000 Hz
+  Image: able3.000  Inode: 132960
+
+usr/share/sounds/alsa/Rear_Right.wav
+  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 48000 Hz
+  Image: able3.000  Inode: 132961
+
+usr/share/sounds/alsa/Noise.wav
+  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 48000 Hz
+  Image: able3.000  Inode: 132962
+

@@ -1,0 +1,3320 @@
+X11R6/bin/XF86_SVGA
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8136
+
+X11R6/bin/fsinfo
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8137
+
+X11R6/bin/fslsfonts
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8138
+
+X11R6/bin/fstobdf
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8139
+
+X11R6/bin/mkfontdir
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8140
+
+X11R6/bin/xfs
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8141
+
+X11R6/lib/libICE.so.6.3
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20226
+
+X11R6/lib/libPEX5.so.6.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20228
+
+X11R6/lib/libSM.so.6.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20230
+
+X11R6/lib/libX11.so.6.1
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped, too many notes (256)
+  Image: able2.dd  Inode: 20232
+
+X11R6/lib/libXIE.so.6.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20234
+
+X11R6/lib/libXaw.so.6.1
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20236
+
+X11R6/lib/libXext.so.6.3
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20238
+
+X11R6/lib/libXi.so.6.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20240
+
+X11R6/lib/libXmu.so.6.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20242
+
+X11R6/lib/libXp.so.6.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20244
+
+X11R6/lib/libXt.so.6.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20246
+
+X11R6/lib/libXtst.so.6.1
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20248
+
+bin/db_archive
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24101
+
+bin/db_checkpoint
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24102
+
+bin/db_deadlock
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24103
+
+bin/db_dump
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24104
+
+bin/db_dump185
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24105
+
+bin/db_load
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24106
+
+bin/db_printlog
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24107
+
+bin/db_recover
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24108
+
+bin/db_stat
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24109
+
+bin/gencat
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24110
+
+bin/getconf
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24111
+
+bin/getent
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24112
+
+bin/iconv
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24114
+
+bin/lddlibc4
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24116
+
+bin/locale
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24117
+
+bin/localedef
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24118
+
+bin/makedb
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24119
+
+bin/rpcgen
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24121
+
+bin/sprof
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24122
+
+bin/chage
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24128
+
+bin/faillog
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24129
+
+bin/gpasswd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24130
+
+bin/lastlog
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24131
+
+bin/last
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24134
+
+bin/mesg
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24136
+
+bin/utmpdump
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24137
+
+bin/wall
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24138
+
+bin/clear
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24140
+
+bin/infocmp
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24141
+
+bin/tack
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24145
+
+bin/tic
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24146
+
+bin/toe
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24147
+
+bin/tput
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24148
+
+bin/tset
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24149
+
+bin/info
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24150
+
+bin/apm
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24151
+
+bin/apmsleep
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24152
+
+bin/tailf
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24154
+
+bin/dir
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24155
+
+bin/dircolors
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24156
+
+bin/du
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24157
+
+bin/install
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24158
+
+bin/mkfifo
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24159
+
+bin/shred
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24160
+
+bin/vdir
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24161
+
+bin/at
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24162
+
+bin/bc
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24166
+
+bin/dc
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24167
+
+bin/addr
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24168
+
+bin/dig
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24169
+
+bin/dnsquery
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24170
+
+bin/host
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24171
+
+bin/mkservdb
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24172
+
+bin/nslookup
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24173
+
+bin/nsupdate
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24174
+
+bin/addr2line
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24175
+
+bin/ar
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24176
+
+bin/as
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24177
+
+bin/gasp
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24178
+
+bin/gprof
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24179
+
+bin/ld
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24180
+
+bin/nm
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24181
+
+bin/objcopy
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24182
+
+bin/objdump
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24183
+
+bin/ranlib
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24184
+
+bin/readelf
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24185
+
+bin/size
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24186
+
+bin/strings
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24187
+
+bin/strip
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24188
+
+bin/bzip2
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24191
+
+bin/bzip2recover
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24192
+
+bin/chvt
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24195
+
+bin/codepage
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24196
+
+bin/deallocvt
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24198
+
+bin/dumpkeys
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24199
+
+bin/fgconsole
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24200
+
+bin/getkeycodes
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24202
+
+bin/kbd_mode
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24203
+
+bin/psfaddtable
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24208
+
+bin/psfgettable
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24209
+
+bin/psfstriptable
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24210
+
+bin/resizecons
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24211
+
+bin/screendump
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24213
+
+bin/setkeycodes
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24215
+
+bin/setleds
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24216
+
+bin/setmetamode
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24217
+
+bin/setvesablank
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24218
+
+bin/showcfont
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24219
+
+bin/showkey
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24220
+
+bin/vcstime
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24223
+
+bin/vt-is-UTF8
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24224
+
+bin/writevt
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24225
+
+bin/chattr
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24226
+
+bin/lsattr
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24227
+
+bin/uuidgen
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24228
+
+bin/cksum
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24230
+
+bin/comm
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24231
+
+bin/csplit
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24232
+
+bin/cut
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24233
+
+bin/expand
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24234
+
+bin/fmt
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24235
+
+bin/fold
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24236
+
+bin/head
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24237
+
+bin/join
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24238
+
+bin/md5sum
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24239
+
+bin/nl
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24240
+
+bin/od
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24241
+
+bin/paste
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24242
+
+bin/pr
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24243
+
+bin/ptx
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24244
+
+bin/split
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24245
+
+bin/sum
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24246
+
+bin/tac
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24247
+
+bin/tail
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24248
+
+bin/tr
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24249
+
+bin/tsort
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24250
+
+bin/unexpand
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24251
+
+bin/uniq
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24252
+
+bin/wc
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24253
+
+bin/cmp
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24254
+
+bin/diff
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24255
+
+bin/diff3
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24256
+
+bin/sdiff
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24257
+
+bin/eject
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24258
+
+bin/answer
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24259
+
+bin/elm
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24261
+
+bin/elmalias
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24262
+
+bin/fastmail
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24263
+
+bin/newalias
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24266
+
+bin/nfrm
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24267
+
+bin/frm
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24267
+
+bin/prlong
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24269
+
+bin/readmsg
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24270
+
+bin/wnewmail
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24271
+
+bin/newmail
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24271
+
+bin/fetchmail
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24272
+
+bin/file
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24273
+
+bin/find
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24274
+
+bin/xargs
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24275
+
+bin/finger
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24276
+
+bin/ftp
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24277
+
+bin/fwhois
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24279
+
+bin/gs
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24287
+
+bin/gpg
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24302
+
+bin/gpm-root
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24303
+
+bin/hltest
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24304
+
+bin/mev
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24305
+
+bin/addftinfo
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24306
+
+bin/eqn
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24307
+
+bin/grodvi
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24315
+
+bin/groff
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24316
+
+bin/grohtml
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24317
+
+bin/grolj4
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24318
+
+bin/grops
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24319
+
+bin/grotty
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24320
+
+bin/hpftodit
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24324
+
+bin/indxbib
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24325
+
+bin/lkbib
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24326
+
+bin/lookbib
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24327
+
+bin/pfbtops
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24330
+
+bin/pic
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24331
+
+bin/psbb
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24332
+
+bin/refer
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24333
+
+bin/soelim
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24334
+
+bin/tbl
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24335
+
+bin/tfmtodit
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24336
+
+bin/troff
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24337
+
+bin/inews
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24350
+
+bin/buildhash
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24351
+
+bin/icombine
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24353
+
+bin/ijoin
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24354
+
+bin/ispell
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24355
+
+bin/sq
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24358
+
+bin/unsq
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24360
+
+bin/ksymoops
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24361
+
+bin/less
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24362
+
+bin/lessecho
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24363
+
+bin/lesskey
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24364
+
+bin/keytab-lilo
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24366
+
+bin/dirname
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24368
+
+bin/env
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24369
+
+bin/expr
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24370
+
+bin/factor
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24371
+
+bin/hostid
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24373
+
+bin/id
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24374
+
+bin/logname
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24375
+
+bin/pathchk
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24377
+
+bin/pinky
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24378
+
+bin/printenv
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24379
+
+bin/printf
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24380
+
+bin/seq
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24381
+
+bin/tee
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24382
+
+bin/test
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24383
+
+bin/tty
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24384
+
+bin/users
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24385
+
+bin/who
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24386
+
+bin/whoami
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24387
+
+bin/yes
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24388
+
+bin/lpq
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24389
+
+bin/lpr
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24390
+
+bin/lprm
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24391
+
+bin/lptest
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24392
+
+bin/lynx
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24393
+
+bin/man
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24396
+
+bin/man2html
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24397
+
+bin/mailto
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24405
+
+bin/metamail
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24407
+
+bin/mimencode
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24409
+
+bin/mmencode
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24410
+
+bin/richtext
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24413
+
+bin/richtoatk
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24414
+
+bin/splitmail
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24421
+
+bin/mpage
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24426
+
+bin/mutt
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24427
+
+bin/ncftp
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24428
+
+bin/ncftpbatch
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24429
+
+bin/ncftpbookmarks
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24430
+
+bin/ncftpget
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24431
+
+bin/ncftpls
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24432
+
+bin/ncftpput
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24433
+
+bin/compress
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24434
+
+bin/whiptail
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24436
+
+bin/ali
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24437
+
+bin/anno
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24438
+
+bin/burst
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24439
+
+bin/comp
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24440
+
+bin/dist
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24441
+
+bin/flists
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24442
+
+bin/flist
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24442
+
+bin/folders
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24443
+
+bin/folder
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24443
+
+bin/forw
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24444
+
+bin/inc
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24445
+
+bin/mark
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24446
+
+bin/mhbuild
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24447
+
+bin/mhlist
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24448
+
+bin/mhmail
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24449
+
+bin/mhn
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24450
+
+bin/mhparam
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24451
+
+bin/mhpath
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24452
+
+bin/mhshow
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24453
+
+bin/mhstore
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24454
+
+bin/msgchk
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24455
+
+bin/msh
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24456
+
+bin/packf
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24457
+
+bin/pick
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24458
+
+bin/prompter
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24459
+
+bin/refile
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24460
+
+bin/repl
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24461
+
+bin/rmf
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24462
+
+bin/rmm
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24463
+
+bin/scan
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24464
+
+bin/send
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24465
+
+bin/show
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24467
+
+bin/next
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24467
+
+bin/prev
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24467
+
+bin/sortm
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24468
+
+bin/viamail
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24469
+
+bin/whatnow
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24470
+
+bin/whom
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24471
+
+bin/passwd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24473
+
+bin/a2p
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24474
+
+bin/perl5.00503
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24478
+
+bin/perl
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24478
+
+bin/perlcc
+  a /usr/bin/perl script executable (binary data)
+  Image: able2.dd  Inode: 24480
+
+bin/suidperl
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24490
+
+bin/sperl5.00503
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24490
+
+bin/pico
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24491
+
+bin/pilot
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24492
+
+bin/pine
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24493
+
+bin/calibrate
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24494
+
+bin/pbm2ppa
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24496
+
+bin/pbmtpg
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24497
+
+bin/pnm2ppa
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24498
+
+bin/formail
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24500
+
+bin/lockfile
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24501
+
+bin/procmail
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24503
+
+bin/free
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24504
+
+bin/oldps
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24505
+
+bin/tload
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24506
+
+bin/top
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24507
+
+bin/uptime
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24508
+
+bin/vmstat
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24509
+
+bin/w
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24510
+
+bin/watch
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24511
+
+bin/snice
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24512
+
+bin/skill
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24512
+
+bin/killall
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24513
+
+bin/pstree
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24514
+
+bin/quota
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24515
+
+bin/rdate
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24516
+
+bin/rdist
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24517
+
+bin/rpm2cpio
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24520
+
+bin/rcp
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24521
+
+bin/rexec
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24522
+
+bin/rlogin
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24523
+
+bin/rsh
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24524
+
+bin/rup
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24525
+
+bin/rusers
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24526
+
+bin/ruptime
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24527
+
+bin/rwho
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24528
+
+bin/rmail
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24534
+
+bin/shar
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24538
+
+bin/unshar
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24539
+
+bin/uudecode
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24540
+
+bin/uuencode
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24541
+
+bin/slocate
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24543
+
+bin/slrn
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24545
+
+bin/stat
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24546
+
+bin/talk
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24547
+
+bin/telnet
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24548
+
+bin/time
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24549
+
+bin/tin
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24550
+
+bin/rtin
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24550
+
+bin/nntplist
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24555
+
+bin/trn
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24556
+
+bin/trn-artchk
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24557
+
+bin/encode_keychange
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24558
+
+bin/snmpbulkget
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24559
+
+bin/snmpbulkwalk
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24560
+
+bin/snmpdelta
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24561
+
+bin/snmpget
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24562
+
+bin/snmpgetnext
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24563
+
+bin/snmpnetstat
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24564
+
+bin/snmpset
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24565
+
+bin/snmpstatus
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24566
+
+bin/snmptable
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24567
+
+bin/snmptest
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24568
+
+bin/snmptranslate
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24569
+
+bin/snmptrap
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24570
+
+bin/snmpusm
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24571
+
+bin/snmpwalk
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24572
+
+bin/urlview
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24574
+
+bin/cal
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24575
+
+bin/chfn
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24576
+
+bin/chsh
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24577
+
+bin/col
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24578
+
+bin/colcrt
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24579
+
+bin/colrm
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24580
+
+bin/column
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24581
+
+bin/cytune
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24582
+
+bin/ddate
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24583
+
+bin/fdformat
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24584
+
+bin/getopt
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24585
+
+bin/hexdump
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24586
+
+bin/ipcrm
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24587
+
+bin/ipcs
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24588
+
+bin/logger
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24590
+
+bin/look
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24591
+
+bin/mcookie
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24592
+
+bin/namei
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24593
+
+bin/newgrp
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24594
+
+bin/raw
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24595
+
+bin/rename
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24596
+
+bin/renice
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24597
+
+bin/rev
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24598
+
+bin/script
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24599
+
+bin/setfdprm
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24600
+
+bin/setsid
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24601
+
+bin/setterm
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24602
+
+bin/ul
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24603
+
+bin/whereis
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24604
+
+bin/write
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24605
+
+bin/xxd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24606
+
+bin/crontab
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24607
+
+bin/which
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24608
+
+bin/ftpcount
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24609
+
+bin/ftpwho
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24610
+
+bin/ypcat
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24611
+
+bin/ypmatch
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24612
+
+bin/yppasswd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24613
+
+bin/ypchfn
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24613
+
+bin/ypchsh
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24613
+
+bin/ypwhich
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 24614
+
+games/banner
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 32450
+
+lib/gconv/ANSI_X3.110.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20084
+
+lib/gconv/ASMO_449.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20085
+
+lib/gconv/BIG5.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20086
+
+lib/gconv/CP1250.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20087
+
+lib/gconv/CP1251.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20088
+
+lib/gconv/CP1252.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20089
+
+lib/gconv/CP1253.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20090
+
+lib/gconv/CP1254.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20091
+
+lib/gconv/CP1255.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20092
+
+lib/gconv/CP1256.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20093
+
+lib/gconv/CP1257.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20094
+
+lib/gconv/CP1258.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20095
+
+lib/gconv/CP737.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20096
+
+lib/gconv/CP775.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20097
+
+lib/gconv/CSN_369103.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20098
+
+lib/gconv/CWI.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20099
+
+lib/gconv/DEC-MCS.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20100
+
+lib/gconv/EBCDIC-AT-DE-A.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20101
+
+lib/gconv/EBCDIC-AT-DE.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20102
+
+lib/gconv/EBCDIC-CA-FR.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20103
+
+lib/gconv/EBCDIC-DK-NO-A.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20104
+
+lib/gconv/EBCDIC-DK-NO.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20105
+
+lib/gconv/EBCDIC-ES-A.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20106
+
+lib/gconv/EBCDIC-ES-S.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20107
+
+lib/gconv/EBCDIC-ES.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20108
+
+lib/gconv/EBCDIC-FI-SE-A.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20109
+
+lib/gconv/EBCDIC-FI-SE.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20110
+
+lib/gconv/EBCDIC-FR.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20111
+
+lib/gconv/EBCDIC-IS-FRISS.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20112
+
+lib/gconv/EBCDIC-IT.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20113
+
+lib/gconv/EBCDIC-PT.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20114
+
+lib/gconv/EBCDIC-UK.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20115
+
+lib/gconv/EBCDIC-US.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20116
+
+lib/gconv/ECMA-CYRILLIC.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20117
+
+lib/gconv/EUC-CN.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20118
+
+lib/gconv/EUC-JP.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20119
+
+lib/gconv/EUC-KR.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20120
+
+lib/gconv/EUC-TW.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20121
+
+lib/gconv/GBK.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20122
+
+lib/gconv/GOST_19768-74.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20123
+
+lib/gconv/GREEK-CCITT.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20124
+
+lib/gconv/GREEK7-OLD.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20125
+
+lib/gconv/GREEK7.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20126
+
+lib/gconv/HP-ROMAN8.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20127
+
+lib/gconv/IBM037.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20128
+
+lib/gconv/IBM038.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20129
+
+lib/gconv/IBM1004.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20130
+
+lib/gconv/IBM1026.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20131
+
+lib/gconv/IBM1047.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20132
+
+lib/gconv/IBM256.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20133
+
+lib/gconv/IBM273.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20134
+
+lib/gconv/IBM274.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20135
+
+lib/gconv/IBM275.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20136
+
+lib/gconv/IBM277.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20137
+
+lib/gconv/IBM278.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20138
+
+lib/gconv/IBM280.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20139
+
+lib/gconv/IBM281.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20140
+
+lib/gconv/IBM284.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20141
+
+lib/gconv/IBM285.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20142
+
+lib/gconv/IBM290.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20143
+
+lib/gconv/IBM297.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20144
+
+lib/gconv/IBM420.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20145
+
+lib/gconv/IBM423.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20146
+
+lib/gconv/IBM424.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20147
+
+lib/gconv/IBM437.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20148
+
+lib/gconv/IBM500.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20149
+
+lib/gconv/IBM850.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20150
+
+lib/gconv/IBM851.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20151
+
+lib/gconv/IBM852.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20152
+
+lib/gconv/IBM855.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20153
+
+lib/gconv/IBM857.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20154
+
+lib/gconv/IBM860.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20155
+
+lib/gconv/IBM861.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20156
+
+lib/gconv/IBM862.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20157
+
+lib/gconv/IBM863.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20158
+
+lib/gconv/IBM864.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20159
+
+lib/gconv/IBM865.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20160
+
+lib/gconv/IBM866.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20161
+
+lib/gconv/IBM868.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20162
+
+lib/gconv/IBM869.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20163
+
+lib/gconv/IBM870.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20164
+
+lib/gconv/IBM871.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20165
+
+lib/gconv/IBM874.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20166
+
+lib/gconv/IBM875.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20167
+
+lib/gconv/IBM880.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20168
+
+lib/gconv/IBM891.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20169
+
+lib/gconv/IBM903.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20170
+
+lib/gconv/IBM904.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20171
+
+lib/gconv/IBM905.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20172
+
+lib/gconv/IBM918.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20173
+
+lib/gconv/IEC_P27-1.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20174
+
+lib/gconv/INIS-8.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20175
+
+lib/gconv/INIS-CYRILLIC.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20176
+
+lib/gconv/INIS.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20177
+
+lib/gconv/ISIRI-3342.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20178
+
+lib/gconv/ISO-2022-JP.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20179
+
+lib/gconv/ISO-2022-KR.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20180
+
+lib/gconv/ISO-IR-197.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20181
+
+lib/gconv/ISO646.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20182
+
+lib/gconv/ISO8859-1.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20183
+
+lib/gconv/ISO8859-10.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20184
+
+lib/gconv/ISO8859-11.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20185
+
+lib/gconv/ISO8859-13.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20186
+
+lib/gconv/ISO8859-14.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20187
+
+lib/gconv/ISO8859-15.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20188
+
+lib/gconv/ISO8859-2.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20189
+
+lib/gconv/ISO8859-3.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20190
+
+lib/gconv/ISO8859-4.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20191
+
+lib/gconv/ISO8859-5.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20192
+
+lib/gconv/ISO8859-6.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20193
+
+lib/gconv/ISO8859-7.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20194
+
+lib/gconv/ISO8859-8.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20195
+
+lib/gconv/ISO8859-9.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20196
+
+lib/gconv/ISO_10367-BOX.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20197
+
+lib/gconv/ISO_2033.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20198
+
+lib/gconv/ISO_5427-EXT.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20199
+
+lib/gconv/ISO_5427.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20200
+
+lib/gconv/ISO_5428.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20201
+
+lib/gconv/ISO_6937-2.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20202
+
+lib/gconv/ISO_6937.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20203
+
+lib/gconv/JOHAB.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20204
+
+lib/gconv/KOI-8.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20205
+
+lib/gconv/KOI8-R.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20206
+
+lib/gconv/KOI8-U.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20207
+
+lib/gconv/LATIN-GREEK-1.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20208
+
+lib/gconv/LATIN-GREEK.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20209
+
+lib/gconv/MAC-IS.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20210
+
+lib/gconv/MAC-UK.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20211
+
+lib/gconv/MACINTOSH.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20212
+
+lib/gconv/NATS-DANO.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20213
+
+lib/gconv/NATS-SEFI.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20214
+
+lib/gconv/SAMI-WS2.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20215
+
+lib/gconv/SJIS.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20216
+
+lib/gconv/T.61.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20217
+
+lib/gconv/TIS-620.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20218
+
+lib/gconv/UHC.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20219
+
+lib/gconv/libCNS.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20221
+
+lib/gconv/libGB.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20222
+
+lib/gconv/libJIS.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20223
+
+lib/gconv/libKSC.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 20224
+
+lib/libform.so.4.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: able2.dd  Inode: 38246
+
+lib/libmenu.so.4.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: able2.dd  Inode: 38248
+
+lib/libncurses.so.4.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: able2.dd  Inode: 38250
+
+lib/libpanel.so.4.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: able2.dd  Inode: 38252
+
+lib/libbfd-2.9.5.0.22.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38255
+
+lib/libopcodes-2.9.5.0.22.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38260
+
+lib/libbz2.so.0.0.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38268
+
+lib/libcfont.so.0.0.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: able2.dd  Inode: 38273
+
+lib/libconsole.so.0.0.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: able2.dd  Inode: 38278
+
+lib/libctgeneric.so.0.0.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: able2.dd  Inode: 38283
+
+lib/libctutils.so.0.0.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: able2.dd  Inode: 38288
+
+lib/libcrack.so.2.7
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38290
+
+lib/libgd.so.1.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38295
+
+lib/libgdbm.so.2.0.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38298
+
+lib/libglib-1.2.so.0.0.6
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38300
+
+lib/libgmodule-1.2.so.0.0.6
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38302
+
+lib/libgthread-1.2.so.0.0.6
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38304
+
+lib/libgmp.so.2.0.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38305
+
+lib/gnupg/rndegd
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: able2.dd  Inode: 54388
+
+lib/gnupg/rndunix
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: able2.dd  Inode: 54389
+
+lib/gnupg/tiger
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: able2.dd  Inode: 54390
+
+lib/libgpm.so.1.17.3
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: able2.dd  Inode: 38307
+
+lib/rhs/rhs-printfilters/rewindstdin
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 16733
+
+lib/libpng.so.2.1.0.5
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: able2.dd  Inode: 38310
+
+lib/libg++.so.2.7.2.8
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38312
+
+lib/libstdc++-2-libc6.1-1-2.9.0.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38313
+
+lib/libstdc++.so.2.7.2.8
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38314
+
+lib/libstdc++.so.2.8.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38315
+
+lib/libstdc++.so.2.9.dummy
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38316
+
+lib/linuxconf/java/CELLDISP.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56458
+
+lib/linuxconf/java/Checkbox_val.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56459
+
+lib/linuxconf/java/JanneButton.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56460
+
+lib/linuxconf/java/XColorNames.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56461
+
+lib/linuxconf/java/XImageSource.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56462
+
+lib/linuxconf/java/XbmParser.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56463
+
+lib/linuxconf/java/XpmParser.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56464
+
+lib/linuxconf/java/book.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56465
+
+lib/linuxconf/java/book_layout.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56466
+
+lib/linuxconf/java/combo.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56467
+
+lib/linuxconf/java/combo_item.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56468
+
+lib/linuxconf/java/combo_list.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56469
+
+lib/linuxconf/java/extrstr.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56470
+
+lib/linuxconf/java/formbase.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56471
+
+lib/linuxconf/java/formbutton.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56472
+
+lib/linuxconf/java/group.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56473
+
+lib/linuxconf/java/group_fit.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56474
+
+lib/linuxconf/java/hline.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56475
+
+lib/linuxconf/java/icon_xpm.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56476
+
+lib/linuxconf/java/janne.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56477
+
+lib/linuxconf/java/jmform.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56478
+
+lib/linuxconf/java/mainform.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56479
+
+lib/linuxconf/java/mform.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56480
+
+lib/linuxconf/java/mform_c.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56481
+
+lib/linuxconf/java/mform_layout.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56482
+
+lib/linuxconf/java/mformscript.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56483
+
+lib/linuxconf/java/pagepad.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56484
+
+lib/linuxconf/java/proto.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56485
+
+lib/linuxconf/java/protostr.class
+  compiled Java class data, version 45.3
+  Image: able2.dd  Inode: 56486
+
+lib/linuxconf/lib/calcmask
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 52442
+
+lib/linuxconf/lib/fileowner
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 52449
+
+lib/linuxconf/lib/mail2fax
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 52451
+
+lib/linuxconf/lib/mrtg_loadavg
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 52452
+
+lib/linuxconf/lib/mrtg_memory
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 52453
+
+lib/linuxconf/lib/mrtg_nbproc
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 52455
+
+lib/linuxconf/lib/mrtg_processes
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 52456
+
+lib/linuxconf/lib/netcat
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 52460
+
+lib/linuxconf/lib/passwd_chat
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 52462
+
+lib/linuxconf/lib/pppparms
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 52465
+
+lib/linuxconf/lib/pppwatch
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 52468
+
+lib/linuxconf/lib/pty-redir
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 52469
+
+lib/linuxconf/lib/vdeliver
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 52473
+
+lib/linuxconf/lib/vpop3d
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 52474
+
+lib/linuxconf/modules/apache.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46415
+
+lib/linuxconf/modules/dhcpd.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46416
+
+lib/linuxconf/modules/dialout.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46417
+
+lib/linuxconf/modules/dnsconf.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46418
+
+lib/linuxconf/modules/fetchmailconf.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46419
+
+lib/linuxconf/modules/firewall.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46420
+
+lib/linuxconf/modules/inetdconf.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46421
+
+lib/linuxconf/modules/inittab.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46422
+
+lib/linuxconf/modules/mailconf.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46423
+
+lib/linuxconf/modules/managerpm.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46424
+
+lib/linuxconf/modules/modemconf.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46425
+
+lib/linuxconf/modules/motd.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46426
+
+lib/linuxconf/modules/mrtg.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46427
+
+lib/linuxconf/modules/netadm.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46428
+
+lib/linuxconf/modules/pppdialin.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46429
+
+lib/linuxconf/modules/rarp.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46430
+
+lib/linuxconf/modules/redhatppp.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46431
+
+lib/linuxconf/modules/samba.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46432
+
+lib/linuxconf/modules/squid.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46433
+
+lib/linuxconf/modules/status.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46434
+
+lib/linuxconf/modules/treemenu.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46435
+
+lib/linuxconf/modules/usermenu.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46436
+
+lib/linuxconf/modules/uucp.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46437
+
+lib/linuxconf/modules/wuftpd.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46438
+
+lib/linuxconf/modules/xterminals.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 46439
+
+lib/linuxconf/redhat/redhat.so.1.17.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 6272
+
+lib/libnewt.so.0.50.8
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: able2.dd  Inode: 38324
+
+lib/python1.5/lib-dynload/_snackmodule.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: able2.dd  Inode: 10291
+
+lib/nmh/ap
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 14308
+
+lib/nmh/conflict
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 14309
+
+lib/nmh/dp
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 14310
+
+lib/nmh/fmtdump
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 14311
+
+lib/nmh/install-mh
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 14312
+
+lib/nmh/mhl
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 14313
+
+lib/nmh/mhtest
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 14314
+
+lib/nmh/post
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 14315
+
+lib/nmh/rcvdist
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 14316
+
+lib/nmh/rcvpack
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 14317
+
+lib/nmh/rcvstore
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 14318
+
+lib/nmh/rcvtty
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 14319
+
+lib/nmh/slocal
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 14320
+
+lib/nmh/spost
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 14321
+
+lib/perl5/5.00503/i386-linux/CORE/sperl.o
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), not stripped
+  Image: able2.dd  Inode: 4323
+
+lib/perl5/5.00503/i386-linux/auto/B/B.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 14325
+
+lib/perl5/5.00503/i386-linux/auto/DB_File/DB_File.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 6290
+
+lib/perl5/5.00503/i386-linux/auto/Data/Dumper/Dumper.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 6295
+
+lib/perl5/5.00503/i386-linux/auto/Fcntl/Fcntl.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 12315
+
+lib/perl5/5.00503/i386-linux/auto/GDBM_File/GDBM_File.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 12318
+
+lib/perl5/5.00503/i386-linux/auto/IO/IO.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 30341
+
+lib/perl5/5.00503/i386-linux/auto/IPC/SysV/SysV.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 30345
+
+lib/perl5/5.00503/i386-linux/auto/NDBM_File/NDBM_File.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 8206
+
+lib/perl5/5.00503/i386-linux/auto/Opcode/Opcode.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 14328
+
+lib/perl5/5.00503/i386-linux/auto/POSIX/POSIX.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 30348
+
+lib/perl5/5.00503/i386-linux/auto/SDBM_File/SDBM_File.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 40433
+
+lib/perl5/5.00503/i386-linux/auto/Socket/Socket.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 40436
+
+lib/perl5/5.00503/i386-linux/auto/attrs/attrs.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 56497
+
+lib/perl5/5.00503/i386-linux/auto/re/re.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 56500
+
+lib/perl5/site_perl/5.005/i386-linux/auto/MD5/MD5.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 56537
+
+lib/libpopt.so.0.0.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38332
+
+lib/libhistory.so.3.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38333
+
+lib/libreadline.so.3.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38334
+
+lib/librpm.so.0.0.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38338
+
+lib/librpmbuild.so.0.0.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38340
+
+lib/libslang.so.1.2.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38343
+
+lib/libsnmp.so.0.4.1.1
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38346
+
+lib/libucdagent.so.0.4.1.1
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: able2.dd  Inode: 38347
+
+lib/libucdmibs.so.0.4.1.1
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: able2.dd  Inode: 38348
+
+lib/libutempter.so.0.5.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38353
+
+lib/yp/makedbm
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 12394
+
+lib/yp/mknetid
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 12396
+
+lib/yp/revnetgroup
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 12398
+
+lib/yp/yphelper
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 12399
+
+lib/yp/ypxfr
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 12401
+
+lib/libz.so.1.1.3
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 38357
+
+sbin/rpcinfo
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8036
+
+sbin/utmpd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8037
+
+sbin/zdump
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8038
+
+sbin/zic
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8039
+
+sbin/chpasswd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8122
+
+sbin/groupadd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8123
+
+sbin/groupdel
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8124
+
+sbin/groupmod
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8125
+
+sbin/grpck
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8126
+
+sbin/grpconv
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8127
+
+sbin/grpunconv
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8128
+
+sbin/newusers
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8129
+
+sbin/pwck
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8130
+
+sbin/pwconv
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8131
+
+sbin/pwunconv
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8132
+
+sbin/useradd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8133
+
+sbin/userdel
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8134
+
+sbin/usermod
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8135
+
+sbin/anacron
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8142
+
+sbin/apmd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8143
+
+sbin/atd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8144
+
+sbin/authconfig
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8146
+
+sbin/chkfontpath
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8147
+
+sbin/mklost+found
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8148
+
+sbin/packer
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8151
+
+sbin/in.fingerd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8152
+
+sbin/gpm
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8153
+
+sbin/inetd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8154
+
+sbin/usernetctl
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8156
+
+sbin/arping
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8157
+
+sbin/clockdiff
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8158
+
+sbin/ping6
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8159
+
+sbin/rdisc
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8160
+
+sbin/tracepath
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8161
+
+sbin/tracepath6
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8162
+
+sbin/traceroute6
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8163
+
+sbin/kbdconfig
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8164
+
+sbin/kudzu
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8165
+
+sbin/chroot
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8166
+
+sbin/logrotate
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8167
+
+sbin/lpc
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8168
+
+sbin/lpd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8169
+
+sbin/lpf
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8170
+
+sbin/pac
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8171
+
+sbin/mouseconfig
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8173
+
+sbin/exportfs
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8174
+
+sbin/nfsstat
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8175
+
+sbin/nhfsstone
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8176
+
+sbin/rpc.mountd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8177
+
+sbin/rpc.nfsd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8178
+
+sbin/rpc.rquotad
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8179
+
+sbin/showmount
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8180
+
+sbin/ntsysv
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8181
+
+sbin/ibench
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8207
+
+sbin/identd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8208
+
+sbin/pmap_dump
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8210
+
+sbin/pmap_set
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8211
+
+sbin/netconfig
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8212
+
+sbin/edquota
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8213
+
+sbin/quotastats
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8214
+
+sbin/repquota
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8215
+
+sbin/setquota
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8216
+
+sbin/warnquota
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8217
+
+sbin/rdistd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8218
+
+sbin/in.rexecd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8219
+
+sbin/in.rlogind
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8220
+
+sbin/in.rshd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8221
+
+sbin/rpc.rstatd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8222
+
+sbin/rpc.rusersd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8223
+
+sbin/rpc.rwalld
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8224
+
+sbin/rwhod
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8225
+
+sbin/mailstats
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8226
+
+sbin/makemap
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8227
+
+sbin/praliases
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8228
+
+sbin/sendmail
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8229
+
+sbin/smrsh
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8230
+
+sbin/setup
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8231
+
+sbin/in.ntalkd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8232
+
+sbin/safe_finger
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8234
+
+sbin/tcpd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8235
+
+sbin/tcpdchk
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8236
+
+sbin/tcpdmatch
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8237
+
+sbin/try-from
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8238
+
+sbin/tcpdump
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8239
+
+sbin/in.telnetd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8240
+
+sbin/in.tftpd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8241
+
+sbin/timeconfig
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8243
+
+sbin/tmpwatch
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8244
+
+sbin/traceroute
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8245
+
+sbin/snmpd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8246
+
+sbin/snmptrapd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8247
+
+sbin/utempter
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8248
+
+sbin/rdev
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8250
+
+sbin/readprofile
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8251
+
+sbin/tunelp
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8254
+
+sbin/vipw
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8257
+
+sbin/crond
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8258
+
+sbin/ckconfig
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8259
+
+sbin/ftprestart
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8260
+
+sbin/ftpshut
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8261
+
+sbin/in.ftpd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8262
+
+sbin/privatepw
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8264
+
+sbin/yppoll
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8267
+
+sbin/ypset
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8268
+
+sbin/rpc.yppasswdd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8269
+
+sbin/rpc.ypxfrd
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8270
+
+sbin/yppush
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8271
+
+sbin/ypserv
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 8272
+
+libexec/pt_chown
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, not stripped
+  Image: able2.dd  Inode: 22092
+
+libexec/awk/grcat
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 52360
+
+libexec/awk/pwcat
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.0.0, stripped
+  Image: able2.dd  Inode: 52361
+
+kerberos/lib/libcom_err.so.3.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 44370
+
+kerberos/lib/libdes425.so.3.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 44373
+
+kerberos/lib/libdyn.so.1.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 44376
+
+kerberos/lib/libgssapi_krb5.so.2.1
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 44379
+
+kerberos/lib/libgssrpc.so.3.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 44382
+
+kerberos/lib/libk5crypto.so.2.1
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 44385
+
+kerberos/lib/libkadm5clnt.so.3.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 44388
+
+kerberos/lib/libkadm5srv.so.3.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 44391
+
+kerberos/lib/libkdb5.so.3.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 44394
+
+kerberos/lib/libkrb4.so.2.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 44397
+
+kerberos/lib/libkrb5.so.2.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 44400
+
+kerberos/lib/libpty.so.1.1
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 44403
+
+i486-linux-libc5/lib/libICE.so.6.3
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22271
+
+i486-linux-libc5/lib/libPEX5.so.6.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22272
+
+i486-linux-libc5/lib/libSM.so.6.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22273
+
+i486-linux-libc5/lib/libX11.so.6.1
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped, too many notes (256)
+  Image: able2.dd  Inode: 22274
+
+i486-linux-libc5/lib/libXIE.so.6.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22275
+
+i486-linux-libc5/lib/libXaw.so.6.1
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22276
+
+i486-linux-libc5/lib/libXaw3d.so.6.1
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22277
+
+i486-linux-libc5/lib/libXext.so.6.1
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22278
+
+i486-linux-libc5/lib/libXext.so.6.3
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22279
+
+i486-linux-libc5/lib/libXi.so.6.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22280
+
+i486-linux-libc5/lib/libXmu.so.6.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22281
+
+i486-linux-libc5/lib/libXp.so.6.2
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22282
+
+i486-linux-libc5/lib/libXpm.so.4.9
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22283
+
+i486-linux-libc5/lib/libXt.so.6.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22284
+
+i486-linux-libc5/lib/libXtst.so.6.1
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22285
+
+i486-linux-libc5/lib/libc.so.5.3.12
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped, too many notes (256)
+  Image: able2.dd  Inode: 22286
+
+i486-linux-libc5/lib/libdb.so.2.0.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22287
+
+i486-linux-libc5/lib/libform.so.1.9.9e
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22288
+
+i486-linux-libc5/lib/libg++.so.27.1.4
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22289
+
+i486-linux-libc5/lib/libm.so.5.0.6
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22290
+
+i486-linux-libc5/lib/libmenu.so.1.9.9e
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22291
+
+i486-linux-libc5/lib/libncurses.so.1.9.9e
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22292
+
+i486-linux-libc5/lib/libpanel.so.1.9.9e
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22293
+
+i486-linux-libc5/lib/libstdc++.so.27.1.4
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22294
+
+i486-linux-libc5/lib/libtermcap.so.2.0.8
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22295
+
+i486-linux-libc5/lib/libvga.so.1.2.13
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: able2.dd  Inode: 22296
+
+i486-linux-libc5/lib/libvgagl.so.1.2.13
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: able2.dd  Inode: 22297
+
+i486-linux-libc5/lib/libz.so.1.0.4
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, not stripped
+  Image: able2.dd  Inode: 22298
+

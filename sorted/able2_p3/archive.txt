@@ -1,0 +1,56 @@
+lib/libapm.a
+  current ar archive
+  Image: able2.dd  Inode: 38253
+
+lib/libbfd.a
+  current ar archive
+  Image: able2.dd  Inode: 38256
+
+lib/libiberty.a
+  current ar archive
+  Image: able2.dd  Inode: 38259
+
+lib/libopcodes.a
+  current ar archive
+  Image: able2.dd  Inode: 38261
+
+lib/libbz2.a
+  current ar archive
+  Image: able2.dd  Inode: 38264
+
+lib/libcfont.a
+  current ar archive
+  Image: able2.dd  Inode: 38269
+
+lib/libconsole.a
+  current ar archive
+  Image: able2.dd  Inode: 38274
+
+lib/libctgeneric.a
+  current ar archive
+  Image: able2.dd  Inode: 38279
+
+lib/libctutils.a
+  current ar archive
+  Image: able2.dd  Inode: 38284
+
+lib/libisapnp.a
+  current ar archive
+  Image: able2.dd  Inode: 38309
+
+lib/perl5/5.00503/i386-linux/CORE/libperl.a
+  current ar archive
+  Image: able2.dd  Inode: 4302
+
+lib/perl5/5.00503/i386-linux/auto/DynaLoader/DynaLoader.a
+  current ar archive
+  Image: able2.dd  Inode: 16329
+
+lib/libpopt.a
+  current ar archive
+  Image: able2.dd  Inode: 38328
+
+lib/libwrap.a
+  current ar archive
+  Image: able2.dd  Inode: 38345
+

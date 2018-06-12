@@ -1,0 +1,332 @@
+var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid_main_binary-i386_Packages
+  BSD makefile script, UTF-8 Unicode text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7828
+
+lib/modules/2.6.27-7-generic/kernel/drivers/acpi/battery.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=1a0edb40cb8fb99da12c0c83f85a9dfab1f8be10, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30728
+
+lib/modules/2.6.27-7-generic/kernel/drivers/acpi/button.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=7e9bde6145194e34e3f267b6f547080aa87bed66, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30747
+
+lib/modules/2.6.27-7-generic/kernel/drivers/acpi/ac.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=a35914d4a1c53f4da38117e60ac82571e9f40bed, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30787
+
+lib/modules/2.6.27-7-generic/kernel/drivers/acpi/bay.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=714dedfdb39bc7a0f0720c563c7cf3cb62258b45, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30788
+
+lib/modules/2.6.27-7-generic/kernel/drivers/acpi/container.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=92d20df946092ecc0fda9de5525d2694349404cb, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30789
+
+lib/modules/2.6.27-7-generic/kernel/drivers/acpi/pci_slot.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=60050b44056230f92c2d77952cecd929a8df22a6, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30790
+
+lib/modules/2.6.27-7-generic/kernel/drivers/acpi/sbshc.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=9bfb924856a00a0d05637e3b2dc8e7191bafb9d1, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30791
+
+lib/modules/2.6.27-7-generic/kernel/drivers/acpi/sbs.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=0ab0dab56acb5be2c7eb2aeb9975cca04081e86f, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30792
+
+lib/modules/2.6.27-7-generic/kernel/drivers/acpi/video.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=f3bdd4abb01746553fe3923ace98dcad422eddb5, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30795
+
+lib/modules/2.6.27-7-generic/kernel/drivers/acpi/wmi.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=5f5a6005dfb3627ff51332009a3bbed8df0bfc31, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30796
+
+lib/modules/2.6.27-7-generic/kernel/drivers/char/agp/agpgart.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=a5b73c88d3c3e655784df8f2d0a40aa4936b2ca9, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30731
+
+lib/modules/2.6.27-7-generic/kernel/drivers/char/agp/intel-agp.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=d3b025495a2da2f2eb50a1fea750b7ef8abd5330, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30732
+
+lib/modules/2.6.27-7-generic/kernel/drivers/char/hw_random/intel-rng.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=2a1a8c987dab636b400f5c7b684267406f3c76dc, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30745
+
+lib/modules/2.6.27-7-generic/kernel/drivers/char/lp.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=e660dc5afa05fe368aa88dc3396a06eaca423432, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30813
+
+lib/modules/2.6.27-7-generic/kernel/drivers/char/ppdev.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=957c02464442f96f32091334ff451e7a246dcaf8, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30814
+
+lib/modules/2.6.27-7-generic/kernel/drivers/pci/hotplug/pci_hotplug.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=ef54dee41f9846f118428ea2d5175cdecd805101, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30735
+
+lib/modules/2.6.27-7-generic/kernel/drivers/pci/hotplug/shpchp.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=d350510a1eb95c3d0f5cdb1ba30c9dc155e4b957, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30739
+
+lib/modules/2.6.27-7-generic/kernel/drivers/watchdog/iTCO_vendor_support.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=6391d72aae05b12296269a8b600d5a1ad68fc3dd, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30737
+
+lib/modules/2.6.27-7-generic/kernel/drivers/watchdog/iTCO_wdt.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=8c33cf8f8a388f7ae8927f57b78b34185ab8c68a, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30738
+
+lib/modules/2.6.27-7-generic/kernel/drivers/parport/parport.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=d29863785eddbcc8d53ccd9917287daa4f8e0872, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30758
+
+lib/modules/2.6.27-7-generic/kernel/drivers/parport/parport_pc.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=328795d99ebe0042913a2fbccd7ea31633ef6c48, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30759
+
+lib/modules/2.6.27-7-generic/kernel/drivers/input/evdev.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=959db17b64d3361de15ffa8986eba6bc1ce42e2e, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30771
+
+lib/modules/2.6.27-7-generic/kernel/drivers/input/serio/serio_raw.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=13ad828b2c664fa3d1e687822e0d4427e290811a, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30773
+
+lib/modules/2.6.27-7-generic/kernel/drivers/input/mouse/psmouse.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=65ef50c11a3d04ccf2a3ceabd26405c64a634238, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30775
+
+lib/modules/2.6.27-7-generic/kernel/drivers/input/misc/pcspkr.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=0d158ee7c1ce99c20263b0d09f8046e44867aea3, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30777
+
+lib/modules/2.6.27-7-generic/kernel/drivers/firmware/dcdbas.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=d9e5fc7856638943c71ac36aebd8d606c928c3c6, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30779
+
+lib/modules/2.6.27-7-generic/kernel/drivers/video/output.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=86ef01d0d71330720f4e680e9f4b914ad93d9002, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30794
+
+lib/modules/2.6.27-7-generic/kernel/drivers/cpufreq/cpufreq_conservative.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=ef9ffc1bc7a75022c916fae142c5a0e1d3db896f, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30798
+
+lib/modules/2.6.27-7-generic/kernel/drivers/cpufreq/freq_table.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=68c2f8d3febf3a58f554d3c6cb13a4c80ace7374, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30799
+
+lib/modules/2.6.27-7-generic/kernel/drivers/cpufreq/cpufreq_ondemand.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=1c089cc871311d9114921e61e3da6ef7e5b81f97, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30800
+
+lib/modules/2.6.27-7-generic/kernel/drivers/cpufreq/cpufreq_powersave.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=b2ffb95c4722ec247d291e4498453bc2321e0b37, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30801
+
+lib/modules/2.6.27-7-generic/kernel/drivers/cpufreq/cpufreq_stats.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=6e284ac19dbc7c349c4c1a679961709374a00414, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30802
+
+lib/modules/2.6.27-7-generic/kernel/drivers/cpufreq/cpufreq_userspace.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=537fdcd347d05f6d43189fa307c133efc7a912cf, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30803
+
+lib/modules/2.6.27-7-generic/kernel/sound/core/snd-page-alloc.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=4cb293aff62dd591497414c7a4894039a9385310, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30742
+
+lib/modules/2.6.27-7-generic/kernel/sound/core/snd.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=f3d9bdf325af421fad07b6327dc7b015428501f1, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30746
+
+lib/modules/2.6.27-7-generic/kernel/sound/core/seq/snd-seq-device.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=274f69c85f04bc16a06588f1bacc2cbd34f8c0cc, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30749
+
+lib/modules/2.6.27-7-generic/kernel/sound/core/seq/snd-seq.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=b4a7b4b6c02a5b092db948bb3fc0f5db1debb119, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30751
+
+lib/modules/2.6.27-7-generic/kernel/sound/core/seq/snd-seq-midi-event.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=a102f5c98e587983ca1635165bf03dcd4616230b, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30752
+
+lib/modules/2.6.27-7-generic/kernel/sound/core/seq/snd-seq-midi.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=482309e593fb3d924917e77f05a40331fd6d6ff2, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30754
+
+lib/modules/2.6.27-7-generic/kernel/sound/core/seq/oss/snd-seq-oss.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=336de0db3b7e2234472ae19def44ff8b80e19280, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30756
+
+lib/modules/2.6.27-7-generic/kernel/sound/core/seq/snd-seq-dummy.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=f18a1cf55b5988d03b5c7f29d9a2143e2c11886b, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30760
+
+lib/modules/2.6.27-7-generic/kernel/sound/core/snd-timer.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=36680a1601b8c3f4f99d4e84285a9b5885e9ad6f, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30750
+
+lib/modules/2.6.27-7-generic/kernel/sound/core/snd-rawmidi.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=688afc24b3679f686e1e11103747ad6d0bb61794, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30753
+
+lib/modules/2.6.27-7-generic/kernel/sound/core/snd-pcm.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=689fd2529e675f8e62ab79edf514abc852f770ee, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30761
+
+lib/modules/2.6.27-7-generic/kernel/sound/core/oss/snd-mixer-oss.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=79af1116aaaa449f3f40257843e07f6f0c8c91b7, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30763
+
+lib/modules/2.6.27-7-generic/kernel/sound/core/oss/snd-pcm-oss.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=b410045ae58648802a02c50ebe85f1c1bc11ee15, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30764
+
+lib/modules/2.6.27-7-generic/kernel/sound/soundcore.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=dae4154f1a13b138022087c1df489c9600338f4e, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30743
+
+lib/modules/2.6.27-7-generic/kernel/sound/ac97_bus.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=8cc7463c88ea8591d211a1e54c7029d1ea67834e, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30765
+
+lib/modules/2.6.27-7-generic/kernel/sound/pci/ac97/snd-ac97-codec.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=b3129f646610ba8e69cc93243ed6912979f8ccc7, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30768
+
+lib/modules/2.6.27-7-generic/kernel/sound/pci/snd-intel8x0.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=5275eb64cc2f2cb6d1ae507dcb65d25f26de671b, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30769
+
+lib/modules/2.6.27-7-generic/kernel/net/netfilter/x_tables.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=0b44417ec716a628b00f847a1111d0e8775667a4, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30782
+
+lib/modules/2.6.27-7-generic/kernel/net/ipv4/netfilter/ip_tables.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=a03a51e0a4ed95e4cb3ba18b817039b3969d2929, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30785
+
+lib/modules/2.6.27-7-generic/kernel/net/ipv4/netfilter/iptable_filter.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=766d8f33d3919fb6f75685e12c40d160905153a8, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30786
+
+lib/modules/2.6.27-7-generic/kernel/net/bluetooth/bluetooth.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=97a06ca8c768351d3a6650deef34ab6910359112, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30816
+
+lib/modules/2.6.27-7-generic/kernel/net/bluetooth/l2cap.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=0ca3a4401f6ea3ad8ece01c08a7a72a3aaca6b87, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30817
+
+lib/modules/2.6.27-7-generic/kernel/net/bluetooth/sco.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=bd7f8e763468de2e6b9fe9cfb990f4fc80514401, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30818
+
+lib/modules/2.6.27-7-generic/kernel/net/bluetooth/rfcomm/rfcomm.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=d597ba09ac9bfdc10221b8bae04bb70e5701dfe6, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30820
+
+lib/modules/2.6.27-7-generic/kernel/net/bluetooth/bnep/bnep.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=c29cfe0659c16a974bfa667a44fd4fcd869f47fb, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30822
+
+lib/modules/2.6.27-7-generic/kernel/net/802/stp.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=c5c7116472b5b23b20008605fb108d04fae15285, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30824
+
+lib/modules/2.6.27-7-generic/kernel/net/bridge/bridge.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=0f030d27025929f25defa38bbf0bb63680e5f775, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30826
+
+lib/modules/2.6.27-7-generic/kernel/net/packet/af_packet.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=28792b2e07aa8bdba522aba068650f723c62faf7, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30830
+
+lib/modules/2.6.27-7-generic/kernel/net/ipv6/ipv6.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=ebe741844d5431ebb58ab8ca7ece3b6ed38f2aae, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30832
+
+lib/modules/2.6.27-7-generic/kernel/net/ipv6/netfilter/ip6_tables.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=0328b78ef887c04fb3e972f07ed35a025a9afacd, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30834
+
+lib/modules/2.6.27-7-generic/kernel/net/ipv6/netfilter/ip6table_filter.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=93e5d7756c5ef4ce6cf202254a5271371183b3e0, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30835
+
+lib/modules/2.6.27-7-generic/kernel/arch/x86/kernel/cpu/cpufreq/speedstep-lib.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=cd0c173113746fde71930d71248d1e2c0ce5b897, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30809
+
+lib/modules/2.6.27-7-generic/kernel/arch/x86/kernel/cpu/cpufreq/speedstep-ich.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=6c64613a07f88a66e335b17982c12d47bca697bb, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30810
+
+lib/modules/2.6.27-7-generic/kernel/arch/x86/kernel/cpu/cpufreq/acpi-cpufreq.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=6493c273c9ed644d6d299146f2d3c9750d5ab81e, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30811
+
+lib/modules/2.6.27-7-generic/kernel/arch/x86/kernel/apm.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=79d71dd3959c7a821f3e05063a9567dc13a2d3d2, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30812
+
+lib/modules/2.6.27-7-generic/kernel/fs/binfmt_misc.ko
+  ELF 32-bit LSB relocatable, Intel 80386, version 1 (SYSV), BuildID[sha1]=f285332cb099ef7bc68d857a8f5a9ae5bf99a42f, not stripped
+  Image: ubnist1.casper-rw.E01  Inode: 30828
+
+usr/sbin/anacron.distrib
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.6.8, stripped
+  Image: ubnist1.casper-rw.E01  Inode: 15380
+
+usr/lib/libboost_date_time-gcc42-mt-1_34_1.so.1.34.1
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: ubnist1.casper-rw.E01  Inode: 15727
+
+usr/lib/libboost_date_time-gcc42-1_34_1.so.1.34.1
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: ubnist1.casper-rw.E01  Inode: 15667
+
+usr/lib/gnash/libgnashamf-0.8.4.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: ubnist1.casper-rw.E01  Inode: 23156
+
+usr/lib/gnash/libgnashbase-0.8.4.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: ubnist1.casper-rw.E01  Inode: 23157
+
+usr/lib/gnash/libgnashcore-0.8.4.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: ubnist1.casper-rw.E01  Inode: 23158
+
+usr/lib/gnash/libgnashmedia-0.8.4.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: ubnist1.casper-rw.E01  Inode: 23159
+
+usr/lib/gnash/libgnashnet.so.0.0.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: ubnist1.casper-rw.E01  Inode: 23160
+
+usr/lib/gnash/libgnashplugin.so
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: ubnist1.casper-rw.E01  Inode: 23181
+
+usr/lib/gnash/libmozsdk.so.0.0.0
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: ubnist1.casper-rw.E01  Inode: 23182
+
+usr/lib/libboost_thread-gcc42-mt-1_34_1.so.1.34.1
+  ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, stripped
+  Image: ubnist1.casper-rw.E01  Inode: 15730
+
+usr/bin/gtk-gnash
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.6.8, stripped
+  Image: ubnist1.casper-rw.E01  Inode: 23170
+
+sbin/readahead-list
+  ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.6.8, stripped
+  Image: ubnist1.casper-rw.E01  Inode: 7714
+

@@ -1,0 +1,8 @@
+usr/share/a2ps/ppd/level1.ppd
+  PPD file, version "4.2"
+  Image: able3.000  Inode: 132737
+
+usr/share/a2ps/ppd/level2.ppd
+  PPD file, version "4.2"
+  Image: able3.000  Inode: 132738
+

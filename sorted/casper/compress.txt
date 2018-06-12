@@ -1,0 +1,40 @@
+var/log/wpa_supplicant.log.2.gz
+  empty (gzip compressed data, last modified: Thu Jan  1 06:50:57 2009, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 7964
+
+var/log/wpa_supplicant.log.3.gz
+  empty (gzip compressed data, last modified: Wed Dec 31 06:38:41 2008, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 7960
+
+var/log/wpa_supplicant.log.1.gz
+  empty (gzip compressed data, last modified: Wed Jan  7 06:54:10 2009, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 7832
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/59E351EBd01
+  Macromedia Flash data (compressed), version 6
+  Image: ubnist1.casper-rw.E01  Inode: 15738
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5EAC9BD4d01
+  Macromedia Flash data (compressed), version 7
+  Image: ubnist1.casper-rw.E01  Inode: 15807
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/7CA509E2d01
+  Macromedia Flash data (compressed), version 8
+  Image: ubnist1.casper-rw.E01  Inode: 15814
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/234EBF5Bd01
+  UTF-8 Unicode (with BOM) text, with very long lines, with CRLF line terminators (gzip compressed data, from FAT filesystem (MS-DOS, OS/2, NT))
+  Image: ubnist1.casper-rw.E01  Inode: 15813
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/813D843Ad01
+  Macromedia Flash data (compressed), version 9
+  Image: ubnist1.casper-rw.E01  Inode: 15871
+
+usr/share/doc/libboost-date-time1.34.1/changelog.Debian.gz
+  UTF-8 Unicode text (gzip compressed data, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 23110
+
+usr/share/doc/libboost-thread1.34.1/changelog.Debian.gz
+  UTF-8 Unicode text (gzip compressed data, max compression, from Unix)
+  Image: ubnist1.casper-rw.E01  Inode: 23115
+

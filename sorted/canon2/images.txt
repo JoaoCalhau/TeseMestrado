@@ -1,0 +1,132 @@
+DCIM/100CANON/IMG_0044.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=lower-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:24 20:21:45], baseline, precision 8, 640x480, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1029
+
+DCIM/100CANON/IMG_0042.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:28:08], baseline, precision 8, 2048x1536, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1030
+
+DCIM/100CANON/IMG_0003.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:12:52], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1031
+
+DCIM/100CANON/IMG_0043.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:30:39], baseline, precision 8, 3072x2304, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1032
+
+DCIM/100CANON/IMG_0045.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:24 20:21:57], baseline, precision 8, 640x480, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1033
+
+DCIM/100CANON/IMG_0046.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:24 20:22:10], baseline, precision 8, 640x480, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1034
+
+DCIM/100CANON/IMG_0007.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:13:12], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1035
+
+DCIM/100CANON/IMG_0047.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:24 20:22:16], baseline, precision 8, 640x480, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1036
+
+DCIM/100CANON/IMG_0009.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:13:22], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1037
+
+DCIM/100CANON/IMG_0038.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:22:46], baseline, precision 8, 2048x1536, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1038
+
+DCIM/100CANON/IMG_0011.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:13:31], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1039
+
+DCIM/100CANON/IMG_0048.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:24 20:22:22], baseline, precision 8, 640x480, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1040
+
+DCIM/100CANON/IMG_0013.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:13:41], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1041
+
+DCIM/100CANON/IMG_0049.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:24 20:22:28], baseline, precision 8, 640x480, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1042
+
+DCIM/100CANON/IMG_0050.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:24 20:22:36], baseline, precision 8, 640x480, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1043
+
+DCIM/100CANON/IMG_0016.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:13:56], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1044
+
+DCIM/100CANON/IMG_0017.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:14:01], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1045
+
+DCIM/100CANON/IMG_0018.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:14:06], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1046
+
+DCIM/100CANON/IMG_0019.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:14:10], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1047
+
+DCIM/100CANON/IMG_0051.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:24 20:22:42], baseline, precision 8, 640x480, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1048
+
+DCIM/100CANON/IMG_0021.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:14:21], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1049
+
+DCIM/100CANON/IMG_0022.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:14:26], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1050
+
+DCIM/100CANON/IMG_0023.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:14:31], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1051
+
+DCIM/100CANON/IMG_0024.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:14:36], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1052
+
+DCIM/100CANON/IMG_0026.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:14:46], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1054
+
+DCIM/100CANON/IMG_0027.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:14:50], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1055
+
+DCIM/100CANON/IMG_0028.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:14:54], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1056
+
+DCIM/100CANON/IMG_0029.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:14:58], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1057
+
+DCIM/100CANON/IMG_0031.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:15:08], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1059
+
+DCIM/100CANON/IMG_0032.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:15:14], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1060
+
+DCIM/100CANON/IMG_0033.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:15:18], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1061
+
+DCIM/100CANON/IMG_0034.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:15:23], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1062
+
+DCIM/100CANON/IMG_0036.JPG
+  JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=9, manufacturer=Canon, model=Canon PowerShot SD800 IS, orientation=upper-left, xresolution=160, yresolution=168, resolutionunit=2, datetime=2008:12:23 14:15:36], baseline, precision 8, 1600x1200, frames 3
+  Image: nps-2009-canon2.E01  Inode: 1064
+

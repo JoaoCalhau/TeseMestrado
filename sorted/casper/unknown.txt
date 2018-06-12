@@ -1,0 +1,748 @@
+.wh..wh.aufs
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 12
+
+.wh..wh.plnk/1019.7742
+  UTF-8 Unicode text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7742
+
+.wh..wh.plnk/1028.7730
+  UTF-8 Unicode text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7730
+
+etc/localtime
+  timezone data, version 2, 1 gmt time flag, 1 std time flag, no leap seconds, no transition times, 1 abbreviation char
+  Image: ubnist1.casper-rw.E01  Inode: 23043
+
+etc/rcS.d/.wh.S20checkroot.sh
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 12
+
+etc/rcS.d/.wh.S37apparmor
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 12
+
+etc/X11/xorg.conf.20081228131059
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 23069
+
+etc/rc0.d/.wh.K25hwclock.sh
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 12
+
+etc/rc6.d/.wh.K25hwclock.sh
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 12
+
+etc/xdg/autostart/.wh.tracker-applet.desktop
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 12
+
+etc/xdg/autostart/.wh.trackerd.desktop
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 12
+
+etc/xdg/autostart/.wh.jockey-gtk.desktop
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 12
+
+etc/apparmor.d/.wh.gdm-guest-session
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 12
+
+etc/.wh.nologin
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 12
+
+var/cache/debconf/templates.dat
+  UTF-8 Unicode text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7798
+
+var/cache/apt/archives/libboost-date-time1.34.1_1.34.1-11ubuntu1_i386.deb
+  Debian binary package (format 2.0)
+  Image: ubnist1.casper-rw.E01  Inode: 7836
+
+var/cache/apt/archives/libboost-thread1.34.1_1.34.1-11ubuntu1_i386.deb
+  Debian binary package (format 2.0)
+  Image: ubnist1.casper-rw.E01  Inode: 7837
+
+var/cache/apt/archives/gnash-common_0.8.4-0ubuntu1_i386.deb
+  Debian binary package (format 2.0)
+  Image: ubnist1.casper-rw.E01  Inode: 7838
+
+var/cache/apt/archives/gnash_0.8.4-0ubuntu1_i386.deb
+  Debian binary package (format 2.0)
+  Image: ubnist1.casper-rw.E01  Inode: 7839
+
+var/cache/apt/archives/mozilla-plugin-gnash_0.8.4-0ubuntu1_i386.deb
+  Debian binary package (format 2.0)
+  Image: ubnist1.casper-rw.E01  Inode: 7840
+
+var/log/mail.warn
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7745
+
+var/log/mail.err
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7751
+
+var/log/mail.log
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7753
+
+var/log/lpr.log
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7755
+
+var/log/mail.info
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7756
+
+var/log/news/news.crit
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7758
+
+var/log/news/news.err
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7759
+
+var/log/news/news.notice
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7760
+
+var/log/wpa_supplicant.log
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7773
+
+var/log/cups/access_log
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7814
+
+var/log/cups/access_log.1
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7958
+
+var/log/apt/term.log
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7948
+
+var/log/btmp.1
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7965
+
+var/log/btmp
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7966
+
+var/lib/dpkg/lock
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7688
+
+var/lib/dpkg/info/.wh.gdm-guest-session.list
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 12
+
+var/lib/dpkg/info/.wh.gdm-guest-session.conffiles
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 12
+
+var/lib/dpkg/info/.wh.gdm-guest-session.md5sums
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 12
+
+var/lib/dpkg/updates/0000
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7797
+
+var/lib/dpkg/triggers/Lock
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7728
+
+var/lib/dpkg/triggers/Unincorp
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7870
+
+var/lib/dpkg/available
+  UTF-8 Unicode text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7924
+
+var/lib/dpkg/status
+  UTF-8 Unicode text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7915
+
+var/lib/dpkg/status-old
+  UTF-8 Unicode text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7802
+
+var/lib/dpkg/available-old
+  UTF-8 Unicode text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7804
+
+var/lib/apt/lists/partial/archive.ubuntu.com_ubuntu_dists_intrepid-updates_restricted_source_Sources
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7977
+
+var/lib/apt/lists/partial/archive.ubuntu.com_ubuntu_dists_intrepid-updates_main_source_Sources
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7834
+
+var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_intrepid-security_main_source_Sources
+  UTF-8 Unicode text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7825
+
+var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid_universe_binary-i386_Packages
+  UTF-8 Unicode text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7829
+
+var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid_main_source_Sources
+  UTF-8 Unicode text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7827
+
+var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid-updates_universe_binary-i386_Packages
+  UTF-8 Unicode text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7820
+
+var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid-updates_main_source_Sources
+  UTF-8 Unicode text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7821
+
+var/lib/apt/periodic/update-success-stamp
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7812
+
+var/lib/apt/periodic/update-stamp
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7805
+
+var/lib/gdm/:0.Xauth
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7956
+
+var/lib/gdm/:0.Xservers
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7967
+
+var/lib/xkb/server-0.xkm
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7967
+
+var/lib/update-notifier/dpkg-run-stamp
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7843
+
+var/lib/mlocate/mlocate.db
+  mlocate database, version 0, require visibility, root /
+  Image: ubnist1.casper-rw.E01  Inode: 7833
+
+var/backups/dpkg.status.0
+  UTF-8 Unicode text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 7953
+
+home/ubuntu/.gconf/apps/panel/%gconf.xml
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15373
+
+home/ubuntu/.gconf/apps/panel/applets/%gconf.xml
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15455
+
+home/ubuntu/.gconf/apps/panel/objects/%gconf.xml
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15477
+
+home/ubuntu/.gconf/apps/panel/toplevels/%gconf.xml
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15491
+
+home/ubuntu/.gconf/apps/%gconf.xml
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15371
+
+home/ubuntu/.gconf/apps/gnome-power-manager/%gconf.xml
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15386
+
+home/ubuntu/.gconf/apps/nautilus/%gconf.xml
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15662
+
+home/ubuntu/.gconf/apps/gnome-terminal/profiles/%gconf.xml
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15672
+
+home/ubuntu/.gconf/apps/gnome-terminal/%gconf.xml
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15670
+
+home/ubuntu/.gconf/desktop/gnome/applications/%gconf.xml
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15431
+
+home/ubuntu/.gconf/desktop/gnome/%gconf.xml
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15429
+
+home/ubuntu/.gconf/desktop/gnome/accessibility/%gconf.xml
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15505
+
+home/ubuntu/.gconf/desktop/gnome/peripherals/keyboard/host-ubuntu/%gconf.xml
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15582
+
+home/ubuntu/.gconf/desktop/gnome/peripherals/keyboard/%gconf.xml
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15580
+
+home/ubuntu/.gconf/desktop/gnome/peripherals/%gconf.xml
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15578
+
+home/ubuntu/.gconf/desktop/%gconf.xml
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15427
+
+home/ubuntu/Desktop/ubiquity-gtkui.desktop
+  UTF-8 Unicode text
+  Image: ubnist1.casper-rw.E01  Inode: 15368
+
+home/ubuntu/Desktop/MyStuff/SEC Documents/spch121708cc-idata.wmv
+  Microsoft ASF
+  Image: ubnist1.casper-rw.E01  Inode: 15697
+
+home/ubuntu/.Xauthority
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15585
+
+home/ubuntu/Documents/jobs 2008-12-31_files/triggerParams.js
+  UTF-8 Unicode (with BOM) text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 23309
+
+home/ubuntu/Documents/jobs 2008-12-31_files/stdLauncher.js
+  UTF-8 Unicode (with BOM) text, with CRLF line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 23327
+
+home/ubuntu/Documents/fed privacy/FED_PRIV_SUMMIT_2008_TECHNOLOGY_PRIVACY_PANEL.pptx
+  Microsoft PowerPoint 2007+
+  Image: ubnist1.casper-rw.E01  Inode: 30882
+
+home/ubuntu/Documents/fed privacy/FED_PRIV_SUMMIT_2008_TECH_PROFESSIONALS_PANEL.ppt
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15946
+
+home/ubuntu/Documents/fed privacy/FED_PRIV_SUMMIT_2008_PRIVACY_ACT_PANEL.pptm
+  Microsoft PowerPoint 2007+
+  Image: ubnist1.casper-rw.E01  Inode: 30887
+
+home/ubuntu/.gconfd/saved_state.orig
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15838
+
+home/ubuntu/.local/share/tracker/data/common.db
+  SQLite 3.x database
+  Image: ubnist1.casper-rw.E01  Inode: 15611
+
+home/ubuntu/.local/share/tracker/ubuntu_tracker_lock
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15608
+
+home/ubuntu/.gstreamer-0.10/registry.i486.bin
+  GStreamer binary registry, version 0.10.18.2
+  Image: ubnist1.casper-rw.E01  Inode: 15510
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/.parentlock
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15531
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/XPC.mfasl
+  Mozilla XUL fastload data
+  Image: ubnist1.casper-rw.E01  Inode: 15535
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/places.sqlite
+  SQLite 3.x database, user version 6
+  Image: ubnist1.casper-rw.E01  Inode: 15536
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/permissions.sqlite
+  SQLite 3.x database, user version 1
+  Image: ubnist1.casper-rw.E01  Inode: 15540
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/XUL.mfasl
+  Mozilla XUL fastload data
+  Image: ubnist1.casper-rw.E01  Inode: 15549
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/search.sqlite
+  SQLite 3.x database
+  Image: ubnist1.casper-rw.E01  Inode: 15550
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/formhistory.sqlite
+  SQLite 3.x database
+  Image: ubnist1.casper-rw.E01  Inode: 15551
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/content-prefs.sqlite
+  SQLite 3.x database, user version 3
+  Image: ubnist1.casper-rw.E01  Inode: 15552
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/cookies.sqlite
+  SQLite 3.x database, user version 2
+  Image: ubnist1.casper-rw.E01  Inode: 15553
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/^
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 2049
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/F0FDAB5Ad01
+  MS Windows icon resource - 9 icons, 16x16, 16 colors
+  Image: ubnist1.casper-rw.E01  Inode: 15561
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/_CACHE_MAP_
+  raw G3 data, byte-padded
+  Image: ubnist1.casper-rw.E01  Inode: 15555
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DDF5F63Ad01
+  Microsoft PowerPoint 2007+
+  Image: ubnist1.casper-rw.E01  Inode: 15948
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/22E28ECBd01
+  UTF-8 Unicode text
+  Image: ubnist1.casper-rw.E01  Inode: 16002
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/D192167Bd01
+  Macromedia Flash data, version 3
+  Image: ubnist1.casper-rw.E01  Inode: 15997
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/62C5BAE8d01
+  UTF-8 Unicode text
+  Image: ubnist1.casper-rw.E01  Inode: 16001
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/E8DEEA19d01
+  UTF-8 Unicode text, with very long lines
+  Image: ubnist1.casper-rw.E01  Inode: 16006
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/D27C21BEd01
+  Macromedia Flash data, version 3
+  Image: ubnist1.casper-rw.E01  Inode: 15999
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DDF5F67Ad01
+  Microsoft PowerPoint 2007+
+  Image: ubnist1.casper-rw.E01  Inode: 15938
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/urlclassifier3.sqlite
+  SQLite 3.x database, user version 5
+  Image: ubnist1.casper-rw.E01  Inode: 15559
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/bookmarkbackups/bookmarks-2008-12-31.json
+  UTF-8 Unicode text, with very long lines, with no line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15467
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/bookmarkbackups/bookmarks-2009-01-01.json
+  UTF-8 Unicode text, with very long lines, with no line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 15849
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/bookmarkbackups/bookmarks-2009-01-07.json
+  UTF-8 Unicode text, with very long lines, with no line terminators
+  Image: ubnist1.casper-rw.E01  Inode: 16029
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/downloads.sqlite
+  SQLite 3.x database, user version 8
+  Image: ubnist1.casper-rw.E01  Inode: 15566
+
+home/ubuntu/.mozilla/firefox/ylaw3s7x.default/urlclassifier3.sqlite-journal
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 16055
+
+home/ubuntu/.cache/tracker/file-meta.db
+  SQLite 3.x database
+  Image: ubnist1.casper-rw.E01  Inode: 15612
+
+home/ubuntu/.cache/tracker/file-contents.db
+  SQLite 3.x database
+  Image: ubnist1.casper-rw.E01  Inode: 15613
+
+home/ubuntu/.cache/tracker/email-contents.db
+  SQLite 3.x database
+  Image: ubnist1.casper-rw.E01  Inode: 15614
+
+home/ubuntu/.cache/tracker/email-meta.db
+  SQLite 3.x database
+  Image: ubnist1.casper-rw.E01  Inode: 15615
+
+home/ubuntu/.sudo_as_admin_successful
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15624
+
+home/ubuntu/.evolution/cache/tmp/mail.log.AWEIOK
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 23223
+
+home/ubuntu/.evolution/calendar/local/system/calendar.ics
+  vCalendar calendar file
+  Image: ubnist1.casper-rw.E01  Inode: 23277
+
+home/ubuntu/.evolution/tasks/local/system/tasks.ics
+  vCalendar calendar file
+  Image: ubnist1.casper-rw.E01  Inode: 23244
+
+home/ubuntu/.evolution/memos/local/system/journal.ics
+  vCalendar calendar file
+  Image: ubnist1.casper-rw.E01  Inode: 23102
+
+home/ubuntu/.evolution/mail/local/folders.db
+  SQLite 3.x database
+  Image: ubnist1.casper-rw.E01  Inode: 23245
+
+home/ubuntu/.evolution/mail/local/Drafts
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 23249
+
+home/ubuntu/.evolution/mail/local/Outbox
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 23253
+
+home/ubuntu/.evolution/mail/local/Drafts.ibex.index.data
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 23252
+
+home/ubuntu/.evolution/mail/local/Sent
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 23257
+
+home/ubuntu/.evolution/mail/local/Outbox.ibex.index.data
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 23256
+
+home/ubuntu/.evolution/mail/local/Templates
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 23261
+
+home/ubuntu/.evolution/mail/local/Sent.ibex.index.data
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 23260
+
+home/ubuntu/.evolution/mail/local/Templates.ibex.index.data
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 23264
+
+home/ubuntu/.Xauthority-c
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15838
+
+home/ubuntu/.Xauthority-l
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15838
+
+tmp/.X11-unix/Device
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30840
+
+tmp/.X11-unix/Monitor
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30841
+
+tmp/.X11-unix/Screen
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30848
+
+tmp/.X11-unix/dexconf-out
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30852
+
+tmp/.X0-lock
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30838
+
+tmp/orbit-ubuntu/bonobo-activation-register-53f320a025ee31abebaed5254963aa52.lock
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30848
+
+tmp/orbit-ubuntu/bonobo-activation-server-53f320a025ee31abebaed5254963aa52-ior
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30853
+
+tmp/virtual-ubuntu.Q2LE37/%gconf-tree.xml.new
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30848
+
+tmp/virtual-ubuntu.Q2LE37/%gconf-tree.xml
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30848
+
+tmp/virtual-ubuntu.Q2LE37/.testing.writeability
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30848
+
+tmp/BxxJT3
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30899
+
+tmp/2D4HL2
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30899
+
+usr/sbin/.wh.anacron
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 12
+
+usr/lib/firefox/plugins/.wh..wh..opq
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 12
+
+usr/lib/firefox-3.0.3/.autoreg
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 23211
+
+usr/share/applications/language-selector.desktop
+  UTF-8 Unicode text
+  Image: ubnist1.casper-rw.E01  Inode: 15567
+
+usr/share/autostart/.wh.trackerd.desktop
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 12
+
+usr/share/doc/.wh.gdm-guest-session
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 12
+
+usr/share/gdm/.wh.guest-session
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 12
+
+usr/share/locale/cs/LC_MESSAGES/gnash.mo
+  GNU message catalog (little endian), revision 0.0, 1092 messages
+  Image: ubnist1.casper-rw.E01  Inode: 23133
+
+usr/share/locale/de/LC_MESSAGES/gnash.mo
+  GNU message catalog (little endian), revision 0.0, 243 messages
+  Image: ubnist1.casper-rw.E01  Inode: 23136
+
+usr/share/locale/es/LC_MESSAGES/gnash.mo
+  GNU message catalog (little endian), revision 0.0, 3 messages
+  Image: ubnist1.casper-rw.E01  Inode: 23139
+
+usr/share/locale/fi/LC_MESSAGES/gnash.mo
+  GNU message catalog (little endian), revision 0.0, 109 messages
+  Image: ubnist1.casper-rw.E01  Inode: 23142
+
+usr/share/locale/fr/LC_MESSAGES/gnash.mo
+  GNU message catalog (little endian), revision 0.0, 10 messages
+  Image: ubnist1.casper-rw.E01  Inode: 23145
+
+usr/share/locale/it/LC_MESSAGES/gnash.mo
+  GNU message catalog (little endian), revision 0.0, 66 messages
+  Image: ubnist1.casper-rw.E01  Inode: 23148
+
+usr/share/locale/ja/LC_MESSAGES/gnash.mo
+  GNU message catalog (little endian), revision 0.0, 156 messages
+  Image: ubnist1.casper-rw.E01  Inode: 23151
+
+usr/share/locale/sv/LC_MESSAGES/gnash.mo
+  GNU message catalog (little endian), revision 0.0, 59 messages
+  Image: ubnist1.casper-rw.E01  Inode: 23154
+
+usr/share/gnash/gnash_128_96.ico
+  MS Windows icon resource - 5 icons, 16x16
+  Image: ubnist1.casper-rw.E01  Inode: 23128
+
+usr/share/ubufox/plugins/.wh..wh..opq
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 12
+
+root/.synaptic/lock
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 21
+
+root/.synaptic/lock.non-interactive
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 22
+
+$OrphanFiles/OrphanFile-15
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 15
+
+$OrphanFiles/OrphanFile-7968
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7968
+
+$OrphanFiles/OrphanFile-7969
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7969
+
+$OrphanFiles/OrphanFile-7976
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 7976
+
+$OrphanFiles/OrphanFile-16028
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 16028
+
+$OrphanFiles/OrphanFile-16045
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 16045
+
+$OrphanFiles/OrphanFile-23081
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 23081
+
+$OrphanFiles/OrphanFile-23345
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 23345
+
+$OrphanFiles/OrphanFile-30854
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30854
+
+$OrphanFiles/OrphanFile-30856
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30856
+
+$OrphanFiles/OrphanFile-30857
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30857
+
+$OrphanFiles/OrphanFile-30858
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30858
+
+$OrphanFiles/OrphanFile-30862
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30862
+
+$OrphanFiles/OrphanFile-30865
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30865
+
+$OrphanFiles/OrphanFile-30866
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30866
+
+$OrphanFiles/OrphanFile-30893
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30893
+
+$OrphanFiles/OrphanFile-30898
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30898
+
+$OrphanFiles/OrphanFile-30900
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30900
+
+$OrphanFiles/OrphanFile-30901
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30901
+
+$OrphanFiles/OrphanFile-30902
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30902
+
+$OrphanFiles/OrphanFile-30903
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30903
+
+$OrphanFiles/OrphanFile-30904
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30904
+
+$OrphanFiles/OrphanFile-30905
+  no read permission
+  Image: ubnist1.casper-rw.E01  Inode: 30905
+

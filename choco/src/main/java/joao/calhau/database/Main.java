@@ -53,6 +53,7 @@ public class Main {
         }
 
         int[] domain = new int[array.size()];
+        System.out.println("Total Inodes to process: " + domain.length);
         Arrays.setAll(domain, i -> array.get(i));
 
         var = model.setVar("Var", new int[]{}, domain);
@@ -108,7 +109,7 @@ public class Main {
                 //Constraint solving
                 if (s.solve()) {
                     System.out.println();
-                    System.out.println("Inodes found:");
+                    System.out.println("Number of Inodes found:" + var.getUB().size());
                     int id;
                     String fileName, path, type, dateTime;
                     LinkedList<Inode> ll = new LinkedList<>();
@@ -153,9 +154,29 @@ public class Main {
         StopWatch stopWatch = new StopWatch();
         stopWatch.start();
 
-        Main main = new Main("able2");
+        Main main = new Main("able3_p2");
 
-        main.solver("Archive", "var/lib/rpm", "rpm", "1996-01-01", "1998-01-01");
+        //Able2 tests
+        //main.solver("Archive", "lib", "", "", "");
+        //main.solver("Archive", "lib", "", "2000-01-01", "2001-01-01");
+        //main.solver("Archive", "lib", "lib", "2000-01-01", "2001-01-01");
+
+        //Able3 tests
+        //main.solver("Text", "var/log/scripts", "", "" , "");
+        //main.solver("", "", "", "" , "");
+        //main.solver("", "", "", "" , "");
+
+        //Canon2 tests
+        //main.solver("Images", "DCIM/100CANON", "", "", "");
+        //main.solver("Images", "DCIM/100CANON", "", "2008-01-01", "2009-01-01");
+        //main.solver("Images", "DCIM/100CANON", "IMG", "2008-01-01", "2009-01-01");
+
+        //Casper tests
+        //main.solver("Documents", "home/ubuntu/Documents/ssa.gov", "", "", "");
+        //main.solver("Documents", "home/ubuntu/Documents/ssa.gov", "", "2008-01-01", "2009-01-01");
+        //main.solver("Documents", "home/ubuntu/Documents/ssa.gov", "pdf", "2008-01-01", "2009-01-01");
+
+        //Other tests
         //main.solver("Exec", "LVOC/LVOC", "DOS", "2017-01-01", "2018-01-01");
         //main.solver("Audio", "Music/BabyMetal", "Babymetal", "2017-01-01", "2018-12-12");
 

@@ -1,0 +1,148 @@
+var/log/btmp
+  dBase III DBT, version number 0, next free block index 7
+  Image: able3.000  Inode: 22922
+
+var/lib/rpm/Packages
+  Berkeley DB (Hash, version 8, native byte-order)
+  Image: able3.000  Inode: 139418
+
+lib/firmware/vxge/X3fw-pxe.ncf
+  Zip archive data, at least v2.0 to extract
+  Image: able3.000  Inode: 17172
+
+lib/firmware/vxge/X3fw.ncf
+  Zip archive data, at least v2.0 to extract
+  Image: able3.000  Inode: 17173
+
+lib/firmware/intel/fw_sst_0f28.bin
+  dBase III DBT, version number 0, next free block index 1414746916
+  Image: able3.000  Inode: 17472
+
+lib/firmware/intel/fw_sst_22a8.bin
+  dBase III DBT, version number 0, next free block index 1414746916
+  Image: able3.000  Inode: 17475
+
+lib/firmware/bnx2/bnx2-mips-09-5.0.0.j3.fw
+  dBase III DBT, version number 0, next free block index 268501000
+  Image: able3.000  Inode: 17555
+
+lib/firmware/bnx2/bnx2-mips-09-5.0.0.j15.fw
+  dBase III DBT, version number 0, next free block index 268501000
+  Image: able3.000  Inode: 17561
+
+lib/firmware/bnx2/bnx2-mips-09-5.0.0.j9.fw
+  dBase III DBT, version number 0, next free block index 268501000
+  Image: able3.000  Inode: 17565
+
+lib/firmware/bnx2/bnx2-mips-06-5.0.0.j3.fw
+  dBase III DBT, version number 0, next free block index 268501000
+  Image: able3.000  Inode: 17566
+
+lib/firmware/bnx2/bnx2-mips-06-5.0.0.j6.fw
+  dBase III DBT, version number 0, next free block index 268501000
+  Image: able3.000  Inode: 17568
+
+lib64/libcom_err.a
+  current ar archive
+  Image: able3.000  Inode: 11976
+
+lib64/libe2p.a
+  current ar archive
+  Image: able3.000  Inode: 11978
+
+lib64/libext2fs.a
+  current ar archive
+  Image: able3.000  Inode: 11979
+
+lib64/libss.a
+  current ar archive
+  Image: able3.000  Inode: 11982
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/extensions/xalan27.jar
+  Java archive data (JAR)
+  Image: able3.000  Inode: 134822
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/extensions/tagsoup-1.2.1.jar
+  Java archive data (JAR)
+  Image: able3.000  Inode: 134823
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/extensions/lucene-core-3.0.0.jar
+  Java archive data (JAR)
+  Image: able3.000  Inode: 134825
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/extensions/saxon65.jar
+  Java archive data (JAR)
+  Image: able3.000  Inode: 134826
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/extensions/lucene-analyzers-3.0.0.jar
+  Java archive data (JAR)
+  Image: able3.000  Inode: 134827
+
+usr/share/xml/docbook/xsl-stylesheets-1.78.1/extensions/webhelpindexer.jar
+  Java archive data (JAR)
+  Image: able3.000  Inode: 134829
+
+usr/lib64/libacl.a
+  current ar archive
+  Image: able3.000  Inode: 902
+
+usr/lib64/libbz2.a
+  current ar archive
+  Image: able3.000  Inode: 1225
+
+usr/lib64/libgpm.a
+  current ar archive
+  Image: able3.000  Inode: 14197
+
+usr/lib64/libgudev-1.0.a
+  current ar archive
+  Image: able3.000  Inode: 21389
+
+usr/lib64/libdm.a
+  current ar archive
+  Image: able3.000  Inode: 24264
+
+usr/lib64/libgdbm.a
+  current ar archive
+  Image: able3.000  Inode: 29632
+
+usr/lib64/libidn.a
+  current ar archive
+  Image: able3.000  Inode: 33670
+
+usr/lib64/libz.a
+  current ar archive
+  Image: able3.000  Inode: 39766
+
+usr/lib64/libmysqlservices.a
+  current ar archive
+  Image: able3.000  Inode: 27583
+
+usr/lib64/libssl.a
+  current ar archive
+  Image: able3.000  Inode: 45469
+
+usr/lib64/liblftp-jobs.a
+  current ar archive
+  Image: able3.000  Inode: 43016
+
+usr/lib64/libcaca++.a
+  current ar archive
+  Image: able3.000  Inode: 33485
+
+usr/lib64/libatalk.a
+  current ar archive
+  Image: able3.000  Inode: 44096
+
+usr/lib64/libcrypto.a
+  current ar archive
+  Image: able3.000  Inode: 45470
+
+usr/lib64/libcaca.a
+  current ar archive
+  Image: able3.000  Inode: 33510
+
+usr/lib64/libwrap.a
+  current ar archive
+  Image: able3.000  Inode: 47907
+
